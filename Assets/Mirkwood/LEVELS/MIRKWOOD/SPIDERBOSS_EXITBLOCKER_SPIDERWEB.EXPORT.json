@@ -1,0 +1,213 @@
+[{
+		"name":	"WebWall",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C0CFA7CF_EFDE2C00",
+				"CommonTexture:d":	1,
+				"Texture:s":	"webwall1.xbmp",
+				"BlendMode:d":	2,
+				"Width:d":	4,
+				"Height:d":	4,
+				"UTile:f":	1,
+				"VTile:f":	1,
+				"FreezeDist:f":	1000,
+				"SleepTime:f":	8,
+				"CollScale:f":	1,
+				"StingBreak:d":	0,
+				"StickBreak:d":	0,
+				"StoneBreak:d":	0,
+				"AnyPainBreak:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, -89.0999755859375, 0],
+				"LocalBoundingBox:ffffff":	[-8.150390625, -181.6114501953125, -200.62890625, 8.150390625, 181.6114501953125, 200.62890625],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"SB_WebBlocker_001",
+				"Name:s":	"SB_WebBlocker_001",
+				"Size:fff":	[200.57498168945312, 181.61146545410156, 5],
+				"Pos:fff":	[-28280.6171875, 1094.29248046875, -6781.576171875],
+				"Rot:fff":	[0, -89.0999755859375, 0],
+				"ApplyToBilbo:d":	1,
+				"ApplyToNPC:d":	1,
+				"ApplyToPushBox:d":	0,
+				"ApplyToHoisting:d":	0,
+				"BlocksSight:d":	0,
+				"Occluder:d":	0,
+				"CanClimb:d":	0,
+				"DeathFall:d":	0,
+				"PlaneNormal:fff":	[-0.999876618385315, 0, 0.015707638114690781],
+				"PlaneD:f":	-28170.60546875,
+				"ApplyToCamera:d":	0,
+				"ApplyToGuidsCount:d":	0
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	20,
+		"rows":	[{
+				"Color:dddd":	[255, 255, 255, 255]
+			}, {
+				"Color:dddd":	[255, 255, 255, 255]
+			}, {
+				"Color:dddd":	[255, 255, 255, 255]
+			}, {
+				"Color:dddd":	[255, 255, 255, 255]
+			}, {
+				"Color:dddd":	[221, 255, 255, 255]
+			}, {
+				"Color:dddd":	[213, 255, 255, 255]
+			}, {
+				"Color:dddd":	[210, 255, 255, 255]
+			}, {
+				"Color:dddd":	[201, 255, 255, 255]
+			}, {
+				"Color:dddd":	[176, 255, 251, 255]
+			}, {
+				"Color:dddd":	[157, 255, 222, 255]
+			}, {
+				"Color:dddd":	[170, 255, 241, 255]
+			}, {
+				"Color:dddd":	[157, 255, 224, 255]
+			}, {
+				"Color:dddd":	[113, 197, 162, 255]
+			}, {
+				"Color:dddd":	[118, 198, 167, 255]
+			}, {
+				"Color:dddd":	[115, 200, 164, 255]
+			}, {
+				"Color:dddd":	[101, 179, 144, 255]
+			}, {
+				"Color:dddd":	[40, 60, 55, 255]
+			}, {
+				"Color:dddd":	[40, 60, 55, 255]
+			}, {
+				"Color:dddd":	[40, 60, 55, 255]
+			}, {
+				"Color:dddd":	[40, 60, 55, 255]
+			}]
+	}, {
+		"name":	"WebWall",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C0CFA7CF_EFE1BC01",
+				"CommonTexture:d":	1,
+				"Texture:s":	"webwall1.xbmp",
+				"BlendMode:d":	2,
+				"Width:d":	4,
+				"Height:d":	4,
+				"UTile:f":	1,
+				"VTile:f":	1,
+				"FreezeDist:f":	1000,
+				"SleepTime:f":	8,
+				"CollScale:f":	1,
+				"StingBreak:d":	0,
+				"StickBreak:d":	0,
+				"StoneBreak:d":	0,
+				"AnyPainBreak:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	1956,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[180.00001525878906, -89.9999771118164, 0],
+				"LocalBoundingBox:ffffff":	[-5, -183.6519775390625, -204.47998046875, 5, 183.6519775390625, 204.47998046875],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"SB_WebBlocker_002",
+				"Name:s":	"SB_WebBlocker_002",
+				"Size:fff":	[204.47998046875, 183.65199279785156, 5],
+				"Pos:fff":	[-28251.453125, 1094.29248046875, -6792.29345703125],
+				"Rot:fff":	[180.00001525878906, -89.9999771118164, 0],
+				"ApplyToBilbo:d":	1,
+				"ApplyToNPC:d":	1,
+				"ApplyToPushBox:d":	0,
+				"ApplyToHoisting:d":	0,
+				"BlocksSight:d":	0,
+				"Occluder:d":	0,
+				"CanClimb:d":	0,
+				"DeathFall:d":	0,
+				"PlaneNormal:fff":	[1, 0, 0],
+				"PlaneD:f":	28251.453125,
+				"ApplyToCamera:d":	0,
+				"ApplyToGuidsCount:d":	0
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	20,
+		"rows":	[{
+				"Color:dddd":	[113, 197, 161, 255]
+			}, {
+				"Color:dddd":	[118, 197, 166, 255]
+			}, {
+				"Color:dddd":	[127, 221, 181, 255]
+			}, {
+				"Color:dddd":	[86, 168, 125, 255]
+			}, {
+				"Color:dddd":	[177, 255, 252, 255]
+			}, {
+				"Color:dddd":	[158, 255, 224, 255]
+			}, {
+				"Color:dddd":	[171, 255, 244, 255]
+			}, {
+				"Color:dddd":	[159, 255, 227, 255]
+			}, {
+				"Color:dddd":	[225, 255, 255, 255]
+			}, {
+				"Color:dddd":	[217, 255, 255, 255]
+			}, {
+				"Color:dddd":	[214, 255, 255, 255]
+			}, {
+				"Color:dddd":	[204, 255, 255, 255]
+			}, {
+				"Color:dddd":	[255, 255, 255, 255]
+			}, {
+				"Color:dddd":	[255, 255, 255, 255]
+			}, {
+				"Color:dddd":	[253, 255, 255, 255]
+			}, {
+				"Color:dddd":	[255, 255, 255, 255]
+			}, {
+				"Color:dddd":	[40, 60, 55, 255]
+			}, {
+				"Color:dddd":	[40, 60, 55, 255]
+			}, {
+				"Color:dddd":	[40, 60, 55, 255]
+			}, {
+				"Color:dddd":	[40, 60, 55, 255]
+			}]
+	}, {
+		"name":	"Wall",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C0CFA010_206D0C01",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	1456,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, -91.499176025390625, 0],
+				"LocalBoundingBox:ffffff":	[-10.439453125, -207.99993896484375, -208.0595703125, 10.439453125, 207.9998779296875, 208.0595703125],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"SB_Walls_Bilbo_NoLeaveDwarves",
+				"Name:s":	"SB_Walls_Bilbo_NoLeaveDwarves",
+				"Size:fff":	[207.99993896484375, 207.99993896484375, 5],
+				"Pos:fff":	[-28266.8359375, 1076.3428955078125, -6783.76513671875],
+				"Rot:fff":	[0, -91.499176025390625, 0],
+				"ApplyToBilbo:d":	1,
+				"ApplyToNPC:d":	1,
+				"ApplyToPushBox:d":	0,
+				"ApplyToHoisting:d":	0,
+				"BlocksSight:d":	0,
+				"Occluder:d":	0,
+				"CanClimb:d":	0,
+				"DeathFall:d":	0,
+				"PlaneNormal:fff":	[-0.99965798854827881, 0, -0.026163000613451],
+				"PlaneD:f":	-28434.640625,
+				"ApplyToCamera:d":	0,
+				"ApplyToGuidsCount:d":	0
+			}]
+	}]

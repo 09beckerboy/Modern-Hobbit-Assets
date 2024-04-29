@@ -1,0 +1,2578 @@
+[{
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD992_3E29E800",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[847.80718994140625, -1624.1837158203125, 691.10174560546875],
+				"Orientation:fff":	[0, -32.400020599365234, 0],
+				"LocalBoundingBox:ffffff":	[-432.91293334960937, -421.847900390625, -299.94918823242187, 432.91293334960937, 421.847900390625, 299.94918823242187],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Rocks_Load_Vol",
+				"Name:s":	"Rocks_Load_Vol",
+				"Pos:fff":	[847.80718994140625, -1624.1837158203125, 691.10174560546875],
+				"BBox:ffffff":	[414.89425659179687, -2046.0316162109375, 391.15255737304687, 1280.7200927734375, -1202.3358154296875, 991.0509033203125],
+				"Orient:fff":	[0, -32.400020599365234, 0],
+				"HalfDimensions:fff":	[480.99990844726562, 421.847900390625, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD74F_9AC61000",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[2659.504638671875, -1111.146240234375, -439.33770751953125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Bridge_Extended",
+				"Name:s":	"Bridge_Extended",
+				"Pos:fff":	[2659.504638671875, -1111.146240234375, -439.33770751953125],
+				"BBox:ffffff":	[2609.504638671875, -1161.146240234375, -489.33770751953125, 2709.504638671875, -1061.146240234375, -389.33770751953125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadLayer:s":	"Cavern_Area3_BridgeEXT2"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD74F_9AC97401",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[2657.41015625, -1111.146240234375, -324.28558349609375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Bridge_Extended000",
+				"Name:s":	"Bridge_Extended000",
+				"Pos:fff":	[2657.41015625, -1111.146240234375, -324.28558349609375],
+				"BBox:ffffff":	[2607.41015625, -1161.146240234375, -374.28558349609375, 2707.41015625, -1061.146240234375, -274.28558349609375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"Cavern_Area3_BridgeEXT2"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDBCF_EEE58800",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-3946.287841796875, -2138.6630859375, -2583.668701171875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Chains_Load_Trig",
+				"Name:s":	"Chains_Load_Trig",
+				"Pos:fff":	[-3946.287841796875, -2138.6630859375, -2583.668701171875],
+				"BBox:ffffff":	[-3996.287841796875, -2188.6630859375, -2633.668701171875, -3896.287841796875, -2088.6630859375, -2533.668701171875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"Cavern_Chains"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadLayer:s":	"Cavern_Rocks"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDB51_0D71CC00",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-3234.787109375, 2072.010986328125, -2391.425048828125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Chains_Unload",
+				"Name:s":	"Chains_Unload",
+				"Pos:fff":	[-3234.787109375, 2072.010986328125, -2391.425048828125],
+				"BBox:ffffff":	[-3284.787109375, 2022.010986328125, -2441.425048828125, -3184.787109375, 2122.010986328125, -2341.425048828125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadLayer:s":	"Cavern_Chains"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDB10_29053800",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-4820.9775390625, -378.51739501953125, -4992.26708984375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-26.000001907348633, -124.80005645751953, -136.85005187988281, 26.000001907348633, 124.80005645751953, 136.85005187988281],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Death_Fall_Load",
+				"Name:s":	"Death_Fall_Load",
+				"Pos:fff":	[-4820.9775390625, -378.51739501953125, -4992.26708984375],
+				"BBox:ffffff":	[-4846.9775390625, -503.31744384765625, -5129.1171875, -4794.9775390625, -253.71734619140625, -4855.4169921875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[26.000001907348633, 124.80005645751953, 136.85005187988281],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"Death_Falls"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDB10_2908C401",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-558.6531982421875, -1237.8824462890625, 401.48519897460937],
+				"Orientation:fff":	[0, 31.950016021728516, 0],
+				"LocalBoundingBox:ffffff":	[-138.65457153320312, -169.72807312011719, -200.70970153808594, 138.65457153320312, 169.72807312011719, 200.70970153808594],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Death_Fall_Load000",
+				"Name:s":	"Death_Fall_Load000",
+				"Pos:fff":	[-558.6531982421875, -1237.8824462890625, 401.48519897460937],
+				"BBox:ffffff":	[-697.3077392578125, -1407.6104736328125, 200.77549743652344, -419.99862670898437, -1068.1544189453125, 602.19488525390625],
+				"Orient:fff":	[0, 31.950016021728516, 0],
+				"HalfDimensions:fff":	[26.000001907348633, 169.72807312011719, 220.32859802246094],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadLayer:s":	"Death_Falls"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD04D_A1AD7C00",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2871.93359375, -1435.3382568359375, -5012.123046875],
+				"Orientation:fff":	[0, 7.2000160217285156, 0],
+				"LocalBoundingBox:ffffff":	[-357.64346313476562, -188.00001525878906, -72.516853332519531, 357.64346313476562, 188.00001525878906, 72.516853332519531],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"End_Rope_Load",
+				"Name:s":	"End_Rope_Load",
+				"Pos:fff":	[-2871.93359375, -1435.3382568359375, -5012.123046875],
+				"BBox:ffffff":	[-3229.5771484375, -1623.3382568359375, -5084.64013671875, -2514.2900390625, -1247.3382568359375, -4939.60595703125],
+				"Orient:fff":	[0, 7.2000160217285156, 0],
+				"HalfDimensions:fff":	[356.94879150390625, 188.00001525878906, 27.999996185302734],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"Cavern_Area3_End_Rope"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDBCF_EEF71C01",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-3994.808837890625, -2138.6630859375, -2375.74560546875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Ladder_Crumbs",
+				"Name:s":	"Ladder_Crumbs",
+				"Pos:fff":	[-3994.808837890625, -2138.6630859375, -2375.74560546875],
+				"BBox:ffffff":	[-4044.808837890625, -2188.6630859375, -2425.74560546875, -3944.808837890625, -2088.6630859375, -2325.74560546875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	2,
+		"rows":	[{
+				"Layer:s":	"Cavern_Ladder_Crumbs"
+			}, {
+				"Layer:s":	"LadderDown"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadLayer:s":	"LadderUp"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDC0E_C3243001",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[364.84130859375, 681.39361572265625, 5252.26513671875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-480.43856811523437, -399.3790283203125, -45.548980712890625, 480.43856811523437, 399.3790283203125, 45.548980712890625],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LoadTrigger_Area1-003",
+				"Name:s":	"LoadTrigger_Area1-003",
+				"Pos:fff":	[364.84130859375, 681.39361572265625, 5252.26513671875],
+				"BBox:ffffff":	[-115.59725952148437, 282.01458740234375, 5206.71630859375, 845.2799072265625, 1080.772705078125, 5297.81396484375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[480.43856811523437, 399.3790283203125, 45.548980712890625],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	58,
+		"rows":	[{
+				"LoadResources:s":	"Cavern_Area2_Chests"
+			}, {
+				"LoadResources:s":	"Cavern_Area2_Goblins"
+			}, {
+				"LoadResources:s":	"Cavern_Area2_Eels"
+			}, {
+				"LoadResources:s":	"Cavern_Area2_Instances"
+			}, {
+				"LoadResources:s":	"Cavern_Area2_Pickups"
+			}, {
+				"LoadResources:s":	"Cavern_Area2_Playsurfaces"
+			}, {
+				"LoadResources:s":	"Cavern_Area2_Volumes"
+			}, {
+				"LoadResources:s":	"Cavern_Area3_Chests"
+			}, {
+				"LoadResources:s":	"Cavern_Area3_Eels"
+			}, {
+				"LoadResources:s":	"Cavern_Area3_End_Rope"
+			}, {
+				"LoadResources:s":	"Cavern_Area3_Goblins"
+			}, {
+				"LoadResources:s":	"Cavern_Area3_Instances"
+			}, {
+				"LoadResources:s":	"Cavern_Area3_Pickups"
+			}, {
+				"LoadResources:s":	"Cavern_Area3_Playsurfaces"
+			}, {
+				"LoadResources:s":	"Cavern_Area3_TrackBracks"
+			}, {
+				"LoadResources:s":	"Cavern_Area3_Volumes"
+			}, {
+				"LoadResources:s":	"Cavern_Area4_Chests"
+			}, {
+				"LoadResources:s":	"Cavern_Area4_CineNPCs"
+			}, {
+				"LoadResources:s":	"Cavern_Area4_Eels"
+			}, {
+				"LoadResources:s":	"Cavern_Area4_GobGrdCourGems"
+			}, {
+				"LoadResources:s":	"Cavern_Area4_GobGuards"
+			}, {
+				"LoadResources:s":	"Cavern_Area4_Goblins"
+			}, {
+				"LoadResources:s":	"Cavern_Area4_Instances"
+			}, {
+				"LoadResources:s":	"Cavern_Area4_Pickups"
+			}, {
+				"LoadResources:s":	"Cavern_Area4_Playsurfaces"
+			}, {
+				"LoadResources:s":	"Cavern_Area4_Volumes"
+			}, {
+				"LoadResources:s":	"Volumes"
+			}, {
+				"LoadResources:s":	"Swordlight_Cinemas"
+			}, {
+				"LoadResources:s":	"Swordlight_Cinema5"
+			}, {
+				"LoadResources:s":	"Swordlight_Cinema4"
+			}, {
+				"LoadResources:s":	"Swordlight_Cinema3"
+			}, {
+				"LoadResources:s":	"Swordlight_Cinema2"
+			}, {
+				"LoadResources:s":	"EndofLevelTrigger"
+			}, {
+				"LoadResources:s":	"Cavern_Camera_Influencers"
+			}, {
+				"LoadResources:s":	"Cavern_CinemaVolumes"
+			}, {
+				"LoadResources:s":	"Cavern_Crumbs_01"
+			}, {
+				"LoadResources:s":	"Cavern_Crumbs_02"
+			}, {
+				"LoadResources:s":	"Cavern_Crumbs_03"
+			}, {
+				"LoadResources:s":	"Cavern_MineCarts"
+			}, {
+				"LoadResources:s":	"Cavern_Minecart_Ambient"
+			}, {
+				"LoadResources:s":	"Cavern_Minecart_Trigger"
+			}, {
+				"LoadResources:s":	"Cavern_NavWalls"
+			}, {
+				"LoadResources:s":	"Cavern_Navnodes"
+			}, {
+				"LoadResources:s":	"Cavern_Occluders"
+			}, {
+				"LoadResources:s":	"Cavern_Trans_Area2-3_Chest"
+			}, {
+				"LoadResources:s":	"Cavern_Trans_Area2-3_Goblins"
+			}, {
+				"LoadResources:s":	"Cavern_Trans_Area2-3_Instances"
+			}, {
+				"LoadResources:s":	"Cavern_Trans_Area2-3_PickUps"
+			}, {
+				"LoadResources:s":	"Cavern_Trans_Area2-3_Plat"
+			}, {
+				"LoadResources:s":	"Cavern_Trans_Area2-3_Playsurfaces"
+			}, {
+				"LoadResources:s":	"Cavern_Trans_Area2-3_Temp_Plat"
+			}, {
+				"LoadResources:s":	"Cavern_Trans_Area3-4_Instances"
+			}, {
+				"LoadResources:s":	"Cavern_Trans_Area3-4_Playsurfaces"
+			}, {
+				"LoadResources:s":	"Cavern_Trans_Area3-4_Temp_Plat"
+			}, {
+				"LoadResources:s":	"Cavern_Trans_Area3-5_Instances"
+			}, {
+				"LoadResources:s":	"Cavern_Trans_Area3-5_Playsurfaces"
+			}, {
+				"LoadResources:s":	"Cinematic Trigger Volumes"
+			}, {
+				"LoadResources:s":	"Elevators"
+			}]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	17,
+		"rows":	[{
+				"UnloadResources:s":	"Cavern_Area1_Chests"
+			}, {
+				"UnloadResources:s":	"Cavern_Area1_Eels"
+			}, {
+				"UnloadResources:s":	"Cavern_Area1_Goblins"
+			}, {
+				"UnloadResources:s":	"Cavern_Area1_Instances"
+			}, {
+				"UnloadResources:s":	"Cavern_Area1_Navs"
+			}, {
+				"UnloadResources:s":	"Cavern_Area1_Pickups"
+			}, {
+				"UnloadResources:s":	"Cavern_Area1_Playsurfaces"
+			}, {
+				"UnloadResources:s":	"Cavern_Area1_Spiders"
+			}, {
+				"UnloadResources:s":	"Cavern_Area1_Volumes"
+			}, {
+				"UnloadResources:s":	"Cavern_Area1_Spiders1"
+			}, {
+				"UnloadResources:s":	"Cavern_Area1_Spiders2"
+			}, {
+				"UnloadResources:s":	"Cavern_Area1_Spiders3"
+			}, {
+				"UnloadResources:s":	"Cavern_Area1_Spiders4"
+			}, {
+				"UnloadResources:s":	"Cavern_Area1_Spiders5"
+			}, {
+				"UnloadResources:s":	"Cavern_Area1_Spiders6"
+			}, {
+				"UnloadResources:s":	"Cavern_Area1_Spiders7"
+			}, {
+				"UnloadResources:s":	"Cavern_Area1_Spiders8"
+			}]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDF8D_7C169401",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[1929.9871826171875, 681.39300537109375, 4112.88427734375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-480.43856811523437, -399.3790283203125, -45.548980712890625, 480.43856811523437, 399.3790283203125, 45.548980712890625],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LoadTrigger_Area1-2",
+				"Name:s":	"LoadTrigger_Area1-2",
+				"Pos:fff":	[1929.9871826171875, 681.39300537109375, 4112.88427734375],
+				"BBox:ffffff":	[1449.548583984375, 282.01397705078125, 4067.335205078125, 2410.42578125, 1080.77197265625, 4158.43310546875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[480.43856811523437, 399.3790283203125, 45.548980712890625],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	16,
+		"rows":	[{
+				"Layer:s":	"Cavern_Area2_Chests"
+			}, {
+				"Layer:s":	"Cavern_Area2_Goblins"
+			}, {
+				"Layer:s":	"Cavern_Area2_Eels"
+			}, {
+				"Layer:s":	"Cavern_Area2_Instances"
+			}, {
+				"Layer:s":	"Cavern_Area2_Pickups"
+			}, {
+				"Layer:s":	"Cavern_Area2_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Area2_Volumes"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Chest"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Goblins"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Instances"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Temp_Plat"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_PickUps"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-4_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Area2_Balfor"
+			}, {
+				"Layer:s":	""
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	17,
+		"rows":	[{
+				"UnloadLayer:s":	"Cavern_Area1_Chests"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Eels"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Goblins"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Instances"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Navs"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Pickups"
+			}, {
+				"UnloadLayer:s":	""
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Spiders"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Volumes"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Spiders1"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Spiders2"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Spiders3"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Spiders4"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Spiders5"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Spiders6"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Spiders7"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Spiders8"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDFCC_E825EC00",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[421.69390869140625, -543.018798828125, 1906.7254638671875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-1175, -40, -900, 1175, 40, 900],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LoadTrigger_Area2-3",
+				"Name:s":	"LoadTrigger_Area2-3",
+				"Pos:fff":	[421.69390869140625, -543.018798828125, 1906.7254638671875],
+				"BBox:ffffff":	[-753.30609130859375, -583.018798828125, 1006.7254638671875, 1596.69384765625, -503.018798828125, 2806.7255859375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[1175, 40, 900],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	19,
+		"rows":	[{
+				"Layer:s":	"Cavern_Area3_Goblins"
+			}, {
+				"Layer:s":	"Cavern_Area3_Eels"
+			}, {
+				"Layer:s":	"Area2_Mine_Cart_Gobs"
+			}, {
+				"Layer:s":	"Area3_Ambush_Gobs"
+			}, {
+				"Layer:s":	"Area3_Cave_Gobs"
+			}, {
+				"Layer:s":	"Area3_DblBridge_Gobs"
+			}, {
+				"Layer:s":	"Area3_Entry_Goblins"
+			}, {
+				"Layer:s":	"Cavern_Area3_Instances"
+			}, {
+				"Layer:s":	"Cavern_Area3_Chests"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-4_Instances"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-5_Instances"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-4_Temp_Plat"
+			}, {
+				"Layer:s":	"Cavern_Area3_Pickups"
+			}, {
+				"Layer:s":	"Elevators"
+			}, {
+				"Layer:s":	"Cavern_Area3_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-5_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-4_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Area3_Volumes"
+			}, {
+				"Layer:s":	"Cavern_Minecart_Ambient"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	11,
+		"rows":	[{
+				"UnloadLayer:s":	"Cavern_Area2_Chests"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area2_Eels"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area2_Goblins"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area3_Instances"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area2_Pickups"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area2_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area2_Volumes"
+			}, {
+				"UnloadLayer:s":	"Cavern_Trans_Area1-2_Instances"
+			}, {
+				"UnloadLayer:s":	"Cavern_Trans_Area1-2_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area2_Balfor"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Playsurfaces"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDFCC_E8392401",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-1596.3092041015625, -1225.399169921875, 1958.125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-737.22125244140625, -50, -682.6123046875, 737.22125244140625, 50, 682.6123046875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LoadTrigger_Area2/3-4",
+				"Name:s":	"LoadTrigger_Area2/3-4",
+				"Pos:fff":	[-1596.3092041015625, -1225.399169921875, 1958.125],
+				"BBox:ffffff":	[-2333.530517578125, -1275.399169921875, 1275.5126953125, -859.08795166015625, -1175.399169921875, 2640.7373046875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[737.22125244140625, 50, 682.6123046875],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	10,
+		"rows":	[{
+				"Layer:s":	"Cavern_Area4_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Area4_Volumes"
+			}, {
+				"Layer:s":	"Cavern_Area4_Chests"
+			}, {
+				"Layer:s":	"Cavern_Area4_Goblins"
+			}, {
+				"Layer:s":	"Cavern_Area4_Instances"
+			}, {
+				"Layer:s":	"Cavern_Area4_Pickups"
+			}, {
+				"Layer:s":	"Cavern_Minecart_Ambient"
+			}, {
+				"Layer:s":	"Cavern_Area2_Goblins"
+			}, {
+				"Layer:s":	"Cavern_Area4_CineNPCs"
+			}, {
+				"Layer:s":	"Cavern_Area4_GobGuards"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	17,
+		"rows":	[{
+				"UnloadLayer:s":	"Elevators"
+			}, {
+				"UnloadLayer:s":	"Area3_Entry_Goblins"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area2_Instances"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area2_Chests"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area3_Eels"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area3_Goblins"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area3_Instances"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area3_Pickups"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area3_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area3_Volumes"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area2_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"Area2_Mine_Cart_Gobs"
+			}, {
+				"UnloadLayer:s":	"Area3_Ambush_Gobs"
+			}, {
+				"UnloadLayer:s":	"Area3_Cave_Gobs"
+			}, {
+				"UnloadLayer:s":	"Area3_DblBridge_Gobs"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area2_Balfor"
+			}, {
+				"UnloadLayer:s":	"Cavern_Trans_Area1-2_Playsurfaces"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD54E_C36AB401",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[5553.6865234375, -1422.612548828125, -2082.33642578125],
+				"Orientation:fff":	[0, -52.200008392333984, 0],
+				"LocalBoundingBox:ffffff":	[-157.44943237304687, -154.55000305175781, -137.86705017089844, 157.44943237304687, 154.55000305175781, 137.86705017089844],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LoadTrigger_Area3-006",
+				"Name:s":	"LoadTrigger_Area3-006",
+				"Pos:fff":	[5553.6865234375, -1422.612548828125, -2082.33642578125],
+				"BBox:ffffff":	[5396.2373046875, -1577.16259765625, -2220.203369140625, 5711.1357421875, -1268.0625, -1944.4693603515625],
+				"Orient:fff":	[0, -52.200008392333984, 0],
+				"HalfDimensions:fff":	[50, 154.55000305175781, 160.47999572753906],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	7,
+		"rows":	[{
+				"LoadResources:s":	"Cavern_Area5_Playsurfaces"
+			}, {
+				"LoadResources:s":	"Cavern_Area5_Chests"
+			}, {
+				"LoadResources:s":	"Cavern_Area5_Eels"
+			}, {
+				"LoadResources:s":	"Cavern_Area5_Goblins"
+			}, {
+				"LoadResources:s":	"Cavern_Area5_Instances"
+			}, {
+				"LoadResources:s":	"Cavern_Area5_Pickups"
+			}, {
+				"LoadResources:s":	"Cavern_Area5_Volumes"
+			}]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	43,
+		"rows":	[{
+				"UnloadResources:s":	"Cavern_Area3_Chests"
+			}, {
+				"UnloadResources:s":	"Cavern_Area3_Eels"
+			}, {
+				"UnloadResources:s":	"Cavern_Area3_Goblins"
+			}, {
+				"UnloadResources:s":	"Cavern_Area3_Instances"
+			}, {
+				"UnloadResources:s":	"Cavern_Area3_Pickups"
+			}, {
+				"UnloadResources:s":	"Cavern_Area2_Playsurfaces"
+			}, {
+				"UnloadResources:s":	"Cavern_Area3_Volumes"
+			}, {
+				"UnloadResources:s":	"Cavern_Area3_Playsurfaces"
+			}, {
+				"UnloadResources:s":	"Cavern_Area2_Goblins"
+			}, {
+				"UnloadResources:s":	"Cavern_Area2_Instances"
+			}, {
+				"UnloadResources:s":	"Cavern_MineCarts"
+			}, {
+				"UnloadResources:s":	"Cavern_Trans_Area1-2_Instances"
+			}, {
+				"UnloadResources:s":	"Cavern_Trans_Area1-2_Playsurfaces"
+			}, {
+				"UnloadResources:s":	"Cavern_Trans_Area2-3_Chest"
+			}, {
+				"UnloadResources:s":	"Cavern_Trans_Area2-3_Goblins"
+			}, {
+				"UnloadResources:s":	"Cavern_Trans_Area2-3_Instances"
+			}, {
+				"UnloadResources:s":	"Cavern_Trans_Area2-3_Playsurfaces"
+			}, {
+				"UnloadResources:s":	"Cavern_Trans_Area2-3_Temp_Plat"
+			}, {
+				"UnloadResources:s":	"Cavern_Trans_Area3-4_Playsurfaces"
+			}, {
+				"UnloadResources:s":	"Cavern_Trans_Area3-4_Temp_Plat"
+			}, {
+				"UnloadResources:s":	"Elevators"
+			}, {
+				"UnloadResources:s":	"Cavern_Area2_Chests"
+			}, {
+				"UnloadResources:s":	"Cavern_Area2_Eels"
+			}, {
+				"UnloadResources:s":	"Cavern_Area2_Goblins"
+			}, {
+				"UnloadResources:s":	"Cavern_Area2_Instances"
+			}, {
+				"UnloadResources:s":	"Cavern_Area2_Pickups"
+			}, {
+				"UnloadResources:s":	"Cavern_Area2_Playsurfaces"
+			}, {
+				"UnloadResources:s":	"Cavern_Area2_Volumes"
+			}, {
+				"UnloadResources:s":	"Cavern_Area4_Chests"
+			}, {
+				"UnloadResources:s":	"Cavern_Area4_CineNPCs"
+			}, {
+				"UnloadResources:s":	"Cavern_Area4_Eels"
+			}, {
+				"UnloadResources:s":	"Cavern_Area4_GobGrdCourGems"
+			}, {
+				"UnloadResources:s":	"Cavern_Area4_GobGuards"
+			}, {
+				"UnloadResources:s":	"Cavern_Area4_Goblins"
+			}, {
+				"UnloadResources:s":	"Cavern_Area4_Instances"
+			}, {
+				"UnloadResources:s":	"Cavern_Area4_Pickups"
+			}, {
+				"UnloadResources:s":	"Cavern_Area4_Playsurfaces"
+			}, {
+				"UnloadResources:s":	"Cavern_Area4_Volumes"
+			}, {
+				"UnloadResources:s":	"Area2_Mine_Cart_Gobs"
+			}, {
+				"UnloadResources:s":	"Area3_Ambush_Gobs"
+			}, {
+				"UnloadResources:s":	"Area3_Cave_Gobs"
+			}, {
+				"UnloadResources:s":	"Area3_DblBridge_Gobs"
+			}, {
+				"UnloadResources:s":	"Area3_Entry_Goblins"
+			}]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDFCC_E8270C01",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[416.093017578125, -453.11325073242187, 1901.72021484375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-1175, -40, -900, 1175, 40, 900],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LoadTrigger_Area3-2",
+				"Name:s":	"LoadTrigger_Area3-2",
+				"Pos:fff":	[416.093017578125, -453.11325073242187, 1901.72021484375],
+				"BBox:ffffff":	[-758.906982421875, -493.11325073242187, 1001.72021484375, 1591.093017578125, -413.11325073242187, 2801.72021484375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[1175, 40, 900],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	9,
+		"rows":	[{
+				"Layer:s":	"Cavern_Area2_Chests"
+			}, {
+				"Layer:s":	"Cavern_Area2_Eels"
+			}, {
+				"Layer:s":	"Cavern_Area2_Goblins"
+			}, {
+				"Layer:s":	"Cavern_Area2_Instances"
+			}, {
+				"Layer:s":	"Cavern_Area2_Pickups"
+			}, {
+				"Layer:s":	"Cavern_Area2_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Area2_Volumes"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area1-2_Instances"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area1-2_Playsurfaces"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	19,
+		"rows":	[{
+				"UnloadLayer:s":	"Cavern_Area3_Chests"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area3_Eels"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area3_Goblins"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area3_Instances"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area3_Pickups"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area3_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area3_Volumes"
+			}, {
+				"UnloadLayer:s":	"Cavern_Trans_Area3-4_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"Cavern_Trans_Area3-4_Temp_Plat"
+			}, {
+				"UnloadLayer:s":	"Cavern_Trans_Area3-5_Instances"
+			}, {
+				"UnloadLayer:s":	"Cavern_Trans_Area3-5_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"Elevators"
+			}, {
+				"UnloadLayer:s":	"Area2_Mine_Cart_Gobs"
+			}, {
+				"UnloadLayer:s":	"Area3_Ambush_Gobs"
+			}, {
+				"UnloadLayer:s":	"Area3_Cave_Gobs"
+			}, {
+				"UnloadLayer:s":	"Area3_DblBridge_Gobs"
+			}, {
+				"UnloadLayer:s":	"Area3_Entry_Goblins"
+			}, {
+				"UnloadLayer:s":	"Cavern_Trans_Area3-4_Instances"
+			}, {
+				"UnloadLayer:s":	"Cavern_Minecart_Ambient"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDFCC_E83B7401",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-7558.79248046875, -2741.5400390625, 172.8922119140625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-1003.9229125976562, -50, -682.6123046875, 1003.9229125976562, 50, 682.6123046875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LoadTrigger_Area3-4",
+				"Name:s":	"LoadTrigger_Area3-4",
+				"Pos:fff":	[-7558.79248046875, -2741.5400390625, 172.8922119140625],
+				"BBox:ffffff":	[-8562.7158203125, -2791.5400390625, -509.7200927734375, -6554.86962890625, -2691.5400390625, 855.5045166015625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[1003.9229125976562, 50, 682.6123046875],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	8,
+		"rows":	[{
+				"Layer:s":	"Cavern_Area4_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Area4_Chests"
+			}, {
+				"Layer:s":	"Cavern_Area4_Goblins"
+			}, {
+				"Layer:s":	"Cavern_Area4_Instances"
+			}, {
+				"Layer:s":	"Cavern_Area4_Pickups"
+			}, {
+				"Layer:s":	"Cavern_Area4_Volumes"
+			}, {
+				"Layer:s":	"Cavern_Area4_GobGuards"
+			}, {
+				"Layer:s":	"Cavern_Area4_CineNPCs"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	13,
+		"rows":	[{
+				"UnloadLayer:s":	"Cavern_Area3_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area3_Chests"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area3_Eels"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area3_Goblins"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area3_Instances"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area3_Pickups"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area3_Volumes"
+			}, {
+				"UnloadLayer:s":	"Elevators"
+			}, {
+				"UnloadLayer:s":	"Area2_Mine_Cart_Gobs"
+			}, {
+				"UnloadLayer:s":	"Area3_Ambush_Gobs"
+			}, {
+				"UnloadLayer:s":	"Area3_Cave_Gobs"
+			}, {
+				"UnloadLayer:s":	"Area3_DblBridge_Gobs"
+			}, {
+				"UnloadLayer:s":	"Area3_Entry_Goblins"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDE0D_11DEB001",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[5613.546875, -1422.6123046875, -2003.822998046875],
+				"Orientation:fff":	[0, -52.200008392333984, 0],
+				"LocalBoundingBox:ffffff":	[-157.44943237304687, -154.55000305175781, -137.86705017089844, 157.44943237304687, 154.55000305175781, 137.86705017089844],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LoadTrigger_Area3-5",
+				"Name:s":	"LoadTrigger_Area3-5",
+				"Pos:fff":	[5613.546875, -1422.6123046875, -2003.822998046875],
+				"BBox:ffffff":	[5456.09765625, -1577.162353515625, -2141.68994140625, 5770.99609375, -1268.062255859375, -1865.9559326171875],
+				"Orient:fff":	[0, -52.200008392333984, 0],
+				"HalfDimensions:fff":	[50, 154.55000305175781, 160.47999572753906],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	7,
+		"rows":	[{
+				"Layer:s":	"Cavern_Area5_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Area5_Chests"
+			}, {
+				"Layer:s":	"Cavern_Area5_Eels"
+			}, {
+				"Layer:s":	"Cavern_Area5_Goblins"
+			}, {
+				"Layer:s":	"Cavern_Area5_Instances"
+			}, {
+				"Layer:s":	"Cavern_Area5_Pickups"
+			}, {
+				"Layer:s":	"Cavern_Area5_Volumes"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	22,
+		"rows":	[{
+				"UnloadLayer:s":	"Cavern_Area3_Chests"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area3_Eels"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area3_Goblins"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area3_Instances"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area3_Pickups"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area2_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area3_Volumes"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area3_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area2_Goblins"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area2_Instances"
+			}, {
+				"UnloadLayer:s":	"Cavern_MineCarts"
+			}, {
+				"UnloadLayer:s":	"Cavern_Trans_Area1-2_Instances"
+			}, {
+				"UnloadLayer:s":	"Cavern_Trans_Area1-2_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"Cavern_Trans_Area2-3_Chest"
+			}, {
+				"UnloadLayer:s":	"Cavern_Trans_Area2-3_Goblins"
+			}, {
+				"UnloadLayer:s":	"Cavern_Trans_Area2-3_Instances"
+			}, {
+				"UnloadLayer:s":	"Cavern_Trans_Area2-3_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"Cavern_Trans_Area2-3_Temp_Plat"
+			}, {
+				"UnloadLayer:s":	"Cavern_Trans_Area3-4_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"Cavern_Trans_Area3-4_Temp_Plat"
+			}, {
+				"UnloadLayer:s":	"Elevators"
+			}, {
+				"UnloadLayer:s":	"Cavern_Trans_Area2-3_Firebats"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDFCC_E8394401",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-1570.90087890625, -1118.50390625, 1948.2742919921875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-704.4559326171875, -50, -682.6123046875, 704.4559326171875, 50, 682.6123046875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LoadTrigger_Area4-2/3",
+				"Name:s":	"LoadTrigger_Area4-2/3",
+				"Pos:fff":	[-1570.90087890625, -1118.50390625, 1948.2742919921875],
+				"BBox:ffffff":	[-2275.35693359375, -1168.50390625, 1265.6619873046875, -866.4449462890625, -1068.50390625, 2630.88671875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[704.4559326171875, 50, 682.6123046875],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	16,
+		"rows":	[{
+				"Layer:s":	"Elevators"
+			}, {
+				"Layer:s":	"Area3_Entry_Goblins"
+			}, {
+				"Layer:s":	"Cavern_Area2_Instances"
+			}, {
+				"Layer:s":	"Cavern_Area3_Chests"
+			}, {
+				"Layer:s":	"Cavern_Area3_Eels"
+			}, {
+				"Layer:s":	"Cavern_Area3_Goblins"
+			}, {
+				"Layer:s":	"Cavern_Area3_Instances"
+			}, {
+				"Layer:s":	"Cavern_Area3_Pickups"
+			}, {
+				"Layer:s":	"Cavern_Area3_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Area3_Volumes"
+			}, {
+				"Layer:s":	"Cavern_Area2_Playsurfaces"
+			}, {
+				"Layer:s":	"Area2_Mine_Cart_Gobs"
+			}, {
+				"Layer:s":	"Area3_Ambush_Gobs"
+			}, {
+				"Layer:s":	"Area3_Cave_Gobs"
+			}, {
+				"Layer:s":	"Area3_DblBridge_Gobs"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area1-2_Playsurfaces"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	10,
+		"rows":	[{
+				"UnloadLayer:s":	"Cavern_Area4_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area4_Volumes"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area4_Chests"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area4_Goblins"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area4_Instances"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area4_Pickups"
+			}, {
+				"UnloadLayer:s":	"Cavern_Minecart_Ambient"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area2_Goblins"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area4_GobGuards"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area4_CineNPCs"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDFCC_E83BA401",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-7584.16162109375, -2853.725341796875, 188.6768798828125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-1078.964599609375, -50, -682.6123046875, 1078.964599609375, 50, 682.6123046875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LoadTrigger_Area4-3",
+				"Name:s":	"LoadTrigger_Area4-3",
+				"Pos:fff":	[-7584.16162109375, -2853.725341796875, 188.6768798828125],
+				"BBox:ffffff":	[-8663.1259765625, -2903.725341796875, -493.9354248046875, -6505.197265625, -2803.725341796875, 871.2891845703125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[1078.964599609375, 50, 682.6123046875],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	13,
+		"rows":	[{
+				"Layer:s":	"Cavern_Area3_Chests"
+			}, {
+				"Layer:s":	"Cavern_Area3_Eels"
+			}, {
+				"Layer:s":	"Cavern_Area3_Goblins"
+			}, {
+				"Layer:s":	"Cavern_Area3_Instances"
+			}, {
+				"Layer:s":	"Cavern_Area3_Pickups"
+			}, {
+				"Layer:s":	"Cavern_Area3_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Area3_Volumes"
+			}, {
+				"Layer:s":	"Elevators"
+			}, {
+				"Layer:s":	"Area2_Mine_Cart_Gobs"
+			}, {
+				"Layer:s":	"Area3_Ambush_Gobs"
+			}, {
+				"Layer:s":	"Area3_Cave_Gobs"
+			}, {
+				"Layer:s":	"Area3_DblBridge_Gobs"
+			}, {
+				"Layer:s":	"Area3_Entry_Goblins"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	9,
+		"rows":	[{
+				"UnloadLayer:s":	"Cavern_Area4_Chests"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area4_Eels"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area4_Goblins"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area4_Instances"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area4_Pickups"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area4_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area4_Volumes"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area4_CineNPCs"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area4_GobGuards"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD3CD_A0223400",
+				"Teleport:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-111.45518493652344, -1970.4755859375, 2042.885986328125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Main_Cavern",
+				"Name:s":	"Main_Cavern",
+				"Pos:fff":	[-111.45518493652344, -1970.4755859375, 2042.885986328125],
+				"BBox:ffffff":	[-161.45518493652344, -2020.4755859375, 1992.885986328125, -61.455184936523438, -1920.4755859375, 2092.885986328125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	22,
+		"rows":	[{
+				"Layer:s":	"Cavern_Area3_Chests"
+			}, {
+				"Layer:s":	"Cavern_Area3_Eels"
+			}, {
+				"Layer:s":	"Cavern_Area3_Goblins"
+			}, {
+				"Layer:s":	"Cavern_Area3_Instances"
+			}, {
+				"Layer:s":	"Cavern_Area3_Pickups"
+			}, {
+				"Layer:s":	"Cavern_Area3_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Area3_Volumes"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Chest"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Goblins"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Instances"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Temp_Plat"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-4_Instances"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-4_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-4_Temp_Plat"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-5_Instances"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-5_Playsurfaces"
+			}, {
+				"Layer:s":	"Elevators"
+			}, {
+				"Layer:s":	"Area3_Ambush_Gobs"
+			}, {
+				"Layer:s":	"Area3_Cave_Gobs"
+			}, {
+				"Layer:s":	"Area3_DblBridge_Gobs"
+			}, {
+				"Layer:s":	"Area3_Entry_Goblins"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	11,
+		"rows":	[{
+				"UnloadLayer:s":	"Cavern_Area1_Chests"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Eels"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Goblins"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Instances"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Navs"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Pickups"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Spiders"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Volumes"
+			}, {
+				"UnloadLayer:s":	"Cavern_Trans_Area1-2_Instances"
+			}, {
+				"UnloadLayer:s":	"Cavern_Trans_Area1-2_Playsurfaces"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD98D_A0483401",
+				"Teleport:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-1822.399658203125, 75.7672119140625, 2825.646484375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Mine_Cart_Ride",
+				"Name:s":	"Mine_Cart_Ride",
+				"Pos:fff":	[-1822.399658203125, 75.7672119140625, 2825.646484375],
+				"BBox:ffffff":	[-1872.399658203125, 25.7672119140625, 2775.646484375, -1772.399658203125, 125.7672119140625, 2875.646484375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	23,
+		"rows":	[{
+				"Layer:s":	"Cavern_Area2_Chests"
+			}, {
+				"Layer:s":	"Cavern_Area2_Eels"
+			}, {
+				"Layer:s":	"Cavern_Area2_Instances"
+			}, {
+				"Layer:s":	"Cavern_Area2_Pickups"
+			}, {
+				"Layer:s":	"Cavern_Area2_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Area2_Volumes"
+			}, {
+				"Layer:s":	"Cavern_Area3_Chests"
+			}, {
+				"Layer:s":	"Cavern_Area3_Eels"
+			}, {
+				"Layer:s":	"Cavern_Area3_Goblins"
+			}, {
+				"Layer:s":	"Cavern_Area3_Instances"
+			}, {
+				"Layer:s":	"Cavern_Area3_Pickups"
+			}, {
+				"Layer:s":	"Cavern_Area3_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Area3_Volumes"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Chest"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Goblins"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Instances"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Temp_Plat"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-4_Instances"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-4_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-5_Instances"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-5_Playsurfaces"
+			}, {
+				"Layer:s":	"Elevators"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	9,
+		"rows":	[{
+				"UnloadLayer:s":	"Cavern_Area1_Chests"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Eels"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Goblins"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Instances"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Navs"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Pickups"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Spiders"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Volumes"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDA50_292E6800",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-6262.26806640625, -1440.232177734375, -3673.917724609375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-82.766853332519531, -18.451801300048828, -92.557342529296875, 82.766853332519531, 18.451801300048828, 92.557342529296875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Mine_Track_Stops",
+				"Name:s":	"Mine_Track_Stops",
+				"Pos:fff":	[-6262.26806640625, -1440.232177734375, -3673.917724609375],
+				"BBox:ffffff":	[-6345.03515625, -1458.6839599609375, -3766.47509765625, -6179.5009765625, -1421.7803955078125, -3581.3603515625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[82.766853332519531, 18.451801300048828, 92.557342529296875],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"Mine_Tracks_Walls"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDA50_29326001",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2510.42431640625, 246.48326110839844, 3257.78662109375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-32.279071807861328, -355.4647216796875, -553.568603515625, 32.279071807861328, 355.4647216796875, 553.568603515625],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Mine_Track_Stops000",
+				"Name:s":	"Mine_Track_Stops000",
+				"Pos:fff":	[-2510.42431640625, 246.48326110839844, 3257.78662109375],
+				"BBox:ffffff":	[-2542.703369140625, -108.98146057128906, 2704.218017578125, -2478.145263671875, 601.947998046875, 3811.355224609375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[32.279071807861328, 355.4647216796875, 553.568603515625],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadLayer:s":	"Mine_Tracks_Walls"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD98D_A0526000",
+				"Teleport:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-480.7637939453125, -10.0804443359375, 3191.958251953125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Muggwort_First_Contact",
+				"Name:s":	"Muggwort_First_Contact",
+				"Pos:fff":	[-480.7637939453125, -10.0804443359375, 3191.958251953125],
+				"BBox:ffffff":	[-530.7637939453125, -60.0804443359375, 3141.958251953125, -430.7637939453125, 39.9195556640625, 3241.958251953125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	14,
+		"rows":	[{
+				"Layer:s":	"Cavern_Area2_Chests"
+			}, {
+				"Layer:s":	"Cavern_Area2_Eels"
+			}, {
+				"Layer:s":	"Cavern_Area2_Goblins"
+			}, {
+				"Layer:s":	"Cavern_Area2_Instances"
+			}, {
+				"Layer:s":	"Cavern_Area2_Pickups"
+			}, {
+				"Layer:s":	"Cavern_Area2_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Area2_Volumes"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Chest"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Goblins"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Instances"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Temp_Plat"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area1-2_Instances"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area1-2_Playsurfaces"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	9,
+		"rows":	[{
+				"UnloadLayer:s":	"Cavern_Area1_Chests"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Eels"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Goblins"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Instances"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Navs"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Pickups"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Spiders"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Volumes"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD98D_A041A001",
+				"Teleport:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-7087.92431640625, -1965.813232421875, 1006.7061767578125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Mugwort_Jail_Greetings",
+				"Name:s":	"Mugwort_Jail_Greetings",
+				"Pos:fff":	[-7087.92431640625, -1965.813232421875, 1006.7061767578125],
+				"BBox:ffffff":	[-7137.92431640625, -2015.813232421875, 956.7061767578125, -7037.92431640625, -1915.813232421875, 1056.7061767578125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	17,
+		"rows":	[{
+				"Layer:s":	"Cavern_Area4_Chests"
+			}, {
+				"Layer:s":	"Cavern_Area4_Eels"
+			}, {
+				"Layer:s":	"Cavern_Area4_Goblins"
+			}, {
+				"Layer:s":	"Cavern_Area4_Instances"
+			}, {
+				"Layer:s":	"Cavern_Area4_Pickups"
+			}, {
+				"Layer:s":	"Cavern_Area4_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Area4_Volumes"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-4_Instances"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-4_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-4_Temp_Plat"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Chest"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Goblins"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Instances"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Temp_Plat"
+			}, {
+				"Layer:s":	"Cavern_Area4_CineNPCs"
+			}, {
+				"Layer:s":	"Cavern_Area4_GobGuards"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	11,
+		"rows":	[{
+				"UnloadLayer:s":	"Cavern_Area1_Chests"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Eels"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Goblins"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Instances"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Navs"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Pickups"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Spiders"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Volumes"
+			}, {
+				"UnloadLayer:s":	"Cavern_Trans_Area1-2_Instances"
+			}, {
+				"UnloadLayer:s":	"Cavern_Trans_Area1-2_Playsurfaces"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD98D_A03D1001",
+				"Teleport:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2135.580322265625, -1928.6549072265625, -5669.5224609375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Press_Plate_Bridge",
+				"Name:s":	"Press_Plate_Bridge",
+				"Pos:fff":	[-2135.580322265625, -1928.6549072265625, -5669.5224609375],
+				"BBox:ffffff":	[-2185.580322265625, -1978.6549072265625, -5719.5224609375, -2085.580322265625, -1878.6549072265625, -5619.5224609375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	18,
+		"rows":	[{
+				"Layer:s":	"Cavern_Area3_Chests"
+			}, {
+				"Layer:s":	"Cavern_Area3_Eels"
+			}, {
+				"Layer:s":	"Cavern_Area3_Goblins"
+			}, {
+				"Layer:s":	"Cavern_Area3_Instances"
+			}, {
+				"Layer:s":	"Cavern_Area3_Pickups"
+			}, {
+				"Layer:s":	"Cavern_Area3_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Area3_Volumes"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Chest"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Goblins"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Instances"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Temp_Plat"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-4_Instances"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-4_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-4_Temp_Plat"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-5_Instances"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-5_Playsurfaces"
+			}, {
+				"Layer:s":	"Elevators"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	11,
+		"rows":	[{
+				"UnloadLayer:s":	"Cavern_Area1_Chests"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Eels"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Goblins"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Instances"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Navs"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Pickups"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Spiders"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Volumes"
+			}, {
+				"UnloadLayer:s":	"Cavern_Trans_Area1-2_Instances"
+			}, {
+				"UnloadLayer:s":	"Cavern_Trans_Area1-2_Playsurfaces"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD992_3E2B8800",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[2625.593505859375, -905.99969482421875, 2708.956298828125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Rocks_Load",
+				"Name:s":	"Rocks_Load",
+				"Pos:fff":	[2625.593505859375, -905.99969482421875, 2708.956298828125],
+				"BBox:ffffff":	[2575.593505859375, -955.99969482421875, 2658.956298828125, 2675.593505859375, -855.99969482421875, 2758.956298828125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"Cavern_Rocks"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD7CD_76F36001",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[6827.44921875, 1706.662109375, 2596.44580078125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-78.5828323364258, -59, -84.7676010131836, 78.5828323364258, 59, 84.7676010131836],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"SpiderSpawn-001",
+				"Name:s":	"SpiderSpawn-001",
+				"Pos:fff":	[6827.44921875, 1706.662109375, 2596.44580078125],
+				"BBox:ffffff":	[6748.8662109375, 1647.662109375, 2511.67822265625, 6906.0322265625, 1765.662109375, 2681.21337890625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[78.5828323364258, 59, 84.7676010131836],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"Cavern_Area1_Spiders1"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD7CD_77003001",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[7047.83935546875, 1706.661865234375, 2325.6875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-78.5828323364258, -59, -84.7676010131836, 78.5828323364258, 59, 84.7676010131836],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"SpiderSpawn-002",
+				"Name:s":	"SpiderSpawn-002",
+				"Pos:fff":	[7047.83935546875, 1706.661865234375, 2325.6875],
+				"BBox:ffffff":	[6969.25634765625, 1647.661865234375, 2240.919921875, 7126.42236328125, 1765.661865234375, 2410.455078125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[78.5828323364258, 59, 84.7676010131836],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"Cavern_Area1_Spiders2"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD7CD_77024401",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[7131.9755859375, 1706.6619873046875, 2696.721435546875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-78.5828323364258, -59, -84.7676010131836, 78.5828323364258, 59, 84.7676010131836],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"SpiderSpawn-003",
+				"Name:s":	"SpiderSpawn-003",
+				"Pos:fff":	[7131.9755859375, 1706.6619873046875, 2696.721435546875],
+				"BBox:ffffff":	[7053.392578125, 1647.6619873046875, 2611.953857421875, 7210.55859375, 1765.6619873046875, 2781.489013671875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[78.5828323364258, 59, 84.7676010131836],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"Cavern_Area1_Spiders3"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD7CD_77032001",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[7366.8974609375, 1706.6619873046875, 2389.52197265625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-78.5828323364258, -59, -84.7676010131836, 78.5828323364258, 59, 84.7676010131836],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"SpiderSpawn-004",
+				"Name:s":	"SpiderSpawn-004",
+				"Pos:fff":	[7366.8974609375, 1706.6619873046875, 2389.52197265625],
+				"BBox:ffffff":	[7288.314453125, 1647.6619873046875, 2304.75439453125, 7445.48046875, 1765.6619873046875, 2474.28955078125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[78.5828323364258, 59, 84.7676010131836],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"Cavern_Area1_Spiders4"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD7CD_7748A401",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[7625.11328125, 1706.6619873046875, 2466.4814453125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-78.5828323364258, -59, -84.7676010131836, 78.5828323364258, 59, 84.7676010131836],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"SpiderSpawn-006",
+				"Name:s":	"SpiderSpawn-006",
+				"Pos:fff":	[7625.11328125, 1706.6619873046875, 2466.4814453125],
+				"BBox:ffffff":	[7546.5302734375, 1647.6619873046875, 2381.7138671875, 7703.6962890625, 1765.6619873046875, 2551.2490234375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[78.5828323364258, 59, 84.7676010131836],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"Cavern_Area1_Spiders6"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDBCD_7B621400",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[7704.80029296875, 1788.35693359375, 2743.556884765625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"SpiderSpawn-007",
+				"Name:s":	"SpiderSpawn-007",
+				"Pos:fff":	[7704.80029296875, 1788.35693359375, 2743.556884765625],
+				"BBox:ffffff":	[7654.80029296875, 1738.35693359375, 2693.556884765625, 7754.80029296875, 1838.35693359375, 2793.556884765625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"Cavern_Area1_Spiders7"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD34D_8B08F401",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[7834.51025390625, 1788.3568115234375, 2506.5078125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"SpiderSpawn-008",
+				"Name:s":	"SpiderSpawn-008",
+				"Pos:fff":	[7834.51025390625, 1788.3568115234375, 2506.5078125],
+				"BBox:ffffff":	[7784.51025390625, 1738.3568115234375, 2456.5078125, 7884.51025390625, 1838.3568115234375, 2556.5078125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"Cavern_Area1_Spiders8"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD98D_A03BE800",
+				"Teleport:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[5669.525390625, 380.15887451171875, 5220.36767578125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Spider_Room",
+				"Name:s":	"Spider_Room",
+				"Pos:fff":	[5669.525390625, 380.15887451171875, 5220.36767578125],
+				"BBox:ffffff":	[5619.525390625, 330.15887451171875, 5170.36767578125, 5719.525390625, 430.15887451171875, 5270.36767578125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"Cavern_Area1_Spiders"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD80F_7070BC00",
+				"Teleport:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[8745.5908203125, -2067.5048828125, 1828.349853515625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"TheOneRing",
+				"Name:s":	"TheOneRing",
+				"Pos:fff":	[8745.5908203125, -2067.5048828125, 1828.349853515625],
+				"BBox:ffffff":	[8695.5908203125, -2117.5048828125, 1778.349853515625, 8795.5908203125, -2017.5048828125, 1878.349853515625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	9,
+		"rows":	[{
+				"Layer:s":	"Cavern_Area5_Chests"
+			}, {
+				"Layer:s":	"Cavern_Area5_Eels"
+			}, {
+				"Layer:s":	"Cavern_Area5_Goblins"
+			}, {
+				"Layer:s":	"Cavern_Area5_Instances"
+			}, {
+				"Layer:s":	"Cavern_Area5_Pickups"
+			}, {
+				"Layer:s":	"Cavern_Area5_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Area5_Volumes"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-5_Instances"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-5_Playsurfaces"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	9,
+		"rows":	[{
+				"UnloadLayer:s":	"Cavern_Area1_Chests"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Eels"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Goblins"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Instances"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Navs"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Pickups"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Spiders"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Volumes"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD98D_A03E8401",
+				"Teleport:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-6083.85595703125, -3447.64697265625, -1098.1280517578125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Uggslap_First_Greeting",
+				"Name:s":	"Uggslap_First_Greeting",
+				"Pos:fff":	[-6083.85595703125, -3447.64697265625, -1098.1280517578125],
+				"BBox:ffffff":	[-6133.85595703125, -3497.64697265625, -1148.1280517578125, -6033.85595703125, -3397.64697265625, -1048.1280517578125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	18,
+		"rows":	[{
+				"Layer:s":	"Cavern_Area3_Chests"
+			}, {
+				"Layer:s":	"Cavern_Area3_Eels"
+			}, {
+				"Layer:s":	"Cavern_Area3_Goblins"
+			}, {
+				"Layer:s":	"Cavern_Area3_Instances"
+			}, {
+				"Layer:s":	"Cavern_Area3_Pickups"
+			}, {
+				"Layer:s":	"Cavern_Area3_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Area3_Volumes"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Chest"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Goblins"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Instances"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area2-3_Temp_Plat"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-4_Instances"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-4_Playsurfaces"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-4_Temp_Plat"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-5_Instances"
+			}, {
+				"Layer:s":	"Cavern_Trans_Area3-5_Playsurfaces"
+			}, {
+				"Layer:s":	"Elevators"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	11,
+		"rows":	[{
+				"UnloadLayer:s":	"Cavern_Area1_Chests"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Eels"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Goblins"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Instances"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Navs"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Pickups"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Spiders"
+			}, {
+				"UnloadLayer:s":	"Cavern_Area1_Volumes"
+			}, {
+				"UnloadLayer:s":	"Cavern_Trans_Area1-2_Instances"
+			}, {
+				"UnloadLayer:s":	"Cavern_Trans_Area1-2_Playsurfaces"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD311_AABF7800",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-5609.44384765625, 3197.97509765625, -1820.1766357421875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Wart_Crumb_Load",
+				"Name:s":	"Wart_Crumb_Load",
+				"Pos:fff":	[-5609.44384765625, 3197.97509765625, -1820.1766357421875],
+				"BBox:ffffff":	[-5659.44384765625, 3147.97509765625, -1870.1766357421875, -5559.44384765625, 3247.97509765625, -1770.1766357421875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"Wart_Crumbs"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}]

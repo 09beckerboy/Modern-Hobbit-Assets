@@ -1,0 +1,52 @@
+[{
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"2CDD888F_3C66E800",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	1,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	1,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	1,
+				"nActivators:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"trigger_gearbelt.xsc",
+				"InitialPos:fff":	[12985.6591796875, 245.10661315917969, 1246.7613525390625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"GearBeltTrigger",
+				"Name:s":	"GearBeltTrigger",
+				"Pos:fff":	[12985.6591796875, 245.10661315917969, 1246.7613525390625],
+				"BBox:ffffff":	[12935.6591796875, 195.10661315917969, 1196.7613525390625, 13035.6591796875, 295.10662841796875, 1296.7613525390625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"ItemList",
+		"row_count":	1,
+		"rows":	[{
+				"Item:d":	140
+			}]
+	}, {
+		"name":	"ValidItems",
+		"row_count":	1,
+		"rows":	[{
+				"Number:d":	1,
+				"ValidItem0:d":	140
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}]

@@ -1,0 +1,104 @@
+[{
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD210_290C4000",
+				"CreatureType:s":	"Beorn",
+				"IsSmooth:d":	1,
+				"GeometryResource:s":	"char_beorn_geom.npcgeom",
+				"Name:s":	"Beorn",
+				"Team:d":	0,
+				"Position:fff":	[-16040.361328125, 147.4736328125, -20596.630859375],
+				"Rotation:fff":	[0, 0, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"NONE",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	280,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	0,
+				"Invulnerable:d":	1,
+				"RootToPosition:d":	0,
+				"DoRender:d":	0,
+				"DoShadow:d":	1,
+				"DoCollision:d":	0,
+				"DoStateControl:d":	0,
+				"DoPhysControl:d":	0,
+				"DoSenses:d":	0
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"NonPositionedIdle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"BeornAttackGoalListName:s":	"",
+				"GoalListCount:d":	1
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Bridge Idle",
+				"GoalListLooping0:d":	1,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	1,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	2,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0ActionName:s":	"BridgeIdle",
+				"List0Goal0PlayTime:f":	0,
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	2000,
+				"HearingRange:f":	3000,
+				"LoudHearingRange:f":	5000,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-16040.361328125, 147.4736328125, -20596.630859375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-300, -300, -300, 300, 260, 300],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Beorn"
+			}]
+	}]

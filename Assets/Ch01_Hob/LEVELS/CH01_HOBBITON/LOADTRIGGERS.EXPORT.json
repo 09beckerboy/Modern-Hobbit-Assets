@@ -1,0 +1,2170 @@
+[{
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD04F_37295000",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[7792.6015625, 272.4376220703125, -15199.255859375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"BagEndLoad",
+				"Name:s":	"BagEndLoad",
+				"Pos:fff":	[7792.6015625, 272.4376220703125, -15199.255859375],
+				"BBox:ffffff":	[7742.6015625, 222.4376220703125, -15249.255859375, 7842.6015625, 322.4376220703125, -15149.255859375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	3,
+		"rows":	[{
+				"Layer:s":	"BagEnd"
+			}, {
+				"Layer:s":	"BagEnd_Instances1"
+			}, {
+				"Layer:s":	"BagEnd_lights1"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	25,
+		"rows":	[{
+				"UnloadLayer:s":	"Chests"
+			}, {
+				"UnloadLayer:s":	"HTown_Hobbit_Kids"
+			}, {
+				"UnloadLayer:s":	"HannaRecipe"
+			}, {
+				"UnloadLayer:s":	"Hob_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"Hobbits"
+			}, {
+				"UnloadLayer:s":	"OldManGadling"
+			}, {
+				"UnloadLayer:s":	"Quest_Pick_Ups"
+			}, {
+				"UnloadLayer:s":	"Falling_Leaves"
+			}, {
+				"UnloadLayer:s":	"HtownPlaygroundInst"
+			}, {
+				"UnloadLayer:s":	"HtownRocks"
+			}, {
+				"UnloadLayer:s":	"HtownTrees"
+			}, {
+				"UnloadLayer:s":	"HtownTrees2"
+			}, {
+				"UnloadLayer:s":	"Htown_BagshotRow_Instances"
+			}, {
+				"UnloadLayer:s":	"HTown_CP"
+			}, {
+				"UnloadLayer:s":	"Htown_Pickups"
+			}, {
+				"UnloadLayer:s":	"Htown_ProxyInstances"
+			}, {
+				"UnloadLayer:s":	"SilverPennies"
+			}, {
+				"UnloadLayer:s":	"HTown_Pond"
+			}, {
+				"UnloadLayer:s":	"Htown_AppleOrchard"
+			}, {
+				"UnloadLayer:s":	"Haystacks"
+			}, {
+				"UnloadLayer:s":	"OverlayVolumes"
+			}, {
+				"UnloadLayer:s":	"HTown_Fences"
+			}, {
+				"UnloadLayer:s":	"HTown_Dogs"
+			}, {
+				"UnloadLayer:s":	"Htown_BagEndEXTERNAL_Instances"
+			}, {
+				"UnloadLayer:s":	"HTown_Hannas_Area"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD912_18573C00",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[4902.01123046875, -1811.41552734375, -1326.1104736328125],
+				"Orientation:fff":	[0, -125.10000610351562, 0],
+				"LocalBoundingBox:ffffff":	[-876.9136962890625, -313.1365966796875, -645.9085693359375, 876.9136962890625, 313.1365966796875, 645.9085693359375],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Barn_High",
+				"Name:s":	"Barn_High",
+				"Pos:fff":	[4902.01123046875, -1811.41552734375, -1326.1104736328125],
+				"BBox:ffffff":	[4025.09765625, -2124.55224609375, -1972.01904296875, 5778.9248046875, -1498.2789306640625, -680.201904296875],
+				"Orient:fff":	[0, -125.10000610351562, 0],
+				"HalfDimensions:fff":	[71.499992370605469, 313.1365966796875, 1021.5745239257812],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	2,
+		"rows":	[{
+				"Layer:s":	"BarnArea_High"
+			}, {
+				"Layer:s":	"HolmansHouse"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadLayer:s":	"BarnArea_Low"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD912_1858C801",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[4794.826171875, -1811.41552734375, -1193.8653564453125],
+				"Orientation:fff":	[0, -125.10000610351562, 0],
+				"LocalBoundingBox:ffffff":	[-845.451171875, -313.1365966796875, -629.79974365234375, 845.451171875, 313.1365966796875, 629.79974365234375],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Barn_Low",
+				"Name:s":	"Barn_Low",
+				"Pos:fff":	[4794.826171875, -1811.41552734375, -1193.8653564453125],
+				"BBox:ffffff":	[3949.375, -2124.55224609375, -1823.6650390625, 5640.27734375, -1498.2789306640625, -564.06561279296875],
+				"Orient:fff":	[0, -125.10000610351562, 0],
+				"HalfDimensions:fff":	[85.999961853027344, 313.1365966796875, 972.9281005859375],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"BarnArea_Low"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	2,
+		"rows":	[{
+				"UnloadLayer:s":	"BarnArea_High"
+			}, {
+				"UnloadLayer:s":	"HolmansHouse"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD98F_37BA8400",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[7790.474609375, 275.6875, -15309.9013671875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"BridgeLoad",
+				"Name:s":	"BridgeLoad",
+				"Pos:fff":	[7790.474609375, 275.6875, -15309.9013671875],
+				"BBox:ffffff":	[7740.474609375, 225.6875, -15359.9013671875, 7840.474609375, 325.6875, -15259.9013671875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"Bridge_Final"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadLayer:s":	"BrokenBridge"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDA90_053A8C00",
+				"Teleport:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-3163.79833984375, -1947.2886962890625, -8918.900390625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"EOLTeleport",
+				"Name:s":	"EOLTeleport",
+				"Pos:fff":	[-3163.79833984375, -1947.2886962890625, -8918.900390625],
+				"BBox:ffffff":	[-3213.79833984375, -1997.2886962890625, -8968.900390625, -3113.79833984375, -1897.2886962890625, -8868.900390625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	30,
+		"rows":	[{
+				"Layer:s":	"Bridge_Final"
+			}, {
+				"Layer:s":	"Bridge_workArea"
+			}, {
+				"Layer:s":	"Chests"
+			}, {
+				"Layer:s":	"Chickens"
+			}, {
+				"Layer:s":	"End_Of_Level"
+			}, {
+				"Layer:s":	"GreenDragonInn"
+			}, {
+				"Layer:s":	"HTown_CP"
+			}, {
+				"Layer:s":	"HTown_Chicken_Coop"
+			}, {
+				"Layer:s":	"HTown_Dogs"
+			}, {
+				"Layer:s":	"HTown_Fences"
+			}, {
+				"Layer:s":	"HTown_Hobbit_Kids"
+			}, {
+				"Layer:s":	"HTown_Pond"
+			}, {
+				"Layer:s":	"Haystacks"
+			}, {
+				"Layer:s":	"Hob_Playsurfaces"
+			}, {
+				"Layer:s":	"Hobbits"
+			}, {
+				"Layer:s":	"HolmansHouse"
+			}, {
+				"Layer:s":	"HtownCameras"
+			}, {
+				"Layer:s":	"HtownLights"
+			}, {
+				"Layer:s":	"HtownMillAni"
+			}, {
+				"Layer:s":	"HtownRocks"
+			}, {
+				"Layer:s":	"HtownTrees"
+			}, {
+				"Layer:s":	"HtownTrees2"
+			}, {
+				"Layer:s":	"Htown_AppleOrchard"
+			}, {
+				"Layer:s":	"Htown_Farm_Instances"
+			}, {
+				"Layer:s":	"Htown_Pickups"
+			}, {
+				"Layer:s":	"Htown_Scarecrow"
+			}, {
+				"Layer:s":	"Htown_SpiceStand"
+			}, {
+				"Layer:s":	"OldManGadling"
+			}, {
+				"Layer:s":	"River_Rocks"
+			}, {
+				"Layer:s":	"SilverPennies"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	3,
+		"rows":	[{
+				"UnloadLayer:s":	"BagEnd"
+			}, {
+				"UnloadLayer:s":	"BagEnd_Instances1"
+			}, {
+				"UnloadLayer:s":	"BagEnd_lights1"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD8CF_67C60800",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"endoflevel.xsc",
+				"InitialPos:fff":	[3450.687255859375, -1879.34716796875, -11926.65625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"End_Of_Level",
+				"Name:s":	"End_Of_Level",
+				"Pos:fff":	[3450.687255859375, -1879.34716796875, -11926.65625],
+				"BBox:ffffff":	[3400.687255859375, -1929.34716796875, -11976.65625, 3500.687255859375, -1829.34716796875, -11876.65625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"End_Of_Level"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD2CF_AB6C1000",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[844.7789306640625, 2584.360107421875, 63.644771575927734],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"GadlingUnload",
+				"Name:s":	"GadlingUnload",
+				"Pos:fff":	[844.7789306640625, 2584.360107421875, 63.644771575927734],
+				"BBox:ffffff":	[794.7789306640625, 2534.360107421875, 13.644771575927734, 894.7789306640625, 2634.360107421875, 113.644775390625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadLayer:s":	"OldManGadling"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD04F_3728C000",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[7900.76611328125, 271.33901977539063, -15198.3544921875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"HTownLoad",
+				"Name:s":	"HTownLoad",
+				"Pos:fff":	[7900.76611328125, 271.33901977539063, -15198.3544921875],
+				"BBox:ffffff":	[7850.76611328125, 221.33901977539062, -15248.3544921875, 7950.76611328125, 321.33901977539062, -15148.3544921875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	47,
+		"rows":	[{
+				"Layer:s":	"Chests"
+			}, {
+				"Layer:s":	"Chickens"
+			}, {
+				"Layer:s":	"HTown_Hannas_Area"
+			}, {
+				"Layer:s":	"Hob_Playsurfaces"
+			}, {
+				"Layer:s":	"Hobbits"
+			}, {
+				"Layer:s":	"OldManGadling"
+			}, {
+				"Layer:s":	"Htown_BagshotRow_Instances"
+			}, {
+				"Layer:s":	"HtownPlaygroundInst"
+			}, {
+				"Layer:s":	"HtownRocks"
+			}, {
+				"Layer:s":	"HtownTrees"
+			}, {
+				"Layer:s":	"HtownTrees2"
+			}, {
+				"Layer:s":	"SilverPennies"
+			}, {
+				"Layer:s":	"BarnArea_Low"
+			}, {
+				"Layer:s":	"Htown_Pickups"
+			}, {
+				"Layer:s":	"Htown_ProxyInstances"
+			}, {
+				"Layer:s":	"Quest_Pick_Ups"
+			}, {
+				"Layer:s":	"Haystacks"
+			}, {
+				"Layer:s":	"HTown_CP"
+			}, {
+				"Layer:s":	"HTown_Hobbit_Kids"
+			}, {
+				"Layer:s":	"Htown_AppleOrchard"
+			}, {
+				"Layer:s":	"OverlayVolumes"
+			}, {
+				"Layer:s":	"HTown_Fences"
+			}, {
+				"Layer:s":	"HTown_Dogs"
+			}, {
+				"Layer:s":	"Htown_BagEndEXTERNAL_Instances"
+			}, {
+				"Layer:s":	"HTown_Hannas_Area"
+			}, {
+				"Layer:s":	"BagEnd_Ext_Gen"
+			}, {
+				"Layer:s":	"BagEnd_Ext_High"
+			}, {
+				"Layer:s":	"Inbetween_High"
+			}, {
+				"Layer:s":	"Hanna_Gen"
+			}, {
+				"Layer:s":	"Hanna_High"
+			}, {
+				"Layer:s":	"Mill_Pond_Gen"
+			}, {
+				"Layer:s":	"PlayGround_Gen"
+			}, {
+				"Layer:s":	"Playground_High"
+			}, {
+				"Layer:s":	"Mill_Pond_Low"
+			}, {
+				"Layer:s":	"AppleOrchard_Gen"
+			}, {
+				"Layer:s":	"AppleOrchard_Low"
+			}, {
+				"Layer:s":	"BagShot_Gen"
+			}, {
+				"Layer:s":	"BagShot_Low"
+			}, {
+				"Layer:s":	"BarnArea_Gen"
+			}, {
+				"Layer:s":	"BarnArea_Low"
+			}, {
+				"Layer:s":	"BridgeArea_Gen"
+			}, {
+				"Layer:s":	"BridgeArea_Low"
+			}, {
+				"Layer:s":	"GreenDragon_Gen"
+			}, {
+				"Layer:s":	"GreenDragon_Low"
+			}, {
+				"Layer:s":	"Mill_Area_Gen"
+			}, {
+				"Layer:s":	"Mill_Area_Low"
+			}, {
+				"Layer:s":	"UpperBagEnd"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD912_18143400",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[797.5616455078125, -1553.9710693359375, -4268.2890625],
+				"Orientation:fff":	[0, -12.599971771240234, 0],
+				"LocalBoundingBox:ffffff":	[-925.11480712890625, -349.21746826171875, -253.14498901367187, 925.11480712890625, 349.21746826171875, 253.14498901367187],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Mill_High",
+				"Name:s":	"Mill_High",
+				"Pos:fff":	[797.5616455078125, -1553.9710693359375, -4268.2890625],
+				"BBox:ffffff":	[-127.55316162109375, -1903.1884765625, -4521.43408203125, 1722.676513671875, -1204.753662109375, -4015.14404296875],
+				"Orient:fff":	[0, -12.599971771240234, 0],
+				"HalfDimensions:fff":	[936.7679443359375, 349.21746826171875, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	5,
+		"rows":	[{
+				"Layer:s":	"Hanna_Low"
+			}, {
+				"Layer:s":	"Mill_Area_High"
+			}, {
+				"Layer:s":	"BarnArea_High"
+			}, {
+				"Layer:s":	"HolmansHouse"
+			}, {
+				"Layer:s":	"BridgeArea_High"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	4,
+		"rows":	[{
+				"UnloadLayer:s":	"Hanna_High"
+			}, {
+				"UnloadLayer:s":	"BarnArea_Low"
+			}, {
+				"UnloadLayer:s":	"BridgeArea_Low"
+			}, {
+				"UnloadLayer:s":	"Mill_Area_Low"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD912_1816A801",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[2346.896484375, -1791.736083984375, -5933.9833984375],
+				"Orientation:fff":	[0, 50.850002288818359, 0],
+				"LocalBoundingBox:ffffff":	[-647.510009765625, -349.21746826171875, -771.8946533203125, 647.510009765625, 349.21746826171875, 771.8946533203125],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Mill_High000",
+				"Name:s":	"Mill_High000",
+				"Pos:fff":	[2346.896484375, -1791.736083984375, -5933.9833984375],
+				"BBox:ffffff":	[1699.386474609375, -2140.95361328125, -6705.8779296875, 2994.406494140625, -1442.5185546875, -5162.0888671875],
+				"Orient:fff":	[0, 50.850002288818359, 0],
+				"HalfDimensions:fff":	[935.92498779296875, 349.21746826171875, 73.000015258789063],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	3,
+		"rows":	[{
+				"Layer:s":	"BridgeArea_High"
+			}, {
+				"Layer:s":	"Mill_Area_High"
+			}, {
+				"Layer:s":	"Hanna_Low"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	3,
+		"rows":	[{
+				"UnloadLayer:s":	"Hanna_High"
+			}, {
+				"UnloadLayer:s":	"BridgeArea_Low"
+			}, {
+				"UnloadLayer:s":	"Mill_Area_Low"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD913_350F2C01",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-418.014404296875, -1553.970947265625, -3187.5576171875],
+				"Orientation:fff":	[0, -80.0999526977539, 0],
+				"LocalBoundingBox:ffffff":	[-261.85247802734375, -778.75506591796875, -1226.7171630859375, 261.85247802734375, 778.75506591796875, 1226.7171630859375],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Mill_High001",
+				"Name:s":	"Mill_High001",
+				"Pos:fff":	[-418.014404296875, -1553.970947265625, -3187.5576171875],
+				"BBox:ffffff":	[-679.86688232421875, -2332.72607421875, -4414.27490234375, -156.16192626953125, -775.21588134765625, -1960.8404541015625],
+				"Orient:fff":	[0, -80.0999526977539, 0],
+				"HalfDimensions:fff":	[1236.53369140625, 778.75506591796875, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"BridgeArea_High"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD8CF_BA351C01",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-278.62808227539062, -1481.87109375, -6451.06689453125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-65, -679.2080078125, -1835, 65, 679.2080078125, 1835],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Mill_Load",
+				"Name:s":	"Mill_Load",
+				"Pos:fff":	[-278.62808227539062, -1481.87109375, -6451.06689453125],
+				"BBox:ffffff":	[-343.62808227539062, -2161.0791015625, -8286.06640625, -213.62808227539062, -802.6630859375, -4616.06689453125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[65, 679.2080078125, 1835],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	8,
+		"rows":	[{
+				"Layer:s":	"Htown_Mill_Instances"
+			}, {
+				"Layer:s":	"WaterFall_FX"
+			}, {
+				"Layer:s":	"HTown_Pond"
+			}, {
+				"Layer:s":	"GreenDragon_High"
+			}, {
+				"Layer:s":	"GreenDragonInn"
+			}, {
+				"Layer:s":	"HTown_Chicken_Coop"
+			}, {
+				"Layer:s":	"Htown_Scarecrow"
+			}, {
+				"Layer:s":	"BarnArea_Low"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	4,
+		"rows":	[{
+				"UnloadLayer:s":	"Htown_BagEndEXTERNAL_Instances"
+			}, {
+				"UnloadLayer:s":	"Htown_BagshotRow_Instances"
+			}, {
+				"UnloadLayer:s":	"BarnArea_High"
+			}, {
+				"UnloadLayer:s":	"GreenDragon_Low"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDDCF_BA4E7801",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-909.34344482421875, -1481.873779296875, -8422.396484375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-252.00010681152344, -679.2080078125, -63.666080474853516, 252.00010681152344, 679.2080078125, 63.666080474853516],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Mill_Load000",
+				"Name:s":	"Mill_Load000",
+				"Pos:fff":	[-909.34344482421875, -1481.873779296875, -8422.396484375],
+				"BBox:ffffff":	[-1161.343505859375, -2161.081787109375, -8486.0625, -657.34332275390625, -802.665771484375, -8358.73046875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[252.00010681152344, 679.2080078125, 63.666080474853516],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	2,
+		"rows":	[{
+				"Layer:s":	"Htown_Mill_Instances"
+			}, {
+				"Layer:s":	"WaterFall_FX"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD54F_BA677004",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-6796.21630859375, -1052.086669921875, -2580.18310546875],
+				"Orientation:fff":	[0, -8.55001926422119, 0],
+				"LocalBoundingBox:ffffff":	[-881.46435546875, -874.140625, -194.05799865722656, 881.46435546875, 874.140625, 194.05799865722656],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Mill_Load001",
+				"Name:s":	"Mill_Load001",
+				"Pos:fff":	[-6796.21630859375, -1052.086669921875, -2580.18310546875],
+				"BBox:ffffff":	[-7677.6806640625, -1926.227294921875, -2774.2412109375, -5914.751953125, -177.946044921875, -2386.125],
+				"Orient:fff":	[0, -8.55001926422119, 0],
+				"HalfDimensions:fff":	[881.798828125, 874.140625, 63.666080474853516],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	2,
+		"rows":	[{
+				"Layer:s":	"Htown_Mill_Instances"
+			}, {
+				"Layer:s":	"WaterFall_FX"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDE52_77939C04",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-12.876800537109375, -1481.8690185546875, -10050.80078125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-92.000030517578125, -679.2080078125, -1795, 92.000030517578125, 679.2080078125, 1795],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Mill_Load002",
+				"Name:s":	"Mill_Load002",
+				"Pos:fff":	[-12.876800537109375, -1481.8690185546875, -10050.80078125],
+				"BBox:ffffff":	[-104.8768310546875, -2161.0771484375, -11845.80078125, 79.12322998046875, -802.6610107421875, -8255.80078125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[92.000030517578125, 679.2080078125, 1795],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	10,
+		"rows":	[{
+				"Layer:s":	"Htown_Mill_Instances"
+			}, {
+				"Layer:s":	"WaterFall_FX"
+			}, {
+				"Layer:s":	"HTown_Pond"
+			}, {
+				"Layer:s":	"GreenDragon_High"
+			}, {
+				"Layer:s":	"GreenDragonInn"
+			}, {
+				"Layer:s":	"HTown_Chicken_Coop"
+			}, {
+				"Layer:s":	"Htown_Scarecrow"
+			}, {
+				"Layer:s":	"BarnArea_Low"
+			}, {
+				"Layer:s":	"Mill_Area_High"
+			}, {
+				"Layer:s":	"UpperBagEnd"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	5,
+		"rows":	[{
+				"UnloadLayer:s":	"Htown_BagEndEXTERNAL_Instances"
+			}, {
+				"UnloadLayer:s":	"Htown_BagshotRow_Instances"
+			}, {
+				"UnloadLayer:s":	"BarnArea_High"
+			}, {
+				"UnloadLayer:s":	"GreenDragon_Low"
+			}, {
+				"UnloadLayer:s":	"HTown_Chicken_Coop"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD912_18174801",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[2458.1376953125, -1791.7353515625, -5806.89990234375],
+				"Orientation:fff":	[0, 50.850002288818359, 0],
+				"LocalBoundingBox:ffffff":	[-653.0828857421875, -349.21746826171875, -776.6522216796875, 653.0828857421875, 349.21746826171875, 776.6522216796875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Mill_Low",
+				"Name:s":	"Mill_Low",
+				"Pos:fff":	[2458.1376953125, -1791.7353515625, -5806.89990234375],
+				"BBox:ffffff":	[1805.0548095703125, -2140.952880859375, -6583.55224609375, 3111.220703125, -1442.517822265625, -5030.24755859375],
+				"Orient:fff":	[0, 50.850002288818359, 0],
+				"HalfDimensions:fff":	[936.7679443359375, 349.21746826171875, 79.500007629394531],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	3,
+		"rows":	[{
+				"Layer:s":	"Hanna_High"
+			}, {
+				"Layer:s":	"BridgeArea_Low"
+			}, {
+				"Layer:s":	"Mill_Pond_Low"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	3,
+		"rows":	[{
+				"UnloadLayer:s":	"BridgeArea_High"
+			}, {
+				"UnloadLayer:s":	"Mill_Area_High"
+			}, {
+				"UnloadLayer:s":	"Hanna_Low"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD912_1817AC01",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[777.322998046875, -1579.587646484375, -4164.8583984375],
+				"Orientation:fff":	[0, -12.600028991699219, 0],
+				"LocalBoundingBox:ffffff":	[-925.11456298828125, -349.21746826171875, -253.14590454101562, 925.11456298828125, 349.21746826171875, 253.14590454101562],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Mill_Low000",
+				"Name:s":	"Mill_Low000",
+				"Pos:fff":	[777.322998046875, -1579.587646484375, -4164.8583984375],
+				"BBox:ffffff":	[-147.79156494140625, -1928.80517578125, -4418.00439453125, 1702.4375, -1230.3701171875, -3911.71240234375],
+				"Orient:fff":	[0, -12.600028991699219, 0],
+				"HalfDimensions:fff":	[936.7679443359375, 349.21746826171875, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	4,
+		"rows":	[{
+				"Layer:s":	"Hanna_High"
+			}, {
+				"Layer:s":	"BarnArea_Low"
+			}, {
+				"Layer:s":	"Mill_Area_Low"
+			}, {
+				"Layer:s":	"BridgeArea_Low"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	4,
+		"rows":	[{
+				"UnloadLayer:s":	"Mill_Area_High"
+			}, {
+				"UnloadLayer:s":	"Hanna_Low"
+			}, {
+				"UnloadLayer:s":	"BarnArea_High"
+			}, {
+				"UnloadLayer:s":	"HolmansHouse"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD913_350F8401",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-535.4996337890625, -1579.589111328125, -3123.057861328125],
+				"Orientation:fff":	[0, -80.100013732910156, 0],
+				"LocalBoundingBox:ffffff":	[-279.56747436523437, -702.9742431640625, -1328.227294921875, 279.56747436523437, 702.9742431640625, 1328.227294921875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Mill_Low001",
+				"Name:s":	"Mill_Low001",
+				"Pos:fff":	[-535.4996337890625, -1579.589111328125, -3123.057861328125],
+				"BBox:ffffff":	[-815.067138671875, -2282.5634765625, -4451.28515625, -255.93215942382812, -876.6148681640625, -1794.83056640625],
+				"Orient:fff":	[0, -80.100013732910156, 0],
+				"HalfDimensions:fff":	[1339.5780029296875, 702.9742431640625, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadLayer:s":	"BarnArea_High"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD8CF_BA321800",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-145.20977783203125, -1529.8858642578125, -6414.71533203125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-62.5000114440918, -726.5015869140625, -1845, 62.5000114440918, 726.5015869140625, 1845],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Mill_Unload",
+				"Name:s":	"Mill_Unload",
+				"Pos:fff":	[-145.20977783203125, -1529.8858642578125, -6414.71533203125],
+				"BBox:ffffff":	[-207.70979309082031, -2256.387451171875, -8259.71484375, -82.7097625732422, -803.38427734375, -4569.71533203125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[62.5000114440918, 726.5015869140625, 1845],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	4,
+		"rows":	[{
+				"Layer:s":	"Htown_BagEndEXTERNAL_Instances"
+			}, {
+				"Layer:s":	"Htown_BagshotRow_Instances"
+			}, {
+				"Layer:s":	"BarnArea_High"
+			}, {
+				"Layer:s":	"GreenDragon_Low"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	8,
+		"rows":	[{
+				"UnloadLayer:s":	"Htown_Mill_Instances"
+			}, {
+				"UnloadLayer:s":	"WaterFall_FX"
+			}, {
+				"UnloadLayer:s":	"HTown_Pond"
+			}, {
+				"UnloadLayer:s":	"HTown_Chicken_Coop"
+			}, {
+				"UnloadLayer:s":	"Htown_Scarecrow"
+			}, {
+				"UnloadLayer:s":	"GreenDragonInn"
+			}, {
+				"UnloadLayer:s":	"GreenDragon_High"
+			}, {
+				"UnloadLayer:s":	"BarnArea_Low"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDDCF_BA4DE401",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-922.9202880859375, -1529.886962890625, -8557.837890625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-241.08003234863281, -726.5015869140625, -47.74957275390625, 241.08003234863281, 726.5015869140625, 47.74957275390625],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Mill_Unload000",
+				"Name:s":	"Mill_Unload000",
+				"Pos:fff":	[-922.9202880859375, -1529.886962890625, -8557.837890625],
+				"BBox:ffffff":	[-1164.0003662109375, -2256.388671875, -8605.587890625, -681.84027099609375, -803.3853759765625, -8510.087890625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[241.08003234863281, 726.5015869140625, 47.74957275390625],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	2,
+		"rows":	[{
+				"UnloadLayer:s":	"Htown_Mill_Instances"
+			}, {
+				"UnloadLayer:s":	"WaterFall_FX"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD54F_BA677002",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-6808.25146484375, -908.33282470703125, -2445.6806640625],
+				"Orientation:fff":	[0, -9.0000200271606445, 0],
+				"LocalBoundingBox:ffffff":	[-820.39520263671875, -668.38140869140625, -175.916748046875, 820.39520263671875, 668.38140869140625, 175.916748046875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Mill_Unload001",
+				"Name:s":	"Mill_Unload001",
+				"Pos:fff":	[-6808.25146484375, -908.33282470703125, -2445.6806640625],
+				"BBox:ffffff":	[-7628.646484375, -1576.7142333984375, -2621.597412109375, -5987.8564453125, -239.951416015625, -2269.763916015625],
+				"Orient:fff":	[0, -9.0000200271606445, 0],
+				"HalfDimensions:fff":	[823.05877685546875, 668.38140869140625, 47.74957275390625],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	2,
+		"rows":	[{
+				"UnloadLayer:s":	"Htown_Mill_Instances"
+			}, {
+				"UnloadLayer:s":	"WaterFall_FX"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDE52_77939C02",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[159.755859375, -1529.884033203125, -10039.080078125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-69.999984741210937, -726.5015869140625, -1822.122314453125, 69.999984741210937, 726.5015869140625, 1822.122314453125],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Mill_Unload002",
+				"Name:s":	"Mill_Unload002",
+				"Pos:fff":	[159.755859375, -1529.884033203125, -10039.080078125],
+				"BBox:ffffff":	[89.755874633789063, -2256.3857421875, -11861.2021484375, 229.75584411621094, -803.3824462890625, -8216.9580078125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[69.999984741210937, 726.5015869140625, 1822.122314453125],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	5,
+		"rows":	[{
+				"Layer:s":	"Htown_BagEndEXTERNAL_Instances"
+			}, {
+				"Layer:s":	"Htown_BagshotRow_Instances"
+			}, {
+				"Layer:s":	"BarnArea_High"
+			}, {
+				"Layer:s":	"GreenDragon_Low"
+			}, {
+				"Layer:s":	"HTown_Chicken_Coop"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	10,
+		"rows":	[{
+				"UnloadLayer:s":	"Htown_Mill_Instances"
+			}, {
+				"UnloadLayer:s":	"WaterFall_FX"
+			}, {
+				"UnloadLayer:s":	"HTown_Pond"
+			}, {
+				"UnloadLayer:s":	"HTown_Chicken_Coop"
+			}, {
+				"UnloadLayer:s":	"Htown_Scarecrow"
+			}, {
+				"UnloadLayer:s":	"GreenDragonInn"
+			}, {
+				"UnloadLayer:s":	"GreenDragon_High"
+			}, {
+				"UnloadLayer:s":	"BarnArea_Low"
+			}, {
+				"UnloadLayer:s":	"Mill_Area_High"
+			}, {
+				"UnloadLayer:s":	"UpperBagEnd"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD54F_BAE38C00",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-3305.37548828125, -441.97219848632812, 758.58837890625],
+				"Orientation:fff":	[0, 55.350013732910156, 0],
+				"LocalBoundingBox:ffffff":	[-496.74951171875, -298.2000732421875, -705.73736572265625, 496.74951171875, 298.2000732421875, 705.73736572265625],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"NorthernLoad",
+				"Name:s":	"NorthernLoad",
+				"Pos:fff":	[-3305.37548828125, -441.97219848632812, 758.58837890625],
+				"BBox:ffffff":	[-3802.125, -740.1722412109375, 52.85101318359375, -2808.6259765625, -143.77212524414062, 1464.32568359375],
+				"Orient:fff":	[0, 55.350013732910156, 0],
+				"HalfDimensions:fff":	[843.44085693359375, 298.2000732421875, 20.909999847412109],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	8,
+		"rows":	[{
+				"Layer:s":	"BagShot_High"
+			}, {
+				"Layer:s":	"HtownMillAni"
+			}, {
+				"Layer:s":	"Bridge_workArea"
+			}, {
+				"Layer:s":	"Htown_Farm_Instances"
+			}, {
+				"Layer:s":	"HTown_Mill_Ivy"
+			}, {
+				"Layer:s":	"River_Rocks"
+			}, {
+				"Layer:s":	"Bridge_workArea"
+			}, {
+				"Layer:s":	"BagEnd_Ext_Low"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	2,
+		"rows":	[{
+				"UnloadLayer:s":	"BagEnd_Ext_High"
+			}, {
+				"UnloadLayer:s":	"BagShot_Low"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD012_7D114002",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-1721.77587890625, -441.97463989257812, -666.41229248046875],
+				"Orientation:fff":	[0, 98.5499954223633, 0],
+				"LocalBoundingBox:ffffff":	[-146.07400512695312, -566.580078125, -837.176025390625, 146.07400512695312, 566.580078125, 837.176025390625],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"NorthernLoad000",
+				"Name:s":	"NorthernLoad000",
+				"Pos:fff":	[-1721.77587890625, -441.97463989257812, -666.41229248046875],
+				"BBox:ffffff":	[-1867.849853515625, -1008.5546875, -1503.58837890625, -1575.701904296875, 124.60543823242187, 170.76373291015625],
+				"Orient:fff":	[0, 98.5499954223633, 0],
+				"HalfDimensions:fff":	[843.44085693359375, 566.580078125, 20.909999847412109],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	8,
+		"rows":	[{
+				"Layer:s":	"BagShot_High"
+			}, {
+				"Layer:s":	"HtownMillAni"
+			}, {
+				"Layer:s":	"Bridge_workArea"
+			}, {
+				"Layer:s":	"Htown_Farm_Instances"
+			}, {
+				"Layer:s":	"HTown_Mill_Ivy"
+			}, {
+				"Layer:s":	"River_Rocks"
+			}, {
+				"Layer:s":	"Bridge_workArea"
+			}, {
+				"Layer:s":	"BagEnd_Ext_Low"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	2,
+		"rows":	[{
+				"UnloadLayer:s":	"BagEnd_Ext_High"
+			}, {
+				"UnloadLayer:s":	"BagShot_Low"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD54F_BAE69C01",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-3268.223388671875, -441.97146606445312, 790.8128662109375],
+				"Orientation:fff":	[0, 55.350013732910156, 0],
+				"LocalBoundingBox:ffffff":	[-501.344970703125, -298.2000732421875, -712.38641357421875, 501.344970703125, 298.2000732421875, 712.38641357421875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"NorthernUnLoad",
+				"Name:s":	"NorthernUnLoad",
+				"Pos:fff":	[-3268.223388671875, -441.97146606445312, 790.8128662109375],
+				"BBox:ffffff":	[-3769.568359375, -740.1715087890625, 78.42645263671875, -2766.87841796875, -143.77139282226562, 1503.19921875],
+				"Orient:fff":	[0, 55.350013732910156, 0],
+				"HalfDimensions:fff":	[851.5234375, 298.2000732421875, 20.909999847412109],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	2,
+		"rows":	[{
+				"Layer:s":	"BagEnd_Ext_High"
+			}, {
+				"Layer:s":	"BagShot_Low"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	8,
+		"rows":	[{
+				"UnloadLayer:s":	"BagShot_High"
+			}, {
+				"UnloadLayer:s":	"HtownMillAni"
+			}, {
+				"UnloadLayer:s":	"Bridge_workArea"
+			}, {
+				"UnloadLayer:s":	"Htown_Farm_Instances"
+			}, {
+				"UnloadLayer:s":	"HTown_Mill_Ivy"
+			}, {
+				"UnloadLayer:s":	"River_Rocks"
+			}, {
+				"UnloadLayer:s":	"Bridge_workArea"
+			}, {
+				"UnloadLayer:s":	"BagEnd_Ext_Low"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD012_7D114004",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-1663.17626953125, -441.97341918945312, -677.14874267578125],
+				"Orientation:fff":	[0, 98.5499954223633, 0],
+				"LocalBoundingBox:ffffff":	[-147.27566528320312, -557.6343994140625, -845.16876220703125, 147.27566528320312, 557.6343994140625, 845.16876220703125],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"NorthernUnLoad000",
+				"Name:s":	"NorthernUnLoad000",
+				"Pos:fff":	[-1663.17626953125, -441.97341918945312, -677.14874267578125],
+				"BBox:ffffff":	[-1810.451904296875, -999.6077880859375, -1522.3175048828125, -1515.900634765625, 115.66098022460937, 168.02001953125],
+				"Orient:fff":	[0, 98.5499954223633, 0],
+				"HalfDimensions:fff":	[851.5234375, 557.6343994140625, 20.909999847412109],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	2,
+		"rows":	[{
+				"Layer:s":	"BagEnd_Ext_High"
+			}, {
+				"Layer:s":	"BagShot_Low"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	8,
+		"rows":	[{
+				"UnloadLayer:s":	"BagShot_High"
+			}, {
+				"UnloadLayer:s":	"HtownMillAni"
+			}, {
+				"UnloadLayer:s":	"Bridge_workArea"
+			}, {
+				"UnloadLayer:s":	"Htown_Farm_Instances"
+			}, {
+				"UnloadLayer:s":	"HTown_Mill_Ivy"
+			}, {
+				"UnloadLayer:s":	"River_Rocks"
+			}, {
+				"UnloadLayer:s":	"Bridge_workArea"
+			}, {
+				"UnloadLayer:s":	"BagEnd_Ext_Low"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD912_18483C00",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-6295.0029296875, -1593.9715576171875, -4476.056640625],
+				"Orientation:fff":	[0, -19.3499870300293, 0],
+				"LocalBoundingBox:ffffff":	[-1751.3961181640625, -607.55999755859375, -656.40386962890625, 1751.3961181640625, 607.55999755859375, 656.40386962890625],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"PlayGround_High",
+				"Name:s":	"PlayGround_High",
+				"Pos:fff":	[-6295.0029296875, -1593.9715576171875, -4476.056640625],
+				"BBox:ffffff":	[-8046.39892578125, -2201.531494140625, -5132.46044921875, -4543.60693359375, -986.41156005859375, -3819.65283203125],
+				"Orient:fff":	[0, -19.3499870300293, 0],
+				"HalfDimensions:fff":	[1838.69287109375, 607.55999755859375, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	5,
+		"rows":	[{
+				"Layer:s":	"Hanna_High"
+			}, {
+				"Layer:s":	"Playground_High"
+			}, {
+				"Layer:s":	"BarnArea_Low"
+			}, {
+				"Layer:s":	"BridgeArea_Low"
+			}, {
+				"Layer:s":	"GreenDragon_Low"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	5,
+		"rows":	[{
+				"UnloadLayer:s":	"BarnArea_High"
+			}, {
+				"UnloadLayer:s":	"BridgeArea_High"
+			}, {
+				"UnloadLayer:s":	"GreenDragon_High"
+			}, {
+				"UnloadLayer:s":	"Hanna_Low"
+			}, {
+				"UnloadLayer:s":	"Playground_Low"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD912_18525401",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-6203.15087890625, -1593.9718017578125, -4598.41552734375],
+				"Orientation:fff":	[0, -19.3499870300293, 0],
+				"LocalBoundingBox:ffffff":	[-1751.3961181640625, -607.55999755859375, -656.40386962890625, 1751.3961181640625, 607.55999755859375, 656.40386962890625],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"PlayGround_Low",
+				"Name:s":	"PlayGround_Low",
+				"Pos:fff":	[-6203.15087890625, -1593.9718017578125, -4598.41552734375],
+				"BBox:ffffff":	[-7954.546875, -2201.53173828125, -5254.8193359375, -4451.7548828125, -986.41180419921875, -3942.01171875],
+				"Orient:fff":	[0, -19.3499870300293, 0],
+				"HalfDimensions:fff":	[1838.69287109375, 607.55999755859375, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	5,
+		"rows":	[{
+				"Layer:s":	"BarnArea_High"
+			}, {
+				"Layer:s":	"BridgeArea_High"
+			}, {
+				"Layer:s":	"GreenDragon_High"
+			}, {
+				"Layer:s":	"Hanna_Low"
+			}, {
+				"Layer:s":	"Playground_Low"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	5,
+		"rows":	[{
+				"UnloadLayer:s":	"Hanna_High"
+			}, {
+				"UnloadLayer:s":	"Playground_High"
+			}, {
+				"UnloadLayer:s":	"BarnArea_Low"
+			}, {
+				"UnloadLayer:s":	"BridgeArea_Low"
+			}, {
+				"UnloadLayer:s":	"GreenDragon_Low"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD912_17F8B000",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-3582.32373046875, -854.850830078125, -1838.493408203125],
+				"Orientation:fff":	[0, -22.049991607666016, 0],
+				"LocalBoundingBox:ffffff":	[-1271.796142578125, -698.0838623046875, -553.87017822265625, 1271.796142578125, 698.0838623046875, 553.87017822265625],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"PlayUnload",
+				"Name:s":	"PlayUnload",
+				"Pos:fff":	[-3582.32373046875, -854.850830078125, -1838.493408203125],
+				"BBox:ffffff":	[-4854.1201171875, -1552.9346923828125, -2392.363525390625, -2310.527587890625, -156.7669677734375, -1284.623291015625],
+				"Orient:fff":	[0, -22.049991607666016, 0],
+				"HalfDimensions:fff":	[1351.9085693359375, 698.0838623046875, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	2,
+		"rows":	[{
+				"Layer:s":	"Playground_Low"
+			}, {
+				"Layer:s":	"AppleOrchard_High"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	3,
+		"rows":	[{
+				"UnloadLayer:s":	"Playground_High"
+			}, {
+				"UnloadLayer:s":	"Inbetween_High"
+			}, {
+				"UnloadLayer:s":	"AppleOrchard_Low"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD912_17FD7C01",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-3767.33251953125, -854.850830078125, -1788.204833984375],
+				"Orientation:fff":	[0, -22.049991607666016, 0],
+				"LocalBoundingBox:ffffff":	[-1271.796142578125, -698.0838623046875, -553.87017822265625, 1271.796142578125, 698.0838623046875, 553.87017822265625],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Playload",
+				"Name:s":	"Playload",
+				"Pos:fff":	[-3767.33251953125, -854.850830078125, -1788.204833984375],
+				"BBox:ffffff":	[-5039.12890625, -1552.9346923828125, -2342.074951171875, -2495.536376953125, -156.7669677734375, -1234.334716796875],
+				"Orient:fff":	[0, -22.049991607666016, 0],
+				"HalfDimensions:fff":	[1351.9085693359375, 698.0838623046875, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	3,
+		"rows":	[{
+				"Layer:s":	"Playground_High"
+			}, {
+				"Layer:s":	"Inbetween_High"
+			}, {
+				"Layer:s":	"AppleOrchard_Low"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	2,
+		"rows":	[{
+				"UnloadLayer:s":	"Playground_Low"
+			}, {
+				"UnloadLayer:s":	"AppleOrchard_High"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD912_18321000",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-1270.8021240234375, -1617.5357666015625, -7108.74462890625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-57.500007629394531, -780, -1380.059814453125, 57.500007629394531, 780, 1380.059814453125],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Pond_High",
+				"Name:s":	"Pond_High",
+				"Pos:fff":	[-1270.8021240234375, -1617.5357666015625, -7108.74462890625],
+				"BBox:ffffff":	[-1328.3021240234375, -2397.53564453125, -8488.8046875, -1213.3021240234375, -837.5357666015625, -5728.6845703125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[57.500007629394531, 780, 1380.059814453125],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	4,
+		"rows":	[{
+				"Layer:s":	"BagShot_Low"
+			}, {
+				"Layer:s":	"AppleOrchard_Low"
+			}, {
+				"Layer:s":	"BarnArea_Low"
+			}, {
+				"Layer:s":	"Mill_Pond_High"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	6,
+		"rows":	[{
+				"UnloadLayer:s":	"BagShot_High"
+			}, {
+				"UnloadLayer:s":	"AppleOrchard_High"
+			}, {
+				"UnloadLayer:s":	"HolmansHouse"
+			}, {
+				"UnloadLayer:s":	"HTown_Chicken_Coop"
+			}, {
+				"UnloadLayer:s":	"BarnArea_High"
+			}, {
+				"UnloadLayer:s":	"Mill_Pond_Low"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDF92_5220BC04",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-1781.682861328125, -1617.53515625, -9776.533203125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-57.500007629394531, -760.7598876953125, -1215, 57.500007629394531, 760.7598876953125, 1215],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Pond_High000",
+				"Name:s":	"Pond_High000",
+				"Pos:fff":	[-1781.682861328125, -1617.53515625, -9776.533203125],
+				"BBox:ffffff":	[-1839.182861328125, -2378.294921875, -10991.533203125, -1724.182861328125, -856.7752685546875, -8561.533203125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[57.500007629394531, 760.7598876953125, 1215],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	4,
+		"rows":	[{
+				"Layer:s":	"BagShot_Low"
+			}, {
+				"Layer:s":	"AppleOrchard_Low"
+			}, {
+				"Layer:s":	"BarnArea_Low"
+			}, {
+				"Layer:s":	"Mill_Pond_High"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	6,
+		"rows":	[{
+				"UnloadLayer:s":	"BagShot_High"
+			}, {
+				"UnloadLayer:s":	"AppleOrchard_High"
+			}, {
+				"UnloadLayer:s":	"HolmansHouse"
+			}, {
+				"UnloadLayer:s":	"HTown_Chicken_Coop"
+			}, {
+				"UnloadLayer:s":	"BarnArea_High"
+			}, {
+				"UnloadLayer:s":	"Mill_Pond_Low"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD912_1838C001",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-1157.7550048828125, -1617.533935546875, -7044.6015625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -760.7598876953125, -1423.125, 50, 760.7598876953125, 1423.125],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Pond_Low",
+				"Name:s":	"Pond_Low",
+				"Pos:fff":	[-1157.7550048828125, -1617.533935546875, -7044.6015625],
+				"BBox:ffffff":	[-1207.7550048828125, -2378.2939453125, -8467.7265625, -1107.7550048828125, -856.7740478515625, -5621.4765625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 760.7598876953125, 1423.125],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	6,
+		"rows":	[{
+				"Layer:s":	"BagShot_High"
+			}, {
+				"Layer:s":	"AppleOrchard_High"
+			}, {
+				"Layer:s":	"HolmansHouse"
+			}, {
+				"Layer:s":	"HTown_Chicken_Coop"
+			}, {
+				"Layer:s":	"BarnArea_High"
+			}, {
+				"Layer:s":	"Mill_Pond_Low"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	4,
+		"rows":	[{
+				"UnloadLayer:s":	"BagShot_Low"
+			}, {
+				"UnloadLayer:s":	"AppleOrchard_Low"
+			}, {
+				"UnloadLayer:s":	"BarnArea_Low"
+			}, {
+				"UnloadLayer:s":	"Mill_Pond_High"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDF92_5220BC02",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-1668.6357421875, -1617.53466796875, -9790.923828125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -760.7598876953125, -1235, 50, 760.7598876953125, 1235],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Pond_Low000",
+				"Name:s":	"Pond_Low000",
+				"Pos:fff":	[-1668.6357421875, -1617.53466796875, -9790.923828125],
+				"BBox:ffffff":	[-1718.6357421875, -2378.29443359375, -11025.923828125, -1618.6357421875, -856.7747802734375, -8555.923828125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 760.7598876953125, 1235],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	6,
+		"rows":	[{
+				"Layer:s":	"BagShot_High"
+			}, {
+				"Layer:s":	"AppleOrchard_High"
+			}, {
+				"Layer:s":	"HolmansHouse"
+			}, {
+				"Layer:s":	"HTown_Chicken_Coop"
+			}, {
+				"Layer:s":	"BarnArea_High"
+			}, {
+				"Layer:s":	"Mill_Pond_Low"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	4,
+		"rows":	[{
+				"UnloadLayer:s":	"BagShot_Low"
+			}, {
+				"UnloadLayer:s":	"AppleOrchard_Low"
+			}, {
+				"UnloadLayer:s":	"BarnArea_Low"
+			}, {
+				"UnloadLayer:s":	"Mill_Pond_High"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD7D0_14E3E000",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-1228.3453369140625, 1023.4823608398437, 3910.775146484375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Resource_BagEnd",
+				"Name:s":	"Resource_BagEnd",
+				"Pos:fff":	[-1228.3453369140625, 1023.4823608398437, 3910.775146484375],
+				"BBox:ffffff":	[-1278.3453369140625, 973.48236083984375, 3860.775146484375, -1178.3453369140625, 1073.482421875, 3960.775146484375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD7D0_14E38800",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-1360.34765625, 947.458740234375, 3720.3173828125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Resource_Htown",
+				"Name:s":	"Resource_Htown",
+				"Pos:fff":	[-1360.34765625, 947.458740234375, 3720.3173828125],
+				"BBox:ffffff":	[-1410.34765625, 897.458740234375, 3670.3173828125, -1310.34765625, 997.458740234375, 3770.3173828125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD5D0_09595800",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-1556.1785888671875, 645.6463623046875, 3673.515380859375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Shed_Crumb_Load",
+				"Name:s":	"Shed_Crumb_Load",
+				"Pos:fff":	[-1556.1785888671875, 645.6463623046875, 3673.515380859375],
+				"BBox:ffffff":	[-1606.1785888671875, 595.6463623046875, 3623.515380859375, -1506.1785888671875, 695.6463623046875, 3723.515380859375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"Shed_Crumbs"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD7CF_713DDC00",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2410.5927734375, -31.239837646484375, -3504.224609375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"UnloadAllDoggs",
+				"Name:s":	"UnloadAllDoggs",
+				"Pos:fff":	[-2410.5927734375, -31.239837646484375, -3504.224609375],
+				"BBox:ffffff":	[-2460.5927734375, -81.239837646484375, -3554.224609375, -2360.5927734375, 18.760162353515625, -3454.224609375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadLayer:s":	"HTown_Dogs"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDF0F_E5CC8000",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[2509.883056640625, -463.6534423828125, -2999.108154296875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Well_Trigger_Load",
+				"Name:s":	"Well_Trigger_Load",
+				"Pos:fff":	[2509.883056640625, -463.6534423828125, -2999.108154296875],
+				"BBox:ffffff":	[2459.883056640625, -513.6534423828125, -3049.108154296875, 2559.883056640625, -413.6534423828125, -2949.108154296875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"Well_Trigger"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}]

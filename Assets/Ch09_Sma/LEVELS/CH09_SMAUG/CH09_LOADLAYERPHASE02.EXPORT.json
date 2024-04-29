@@ -1,0 +1,125 @@
+[{
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD7D4E_34DC1401",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-326.50115966796875, 19.428955078125, -5286.45751953125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -548.4749755859375, -398.18014526367187, 50, 548.4749755859375, 398.18014526367187],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"CH09 Ext to Int Ph02 001",
+				"Name:s":	"CH09 Ext to Int Ph02 001",
+				"Pos:fff":	[-326.50115966796875, 19.428955078125, -5286.45751953125],
+				"BBox:ffffff":	[-376.50115966796875, -529.0460205078125, -5684.6376953125, -276.50115966796875, 567.9039306640625, -4888.27734375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 548.4749755859375, 398.18014526367187],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	9,
+		"rows":	[{
+				"Layer:s":	"CH09_Playsurfaces"
+			}, {
+				"Layer:s":	"CH09_Instances_Base"
+			}, {
+				"Layer:s":	"CH09_Treasures"
+			}, {
+				"Layer:s":	"CH09_Pickups"
+			}, {
+				"Layer:s":	"CH09_Instances_Area02"
+			}, {
+				"Layer:s":	"CH09_Instances_Area01-02"
+			}, {
+				"Layer:s":	"CH09_Pickups_Ph02"
+			}, {
+				"Layer:s":	"CH09_Smaug_Phase02a"
+			}, {
+				"Layer:s":	"CH09_Playsurfaces_2B"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	2,
+		"rows":	[{
+				"UnloadLayer:s":	"CH09_Pickups_Ph01_Exit"
+			}, {
+				"UnloadLayer:s":	"CH09_Skybox"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD7D4E_34DCE401",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-525.9918212890625, 19.4287109375, -5286.45751953125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -548.4749755859375, -398.18014526367187, 50, 548.4749755859375, 398.18014526367187],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"CH09 Int to Ext Ph02 001",
+				"Name:s":	"CH09 Int to Ext Ph02 001",
+				"Pos:fff":	[-525.9918212890625, 19.4287109375, -5286.45751953125],
+				"BBox:ffffff":	[-575.9918212890625, -529.0462646484375, -5684.6376953125, -475.9918212890625, 567.9036865234375, -4888.27734375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 548.4749755859375, 398.18014526367187],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"CH09_Skybox"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	9,
+		"rows":	[{
+				"UnloadLayer:s":	"CH09_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"CH09_Instances_Base"
+			}, {
+				"UnloadLayer:s":	"CH09_Instances_Area02"
+			}, {
+				"UnloadLayer:s":	"CH09_Pickups"
+			}, {
+				"UnloadLayer:s":	"CH09_Treasures"
+			}, {
+				"UnloadLayer:s":	"CH09_Instances_Area01-02"
+			}, {
+				"UnloadLayer:s":	""
+			}, {
+				"UnloadLayer:s":	"CH09_Smaug_Phase02a"
+			}, {
+				"UnloadLayer:s":	"CH09_Playsurfaces_2B"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	2,
+		"rows":	[{
+				"LoadResources:s":	"CH09_Ext_Playsurfaces"
+			}, {
+				"LoadResources:s":	"CH09_Ext_Instances"
+			}]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}]

@@ -1,0 +1,798 @@
+[{
+		"name":	"Cinema",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C0CFA6CE_9008D000",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-10558, -13075.6982421875, -20479.703125, 10558, 13075.6982421875, 20479.703125],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Cinema_05_Galion",
+				"Repeatable:d":	0,
+				"PopAtEnd:d":	1,
+				"Cinematic:d":	1,
+				"Time:f":	0,
+				"Duration:f":	25.178230285644531,
+				"nShots:d":	6,
+				"nSyncPoints:d":	7,
+				"nActions:d":	26,
+				"nParticipants:d":	3,
+				"InitialShot:d":	0,
+				"BilboInvisible:d":	0,
+				"HasIntroTrans:d":	0,
+				"HasOutroTrans:d":	0,
+				"Skippable:d":	1,
+				"IsDeathCinema:d":	0,
+				"ForceNoWeapon:d":	0,
+				"ForceUseStick:d":	0,
+				"ForceUseSting:d":	0,
+				"Letterbox:d":	1,
+				"DisableControl:d":	0,
+				"BypassQueue:d":	0,
+				"LowPriority:d":	0,
+				"SubtitleInBox:d":	0
+			}]
+	}, {
+		"name":	"Shot0",
+		"row_count":	1,
+		"rows":	[{
+				"Shot0\\Name:s":	"SHOT00_GALION_IDLE",
+				"Shot0\\NextShot:d":	1,
+				"Shot0\\SkipShot:d":	1,
+				"Shot0\\MaxTime:f":	600,
+				"Shot0\\Time:f":	0
+			}]
+	}, {
+		"name":	"Shot1",
+		"row_count":	1,
+		"rows":	[{
+				"Shot1\\Name:s":	"SHOT01_BILBO_POPSUP",
+				"Shot1\\NextShot:d":	2,
+				"Shot1\\SkipShot:d":	2,
+				"Shot1\\MaxTime:f":	600,
+				"Shot1\\Time:f":	3.3666670322418213
+			}]
+	}, {
+		"name":	"Shot2",
+		"row_count":	1,
+		"rows":	[{
+				"Shot2\\Name:s":	"SHOT02_GALION_DRINKS",
+				"Shot2\\NextShot:d":	3,
+				"Shot2\\SkipShot:d":	3,
+				"Shot2\\MaxTime:f":	600,
+				"Shot2\\Time:f":	7.2333340644836426
+			}]
+	}, {
+		"name":	"Shot3",
+		"row_count":	1,
+		"rows":	[{
+				"Shot3\\Name:s":	"SHOT03_BILBO_ANTICIPATION",
+				"Shot3\\NextShot:d":	4,
+				"Shot3\\SkipShot:d":	4,
+				"Shot3\\MaxTime:f":	600,
+				"Shot3\\Time:f":	14.266666412353516
+			}]
+	}, {
+		"name":	"Shot4",
+		"row_count":	1,
+		"rows":	[{
+				"Shot4\\Name:s":	"SHOT04_GALION_PASSES_OUT",
+				"Shot4\\NextShot:d":	5,
+				"Shot4\\SkipShot:d":	5,
+				"Shot4\\MaxTime:f":	600,
+				"Shot4\\Time:f":	17.145229339599609
+			}]
+	}, {
+		"name":	"Shot5",
+		"row_count":	1,
+		"rows":	[{
+				"Shot5\\Name:s":	"SHOT_BILBO_WINCES",
+				"Shot5\\NextShot:d":	6,
+				"Shot5\\SkipShot:d":	6,
+				"Shot5\\MaxTime:f":	600,
+				"Shot5\\Time:f":	17.658273696899414
+			}]
+	}, {
+		"name":	"SyncPoint0",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint0\\Name:s":	"Shot 0, Sync 0",
+				"SyncPoint0\\Type:d":	0,
+				"SyncPoint0\\Action:d":	0,
+				"SyncPoint0\\Offset:f":	0,
+				"SyncPoint0\\Shot:d":	0,
+				"SyncPoint0\\FromEnd:d":	1,
+				"SyncPoint0\\AbsoluteTimeStart:f":	0
+			}]
+	}, {
+		"name":	"SyncPoint1",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint1\\Name:s":	"Shot 1, Sync 1",
+				"SyncPoint1\\Type:d":	1,
+				"SyncPoint1\\Action:d":	1,
+				"SyncPoint1\\Offset:f":	0,
+				"SyncPoint1\\Shot:d":	1,
+				"SyncPoint1\\FromEnd:d":	1,
+				"SyncPoint1\\AbsoluteTimeStart:f":	3.3666670322418213
+			}]
+	}, {
+		"name":	"SyncPoint2",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint2\\Name:s":	"Shot 2, Sync 2",
+				"SyncPoint2\\Type:d":	1,
+				"SyncPoint2\\Action:d":	4,
+				"SyncPoint2\\Offset:f":	0,
+				"SyncPoint2\\Shot:d":	2,
+				"SyncPoint2\\FromEnd:d":	1,
+				"SyncPoint2\\AbsoluteTimeStart:f":	7.2333340644836426
+			}]
+	}, {
+		"name":	"SyncPoint3",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint3\\Name:s":	"Shot 3, Sync 3",
+				"SyncPoint3\\Type:d":	1,
+				"SyncPoint3\\Action:d":	6,
+				"SyncPoint3\\Offset:f":	0,
+				"SyncPoint3\\Shot:d":	3,
+				"SyncPoint3\\FromEnd:d":	1,
+				"SyncPoint3\\AbsoluteTimeStart:f":	14.266666412353516
+			}]
+	}, {
+		"name":	"SyncPoint4",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint4\\Name:s":	"Shot 4, Sync 4",
+				"SyncPoint4\\Type:d":	1,
+				"SyncPoint4\\Action:d":	11,
+				"SyncPoint4\\Offset:f":	0,
+				"SyncPoint4\\Shot:d":	4,
+				"SyncPoint4\\FromEnd:d":	1,
+				"SyncPoint4\\AbsoluteTimeStart:f":	17.145229339599609
+			}]
+	}, {
+		"name":	"SyncPoint5",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint5\\Name:s":	"Shot 5, Sync 5",
+				"SyncPoint5\\Type:d":	1,
+				"SyncPoint5\\Action:d":	14,
+				"SyncPoint5\\Offset:f":	0,
+				"SyncPoint5\\Shot:d":	5,
+				"SyncPoint5\\FromEnd:d":	1,
+				"SyncPoint5\\AbsoluteTimeStart:f":	17.658273696899414
+			}]
+	}, {
+		"name":	"SyncPoint6",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint6\\Name:s":	"Shot 5, Sync 6",
+				"SyncPoint6\\Type:d":	1,
+				"SyncPoint6\\Action:d":	18,
+				"SyncPoint6\\Offset:f":	0,
+				"SyncPoint6\\Shot:d":	5,
+				"SyncPoint6\\FromEnd:d":	1,
+				"SyncPoint6\\AbsoluteTimeStart:f":	20.358274459838867
+			}]
+	}, {
+		"name":	"Action0",
+		"row_count":	1,
+		"rows":	[{
+				"Action0\\Name:s":	"SHOT01_Camera_Galion_Idle",
+				"Action0\\Type:d":	4,
+				"Action0\\Shot:d":	0,
+				"Action0\\Offset:f":	0,
+				"Action0\\Duration:f":	3.3666670322418213,
+				"Action0\\SyncPoint:d":	0,
+				"Action0\\FinishShot:d":	0,
+				"Action0\\DefaultLength:f":	7.0333337783813477,
+				"Action0\\CameraType:d":	0,
+				"Action0\\Target:g":	"C0CFAD8E_84E08800",
+				"Action0\\Relative:d":	0,
+				"Action0\\StartOrient:fff":	[0, 0, 0],
+				"Action0\\EndOrient:fff":	[0, 0, 0],
+				"Action0\\StartOffset:fff":	[0, 0, 0],
+				"Action0\\EndOffset:fff":	[0, 0, 0],
+				"Action0\\TargetOffset:fff":	[0, 0, 0],
+				"Action0\\StartFOV:f":	1.25663697719574,
+				"Action0\\EndFOV:f":	1.25663697719574,
+				"Action0\\TransitionPop:d":	0,
+				"Action0\\Loop:d":	0,
+				"Action0\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action1",
+		"row_count":	1,
+		"rows":	[{
+				"Action1\\Name:s":	"SHOT00_Anim_Galion_Idle",
+				"Action1\\Type:d":	2,
+				"Action1\\Shot:d":	0,
+				"Action1\\Offset:f":	0,
+				"Action1\\Duration:f":	3.3666670322418213,
+				"Action1\\SyncPoint:d":	0,
+				"Action1\\FinishShot:d":	1,
+				"Action1\\DefaultLength:f":	0,
+				"Action1\\Character:g":	"0D8ADCCE_7481A400",
+				"Action1\\AnimName:s":	"Idle",
+				"Action1\\Length:f":	3.3666670322418213,
+				"Action1\\AnimGroup:s":	"",
+				"Action1\\AnimatedInPlace:d":	1,
+				"Action1\\Loops:d":	1,
+				"Action1\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action2",
+		"row_count":	1,
+		"rows":	[{
+				"Action2\\Name:s":	"SHOT00_Dialog_Galion_Idle_07_07",
+				"Action2\\Type:d":	5,
+				"Action2\\Shot:d":	0,
+				"Action2\\Offset:f":	0,
+				"Action2\\Duration:f":	2.4395918846130371,
+				"Action2\\SyncPoint:d":	0,
+				"Action2\\FinishShot:d":	0,
+				"Action2\\DefaultLength:f":	2.4395918846130371,
+				"Action2\\Speaker:g":	"0D8ADCCE_7481A400",
+				"Action2\\Sample:s":	"Galion_07_07",
+				"Action2\\ForceEnd:d":	1,
+				"Action2\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action3",
+		"row_count":	1,
+		"rows":	[{
+				"Action3\\Name:s":	"SHOT01_Camera_Bilbo_PopsUp",
+				"Action3\\Type:d":	4,
+				"Action3\\Shot:d":	1,
+				"Action3\\Offset:f":	3.3666670322418213,
+				"Action3\\Duration:f":	3.8666670322418213,
+				"Action3\\SyncPoint:d":	1,
+				"Action3\\FinishShot:d":	0,
+				"Action3\\DefaultLength:f":	3.8666670322418213,
+				"Action3\\CameraType:d":	0,
+				"Action3\\Target:g":	"C0CFA14E_8921B800",
+				"Action3\\Relative:d":	0,
+				"Action3\\StartOrient:fff":	[0, 0, 0],
+				"Action3\\EndOrient:fff":	[0, 0, 0],
+				"Action3\\StartOffset:fff":	[0, 0, 0],
+				"Action3\\EndOffset:fff":	[0, 0, 0],
+				"Action3\\TargetOffset:fff":	[0, 0, 0],
+				"Action3\\StartFOV:f":	1.25663697719574,
+				"Action3\\EndFOV:f":	1.25663697719574,
+				"Action3\\TransitionPop:d":	0,
+				"Action3\\Loop:d":	0,
+				"Action3\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action4",
+		"row_count":	1,
+		"rows":	[{
+				"Action4\\Name:s":	"SHOT01_Anim_Bilbo_PopsUp",
+				"Action4\\Type:d":	2,
+				"Action4\\Shot:d":	1,
+				"Action4\\Offset:f":	3.3666670322418213,
+				"Action4\\Duration:f":	3.8666670322418213,
+				"Action4\\SyncPoint:d":	1,
+				"Action4\\FinishShot:d":	1,
+				"Action4\\DefaultLength:f":	0,
+				"Action4\\Character:g":	"0D8AD38E_82E48000",
+				"Action4\\AnimName:s":	"Bilbo_PopUp",
+				"Action4\\Length:f":	3.8666670322418213,
+				"Action4\\AnimGroup:s":	"",
+				"Action4\\AnimatedInPlace:d":	1,
+				"Action4\\Loops:d":	1,
+				"Action4\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action5",
+		"row_count":	1,
+		"rows":	[{
+				"Action5\\Name:s":	"SHOT01_Dialog_Bilbo_PopsUp_07_26",
+				"Action5\\Type:d":	5,
+				"Action5\\Shot:d":	1,
+				"Action5\\Offset:f":	3.3666670322418213,
+				"Action5\\Duration:f":	2.4074687957763672,
+				"Action5\\SyncPoint:d":	1,
+				"Action5\\FinishShot:d":	0,
+				"Action5\\DefaultLength:f":	2.4074687957763672,
+				"Action5\\Speaker:g":	"0D8AD38E_82E48000",
+				"Action5\\Sample:s":	"Bilbo_07_26",
+				"Action5\\ForceEnd:d":	1,
+				"Action5\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action6",
+		"row_count":	1,
+		"rows":	[{
+				"Action6\\Name:s":	"SHOT02_Camera_Galion_Drinks",
+				"Action6\\Type:d":	4,
+				"Action6\\Shot:d":	2,
+				"Action6\\Offset:f":	7.2333340644836426,
+				"Action6\\Duration:f":	7.033332347869873,
+				"Action6\\SyncPoint:d":	2,
+				"Action6\\FinishShot:d":	0,
+				"Action6\\DefaultLength:f":	7.0333337783813477,
+				"Action6\\CameraType:d":	0,
+				"Action6\\Target:g":	"C0CFA14E_8932E800",
+				"Action6\\Relative:d":	0,
+				"Action6\\StartOrient:fff":	[0, 0, 0],
+				"Action6\\EndOrient:fff":	[0, 0, 0],
+				"Action6\\StartOffset:fff":	[0, 0, 0],
+				"Action6\\EndOffset:fff":	[0, 0, 0],
+				"Action6\\TargetOffset:fff":	[0, 0, 0],
+				"Action6\\StartFOV:f":	1.25663697719574,
+				"Action6\\EndFOV:f":	1.25663697719574,
+				"Action6\\TransitionPop:d":	0,
+				"Action6\\Loop:d":	0,
+				"Action6\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action7",
+		"row_count":	1,
+		"rows":	[{
+				"Action7\\Name:s":	"SHOT02_Anim_Galion _Drinks",
+				"Action7\\Type:d":	2,
+				"Action7\\Shot:d":	2,
+				"Action7\\Offset:f":	7.2333340644836426,
+				"Action7\\Duration:f":	7.03333282470703,
+				"Action7\\SyncPoint:d":	2,
+				"Action7\\FinishShot:d":	1,
+				"Action7\\DefaultLength:f":	7.03333282470703,
+				"Action7\\Character:g":	"0D8ADCCE_7481A400",
+				"Action7\\AnimName:s":	"GalionCinemaDrink",
+				"Action7\\Length:f":	7.03333282470703,
+				"Action7\\AnimGroup:s":	"",
+				"Action7\\AnimatedInPlace:d":	1,
+				"Action7\\Loops:d":	0,
+				"Action7\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action8",
+		"row_count":	1,
+		"rows":	[{
+				"Action8\\Name:s":	"SHOT02_Dialog_Galion_Drinks_07_23",
+				"Action8\\Type:d":	5,
+				"Action8\\Shot:d":	2,
+				"Action8\\Offset:f":	7.2333340644836426,
+				"Action8\\Duration:f":	1.5238125324249268,
+				"Action8\\SyncPoint:d":	2,
+				"Action8\\FinishShot:d":	0,
+				"Action8\\DefaultLength:f":	1.5238125324249268,
+				"Action8\\Speaker:g":	"0D8ADCCE_7481A400",
+				"Action8\\Sample:s":	"Galion_07_23",
+				"Action8\\ForceEnd:d":	1,
+				"Action8\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action9",
+		"row_count":	1,
+		"rows":	[{
+				"Action9\\Name:s":	"SHOT03_Camera_Bilbo_Anticipation",
+				"Action9\\Type:d":	4,
+				"Action9\\Shot:d":	3,
+				"Action9\\Offset:f":	14.266666412353516,
+				"Action9\\Duration:f":	2.8785629272460937,
+				"Action9\\SyncPoint:d":	3,
+				"Action9\\FinishShot:d":	0,
+				"Action9\\DefaultLength:f":	2.0333340167999268,
+				"Action9\\CameraType:d":	0,
+				"Action9\\Target:g":	"C0CFA14E_89258000",
+				"Action9\\Relative:d":	0,
+				"Action9\\StartOrient:fff":	[0, 0, 0],
+				"Action9\\EndOrient:fff":	[0, 0, 0],
+				"Action9\\StartOffset:fff":	[0, 0, 0],
+				"Action9\\EndOffset:fff":	[0, 0, 0],
+				"Action9\\TargetOffset:fff":	[0, 0, 0],
+				"Action9\\StartFOV:f":	1.25663697719574,
+				"Action9\\EndFOV:f":	1.25663697719574,
+				"Action9\\TransitionPop:d":	0,
+				"Action9\\Loop:d":	0,
+				"Action9\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action10",
+		"row_count":	1,
+		"rows":	[{
+				"Action10\\Name:s":	"SHOT03_Anim_Bilbo_Anticipation",
+				"Action10\\Type:d":	2,
+				"Action10\\Shot:d":	3,
+				"Action10\\Offset:f":	14.266666412353516,
+				"Action10\\Duration:f":	3.3299999237060547,
+				"Action10\\SyncPoint:d":	3,
+				"Action10\\FinishShot:d":	0,
+				"Action10\\DefaultLength:f":	0,
+				"Action10\\Character:g":	"0D8AD38E_82E48000",
+				"Action10\\AnimName:s":	"Bilbo_Anticipation",
+				"Action10\\Length:f":	3.3299999237060547,
+				"Action10\\AnimGroup:s":	"",
+				"Action10\\AnimatedInPlace:d":	1,
+				"Action10\\Loops:d":	1,
+				"Action10\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action11",
+		"row_count":	1,
+		"rows":	[{
+				"Action11\\Name:s":	"SHOT03_Dialog_Bilbo_Anticipation_07_30",
+				"Action11\\Type:d":	5,
+				"Action11\\Shot:d":	3,
+				"Action11\\Offset:f":	14.266666412353516,
+				"Action11\\Duration:f":	2.8785624504089355,
+				"Action11\\SyncPoint:d":	3,
+				"Action11\\FinishShot:d":	1,
+				"Action11\\DefaultLength:f":	2.8785624504089355,
+				"Action11\\Speaker:g":	"0D8AD38E_82E48000",
+				"Action11\\Sample:s":	"Bilbo_07_30",
+				"Action11\\ForceEnd:d":	1,
+				"Action11\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action12",
+		"row_count":	1,
+		"rows":	[{
+				"Action12\\Name:s":	"SHOT04_Camera_Galion_Passes_Out",
+				"Action12\\Type:d":	4,
+				"Action12\\Shot:d":	4,
+				"Action12\\Offset:f":	17.145229339599609,
+				"Action12\\Duration:f":	0.51304435729980469,
+				"Action12\\SyncPoint:d":	4,
+				"Action12\\FinishShot:d":	0,
+				"Action12\\DefaultLength:f":	8.03333377838135,
+				"Action12\\CameraType:d":	0,
+				"Action12\\Target:g":	"C0CFA14E_89334000",
+				"Action12\\Relative:d":	0,
+				"Action12\\StartOrient:fff":	[0, 0, 0],
+				"Action12\\EndOrient:fff":	[0, 0, 0],
+				"Action12\\StartOffset:fff":	[0, 0, 0],
+				"Action12\\EndOffset:fff":	[0, 0, 0],
+				"Action12\\TargetOffset:fff":	[0, 0, 0],
+				"Action12\\StartFOV:f":	1.25663697719574,
+				"Action12\\EndFOV:f":	1.25663697719574,
+				"Action12\\TransitionPop:d":	0,
+				"Action12\\Loop:d":	0,
+				"Action12\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action13",
+		"row_count":	1,
+		"rows":	[{
+				"Action13\\Name:s":	"SHOT04_Anim_Galion_Passes_Out",
+				"Action13\\Type:d":	2,
+				"Action13\\Shot:d":	4,
+				"Action13\\Offset:f":	17.145229339599609,
+				"Action13\\Duration:f":	8.03333377838135,
+				"Action13\\SyncPoint:d":	4,
+				"Action13\\FinishShot:d":	0,
+				"Action13\\DefaultLength:f":	8.03333377838135,
+				"Action13\\Character:g":	"0D8ADCCE_7481A400",
+				"Action13\\AnimName:s":	"GalionCinemaPassOut",
+				"Action13\\Length:f":	8.03333377838135,
+				"Action13\\AnimGroup:s":	"",
+				"Action13\\AnimatedInPlace:d":	1,
+				"Action13\\Loops:d":	0,
+				"Action13\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action14",
+		"row_count":	1,
+		"rows":	[{
+				"Action14\\Name:s":	"SHOT04_Dialog_Galion_Passes_Out_07_22",
+				"Action14\\Type:d":	5,
+				"Action14\\Shot:d":	4,
+				"Action14\\Offset:f":	17.145229339599609,
+				"Action14\\Duration:f":	0.51304525136947632,
+				"Action14\\SyncPoint:d":	4,
+				"Action14\\FinishShot:d":	1,
+				"Action14\\DefaultLength:f":	0.907031238079071,
+				"Action14\\Speaker:g":	"0D8ADCCE_7481A400",
+				"Action14\\Sample:s":	"Galion_07_22",
+				"Action14\\ForceEnd:d":	1,
+				"Action14\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action15",
+		"row_count":	1,
+		"rows":	[{
+				"Action15\\Name:s":	"SHOT05_Camera_Bilbo_Winces",
+				"Action15\\Type:d":	4,
+				"Action15\\Shot:d":	5,
+				"Action15\\Offset:f":	17.658273696899414,
+				"Action15\\Duration:f":	2.7000007629394531,
+				"Action15\\SyncPoint:d":	5,
+				"Action15\\FinishShot:d":	0,
+				"Action15\\DefaultLength:f":	2.3666670322418213,
+				"Action15\\CameraType:d":	0,
+				"Action15\\Target:g":	"C0CFA14E_89340400",
+				"Action15\\Relative:d":	0,
+				"Action15\\StartOrient:fff":	[0, 0, 0],
+				"Action15\\EndOrient:fff":	[0, 0, 0],
+				"Action15\\StartOffset:fff":	[0, 0, 0],
+				"Action15\\EndOffset:fff":	[0, 0, 0],
+				"Action15\\TargetOffset:fff":	[0, 0, 0],
+				"Action15\\StartFOV:f":	1.25663697719574,
+				"Action15\\EndFOV:f":	1.25663697719574,
+				"Action15\\TransitionPop:d":	0,
+				"Action15\\Loop:d":	0,
+				"Action15\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action16",
+		"row_count":	1,
+		"rows":	[{
+				"Action16\\Name:s":	"SHOT05_Anim_Bilbo_Winces",
+				"Action16\\Type:d":	2,
+				"Action16\\Shot:d":	5,
+				"Action16\\Offset:f":	17.658273696899414,
+				"Action16\\Duration:f":	2.3666670322418213,
+				"Action16\\SyncPoint:d":	5,
+				"Action16\\FinishShot:d":	1,
+				"Action16\\DefaultLength:f":	0,
+				"Action16\\Character:g":	"0D8AD38E_82E48000",
+				"Action16\\AnimName:s":	"Bilbo_Wince",
+				"Action16\\Length:f":	2.3666670322418213,
+				"Action16\\AnimGroup:s":	"",
+				"Action16\\AnimatedInPlace:d":	1,
+				"Action16\\Loops:d":	1,
+				"Action16\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action17",
+		"row_count":	1,
+		"rows":	[{
+				"Action17\\Name:s":	"SHOT05_Dialog_Bilbo_Winces_07_29",
+				"Action17\\Type:d":	5,
+				"Action17\\Shot:d":	5,
+				"Action17\\Offset:f":	17.658273696899414,
+				"Action17\\Duration:f":	1.121843695640564,
+				"Action17\\SyncPoint:d":	5,
+				"Action17\\FinishShot:d":	1,
+				"Action17\\DefaultLength:f":	1.121843695640564,
+				"Action17\\Speaker:g":	"0D8AD38E_82E48000",
+				"Action17\\Sample:s":	"Bilbo_07_29",
+				"Action17\\ForceEnd:d":	1,
+				"Action17\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action18",
+		"row_count":	1,
+		"rows":	[{
+				"Action18\\Name:s":	"SHOT05_Anim_Galion_Alseep",
+				"Action18\\Type:d":	2,
+				"Action18\\Shot:d":	5,
+				"Action18\\Offset:f":	17.658273696899414,
+				"Action18\\Duration:f":	2.7000000476837158,
+				"Action18\\SyncPoint:d":	5,
+				"Action18\\FinishShot:d":	0,
+				"Action18\\DefaultLength:f":	2.7000000476837158,
+				"Action18\\Character:g":	"0D8ADCCE_7481A400",
+				"Action18\\AnimName:s":	"GalionSleepIdle",
+				"Action18\\Length:f":	2.7000000476837158,
+				"Action18\\AnimGroup:s":	"",
+				"Action18\\AnimatedInPlace:d":	1,
+				"Action18\\Loops:d":	0,
+				"Action18\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action19",
+		"row_count":	1,
+		"rows":	[{
+				"Action19\\Name:s":	"SHOT05_Dialog_Galion_Alseep_07_24",
+				"Action19\\Type:d":	5,
+				"Action19\\Shot:d":	5,
+				"Action19\\Offset:f":	17.658273696899414,
+				"Action19\\Duration:f":	1.4936399459838867,
+				"Action19\\SyncPoint:d":	5,
+				"Action19\\FinishShot:d":	1,
+				"Action19\\DefaultLength:f":	11.115843772888184,
+				"Action19\\Speaker:g":	"0D8ADCCE_7481A400",
+				"Action19\\Sample:s":	"Galion_07_24",
+				"Action19\\ForceEnd:d":	1,
+				"Action19\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action20",
+		"row_count":	1,
+		"rows":	[{
+				"Action20\\Name:s":	"SHOT00_Pop_Bilbo_to_Greenroom",
+				"Action20\\Type:d":	6,
+				"Action20\\Shot:d":	0,
+				"Action20\\Offset:f":	0,
+				"Action20\\Duration:f":	0,
+				"Action20\\SyncPoint:d":	0,
+				"Action20\\FinishShot:d":	0,
+				"Action20\\DefaultLength:f":	0,
+				"Action20\\Object:g":	"ABCABCAB_CABCABC0",
+				"Action20\\Location:g":	"0D8ADE90_0FE62C00",
+				"Action20\\Facing:g":	"0D8AD38E_82E48000",
+				"Action20\\SetFacing:d":	1,
+				"Action20\\Anim:s":	""
+			}]
+	}, {
+		"name":	"Action21",
+		"row_count":	1,
+		"rows":	[{
+				"Action21\\Name:s":	"SHOT05_PopTo_BringBilbo_FromGreenroom",
+				"Action21\\Type:d":	6,
+				"Action21\\Shot:d":	5,
+				"Action21\\Offset:f":	20.358274459838867,
+				"Action21\\Duration:f":	0,
+				"Action21\\SyncPoint:d":	6,
+				"Action21\\FinishShot:d":	1,
+				"Action21\\DefaultLength:f":	0,
+				"Action21\\Object:g":	"ABCABCAB_CABCABC0",
+				"Action21\\Location:g":	"0D8AD151_12038800",
+				"Action21\\Facing:g":	"0D8AD151_1203E401",
+				"Action21\\SetFacing:d":	1,
+				"Action21\\Anim:s":	""
+			}]
+	}, {
+		"name":	"Action22",
+		"row_count":	1,
+		"rows":	[{
+				"Action22\\Name:s":	"SHOT05_PopTo_SendBilboNPC_ToGreenRoom",
+				"Action22\\Type:d":	6,
+				"Action22\\Shot:d":	5,
+				"Action22\\Offset:f":	20.358274459838867,
+				"Action22\\Duration:f":	0,
+				"Action22\\SyncPoint:d":	6,
+				"Action22\\FinishShot:d":	1,
+				"Action22\\DefaultLength:f":	0,
+				"Action22\\Object:g":	"0D8AD38E_82E48000",
+				"Action22\\Location:g":	"0D8ADE8E_2F0BCC00",
+				"Action22\\Facing:g":	"00000000_00000000",
+				"Action22\\SetFacing:d":	0,
+				"Action22\\Anim:s":	"Non_Positioned_Idle"
+			}]
+	}, {
+		"name":	"Action23",
+		"row_count":	1,
+		"rows":	[{
+				"Action23\\Name:s":	"SHOT02_AnimInst_Galion'sMug",
+				"Action23\\Type:d":	9,
+				"Action23\\Shot:d":	2,
+				"Action23\\Offset:f":	7.2333340644836426,
+				"Action23\\Duration:f":	7.03333282470703,
+				"Action23\\SyncPoint:d":	2,
+				"Action23\\FinishShot:d":	0,
+				"Action23\\DefaultLength:f":	7.03333282470703,
+				"Action23\\Object:g":	"C0CFAF4E_C4766800",
+				"Action23\\AnimName:s":	"",
+				"Action23\\StartAnimating:d":	1,
+				"Action23\\Looping:d":	0,
+				"Action23\\HideWhenDone:d":	1,
+				"Action23\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action24",
+		"row_count":	1,
+		"rows":	[{
+				"Action24\\Name:s":	"SHOT05_PopTo_Galion_ToBarrel",
+				"Action24\\Type:d":	6,
+				"Action24\\Shot:d":	5,
+				"Action24\\Offset:f":	20.358274459838867,
+				"Action24\\Duration:f":	0,
+				"Action24\\SyncPoint:d":	6,
+				"Action24\\FinishShot:d":	1,
+				"Action24\\DefaultLength:f":	0,
+				"Action24\\Object:g":	"0D8ADCCE_7481A400",
+				"Action24\\Location:g":	"C0CFAC0E_C570D800",
+				"Action24\\Facing:g":	"C0CFAC0E_C5722401",
+				"Action24\\SetFacing:d":	1,
+				"Action24\\Anim:s":	"GalionSleepIdle"
+			}]
+	}, {
+		"name":	"Action25",
+		"row_count":	1,
+		"rows":	[{
+				"Action25\\Name:s":	"SHOT00_PopTo_Galion_ToBarrel",
+				"Action25\\Type:d":	6,
+				"Action25\\Shot:d":	0,
+				"Action25\\Offset:f":	0,
+				"Action25\\Duration:f":	0,
+				"Action25\\SyncPoint:d":	0,
+				"Action25\\FinishShot:d":	1,
+				"Action25\\DefaultLength:f":	0,
+				"Action25\\Object:g":	"0D8ADCCE_7481A400",
+				"Action25\\Location:g":	"C0CFAC0E_C570D800",
+				"Action25\\Facing:g":	"C0CFAC0E_C5722401",
+				"Action25\\SetFacing:d":	1,
+				"Action25\\Anim:s":	""
+			}]
+	}, {
+		"name":	"Participants",
+		"row_count":	3,
+		"rows":	[{
+				"PGuid:g":	"ABCABCAB_CABCABC0"
+			}, {
+				"PGuid:g":	"0D8ADCCE_7481A400"
+			}, {
+				"PGuid:g":	"0D8AD38E_82E48000"
+			}]
+	}, {
+		"name":	"Action-1",
+		"row_count":	1,
+		"rows":	[{
+				"Action-1\\Shot:d":	0,
+				"Action-1\\Offset:f":	0,
+				"Action-1\\Duration:f":	1,
+				"Action-1\\SyncPoint:d":	0,
+				"Action-1\\FinishShot:d":	0,
+				"Action-1\\DefaultLength:f":	1,
+				"Action-1\\FXType:d":	3,
+				"Action-1\\Magnitude:f":	0.15000000596046448,
+				"Action-1\\Frequency:f":	20,
+				"Action-1\\Rolling:d":	0,
+				"Action-1\\Fadeout:d":	0,
+				"Action-1\\Color:dddd":	[0, 0, 0, 255],
+				"Action-1\\Target:f":	0
+			}]
+	}, {
+		"name":	"Action-2",
+		"row_count":	1,
+		"rows":	[{
+				"Action-2\\Shot:d":	0,
+				"Action-2\\Offset:f":	0,
+				"Action-2\\Duration:f":	1,
+				"Action-2\\SyncPoint:d":	0,
+				"Action-2\\FinishShot:d":	0,
+				"Action-2\\DefaultLength:f":	1,
+				"Action-2\\FXType:d":	3,
+				"Action-2\\Magnitude:f":	0.15000000596046448,
+				"Action-2\\Frequency:f":	20,
+				"Action-2\\Rolling:d":	0,
+				"Action-2\\Fadeout:d":	0,
+				"Action-2\\Color:dddd":	[0, 0, 0, 255],
+				"Action-2\\Target:f":	0
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C0CFAC0E_C5722401",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-9446.08203125, -678.448486328125, 4164.23193359375],
+				"Orientation:fff":	[0, 176.40000915527344, 0],
+				"LocalBoundingBox:ffffff":	[-22.3713436126709, -50, -23.774192810058594, 22.3713436126709, 50, 23.774192810058594],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Cine01_Galion_FacingVol",
+				"Name:s":	"Cine01_Galion_FacingVol",
+				"Pos:fff":	[-9446.08203125, -678.448486328125, 4164.23193359375],
+				"BBox:ffffff":	[-9468.453125, -728.448486328125, 4140.45751953125, -9423.7109375, -628.448486328125, 4188.00634765625],
+				"Orient:fff":	[0, 176.40000915527344, 0],
+				"HalfDimensions:fff":	[21.000001907348633, 50, 22.499998092651367],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C0CFAC0E_C570D800",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-9436.8779296875, -678.4486083984375, 4370.4697265625],
+				"Orientation:fff":	[0, 176.40000915527344, 0],
+				"LocalBoundingBox:ffffff":	[-22.3713436126709, -50, -23.774192810058594, 22.3713436126709, 50, 23.774192810058594],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Cine01_Galion_PopToVol",
+				"Name:s":	"Cine01_Galion_PopToVol",
+				"Pos:fff":	[-9436.8779296875, -678.4486083984375, 4370.4697265625],
+				"BBox:ffffff":	[-9459.2490234375, -728.4486083984375, 4346.6953125, -9414.5068359375, -628.4486083984375, 4394.244140625],
+				"Orient:fff":	[0, 176.40000915527344, 0],
+				"HalfDimensions:fff":	[21.000001907348633, 50, 22.499998092651367],
+				"Pain:s":	"none"
+			}]
+	}]

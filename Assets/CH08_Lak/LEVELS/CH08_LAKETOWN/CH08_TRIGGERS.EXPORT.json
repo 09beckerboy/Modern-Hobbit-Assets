@@ -1,0 +1,39 @@
+[{
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"15A46851_10DBA000",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	0,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	0,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	0,
+				"MaxItems:d":	0,
+				"nActivators:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"laketowngaspuzzle.xsc",
+				"InitialPos:fff":	[2877.308349609375, -3242.57568359375, -430.71414184570312],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-0.5, -0.5, -0.5, 0.5, 0.5, 0.5],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"LaketownGasPuzzle",
+				"Name:s":	"LaketownGasPuzzle",
+				"Pos:fff":	[2877.308349609375, -3242.57568359375, -430.71414184570312],
+				"BBox:ffffff":	[2876.808349609375, -3243.07568359375, -431.21414184570312, 2877.808349609375, -3242.07568359375, -430.21414184570312],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[0.5, 0.5, 0.5],
+				"Pain:s":	""
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}]

@@ -1,0 +1,5976 @@
+[{
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD8D1_11C15000",
+				"Name:s":	"Golem_Rock_PlatB-001",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_swordlight_rockplatb.rgeom",
+				"Pos:fff":	[10323.9599609375, -2259.36962890625, 2598.5380859375],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, 0, 0.45000100135803223],
+				"Scale:fff":	[1.9700000286102295, 1.9700000286102295, 1.9700000286102295],
+				"BBox:ffffff":	[10110.857421875, -2262.991455078125, 2388.22216796875, 10534.28515625, -1902.1175537109375, 2808.85400390625],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	14760,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0.45000100135803223],
+				"LocalBoundingBox:ffffff":	[-213.1025390625, -3.621826171875, -210.31591796875, 210.3251953125, 357.2520751953125, 210.31591796875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Golem_Rock_PlatB-001",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	1,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	140,
+		"rows":	[{
+				"Color:dddd":	[3, 3, 8, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[5, 6, 13, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[8, 8, 19, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[9, 9, 22, 255]
+			}, {
+				"Color:dddd":	[9, 9, 21, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[1, 1, 3, 0]
+			}, {
+				"Color:dddd":	[6, 7, 16, 212]
+			}, {
+				"Color:dddd":	[16, 14, 37, 0]
+			}, {
+				"Color:dddd":	[51, 26, 77, 191]
+			}, {
+				"Color:dddd":	[0, 0, 0, 239]
+			}, {
+				"Color:dddd":	[27, 24, 64, 0]
+			}, {
+				"Color:dddd":	[67, 36, 102, 151]
+			}, {
+				"Color:dddd":	[86, 45, 128, 229]
+			}, {
+				"Color:dddd":	[68, 34, 102, 239]
+			}, {
+				"Color:dddd":	[4, 1, 9, 251]
+			}, {
+				"Color:dddd":	[34, 29, 79, 159]
+			}, {
+				"Color:dddd":	[50, 38, 100, 191]
+			}, {
+				"Color:dddd":	[77, 44, 121, 159]
+			}, {
+				"Color:dddd":	[37, 31, 85, 0]
+			}, {
+				"Color:dddd":	[65, 46, 114, 239]
+			}, {
+				"Color:dddd":	[97, 54, 147, 231]
+			}, {
+				"Color:dddd":	[27, 19, 45, 255]
+			}, {
+				"Color:dddd":	[58, 31, 85, 0]
+			}, {
+				"Color:dddd":	[109, 59, 161, 255]
+			}, {
+				"Color:dddd":	[64, 44, 106, 255]
+			}, {
+				"Color:dddd":	[53, 25, 78, 0]
+			}, {
+				"Color:dddd":	[99, 50, 146, 255]
+			}, {
+				"Color:dddd":	[4, 1, 10, 255]
+			}, {
+				"Color:dddd":	[10, 3, 19, 255]
+			}, {
+				"Color:dddd":	[78, 37, 118, 255]
+			}, {
+				"Color:dddd":	[33, 13, 52, 0]
+			}, {
+				"Color:dddd":	[3, 3, 8, 255]
+			}, {
+				"Color:dddd":	[5, 6, 13, 255]
+			}, {
+				"Color:dddd":	[15, 15, 36, 255]
+			}, {
+				"Color:dddd":	[6, 6, 15, 255]
+			}, {
+				"Color:dddd":	[8, 8, 19, 255]
+			}, {
+				"Color:dddd":	[22, 21, 52, 255]
+			}, {
+				"Color:dddd":	[26, 25, 62, 255]
+			}, {
+				"Color:dddd":	[18, 18, 43, 255]
+			}, {
+				"Color:dddd":	[7, 7, 17, 255]
+			}, {
+				"Color:dddd":	[9, 9, 22, 255]
+			}, {
+				"Color:dddd":	[18, 16, 43, 255]
+			}, {
+				"Color:dddd":	[23, 21, 54, 255]
+			}, {
+				"Color:dddd":	[9, 9, 21, 255]
+			}, {
+				"Color:dddd":	[24, 21, 57, 255]
+			}, {
+				"Color:dddd":	[27, 25, 64, 255]
+			}, {
+				"Color:dddd":	[34, 29, 79, 255]
+			}, {
+				"Color:dddd":	[37, 31, 85, 255]
+			}, {
+				"Color:dddd":	[29, 26, 68, 255]
+			}, {
+				"Color:dddd":	[23, 20, 55, 255]
+			}, {
+				"Color:dddd":	[27, 24, 64, 255]
+			}, {
+				"Color:dddd":	[28, 26, 66, 255]
+			}, {
+				"Color:dddd":	[6, 7, 16, 255]
+			}, {
+				"Color:dddd":	[7, 7, 17, 255]
+			}, {
+				"Color:dddd":	[19, 19, 44, 255]
+			}, {
+				"Color:dddd":	[16, 14, 37, 255]
+			}, {
+				"Color:dddd":	[1, 1, 3, 255]
+			}, {
+				"Color:dddd":	[12, 11, 28, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[7, 7, 17, 255]
+			}, {
+				"Color:dddd":	[13, 12, 30, 255]
+			}, {
+				"Color:dddd":	[18, 16, 42, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[3, 3, 7, 255]
+			}, {
+				"Color:dddd":	[6, 6, 14, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[6, 6, 14, 255]
+			}, {
+				"Color:dddd":	[10, 10, 24, 255]
+			}, {
+				"Color:dddd":	[27, 19, 45, 255]
+			}, {
+				"Color:dddd":	[64, 44, 106, 255]
+			}, {
+				"Color:dddd":	[11, 11, 26, 255]
+			}, {
+				"Color:dddd":	[4, 4, 11, 255]
+			}, {
+				"Color:dddd":	[65, 46, 114, 255]
+			}, {
+				"Color:dddd":	[15, 14, 35, 255]
+			}, {
+				"Color:dddd":	[19, 16, 44, 255]
+			}, {
+				"Color:dddd":	[50, 38, 100, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[3, 3, 7, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 2, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[6, 6, 14, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[1, 0, 3, 255]
+			}, {
+				"Color:dddd":	[4, 1, 10, 255]
+			}, {
+				"Color:dddd":	[33, 13, 52, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[53, 25, 78, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[27, 19, 45, 255]
+			}, {
+				"Color:dddd":	[4, 4, 11, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[58, 31, 85, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[3, 3, 8, 255]
+			}, {
+				"Color:dddd":	[6, 6, 15, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[7, 7, 17, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[6, 7, 16, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[7, 7, 17, 255]
+			}, {
+				"Color:dddd":	[4, 1, 9, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[10, 3, 19, 255]
+			}]
+	}, {
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD8D1_11C4E000",
+				"Name:s":	"Golem_Rock_PlatC-001",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_swordlight_rockplatc.rgeom",
+				"Pos:fff":	[10151.314453125, -2236.34716796875, 2631.443359375],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1.309999942779541, 1.309999942779541, 1.309999942779541],
+				"BBox:ffffff":	[10003.06640625, -2237.6572265625, 2483.195556640625, 10299.5625, -1713.8302001953125, 2779.69140625],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	14760,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-148.248046875, -1.31005859375, -148.247802734375, 148.248046875, 522.5169677734375, 148.248046875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Golem_Rock_PlatC-001",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	1,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	230,
+		"rows":	[{
+				"Color:dddd":	[7, 7, 17, 255]
+			}, {
+				"Color:dddd":	[1, 1, 4, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[8, 8, 19, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[8, 8, 20, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[7, 6, 16, 255]
+			}, {
+				"Color:dddd":	[7, 7, 18, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[10, 9, 24, 255]
+			}, {
+				"Color:dddd":	[15, 12, 36, 0]
+			}, {
+				"Color:dddd":	[92, 47, 126, 255]
+			}, {
+				"Color:dddd":	[5, 2, 13, 255]
+			}, {
+				"Color:dddd":	[24, 17, 55, 0]
+			}, {
+				"Color:dddd":	[107, 59, 153, 255]
+			}, {
+				"Color:dddd":	[144, 76, 197, 255]
+			}, {
+				"Color:dddd":	[131, 65, 176, 255]
+			}, {
+				"Color:dddd":	[39, 15, 60, 255]
+			}, {
+				"Color:dddd":	[42, 35, 97, 255]
+			}, {
+				"Color:dddd":	[54, 49, 125, 255]
+			}, {
+				"Color:dddd":	[108, 66, 166, 255]
+			}, {
+				"Color:dddd":	[38, 30, 87, 0]
+			}, {
+				"Color:dddd":	[75, 65, 155, 255]
+			}, {
+				"Color:dddd":	[141, 82, 205, 255]
+			}, {
+				"Color:dddd":	[26, 25, 58, 255]
+			}, {
+				"Color:dddd":	[83, 47, 115, 0]
+			}, {
+				"Color:dddd":	[161, 90, 225, 255]
+			}, {
+				"Color:dddd":	[74, 60, 139, 255]
+			}, {
+				"Color:dddd":	[103, 47, 132, 0]
+			}, {
+				"Color:dddd":	[172, 88, 228, 255]
+			}, {
+				"Color:dddd":	[33, 12, 62, 255]
+			}, {
+				"Color:dddd":	[61, 24, 96, 255]
+			}, {
+				"Color:dddd":	[158, 76, 209, 255]
+			}, {
+				"Color:dddd":	[92, 39, 127, 0]
+			}, {
+				"Color:dddd":	[7, 7, 17, 255]
+			}, {
+				"Color:dddd":	[8, 8, 19, 255]
+			}, {
+				"Color:dddd":	[17, 17, 41, 255]
+			}, {
+				"Color:dddd":	[10, 10, 25, 255]
+			}, {
+				"Color:dddd":	[8, 8, 20, 255]
+			}, {
+				"Color:dddd":	[20, 18, 47, 255]
+			}, {
+				"Color:dddd":	[23, 21, 54, 255]
+			}, {
+				"Color:dddd":	[20, 19, 47, 255]
+			}, {
+				"Color:dddd":	[12, 12, 29, 255]
+			}, {
+				"Color:dddd":	[7, 6, 16, 255]
+			}, {
+				"Color:dddd":	[14, 12, 33, 255]
+			}, {
+				"Color:dddd":	[18, 16, 42, 255]
+			}, {
+				"Color:dddd":	[7, 7, 18, 255]
+			}, {
+				"Color:dddd":	[20, 18, 47, 255]
+			}, {
+				"Color:dddd":	[22, 19, 52, 255]
+			}, {
+				"Color:dddd":	[25, 22, 59, 255]
+			}, {
+				"Color:dddd":	[25, 21, 59, 255]
+			}, {
+				"Color:dddd":	[24, 20, 56, 255]
+			}, {
+				"Color:dddd":	[23, 20, 53, 255]
+			}, {
+				"Color:dddd":	[25, 22, 59, 255]
+			}, {
+				"Color:dddd":	[24, 22, 57, 255]
+			}, {
+				"Color:dddd":	[13, 12, 30, 255]
+			}, {
+				"Color:dddd":	[12, 12, 30, 255]
+			}, {
+				"Color:dddd":	[21, 19, 50, 255]
+			}, {
+				"Color:dddd":	[22, 20, 51, 255]
+			}, {
+				"Color:dddd":	[13, 12, 30, 255]
+			}, {
+				"Color:dddd":	[22, 20, 51, 255]
+			}, {
+				"Color:dddd":	[22, 19, 51, 255]
+			}, {
+				"Color:dddd":	[13, 12, 30, 255]
+			}, {
+				"Color:dddd":	[25, 22, 59, 255]
+			}, {
+				"Color:dddd":	[26, 22, 60, 255]
+			}, {
+				"Color:dddd":	[26, 22, 61, 255]
+			}, {
+				"Color:dddd":	[22, 19, 51, 255]
+			}, {
+				"Color:dddd":	[12, 12, 29, 255]
+			}, {
+				"Color:dddd":	[25, 22, 59, 255]
+			}, {
+				"Color:dddd":	[27, 23, 64, 255]
+			}, {
+				"Color:dddd":	[26, 21, 59, 255]
+			}, {
+				"Color:dddd":	[25, 21, 59, 255]
+			}, {
+				"Color:dddd":	[28, 23, 64, 255]
+			}, {
+				"Color:dddd":	[25, 19, 58, 255]
+			}, {
+				"Color:dddd":	[42, 35, 97, 255]
+			}, {
+				"Color:dddd":	[38, 30, 87, 255]
+			}, {
+				"Color:dddd":	[26, 20, 59, 255]
+			}, {
+				"Color:dddd":	[27, 22, 63, 255]
+			}, {
+				"Color:dddd":	[24, 17, 55, 255]
+			}, {
+				"Color:dddd":	[27, 22, 62, 255]
+			}, {
+				"Color:dddd":	[10, 9, 24, 255]
+			}, {
+				"Color:dddd":	[12, 12, 28, 255]
+			}, {
+				"Color:dddd":	[22, 19, 51, 255]
+			}, {
+				"Color:dddd":	[15, 12, 36, 255]
+			}, {
+				"Color:dddd":	[7, 6, 16, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[9, 8, 21, 255]
+			}, {
+				"Color:dddd":	[14, 12, 33, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[6, 6, 15, 255]
+			}, {
+				"Color:dddd":	[12, 11, 29, 255]
+			}, {
+				"Color:dddd":	[15, 13, 35, 255]
+			}, {
+				"Color:dddd":	[20, 18, 47, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[2, 2, 6, 255]
+			}, {
+				"Color:dddd":	[5, 5, 13, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[6, 6, 14, 255]
+			}, {
+				"Color:dddd":	[10, 10, 23, 255]
+			}, {
+				"Color:dddd":	[9, 9, 22, 255]
+			}, {
+				"Color:dddd":	[15, 15, 36, 255]
+			}, {
+				"Color:dddd":	[12, 12, 29, 255]
+			}, {
+				"Color:dddd":	[7, 7, 18, 255]
+			}, {
+				"Color:dddd":	[18, 18, 44, 255]
+			}, {
+				"Color:dddd":	[15, 14, 35, 255]
+			}, {
+				"Color:dddd":	[25, 22, 59, 255]
+			}, {
+				"Color:dddd":	[23, 20, 53, 255]
+			}, {
+				"Color:dddd":	[18, 16, 42, 255]
+			}, {
+				"Color:dddd":	[21, 19, 50, 255]
+			}, {
+				"Color:dddd":	[25, 22, 59, 255]
+			}, {
+				"Color:dddd":	[21, 19, 50, 255]
+			}, {
+				"Color:dddd":	[25, 22, 58, 255]
+			}, {
+				"Color:dddd":	[27, 23, 64, 255]
+			}, {
+				"Color:dddd":	[18, 18, 44, 255]
+			}, {
+				"Color:dddd":	[22, 21, 52, 255]
+			}, {
+				"Color:dddd":	[24, 24, 57, 255]
+			}, {
+				"Color:dddd":	[27, 24, 62, 255]
+			}, {
+				"Color:dddd":	[28, 23, 64, 255]
+			}, {
+				"Color:dddd":	[9, 9, 22, 255]
+			}, {
+				"Color:dddd":	[10, 11, 25, 255]
+			}, {
+				"Color:dddd":	[18, 18, 43, 255]
+			}, {
+				"Color:dddd":	[15, 15, 36, 255]
+			}, {
+				"Color:dddd":	[10, 10, 24, 255]
+			}, {
+				"Color:dddd":	[20, 20, 46, 255]
+			}, {
+				"Color:dddd":	[26, 25, 58, 255]
+			}, {
+				"Color:dddd":	[74, 60, 139, 255]
+			}, {
+				"Color:dddd":	[22, 23, 53, 255]
+			}, {
+				"Color:dddd":	[9, 9, 22, 255]
+			}, {
+				"Color:dddd":	[75, 65, 155, 255]
+			}, {
+				"Color:dddd":	[29, 29, 68, 255]
+			}, {
+				"Color:dddd":	[42, 35, 97, 255]
+			}, {
+				"Color:dddd":	[27, 22, 63, 255]
+			}, {
+				"Color:dddd":	[30, 27, 69, 255]
+			}, {
+				"Color:dddd":	[54, 49, 125, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[4, 1, 6, 255]
+			}, {
+				"Color:dddd":	[2, 1, 4, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[1, 0, 4, 255]
+			}, {
+				"Color:dddd":	[1, 0, 2, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[3, 1, 8, 255]
+			}, {
+				"Color:dddd":	[5, 1, 9, 255]
+			}, {
+				"Color:dddd":	[6, 2, 15, 255]
+			}, {
+				"Color:dddd":	[8, 3, 15, 255]
+			}, {
+				"Color:dddd":	[6, 2, 11, 255]
+			}, {
+				"Color:dddd":	[5, 1, 11, 255]
+			}, {
+				"Color:dddd":	[7, 2, 11, 255]
+			}, {
+				"Color:dddd":	[5, 2, 8, 255]
+			}, {
+				"Color:dddd":	[3, 2, 5, 255]
+			}, {
+				"Color:dddd":	[4, 2, 7, 255]
+			}, {
+				"Color:dddd":	[4, 2, 7, 255]
+			}, {
+				"Color:dddd":	[2, 1, 4, 255]
+			}, {
+				"Color:dddd":	[7, 2, 11, 255]
+			}, {
+				"Color:dddd":	[7, 2, 11, 255]
+			}, {
+				"Color:dddd":	[2, 0, 6, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[6, 2, 15, 255]
+			}, {
+				"Color:dddd":	[8, 2, 19, 255]
+			}, {
+				"Color:dddd":	[9, 3, 17, 255]
+			}, {
+				"Color:dddd":	[8, 3, 15, 255]
+			}, {
+				"Color:dddd":	[10, 3, 22, 255]
+			}, {
+				"Color:dddd":	[7, 2, 16, 255]
+			}, {
+				"Color:dddd":	[33, 12, 62, 255]
+			}, {
+				"Color:dddd":	[92, 39, 127, 255]
+			}, {
+				"Color:dddd":	[8, 2, 19, 255]
+			}, {
+				"Color:dddd":	[12, 4, 27, 255]
+			}, {
+				"Color:dddd":	[103, 47, 132, 255]
+			}, {
+				"Color:dddd":	[3, 1, 6, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[83, 47, 115, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[1, 0, 3, 255]
+			}, {
+				"Color:dddd":	[1, 0, 4, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[2, 0, 5, 255]
+			}, {
+				"Color:dddd":	[3, 1, 7, 255]
+			}, {
+				"Color:dddd":	[3, 1, 8, 255]
+			}, {
+				"Color:dddd":	[3, 3, 8, 255]
+			}, {
+				"Color:dddd":	[1, 1, 4, 255]
+			}, {
+				"Color:dddd":	[4, 4, 11, 255]
+			}, {
+				"Color:dddd":	[5, 4, 12, 255]
+			}, {
+				"Color:dddd":	[5, 4, 12, 255]
+			}, {
+				"Color:dddd":	[3, 1, 8, 255]
+			}, {
+				"Color:dddd":	[3, 1, 6, 255]
+			}, {
+				"Color:dddd":	[6, 2, 15, 255]
+			}, {
+				"Color:dddd":	[5, 1, 11, 255]
+			}, {
+				"Color:dddd":	[4, 1, 10, 255]
+			}, {
+				"Color:dddd":	[6, 2, 13, 255]
+			}, {
+				"Color:dddd":	[6, 2, 15, 255]
+			}, {
+				"Color:dddd":	[6, 2, 13, 255]
+			}, {
+				"Color:dddd":	[7, 2, 17, 255]
+			}, {
+				"Color:dddd":	[8, 2, 19, 255]
+			}, {
+				"Color:dddd":	[3, 1, 8, 255]
+			}, {
+				"Color:dddd":	[4, 1, 10, 255]
+			}, {
+				"Color:dddd":	[4, 1, 10, 255]
+			}, {
+				"Color:dddd":	[8, 2, 19, 255]
+			}, {
+				"Color:dddd":	[10, 3, 22, 255]
+			}, {
+				"Color:dddd":	[5, 4, 12, 255]
+			}, {
+				"Color:dddd":	[5, 4, 12, 255]
+			}, {
+				"Color:dddd":	[4, 4, 10, 255]
+			}, {
+				"Color:dddd":	[5, 2, 13, 255]
+			}, {
+				"Color:dddd":	[4, 4, 10, 255]
+			}, {
+				"Color:dddd":	[39, 15, 60, 255]
+			}, {
+				"Color:dddd":	[5, 1, 12, 255]
+			}, {
+				"Color:dddd":	[33, 12, 62, 255]
+			}, {
+				"Color:dddd":	[12, 4, 27, 255]
+			}, {
+				"Color:dddd":	[10, 3, 23, 255]
+			}, {
+				"Color:dddd":	[61, 24, 96, 255]
+			}]
+	}, {
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD8D1_11DB9801",
+				"Name:s":	"Golem_Rock_PlatC-002",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_swordlight_rockplatc.rgeom",
+				"Pos:fff":	[10288.6630859375, -2300.10302734375, 2758.02783203125],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1.309999942779541, 1.309999942779541, 1.309999942779541],
+				"BBox:ffffff":	[10140.4150390625, -2301.4130859375, 2609.780029296875, 10436.9111328125, -1777.5860595703125, 2906.27587890625],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	14760,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-148.248046875, -1.31005859375, -148.247802734375, 148.248046875, 522.5169677734375, 148.248046875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Golem_Rock_PlatC-002",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	1,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	230,
+		"rows":	[{
+				"Color:dddd":	[4, 4, 9, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[5, 5, 11, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[5, 6, 13, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[5, 6, 13, 255]
+			}, {
+				"Color:dddd":	[6, 6, 14, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[1, 1, 3, 255]
+			}, {
+				"Color:dddd":	[6, 6, 15, 255]
+			}, {
+				"Color:dddd":	[11, 9, 25, 0]
+			}, {
+				"Color:dddd":	[97, 46, 139, 255]
+			}, {
+				"Color:dddd":	[5, 2, 12, 255]
+			}, {
+				"Color:dddd":	[38, 26, 70, 0]
+			}, {
+				"Color:dddd":	[122, 61, 171, 255]
+			}, {
+				"Color:dddd":	[139, 68, 196, 255]
+			}, {
+				"Color:dddd":	[116, 54, 169, 255]
+			}, {
+				"Color:dddd":	[15, 5, 32, 255]
+			}, {
+				"Color:dddd":	[39, 34, 90, 255]
+			}, {
+				"Color:dddd":	[84, 58, 145, 255]
+			}, {
+				"Color:dddd":	[134, 71, 190, 255]
+			}, {
+				"Color:dddd":	[54, 39, 102, 0]
+			}, {
+				"Color:dddd":	[98, 64, 155, 255]
+			}, {
+				"Color:dddd":	[151, 78, 210, 255]
+			}, {
+				"Color:dddd":	[19, 15, 35, 255]
+			}, {
+				"Color:dddd":	[46, 25, 62, 0]
+			}, {
+				"Color:dddd":	[146, 74, 202, 255]
+			}, {
+				"Color:dddd":	[78, 50, 120, 255]
+			}, {
+				"Color:dddd":	[43, 18, 60, 0]
+			}, {
+				"Color:dddd":	[138, 66, 195, 255]
+			}, {
+				"Color:dddd":	[7, 2, 15, 255]
+			}, {
+				"Color:dddd":	[17, 5, 38, 255]
+			}, {
+				"Color:dddd":	[115, 52, 171, 255]
+			}, {
+				"Color:dddd":	[26, 10, 45, 0]
+			}, {
+				"Color:dddd":	[4, 4, 9, 255]
+			}, {
+				"Color:dddd":	[5, 5, 11, 255]
+			}, {
+				"Color:dddd":	[10, 10, 24, 255]
+			}, {
+				"Color:dddd":	[5, 6, 14, 255]
+			}, {
+				"Color:dddd":	[5, 6, 13, 255]
+			}, {
+				"Color:dddd":	[14, 13, 33, 255]
+			}, {
+				"Color:dddd":	[16, 15, 38, 255]
+			}, {
+				"Color:dddd":	[13, 12, 31, 255]
+			}, {
+				"Color:dddd":	[6, 6, 15, 255]
+			}, {
+				"Color:dddd":	[5, 6, 13, 255]
+			}, {
+				"Color:dddd":	[15, 14, 36, 255]
+			}, {
+				"Color:dddd":	[16, 14, 37, 255]
+			}, {
+				"Color:dddd":	[6, 6, 14, 255]
+			}, {
+				"Color:dddd":	[20, 18, 47, 255]
+			}, {
+				"Color:dddd":	[20, 18, 47, 255]
+			}, {
+				"Color:dddd":	[25, 22, 58, 255]
+			}, {
+				"Color:dddd":	[23, 20, 54, 255]
+			}, {
+				"Color:dddd":	[22, 19, 51, 255]
+			}, {
+				"Color:dddd":	[22, 20, 52, 255]
+			}, {
+				"Color:dddd":	[18, 16, 42, 255]
+			}, {
+				"Color:dddd":	[17, 15, 40, 255]
+			}, {
+				"Color:dddd":	[7, 7, 17, 255]
+			}, {
+				"Color:dddd":	[7, 7, 17, 255]
+			}, {
+				"Color:dddd":	[14, 12, 32, 255]
+			}, {
+				"Color:dddd":	[14, 13, 33, 255]
+			}, {
+				"Color:dddd":	[7, 7, 17, 255]
+			}, {
+				"Color:dddd":	[14, 13, 33, 255]
+			}, {
+				"Color:dddd":	[14, 13, 34, 255]
+			}, {
+				"Color:dddd":	[7, 7, 17, 255]
+			}, {
+				"Color:dddd":	[18, 16, 42, 255]
+			}, {
+				"Color:dddd":	[18, 16, 43, 255]
+			}, {
+				"Color:dddd":	[18, 16, 43, 255]
+			}, {
+				"Color:dddd":	[14, 13, 34, 255]
+			}, {
+				"Color:dddd":	[7, 7, 17, 255]
+			}, {
+				"Color:dddd":	[25, 22, 58, 255]
+			}, {
+				"Color:dddd":	[27, 24, 62, 255]
+			}, {
+				"Color:dddd":	[24, 21, 56, 255]
+			}, {
+				"Color:dddd":	[23, 20, 54, 255]
+			}, {
+				"Color:dddd":	[27, 24, 64, 255]
+			}, {
+				"Color:dddd":	[24, 20, 55, 255]
+			}, {
+				"Color:dddd":	[39, 34, 90, 255]
+			}, {
+				"Color:dddd":	[54, 39, 102, 255]
+			}, {
+				"Color:dddd":	[24, 20, 55, 255]
+			}, {
+				"Color:dddd":	[28, 25, 65, 255]
+			}, {
+				"Color:dddd":	[38, 26, 70, 255]
+			}, {
+				"Color:dddd":	[19, 16, 44, 255]
+			}, {
+				"Color:dddd":	[6, 6, 15, 255]
+			}, {
+				"Color:dddd":	[7, 7, 16, 255]
+			}, {
+				"Color:dddd":	[14, 13, 34, 255]
+			}, {
+				"Color:dddd":	[11, 9, 25, 255]
+			}, {
+				"Color:dddd":	[5, 6, 13, 255]
+			}, {
+				"Color:dddd":	[1, 1, 3, 255]
+			}, {
+				"Color:dddd":	[11, 10, 27, 255]
+			}, {
+				"Color:dddd":	[15, 14, 36, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[6, 6, 14, 255]
+			}, {
+				"Color:dddd":	[11, 10, 26, 255]
+			}, {
+				"Color:dddd":	[16, 15, 38, 255]
+			}, {
+				"Color:dddd":	[20, 18, 47, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[1, 1, 3, 255]
+			}, {
+				"Color:dddd":	[4, 5, 11, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[4, 4, 9, 255]
+			}, {
+				"Color:dddd":	[8, 8, 18, 255]
+			}, {
+				"Color:dddd":	[5, 5, 12, 255]
+			}, {
+				"Color:dddd":	[11, 11, 26, 255]
+			}, {
+				"Color:dddd":	[9, 9, 22, 255]
+			}, {
+				"Color:dddd":	[4, 4, 11, 255]
+			}, {
+				"Color:dddd":	[15, 14, 36, 255]
+			}, {
+				"Color:dddd":	[13, 12, 31, 255]
+			}, {
+				"Color:dddd":	[25, 22, 58, 255]
+			}, {
+				"Color:dddd":	[22, 20, 52, 255]
+			}, {
+				"Color:dddd":	[18, 17, 43, 255]
+			}, {
+				"Color:dddd":	[21, 19, 49, 255]
+			}, {
+				"Color:dddd":	[25, 22, 58, 255]
+			}, {
+				"Color:dddd":	[21, 19, 49, 255]
+			}, {
+				"Color:dddd":	[23, 22, 55, 255]
+			}, {
+				"Color:dddd":	[27, 24, 62, 255]
+			}, {
+				"Color:dddd":	[15, 14, 36, 255]
+			}, {
+				"Color:dddd":	[17, 17, 41, 255]
+			}, {
+				"Color:dddd":	[19, 18, 44, 255]
+			}, {
+				"Color:dddd":	[25, 23, 58, 255]
+			}, {
+				"Color:dddd":	[27, 24, 64, 255]
+			}, {
+				"Color:dddd":	[5, 5, 12, 255]
+			}, {
+				"Color:dddd":	[5, 6, 13, 255]
+			}, {
+				"Color:dddd":	[12, 12, 29, 255]
+			}, {
+				"Color:dddd":	[11, 11, 26, 255]
+			}, {
+				"Color:dddd":	[5, 5, 12, 255]
+			}, {
+				"Color:dddd":	[13, 13, 30, 255]
+			}, {
+				"Color:dddd":	[19, 15, 35, 255]
+			}, {
+				"Color:dddd":	[78, 50, 120, 255]
+			}, {
+				"Color:dddd":	[14, 14, 33, 255]
+			}, {
+				"Color:dddd":	[4, 4, 9, 255]
+			}, {
+				"Color:dddd":	[98, 64, 155, 255]
+			}, {
+				"Color:dddd":	[21, 21, 51, 255]
+			}, {
+				"Color:dddd":	[39, 34, 90, 255]
+			}, {
+				"Color:dddd":	[28, 25, 65, 255]
+			}, {
+				"Color:dddd":	[27, 25, 64, 255]
+			}, {
+				"Color:dddd":	[84, 58, 145, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[1, 0, 2, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[0, 0, 2, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[1, 0, 2, 255]
+			}, {
+				"Color:dddd":	[1, 0, 2, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[7, 2, 15, 255]
+			}, {
+				"Color:dddd":	[26, 10, 45, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[43, 18, 60, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[46, 25, 62, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[1, 1, 2, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[1, 1, 3, 255]
+			}, {
+				"Color:dddd":	[1, 1, 3, 255]
+			}, {
+				"Color:dddd":	[1, 1, 3, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[1, 0, 2, 255]
+			}, {
+				"Color:dddd":	[0, 0, 2, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[1, 0, 2, 255]
+			}, {
+				"Color:dddd":	[1, 0, 2, 255]
+			}, {
+				"Color:dddd":	[1, 0, 2, 255]
+			}, {
+				"Color:dddd":	[1, 0, 2, 255]
+			}, {
+				"Color:dddd":	[1, 0, 2, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[1, 1, 3, 255]
+			}, {
+				"Color:dddd":	[1, 1, 3, 255]
+			}, {
+				"Color:dddd":	[1, 1, 3, 255]
+			}, {
+				"Color:dddd":	[5, 2, 12, 255]
+			}, {
+				"Color:dddd":	[1, 1, 3, 255]
+			}, {
+				"Color:dddd":	[15, 5, 32, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[7, 2, 15, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[17, 5, 38, 255]
+			}]
+	}, {
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD8D1_11DCF801",
+				"Name:s":	"Golem_Rock_PlatC-003",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_swordlight_rockplatc.rgeom",
+				"Pos:fff":	[10457.5439453125, -2350.49951171875, 2780.8642578125],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1.309999942779541, 1.309999942779541, 1.309999942779541],
+				"BBox:ffffff":	[10309.2958984375, -2351.8095703125, 2632.616455078125, 10605.7919921875, -1827.9825439453125, 2929.1123046875],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	14760,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-148.248046875, -1.31005859375, -148.247802734375, 148.248046875, 522.5169677734375, 148.248046875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Golem_Rock_PlatC-003",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	1,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	230,
+		"rows":	[{
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[4, 4, 10, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[7, 7, 16, 255]
+			}, {
+				"Color:dddd":	[5, 5, 13, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[3, 3, 9, 255]
+			}, {
+				"Color:dddd":	[8, 7, 19, 0]
+			}, {
+				"Color:dddd":	[61, 28, 92, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[33, 22, 58, 0]
+			}, {
+				"Color:dddd":	[86, 41, 128, 255]
+			}, {
+				"Color:dddd":	[95, 45, 145, 255]
+			}, {
+				"Color:dddd":	[69, 32, 106, 255]
+			}, {
+				"Color:dddd":	[1, 0, 2, 255]
+			}, {
+				"Color:dddd":	[50, 37, 94, 255]
+			}, {
+				"Color:dddd":	[91, 56, 141, 255]
+			}, {
+				"Color:dddd":	[107, 53, 157, 255]
+			}, {
+				"Color:dddd":	[54, 36, 94, 0]
+			}, {
+				"Color:dddd":	[103, 59, 153, 255]
+			}, {
+				"Color:dddd":	[117, 57, 173, 255]
+			}, {
+				"Color:dddd":	[31, 19, 46, 255]
+			}, {
+				"Color:dddd":	[45, 22, 65, 0]
+			}, {
+				"Color:dddd":	[113, 54, 169, 255]
+			}, {
+				"Color:dddd":	[86, 48, 125, 255]
+			}, {
+				"Color:dddd":	[28, 12, 43, 0]
+			}, {
+				"Color:dddd":	[93, 43, 141, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[1, 0, 3, 255]
+			}, {
+				"Color:dddd":	[66, 30, 103, 255]
+			}, {
+				"Color:dddd":	[6, 2, 13, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[7, 7, 17, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[4, 4, 10, 255]
+			}, {
+				"Color:dddd":	[10, 10, 23, 255]
+			}, {
+				"Color:dddd":	[11, 11, 27, 255]
+			}, {
+				"Color:dddd":	[8, 8, 20, 255]
+			}, {
+				"Color:dddd":	[4, 4, 9, 255]
+			}, {
+				"Color:dddd":	[7, 7, 16, 255]
+			}, {
+				"Color:dddd":	[13, 13, 30, 255]
+			}, {
+				"Color:dddd":	[12, 12, 29, 255]
+			}, {
+				"Color:dddd":	[5, 5, 13, 255]
+			}, {
+				"Color:dddd":	[18, 17, 41, 255]
+			}, {
+				"Color:dddd":	[15, 15, 35, 255]
+			}, {
+				"Color:dddd":	[26, 22, 57, 255]
+			}, {
+				"Color:dddd":	[20, 18, 47, 255]
+			}, {
+				"Color:dddd":	[16, 16, 38, 255]
+			}, {
+				"Color:dddd":	[20, 19, 45, 255]
+			}, {
+				"Color:dddd":	[15, 13, 35, 255]
+			}, {
+				"Color:dddd":	[12, 12, 28, 255]
+			}, {
+				"Color:dddd":	[4, 4, 10, 255]
+			}, {
+				"Color:dddd":	[4, 4, 10, 255]
+			}, {
+				"Color:dddd":	[9, 9, 21, 255]
+			}, {
+				"Color:dddd":	[9, 9, 21, 255]
+			}, {
+				"Color:dddd":	[4, 4, 10, 255]
+			}, {
+				"Color:dddd":	[9, 9, 21, 255]
+			}, {
+				"Color:dddd":	[10, 10, 25, 255]
+			}, {
+				"Color:dddd":	[4, 4, 10, 255]
+			}, {
+				"Color:dddd":	[15, 13, 35, 255]
+			}, {
+				"Color:dddd":	[15, 13, 35, 255]
+			}, {
+				"Color:dddd":	[15, 13, 35, 255]
+			}, {
+				"Color:dddd":	[10, 10, 25, 255]
+			}, {
+				"Color:dddd":	[4, 4, 10, 255]
+			}, {
+				"Color:dddd":	[26, 22, 57, 255]
+			}, {
+				"Color:dddd":	[27, 23, 60, 255]
+			}, {
+				"Color:dddd":	[21, 19, 49, 255]
+			}, {
+				"Color:dddd":	[20, 18, 47, 255]
+			}, {
+				"Color:dddd":	[24, 22, 57, 255]
+			}, {
+				"Color:dddd":	[21, 18, 49, 255]
+			}, {
+				"Color:dddd":	[50, 37, 94, 255]
+			}, {
+				"Color:dddd":	[54, 36, 94, 255]
+			}, {
+				"Color:dddd":	[21, 18, 49, 255]
+			}, {
+				"Color:dddd":	[25, 22, 58, 255]
+			}, {
+				"Color:dddd":	[33, 22, 58, 255]
+			}, {
+				"Color:dddd":	[15, 13, 36, 255]
+			}, {
+				"Color:dddd":	[3, 3, 9, 255]
+			}, {
+				"Color:dddd":	[4, 4, 10, 255]
+			}, {
+				"Color:dddd":	[10, 10, 25, 255]
+			}, {
+				"Color:dddd":	[8, 7, 19, 255]
+			}, {
+				"Color:dddd":	[7, 7, 16, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[11, 11, 26, 255]
+			}, {
+				"Color:dddd":	[13, 13, 30, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[7, 6, 15, 255]
+			}, {
+				"Color:dddd":	[15, 11, 27, 255]
+			}, {
+				"Color:dddd":	[19, 16, 38, 255]
+			}, {
+				"Color:dddd":	[18, 17, 41, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[2, 2, 4, 255]
+			}, {
+				"Color:dddd":	[5, 5, 12, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[7, 5, 12, 255]
+			}, {
+				"Color:dddd":	[12, 9, 23, 255]
+			}, {
+				"Color:dddd":	[10, 7, 17, 255]
+			}, {
+				"Color:dddd":	[18, 13, 32, 255]
+			}, {
+				"Color:dddd":	[15, 11, 27, 255]
+			}, {
+				"Color:dddd":	[8, 6, 14, 255]
+			}, {
+				"Color:dddd":	[21, 16, 38, 255]
+			}, {
+				"Color:dddd":	[18, 13, 32, 255]
+			}, {
+				"Color:dddd":	[26, 22, 57, 255]
+			}, {
+				"Color:dddd":	[20, 19, 45, 255]
+			}, {
+				"Color:dddd":	[22, 18, 43, 255]
+			}, {
+				"Color:dddd":	[28, 22, 56, 255]
+			}, {
+				"Color:dddd":	[26, 22, 57, 255]
+			}, {
+				"Color:dddd":	[28, 22, 56, 255]
+			}, {
+				"Color:dddd":	[31, 24, 61, 255]
+			}, {
+				"Color:dddd":	[27, 23, 60, 255]
+			}, {
+				"Color:dddd":	[21, 16, 38, 255]
+			}, {
+				"Color:dddd":	[28, 20, 51, 255]
+			}, {
+				"Color:dddd":	[27, 20, 50, 255]
+			}, {
+				"Color:dddd":	[29, 24, 60, 255]
+			}, {
+				"Color:dddd":	[24, 22, 57, 255]
+			}, {
+				"Color:dddd":	[10, 7, 17, 255]
+			}, {
+				"Color:dddd":	[10, 7, 18, 255]
+			}, {
+				"Color:dddd":	[20, 15, 35, 255]
+			}, {
+				"Color:dddd":	[18, 13, 32, 255]
+			}, {
+				"Color:dddd":	[6, 5, 12, 255]
+			}, {
+				"Color:dddd":	[19, 14, 34, 255]
+			}, {
+				"Color:dddd":	[31, 19, 46, 255]
+			}, {
+				"Color:dddd":	[86, 48, 125, 255]
+			}, {
+				"Color:dddd":	[17, 14, 33, 255]
+			}, {
+				"Color:dddd":	[4, 4, 10, 255]
+			}, {
+				"Color:dddd":	[103, 59, 153, 255]
+			}, {
+				"Color:dddd":	[29, 22, 54, 255]
+			}, {
+				"Color:dddd":	[50, 37, 94, 255]
+			}, {
+				"Color:dddd":	[25, 22, 58, 255]
+			}, {
+				"Color:dddd":	[28, 23, 60, 255]
+			}, {
+				"Color:dddd":	[91, 56, 141, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[6, 2, 13, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[28, 12, 43, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[45, 22, 65, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[1, 0, 2, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[1, 0, 3, 255]
+			}]
+	}, {
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD8D1_11DD1C01",
+				"Name:s":	"Golem_Rock_PlatC-004",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_swordlight_rockplatc.rgeom",
+				"Pos:fff":	[10550.4345703125, -2510.381103515625, 2649.5166015625],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1.309999942779541, 1.309999942779541, 1.309999942779541],
+				"BBox:ffffff":	[10402.1865234375, -2511.691162109375, 2501.268798828125, 10698.6826171875, -1987.8641357421875, 2797.7646484375],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	14760,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-148.248046875, -1.31005859375, -148.247802734375, 148.248046875, 522.5169677734375, 148.248046875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Golem_Rock_PlatC-004",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	1,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	230,
+		"rows":	[{
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[2, 2, 5, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[5, 5, 12, 255]
+			}, {
+				"Color:dddd":	[3, 4, 9, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[1, 1, 3, 255]
+			}, {
+				"Color:dddd":	[3, 3, 7, 255]
+			}, {
+				"Color:dddd":	[9, 8, 20, 0]
+			}, {
+				"Color:dddd":	[35, 18, 53, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[23, 18, 48, 0]
+			}, {
+				"Color:dddd":	[50, 26, 78, 255]
+			}, {
+				"Color:dddd":	[53, 27, 81, 255]
+			}, {
+				"Color:dddd":	[41, 20, 62, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[36, 29, 76, 255]
+			}, {
+				"Color:dddd":	[60, 40, 106, 255]
+			}, {
+				"Color:dddd":	[62, 34, 98, 255]
+			}, {
+				"Color:dddd":	[38, 29, 75, 0]
+			}, {
+				"Color:dddd":	[70, 41, 113, 255]
+			}, {
+				"Color:dddd":	[68, 35, 104, 255]
+			}, {
+				"Color:dddd":	[37, 21, 57, 255]
+			}, {
+				"Color:dddd":	[46, 23, 71, 0]
+			}, {
+				"Color:dddd":	[70, 36, 107, 255]
+			}, {
+				"Color:dddd":	[66, 37, 103, 255]
+			}, {
+				"Color:dddd":	[33, 15, 50, 0]
+			}, {
+				"Color:dddd":	[57, 28, 87, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[1, 0, 3, 255]
+			}, {
+				"Color:dddd":	[42, 20, 65, 255]
+			}, {
+				"Color:dddd":	[14, 5, 22, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[5, 5, 13, 255]
+			}, {
+				"Color:dddd":	[1, 1, 4, 255]
+			}, {
+				"Color:dddd":	[2, 2, 5, 255]
+			}, {
+				"Color:dddd":	[8, 8, 20, 255]
+			}, {
+				"Color:dddd":	[10, 10, 24, 255]
+			}, {
+				"Color:dddd":	[7, 7, 17, 255]
+			}, {
+				"Color:dddd":	[2, 2, 6, 255]
+			}, {
+				"Color:dddd":	[5, 5, 12, 255]
+			}, {
+				"Color:dddd":	[8, 8, 20, 255]
+			}, {
+				"Color:dddd":	[9, 10, 23, 255]
+			}, {
+				"Color:dddd":	[3, 4, 9, 255]
+			}, {
+				"Color:dddd":	[10, 10, 24, 255]
+			}, {
+				"Color:dddd":	[11, 12, 28, 255]
+			}, {
+				"Color:dddd":	[18, 18, 42, 255]
+			}, {
+				"Color:dddd":	[15, 16, 37, 255]
+			}, {
+				"Color:dddd":	[13, 13, 30, 255]
+			}, {
+				"Color:dddd":	[17, 16, 38, 255]
+			}, {
+				"Color:dddd":	[12, 12, 28, 255]
+			}, {
+				"Color:dddd":	[11, 11, 26, 255]
+			}, {
+				"Color:dddd":	[3, 3, 7, 255]
+			}, {
+				"Color:dddd":	[2, 2, 6, 255]
+			}, {
+				"Color:dddd":	[7, 8, 18, 255]
+			}, {
+				"Color:dddd":	[8, 8, 19, 255]
+			}, {
+				"Color:dddd":	[3, 3, 7, 255]
+			}, {
+				"Color:dddd":	[8, 8, 19, 255]
+			}, {
+				"Color:dddd":	[8, 9, 20, 255]
+			}, {
+				"Color:dddd":	[3, 3, 7, 255]
+			}, {
+				"Color:dddd":	[12, 12, 28, 255]
+			}, {
+				"Color:dddd":	[13, 13, 30, 255]
+			}, {
+				"Color:dddd":	[15, 14, 35, 255]
+			}, {
+				"Color:dddd":	[9, 9, 21, 255]
+			}, {
+				"Color:dddd":	[2, 3, 6, 255]
+			}, {
+				"Color:dddd":	[18, 18, 42, 255]
+			}, {
+				"Color:dddd":	[22, 20, 51, 255]
+			}, {
+				"Color:dddd":	[16, 17, 39, 255]
+			}, {
+				"Color:dddd":	[15, 16, 37, 255]
+			}, {
+				"Color:dddd":	[22, 20, 51, 255]
+			}, {
+				"Color:dddd":	[19, 17, 45, 255]
+			}, {
+				"Color:dddd":	[36, 29, 76, 255]
+			}, {
+				"Color:dddd":	[38, 29, 75, 255]
+			}, {
+				"Color:dddd":	[19, 18, 45, 255]
+			}, {
+				"Color:dddd":	[22, 20, 52, 255]
+			}, {
+				"Color:dddd":	[23, 18, 48, 255]
+			}, {
+				"Color:dddd":	[15, 15, 37, 255]
+			}, {
+				"Color:dddd":	[3, 3, 7, 255]
+			}, {
+				"Color:dddd":	[2, 2, 6, 255]
+			}, {
+				"Color:dddd":	[9, 9, 22, 255]
+			}, {
+				"Color:dddd":	[9, 8, 20, 255]
+			}, {
+				"Color:dddd":	[5, 5, 12, 255]
+			}, {
+				"Color:dddd":	[1, 1, 3, 255]
+			}, {
+				"Color:dddd":	[5, 5, 12, 255]
+			}, {
+				"Color:dddd":	[8, 8, 20, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[1, 1, 4, 255]
+			}, {
+				"Color:dddd":	[2, 2, 6, 255]
+			}, {
+				"Color:dddd":	[6, 6, 15, 255]
+			}, {
+				"Color:dddd":	[10, 10, 24, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[13, 8, 22, 255]
+			}, {
+				"Color:dddd":	[17, 11, 28, 255]
+			}, {
+				"Color:dddd":	[14, 10, 24, 255]
+			}, {
+				"Color:dddd":	[7, 3, 9, 255]
+			}, {
+				"Color:dddd":	[19, 15, 35, 255]
+			}, {
+				"Color:dddd":	[16, 13, 31, 255]
+			}, {
+				"Color:dddd":	[18, 18, 42, 255]
+			}, {
+				"Color:dddd":	[17, 16, 38, 255]
+			}, {
+				"Color:dddd":	[18, 16, 37, 255]
+			}, {
+				"Color:dddd":	[20, 18, 42, 255]
+			}, {
+				"Color:dddd":	[18, 18, 42, 255]
+			}, {
+				"Color:dddd":	[20, 18, 42, 255]
+			}, {
+				"Color:dddd":	[22, 19, 44, 255]
+			}, {
+				"Color:dddd":	[22, 20, 51, 255]
+			}, {
+				"Color:dddd":	[19, 15, 35, 255]
+			}, {
+				"Color:dddd":	[21, 16, 38, 255]
+			}, {
+				"Color:dddd":	[22, 16, 42, 255]
+			}, {
+				"Color:dddd":	[23, 19, 50, 255]
+			}, {
+				"Color:dddd":	[22, 20, 51, 255]
+			}, {
+				"Color:dddd":	[13, 8, 22, 255]
+			}, {
+				"Color:dddd":	[14, 9, 24, 255]
+			}, {
+				"Color:dddd":	[18, 12, 31, 255]
+			}, {
+				"Color:dddd":	[17, 11, 28, 255]
+			}, {
+				"Color:dddd":	[12, 8, 20, 255]
+			}, {
+				"Color:dddd":	[17, 12, 29, 255]
+			}, {
+				"Color:dddd":	[37, 21, 57, 255]
+			}, {
+				"Color:dddd":	[66, 37, 103, 255]
+			}, {
+				"Color:dddd":	[17, 12, 31, 255]
+			}, {
+				"Color:dddd":	[9, 6, 15, 255]
+			}, {
+				"Color:dddd":	[70, 41, 113, 255]
+			}, {
+				"Color:dddd":	[23, 18, 45, 255]
+			}, {
+				"Color:dddd":	[36, 29, 76, 255]
+			}, {
+				"Color:dddd":	[22, 20, 52, 255]
+			}, {
+				"Color:dddd":	[22, 19, 49, 255]
+			}, {
+				"Color:dddd":	[60, 40, 106, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[1, 0, 2, 255]
+			}, {
+				"Color:dddd":	[1, 0, 2, 255]
+			}, {
+				"Color:dddd":	[4, 1, 6, 255]
+			}, {
+				"Color:dddd":	[7, 3, 11, 255]
+			}, {
+				"Color:dddd":	[7, 3, 11, 255]
+			}, {
+				"Color:dddd":	[7, 3, 11, 255]
+			}, {
+				"Color:dddd":	[1, 0, 2, 255]
+			}, {
+				"Color:dddd":	[1, 0, 2, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[3, 2, 6, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[14, 5, 22, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[33, 15, 50, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[46, 23, 71, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[1, 0, 3, 255]
+			}]
+	}, {
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD8D1_11DDB401",
+				"Name:s":	"Golem_Rock_PlatC-005",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_swordlight_rockplatc.rgeom",
+				"Pos:fff":	[10527.544921875, -2554.875732421875, 2486.02099609375],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1.309999942779541, 1.309999942779541, 1.309999942779541],
+				"BBox:ffffff":	[10379.296875, -2556.185791015625, 2337.773193359375, 10675.79296875, -2032.3587646484375, 2634.26904296875],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	14760,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-148.248046875, -1.31005859375, -148.247802734375, 148.248046875, 522.5169677734375, 148.248046875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Golem_Rock_PlatC-005",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	1,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	230,
+		"rows":	[{
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[5, 5, 12, 255]
+			}, {
+				"Color:dddd":	[3, 3, 7, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[2, 2, 6, 255]
+			}, {
+				"Color:dddd":	[11, 10, 26, 0]
+			}, {
+				"Color:dddd":	[30, 16, 49, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[23, 21, 53, 0]
+			}, {
+				"Color:dddd":	[41, 23, 67, 255]
+			}, {
+				"Color:dddd":	[46, 24, 73, 255]
+			}, {
+				"Color:dddd":	[36, 18, 56, 255]
+			}, {
+				"Color:dddd":	[1, 0, 2, 255]
+			}, {
+				"Color:dddd":	[35, 32, 82, 255]
+			}, {
+				"Color:dddd":	[52, 38, 99, 255]
+			}, {
+				"Color:dddd":	[51, 30, 85, 255]
+			}, {
+				"Color:dddd":	[37, 32, 82, 0]
+			}, {
+				"Color:dddd":	[59, 37, 101, 255]
+			}, {
+				"Color:dddd":	[56, 30, 89, 255]
+			}, {
+				"Color:dddd":	[40, 23, 63, 255]
+			}, {
+				"Color:dddd":	[50, 27, 78, 0]
+			}, {
+				"Color:dddd":	[62, 32, 96, 255]
+			}, {
+				"Color:dddd":	[58, 34, 94, 255]
+			}, {
+				"Color:dddd":	[40, 19, 61, 0]
+			}, {
+				"Color:dddd":	[51, 26, 80, 255]
+			}, {
+				"Color:dddd":	[2, 0, 4, 255]
+			}, {
+				"Color:dddd":	[3, 1, 6, 255]
+			}, {
+				"Color:dddd":	[38, 19, 58, 255]
+			}, {
+				"Color:dddd":	[21, 8, 31, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[5, 5, 13, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[9, 9, 21, 255]
+			}, {
+				"Color:dddd":	[12, 12, 28, 255]
+			}, {
+				"Color:dddd":	[7, 8, 18, 255]
+			}, {
+				"Color:dddd":	[2, 2, 4, 255]
+			}, {
+				"Color:dddd":	[5, 5, 12, 255]
+			}, {
+				"Color:dddd":	[10, 10, 23, 255]
+			}, {
+				"Color:dddd":	[11, 11, 25, 255]
+			}, {
+				"Color:dddd":	[3, 3, 7, 255]
+			}, {
+				"Color:dddd":	[13, 13, 30, 255]
+			}, {
+				"Color:dddd":	[14, 14, 33, 255]
+			}, {
+				"Color:dddd":	[23, 21, 53, 255]
+			}, {
+				"Color:dddd":	[18, 18, 43, 255]
+			}, {
+				"Color:dddd":	[16, 16, 38, 255]
+			}, {
+				"Color:dddd":	[15, 15, 35, 255]
+			}, {
+				"Color:dddd":	[15, 15, 36, 255]
+			}, {
+				"Color:dddd":	[13, 14, 32, 255]
+			}, {
+				"Color:dddd":	[2, 2, 6, 255]
+			}, {
+				"Color:dddd":	[2, 2, 5, 255]
+			}, {
+				"Color:dddd":	[8, 9, 20, 255]
+			}, {
+				"Color:dddd":	[9, 10, 23, 255]
+			}, {
+				"Color:dddd":	[2, 2, 6, 255]
+			}, {
+				"Color:dddd":	[9, 10, 23, 255]
+			}, {
+				"Color:dddd":	[10, 10, 24, 255]
+			}, {
+				"Color:dddd":	[2, 2, 6, 255]
+			}, {
+				"Color:dddd":	[15, 15, 36, 255]
+			}, {
+				"Color:dddd":	[18, 17, 42, 255]
+			}, {
+				"Color:dddd":	[18, 18, 44, 255]
+			}, {
+				"Color:dddd":	[10, 11, 25, 255]
+			}, {
+				"Color:dddd":	[2, 2, 5, 255]
+			}, {
+				"Color:dddd":	[23, 21, 53, 255]
+			}, {
+				"Color:dddd":	[25, 23, 58, 255]
+			}, {
+				"Color:dddd":	[22, 21, 52, 255]
+			}, {
+				"Color:dddd":	[18, 18, 43, 255]
+			}, {
+				"Color:dddd":	[25, 24, 60, 255]
+			}, {
+				"Color:dddd":	[23, 22, 55, 255]
+			}, {
+				"Color:dddd":	[35, 32, 82, 255]
+			}, {
+				"Color:dddd":	[37, 32, 82, 255]
+			}, {
+				"Color:dddd":	[25, 24, 59, 255]
+			}, {
+				"Color:dddd":	[26, 24, 62, 255]
+			}, {
+				"Color:dddd":	[23, 21, 53, 255]
+			}, {
+				"Color:dddd":	[20, 19, 47, 255]
+			}, {
+				"Color:dddd":	[2, 2, 6, 255]
+			}, {
+				"Color:dddd":	[2, 2, 4, 255]
+			}, {
+				"Color:dddd":	[11, 11, 26, 255]
+			}, {
+				"Color:dddd":	[11, 10, 26, 255]
+			}, {
+				"Color:dddd":	[5, 5, 12, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[6, 6, 14, 255]
+			}, {
+				"Color:dddd":	[10, 10, 23, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[2, 2, 4, 255]
+			}, {
+				"Color:dddd":	[3, 3, 8, 255]
+			}, {
+				"Color:dddd":	[8, 8, 20, 255]
+			}, {
+				"Color:dddd":	[13, 13, 30, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[1, 0, 2, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[16, 10, 26, 255]
+			}, {
+				"Color:dddd":	[16, 11, 27, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[1, 0, 3, 255]
+			}, {
+				"Color:dddd":	[17, 14, 34, 255]
+			}, {
+				"Color:dddd":	[4, 4, 9, 255]
+			}, {
+				"Color:dddd":	[23, 21, 53, 255]
+			}, {
+				"Color:dddd":	[15, 15, 35, 255]
+			}, {
+				"Color:dddd":	[9, 9, 22, 255]
+			}, {
+				"Color:dddd":	[22, 19, 48, 255]
+			}, {
+				"Color:dddd":	[23, 21, 53, 255]
+			}, {
+				"Color:dddd":	[22, 19, 48, 255]
+			}, {
+				"Color:dddd":	[23, 20, 52, 255]
+			}, {
+				"Color:dddd":	[25, 23, 58, 255]
+			}, {
+				"Color:dddd":	[17, 14, 34, 255]
+			}, {
+				"Color:dddd":	[21, 16, 42, 255]
+			}, {
+				"Color:dddd":	[20, 16, 41, 255]
+			}, {
+				"Color:dddd":	[22, 20, 51, 255]
+			}, {
+				"Color:dddd":	[25, 24, 60, 255]
+			}, {
+				"Color:dddd":	[16, 10, 26, 255]
+			}, {
+				"Color:dddd":	[17, 11, 29, 255]
+			}, {
+				"Color:dddd":	[19, 12, 33, 255]
+			}, {
+				"Color:dddd":	[16, 11, 27, 255]
+			}, {
+				"Color:dddd":	[16, 10, 27, 255]
+			}, {
+				"Color:dddd":	[17, 12, 31, 255]
+			}, {
+				"Color:dddd":	[40, 23, 63, 255]
+			}, {
+				"Color:dddd":	[58, 34, 94, 255]
+			}, {
+				"Color:dddd":	[17, 12, 31, 255]
+			}, {
+				"Color:dddd":	[14, 9, 24, 255]
+			}, {
+				"Color:dddd":	[59, 37, 101, 255]
+			}, {
+				"Color:dddd":	[21, 17, 43, 255]
+			}, {
+				"Color:dddd":	[35, 32, 82, 255]
+			}, {
+				"Color:dddd":	[26, 24, 62, 255]
+			}, {
+				"Color:dddd":	[22, 20, 52, 255]
+			}, {
+				"Color:dddd":	[52, 38, 99, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[1, 0, 3, 255]
+			}, {
+				"Color:dddd":	[1, 0, 3, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[1, 0, 2, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[1, 0, 3, 255]
+			}, {
+				"Color:dddd":	[1, 0, 2, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[6, 2, 9, 255]
+			}, {
+				"Color:dddd":	[1, 0, 3, 255]
+			}, {
+				"Color:dddd":	[1, 0, 3, 255]
+			}, {
+				"Color:dddd":	[12, 6, 19, 255]
+			}, {
+				"Color:dddd":	[12, 6, 19, 255]
+			}, {
+				"Color:dddd":	[13, 7, 21, 255]
+			}, {
+				"Color:dddd":	[6, 2, 9, 255]
+			}, {
+				"Color:dddd":	[6, 2, 10, 255]
+			}, {
+				"Color:dddd":	[5, 2, 8, 255]
+			}, {
+				"Color:dddd":	[11, 6, 18, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[2, 0, 4, 255]
+			}, {
+				"Color:dddd":	[1, 0, 3, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[1, 0, 3, 255]
+			}, {
+				"Color:dddd":	[2, 0, 4, 255]
+			}, {
+				"Color:dddd":	[21, 8, 31, 255]
+			}, {
+				"Color:dddd":	[1, 0, 2, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[40, 19, 61, 255]
+			}, {
+				"Color:dddd":	[4, 1, 7, 255]
+			}, {
+				"Color:dddd":	[10, 5, 16, 255]
+			}, {
+				"Color:dddd":	[50, 27, 78, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[1, 0, 2, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[2, 0, 4, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[3, 1, 6, 255]
+			}]
+	}, {
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD8D1_11DDE401",
+				"Name:s":	"Golem_Rock_PlatC-006",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_swordlight_rockplatc.rgeom",
+				"Pos:fff":	[10383.203125, -2617.852783203125, 2338.16162109375],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1.309999942779541, 1.309999942779541, 1.309999942779541],
+				"BBox:ffffff":	[10234.955078125, -2619.162841796875, 2189.913818359375, 10531.451171875, -2095.3359375, 2486.40966796875],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	14760,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-148.248046875, -1.31005859375, -148.247802734375, 148.248046875, 522.516845703125, 148.248046875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Golem_Rock_PlatC-006",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	1,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	230,
+		"rows":	[{
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[2, 2, 5, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[6, 7, 16, 255]
+			}, {
+				"Color:dddd":	[23, 22, 54, 0]
+			}, {
+				"Color:dddd":	[36, 23, 64, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[41, 39, 97, 0]
+			}, {
+				"Color:dddd":	[46, 30, 84, 255]
+			}, {
+				"Color:dddd":	[48, 29, 81, 255]
+			}, {
+				"Color:dddd":	[39, 23, 66, 255]
+			}, {
+				"Color:dddd":	[5, 2, 8, 255]
+			}, {
+				"Color:dddd":	[45, 42, 104, 255]
+			}, {
+				"Color:dddd":	[47, 39, 100, 255]
+			}, {
+				"Color:dddd":	[54, 37, 101, 255]
+			}, {
+				"Color:dddd":	[53, 49, 123, 0]
+			}, {
+				"Color:dddd":	[46, 32, 86, 255]
+			}, {
+				"Color:dddd":	[54, 33, 94, 255]
+			}, {
+				"Color:dddd":	[34, 22, 57, 255]
+			}, {
+				"Color:dddd":	[49, 28, 77, 0]
+			}, {
+				"Color:dddd":	[57, 33, 94, 255]
+			}, {
+				"Color:dddd":	[47, 30, 80, 255]
+			}, {
+				"Color:dddd":	[44, 23, 67, 0]
+			}, {
+				"Color:dddd":	[51, 28, 82, 255]
+			}, {
+				"Color:dddd":	[8, 3, 13, 255]
+			}, {
+				"Color:dddd":	[11, 4, 16, 255]
+			}, {
+				"Color:dddd":	[41, 22, 65, 255]
+			}, {
+				"Color:dddd":	[29, 14, 44, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[6, 6, 14, 255]
+			}, {
+				"Color:dddd":	[0, 1, 2, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[8, 9, 20, 255]
+			}, {
+				"Color:dddd":	[13, 14, 32, 255]
+			}, {
+				"Color:dddd":	[9, 9, 22, 255]
+			}, {
+				"Color:dddd":	[3, 3, 7, 255]
+			}, {
+				"Color:dddd":	[2, 2, 5, 255]
+			}, {
+				"Color:dddd":	[8, 8, 19, 255]
+			}, {
+				"Color:dddd":	[10, 10, 24, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[12, 13, 30, 255]
+			}, {
+				"Color:dddd":	[15, 15, 35, 255]
+			}, {
+				"Color:dddd":	[22, 21, 53, 255]
+			}, {
+				"Color:dddd":	[24, 23, 57, 255]
+			}, {
+				"Color:dddd":	[20, 19, 46, 255]
+			}, {
+				"Color:dddd":	[17, 16, 40, 255]
+			}, {
+				"Color:dddd":	[21, 21, 49, 255]
+			}, {
+				"Color:dddd":	[16, 17, 39, 255]
+			}, {
+				"Color:dddd":	[4, 4, 10, 255]
+			}, {
+				"Color:dddd":	[3, 3, 9, 255]
+			}, {
+				"Color:dddd":	[11, 11, 27, 255]
+			}, {
+				"Color:dddd":	[14, 14, 32, 255]
+			}, {
+				"Color:dddd":	[4, 4, 10, 255]
+			}, {
+				"Color:dddd":	[14, 14, 32, 255]
+			}, {
+				"Color:dddd":	[16, 16, 37, 255]
+			}, {
+				"Color:dddd":	[4, 5, 11, 255]
+			}, {
+				"Color:dddd":	[21, 21, 49, 255]
+			}, {
+				"Color:dddd":	[24, 24, 58, 255]
+			}, {
+				"Color:dddd":	[27, 27, 64, 255]
+			}, {
+				"Color:dddd":	[17, 17, 40, 255]
+			}, {
+				"Color:dddd":	[4, 4, 10, 255]
+			}, {
+				"Color:dddd":	[22, 21, 53, 255]
+			}, {
+				"Color:dddd":	[26, 24, 60, 255]
+			}, {
+				"Color:dddd":	[28, 28, 66, 255]
+			}, {
+				"Color:dddd":	[24, 23, 57, 255]
+			}, {
+				"Color:dddd":	[27, 26, 64, 255]
+			}, {
+				"Color:dddd":	[32, 31, 74, 255]
+			}, {
+				"Color:dddd":	[45, 42, 104, 255]
+			}, {
+				"Color:dddd":	[53, 49, 123, 255]
+			}, {
+				"Color:dddd":	[36, 36, 86, 255]
+			}, {
+				"Color:dddd":	[29, 28, 69, 255]
+			}, {
+				"Color:dddd":	[41, 39, 97, 255]
+			}, {
+				"Color:dddd":	[31, 32, 74, 255]
+			}, {
+				"Color:dddd":	[6, 7, 16, 255]
+			}, {
+				"Color:dddd":	[3, 3, 8, 255]
+			}, {
+				"Color:dddd":	[18, 19, 44, 255]
+			}, {
+				"Color:dddd":	[23, 22, 54, 255]
+			}, {
+				"Color:dddd":	[2, 2, 5, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[4, 4, 9, 255]
+			}, {
+				"Color:dddd":	[8, 8, 19, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[1, 1, 4, 255]
+			}, {
+				"Color:dddd":	[7, 7, 16, 255]
+			}, {
+				"Color:dddd":	[12, 13, 30, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[7, 6, 16, 255]
+			}, {
+				"Color:dddd":	[8, 7, 18, 255]
+			}, {
+				"Color:dddd":	[5, 5, 13, 255]
+			}, {
+				"Color:dddd":	[6, 5, 14, 255]
+			}, {
+				"Color:dddd":	[10, 9, 24, 255]
+			}, {
+				"Color:dddd":	[3, 2, 8, 255]
+			}, {
+				"Color:dddd":	[22, 21, 53, 255]
+			}, {
+				"Color:dddd":	[17, 16, 40, 255]
+			}, {
+				"Color:dddd":	[10, 9, 24, 255]
+			}, {
+				"Color:dddd":	[16, 15, 39, 255]
+			}, {
+				"Color:dddd":	[22, 21, 53, 255]
+			}, {
+				"Color:dddd":	[16, 15, 39, 255]
+			}, {
+				"Color:dddd":	[18, 17, 43, 255]
+			}, {
+				"Color:dddd":	[26, 24, 60, 255]
+			}, {
+				"Color:dddd":	[10, 9, 24, 255]
+			}, {
+				"Color:dddd":	[11, 9, 25, 255]
+			}, {
+				"Color:dddd":	[10, 8, 23, 255]
+			}, {
+				"Color:dddd":	[19, 17, 44, 255]
+			}, {
+				"Color:dddd":	[27, 26, 64, 255]
+			}, {
+				"Color:dddd":	[7, 6, 16, 255]
+			}, {
+				"Color:dddd":	[15, 10, 26, 255]
+			}, {
+				"Color:dddd":	[13, 10, 25, 255]
+			}, {
+				"Color:dddd":	[8, 7, 18, 255]
+			}, {
+				"Color:dddd":	[14, 10, 24, 255]
+			}, {
+				"Color:dddd":	[12, 9, 23, 255]
+			}, {
+				"Color:dddd":	[34, 22, 57, 255]
+			}, {
+				"Color:dddd":	[47, 30, 80, 255]
+			}, {
+				"Color:dddd":	[10, 9, 22, 255]
+			}, {
+				"Color:dddd":	[12, 8, 21, 255]
+			}, {
+				"Color:dddd":	[46, 32, 86, 255]
+			}, {
+				"Color:dddd":	[10, 9, 24, 255]
+			}, {
+				"Color:dddd":	[45, 42, 104, 255]
+			}, {
+				"Color:dddd":	[29, 28, 69, 255]
+			}, {
+				"Color:dddd":	[19, 17, 45, 255]
+			}, {
+				"Color:dddd":	[47, 39, 100, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[1, 0, 3, 255]
+			}, {
+				"Color:dddd":	[2, 0, 4, 255]
+			}, {
+				"Color:dddd":	[1, 0, 4, 255]
+			}, {
+				"Color:dddd":	[1, 0, 2, 255]
+			}, {
+				"Color:dddd":	[3, 2, 8, 255]
+			}, {
+				"Color:dddd":	[1, 0, 4, 255]
+			}, {
+				"Color:dddd":	[1, 0, 3, 255]
+			}, {
+				"Color:dddd":	[5, 4, 13, 255]
+			}, {
+				"Color:dddd":	[5, 4, 13, 255]
+			}, {
+				"Color:dddd":	[14, 8, 24, 255]
+			}, {
+				"Color:dddd":	[3, 2, 8, 255]
+			}, {
+				"Color:dddd":	[11, 5, 17, 255]
+			}, {
+				"Color:dddd":	[9, 4, 14, 255]
+			}, {
+				"Color:dddd":	[13, 8, 22, 255]
+			}, {
+				"Color:dddd":	[1, 0, 3, 255]
+			}, {
+				"Color:dddd":	[1, 0, 3, 255]
+			}, {
+				"Color:dddd":	[7, 2, 10, 255]
+			}, {
+				"Color:dddd":	[2, 0, 4, 255]
+			}, {
+				"Color:dddd":	[1, 0, 3, 255]
+			}, {
+				"Color:dddd":	[5, 2, 8, 255]
+			}, {
+				"Color:dddd":	[8, 3, 13, 255]
+			}, {
+				"Color:dddd":	[29, 14, 44, 255]
+			}, {
+				"Color:dddd":	[4, 1, 7, 255]
+			}, {
+				"Color:dddd":	[1, 0, 2, 255]
+			}, {
+				"Color:dddd":	[44, 23, 67, 255]
+			}, {
+				"Color:dddd":	[10, 4, 14, 255]
+			}, {
+				"Color:dddd":	[13, 7, 20, 255]
+			}, {
+				"Color:dddd":	[49, 28, 77, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[1, 0, 3, 255]
+			}, {
+				"Color:dddd":	[1, 0, 2, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[1, 0, 3, 255]
+			}, {
+				"Color:dddd":	[0, 0, 1, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[1, 0, 3, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[1, 0, 3, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[5, 2, 8, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[8, 3, 13, 255]
+			}, {
+				"Color:dddd":	[1, 0, 2, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[11, 4, 16, 255]
+			}]
+	}, {
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"9911844D_A1466801",
+				"Name:s":	"Inst_Swordlight_RockA019",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_swordlight_rocka.rgeom",
+				"Pos:fff":	[8025.04541015625, -1522.8582763671875, -1915.744140625],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[-5.3153867721557617, 135.3621826171875, 153.33615112304687],
+				"Scale:fff":	[1.423799991607666, 1.423799991607666, 1.423799991607666],
+				"BBox:ffffff":	[7767.30029296875, -1743.188232421875, -2165.55908203125, 8283.673828125, -1304.8621826171875, -1668.010986328125],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	14760,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[-5.3153867721557617, 135.3621826171875, 153.33615112304687],
+				"LocalBoundingBox:ffffff":	[-257.7451171875, -220.3299560546875, -249.81494140625, 258.62841796875, 217.99609375, 247.733154296875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Inst_Swordlight_RockA019",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	1,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Stone"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	130,
+		"rows":	[{
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[3, 1, 8, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[44, 14, 97, 0]
+			}, {
+				"Color:dddd":	[33, 11, 73, 0]
+			}, {
+				"Color:dddd":	[14, 4, 31, 0]
+			}, {
+				"Color:dddd":	[38, 12, 84, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[44, 14, 97, 0]
+			}, {
+				"Color:dddd":	[38, 12, 84, 0]
+			}, {
+				"Color:dddd":	[28, 9, 62, 0]
+			}, {
+				"Color:dddd":	[33, 11, 73, 0]
+			}, {
+				"Color:dddd":	[19, 6, 43, 0]
+			}, {
+				"Color:dddd":	[10, 3, 22, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[2, 0, 5, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[34, 11, 75, 0]
+			}, {
+				"Color:dddd":	[38, 12, 84, 0]
+			}, {
+				"Color:dddd":	[5, 1, 12, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[14, 4, 32, 0]
+			}, {
+				"Color:dddd":	[19, 6, 43, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[2, 0, 5, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}]
+	}, {
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"9911844D_A143EC01",
+				"Name:s":	"Inst_Swordlight_RockC008",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_swordlight_rockc.rgeom",
+				"Pos:fff":	[7392.1337890625, -1426.955810546875, -1177.099853515625],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[34.785469055175781, 109.56533813476562, -4.5519776344299316],
+				"Scale:fff":	[0.69609898328781128, 0.69609898328781128, 0.69609898328781128],
+				"BBox:ffffff":	[7291.927734375, -1536.829833984375, -1284.560302734375, 7552.96875, -1310.6688232421875, -1052.94775390625],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	14760,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[34.785469055175781, 109.56533813476562, -4.5519776344299316],
+				"LocalBoundingBox:ffffff":	[-100.2060546875, -109.8740234375, -107.46044921875, 160.8349609375, 116.2869873046875, 124.152099609375],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Inst_Swordlight_RockC008",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	1,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Stone"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	130,
+		"rows":	[{
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[2, 2, 4, 0]
+			}, {
+				"Color:dddd":	[0, 0, 1, 0]
+			}, {
+				"Color:dddd":	[0, 0, 1, 0]
+			}, {
+				"Color:dddd":	[2, 0, 4, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[5, 4, 10, 0]
+			}, {
+				"Color:dddd":	[3, 1, 8, 0]
+			}, {
+				"Color:dddd":	[4, 1, 8, 0]
+			}, {
+				"Color:dddd":	[3, 1, 7, 0]
+			}, {
+				"Color:dddd":	[3, 1, 7, 0]
+			}, {
+				"Color:dddd":	[6, 2, 13, 0]
+			}, {
+				"Color:dddd":	[5, 1, 12, 0]
+			}, {
+				"Color:dddd":	[7, 3, 14, 0]
+			}, {
+				"Color:dddd":	[8, 5, 17, 0]
+			}, {
+				"Color:dddd":	[5, 1, 12, 0]
+			}, {
+				"Color:dddd":	[6, 2, 13, 0]
+			}, {
+				"Color:dddd":	[10, 7, 19, 0]
+			}, {
+				"Color:dddd":	[3, 1, 7, 0]
+			}, {
+				"Color:dddd":	[13, 11, 24, 0]
+			}, {
+				"Color:dddd":	[10, 8, 17, 0]
+			}, {
+				"Color:dddd":	[5, 4, 8, 0]
+			}, {
+				"Color:dddd":	[12, 9, 21, 0]
+			}, {
+				"Color:dddd":	[1, 1, 3, 0]
+			}, {
+				"Color:dddd":	[6, 5, 11, 0]
+			}, {
+				"Color:dddd":	[2, 1, 4, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[10, 8, 18, 0]
+			}, {
+				"Color:dddd":	[3, 2, 6, 0]
+			}, {
+				"Color:dddd":	[4, 3, 8, 0]
+			}, {
+				"Color:dddd":	[3, 2, 5, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[15, 12, 27, 0]
+			}, {
+				"Color:dddd":	[14, 11, 25, 0]
+			}, {
+				"Color:dddd":	[5, 4, 10, 0]
+			}, {
+				"Color:dddd":	[13, 11, 24, 0]
+			}, {
+				"Color:dddd":	[13, 10, 23, 0]
+			}, {
+				"Color:dddd":	[6, 4, 10, 0]
+			}, {
+				"Color:dddd":	[7, 6, 13, 0]
+			}, {
+				"Color:dddd":	[3, 2, 5, 0]
+			}, {
+				"Color:dddd":	[6, 5, 11, 0]
+			}, {
+				"Color:dddd":	[11, 9, 20, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[4, 3, 8, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[2, 1, 4, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[2, 2, 4, 0]
+			}, {
+				"Color:dddd":	[6, 5, 11, 0]
+			}, {
+				"Color:dddd":	[0, 0, 1, 0]
+			}, {
+				"Color:dddd":	[5, 4, 10, 0]
+			}, {
+				"Color:dddd":	[9, 7, 16, 0]
+			}, {
+				"Color:dddd":	[9, 7, 16, 0]
+			}, {
+				"Color:dddd":	[7, 6, 13, 0]
+			}, {
+				"Color:dddd":	[0, 0, 1, 0]
+			}, {
+				"Color:dddd":	[13, 11, 24, 0]
+			}, {
+				"Color:dddd":	[15, 12, 26, 0]
+			}, {
+				"Color:dddd":	[11, 8, 19, 0]
+			}, {
+				"Color:dddd":	[10, 8, 17, 0]
+			}, {
+				"Color:dddd":	[14, 11, 25, 0]
+			}, {
+				"Color:dddd":	[11, 9, 19, 0]
+			}, {
+				"Color:dddd":	[10, 8, 18, 0]
+			}, {
+				"Color:dddd":	[13, 10, 22, 0]
+			}, {
+				"Color:dddd":	[9, 7, 16, 0]
+			}, {
+				"Color:dddd":	[1, 0, 2, 0]
+			}, {
+				"Color:dddd":	[7, 5, 12, 0]
+			}, {
+				"Color:dddd":	[13, 10, 23, 0]
+			}, {
+				"Color:dddd":	[15, 12, 26, 0]
+			}, {
+				"Color:dddd":	[12, 10, 22, 0]
+			}, {
+				"Color:dddd":	[12, 10, 22, 0]
+			}, {
+				"Color:dddd":	[13, 10, 24, 0]
+			}, {
+				"Color:dddd":	[14, 11, 25, 0]
+			}, {
+				"Color:dddd":	[8, 4, 17, 0]
+			}, {
+				"Color:dddd":	[11, 8, 21, 0]
+			}, {
+				"Color:dddd":	[8, 5, 17, 0]
+			}, {
+				"Color:dddd":	[12, 9, 21, 0]
+			}, {
+				"Color:dddd":	[7, 6, 13, 0]
+			}, {
+				"Color:dddd":	[11, 9, 20, 0]
+			}, {
+				"Color:dddd":	[12, 9, 22, 0]
+			}, {
+				"Color:dddd":	[8, 5, 15, 0]
+			}, {
+				"Color:dddd":	[13, 10, 23, 0]
+			}, {
+				"Color:dddd":	[12, 9, 22, 0]
+			}, {
+				"Color:dddd":	[15, 12, 27, 0]
+			}, {
+				"Color:dddd":	[13, 10, 22, 0]
+			}, {
+				"Color:dddd":	[13, 10, 23, 0]
+			}, {
+				"Color:dddd":	[14, 11, 25, 0]
+			}, {
+				"Color:dddd":	[6, 2, 14, 0]
+			}, {
+				"Color:dddd":	[8, 4, 17, 0]
+			}, {
+				"Color:dddd":	[6, 2, 13, 0]
+			}, {
+				"Color:dddd":	[5, 1, 12, 0]
+			}, {
+				"Color:dddd":	[6, 2, 13, 0]
+			}, {
+				"Color:dddd":	[8, 5, 17, 0]
+			}, {
+				"Color:dddd":	[3, 1, 7, 0]
+			}, {
+				"Color:dddd":	[3, 1, 8, 0]
+			}, {
+				"Color:dddd":	[2, 0, 4, 0]
+			}, {
+				"Color:dddd":	[2, 0, 6, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 1, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[1, 0, 3, 0]
+			}, {
+				"Color:dddd":	[7, 6, 13, 0]
+			}, {
+				"Color:dddd":	[8, 5, 15, 0]
+			}, {
+				"Color:dddd":	[2, 0, 5, 0]
+			}, {
+				"Color:dddd":	[3, 2, 5, 0]
+			}, {
+				"Color:dddd":	[3, 1, 8, 0]
+			}, {
+				"Color:dddd":	[3, 1, 7, 0]
+			}, {
+				"Color:dddd":	[3, 1, 7, 0]
+			}, {
+				"Color:dddd":	[3, 1, 7, 0]
+			}, {
+				"Color:dddd":	[0, 0, 1, 0]
+			}, {
+				"Color:dddd":	[0, 0, 1, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[1, 0, 3, 0]
+			}, {
+				"Color:dddd":	[2, 0, 4, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 1, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 1, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[1, 0, 2, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}]
+	}, {
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"9911844D_A1429801",
+				"Name:s":	"Inst_Swordlight_RockD017",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_swordlight_rockd.rgeom",
+				"Pos:fff":	[8101.4287109375, -1555.65087890625, 98.01983642578125],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1.7815999984741211, 1.7815999984741211, 1.7815999984741211],
+				"BBox:ffffff":	[7913.51220703125, -1757.982666015625, -104.31192016601562, 8303.7607421875, -1367.734375, 285.9364013671875],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	14760,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-187.91650390625, -202.331787109375, -202.33175659179687, 202.33203125, 187.91650390625, 187.91656494140625],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Inst_Swordlight_RockD017",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	1,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Stone"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	130,
+		"rows":	[{
+				"Color:dddd":	[1, 1, 3, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[7, 7, 18, 0]
+			}, {
+				"Color:dddd":	[19, 17, 44, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[1, 1, 2, 0]
+			}, {
+				"Color:dddd":	[24, 24, 57, 0]
+			}, {
+				"Color:dddd":	[45, 42, 104, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[1, 0, 3, 0]
+			}, {
+				"Color:dddd":	[3, 1, 7, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[34, 30, 79, 0]
+			}, {
+				"Color:dddd":	[12, 12, 29, 0]
+			}, {
+				"Color:dddd":	[52, 47, 122, 0]
+			}, {
+				"Color:dddd":	[54, 49, 126, 0]
+			}, {
+				"Color:dddd":	[43, 41, 102, 0]
+			}, {
+				"Color:dddd":	[53, 48, 123, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[2, 0, 4, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[32, 27, 75, 0]
+			}, {
+				"Color:dddd":	[11, 5, 24, 0]
+			}, {
+				"Color:dddd":	[1, 0, 3, 0]
+			}, {
+				"Color:dddd":	[9, 6, 20, 0]
+			}, {
+				"Color:dddd":	[6, 2, 13, 0]
+			}, {
+				"Color:dddd":	[2, 0, 6, 0]
+			}, {
+				"Color:dddd":	[3, 1, 8, 0]
+			}, {
+				"Color:dddd":	[3, 1, 7, 0]
+			}, {
+				"Color:dddd":	[3, 1, 7, 0]
+			}, {
+				"Color:dddd":	[4, 1, 10, 0]
+			}, {
+				"Color:dddd":	[1, 0, 2, 0]
+			}, {
+				"Color:dddd":	[0, 0, 1, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[1, 1, 3, 0]
+			}, {
+				"Color:dddd":	[19, 17, 44, 0]
+			}, {
+				"Color:dddd":	[15, 12, 35, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[45, 42, 104, 0]
+			}, {
+				"Color:dddd":	[41, 37, 96, 0]
+			}, {
+				"Color:dddd":	[30, 26, 70, 0]
+			}, {
+				"Color:dddd":	[4, 2, 10, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[52, 47, 122, 0]
+			}, {
+				"Color:dddd":	[49, 43, 113, 0]
+			}, {
+				"Color:dddd":	[50, 45, 118, 0]
+			}, {
+				"Color:dddd":	[54, 49, 126, 0]
+			}, {
+				"Color:dddd":	[48, 42, 111, 0]
+			}, {
+				"Color:dddd":	[48, 43, 111, 0]
+			}, {
+				"Color:dddd":	[40, 35, 93, 0]
+			}, {
+				"Color:dddd":	[46, 41, 107, 0]
+			}, {
+				"Color:dddd":	[15, 11, 34, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[1, 0, 3, 0]
+			}, {
+				"Color:dddd":	[48, 43, 112, 0]
+			}, {
+				"Color:dddd":	[49, 43, 113, 0]
+			}, {
+				"Color:dddd":	[33, 26, 77, 0]
+			}, {
+				"Color:dddd":	[27, 20, 63, 0]
+			}, {
+				"Color:dddd":	[46, 40, 106, 0]
+			}, {
+				"Color:dddd":	[48, 42, 111, 0]
+			}, {
+				"Color:dddd":	[3, 1, 8, 0]
+			}, {
+				"Color:dddd":	[8, 2, 19, 0]
+			}, {
+				"Color:dddd":	[5, 1, 11, 0]
+			}, {
+				"Color:dddd":	[9, 3, 21, 0]
+			}, {
+				"Color:dddd":	[3, 1, 8, 0]
+			}, {
+				"Color:dddd":	[4, 1, 10, 0]
+			}, {
+				"Color:dddd":	[7, 2, 15, 0]
+			}, {
+				"Color:dddd":	[4, 1, 8, 0]
+			}, {
+				"Color:dddd":	[6, 2, 13, 0]
+			}, {
+				"Color:dddd":	[13, 6, 29, 0]
+			}, {
+				"Color:dddd":	[32, 27, 75, 0]
+			}, {
+				"Color:dddd":	[46, 41, 107, 0]
+			}, {
+				"Color:dddd":	[41, 34, 95, 0]
+			}, {
+				"Color:dddd":	[11, 5, 24, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[3, 1, 8, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[5, 1, 11, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[1, 0, 2, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[3, 1, 8, 0]
+			}, {
+				"Color:dddd":	[4, 1, 8, 0]
+			}, {
+				"Color:dddd":	[1, 0, 4, 0]
+			}, {
+				"Color:dddd":	[3, 1, 7, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[1, 1, 3, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}]
+	}, {
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"9911844D_A1457001",
+				"Name:s":	"Inst_Swordlight_RockD018",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_swordlight_rockd.rgeom",
+				"Pos:fff":	[8101.4287109375, -1388.1746826171875, -2190.50048828125],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1.7815999984741211, 1.7815999984741211, 1.7815999984741211],
+				"BBox:ffffff":	[7913.51220703125, -1590.5064697265625, -2392.832275390625, 8303.7607421875, -1200.2581787109375, -2002.583984375],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	14760,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-187.91650390625, -202.331787109375, -202.331787109375, 202.33203125, 187.91650390625, 187.91650390625],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Inst_Swordlight_RockD018",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	1,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Stone"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	130,
+		"rows":	[{
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[1, 0, 4, 0]
+			}, {
+				"Color:dddd":	[2, 0, 5, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[2, 0, 6, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[1, 0, 3, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[2, 0, 5, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[1, 0, 2, 0]
+			}, {
+				"Color:dddd":	[2, 0, 6, 0]
+			}, {
+				"Color:dddd":	[5, 1, 12, 0]
+			}, {
+				"Color:dddd":	[7, 2, 16, 0]
+			}, {
+				"Color:dddd":	[4, 1, 10, 0]
+			}, {
+				"Color:dddd":	[4, 1, 9, 0]
+			}, {
+				"Color:dddd":	[11, 3, 24, 0]
+			}, {
+				"Color:dddd":	[4, 1, 9, 0]
+			}, {
+				"Color:dddd":	[6, 2, 14, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[1, 0, 2, 0]
+			}, {
+				"Color:dddd":	[12, 4, 27, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[4, 1, 10, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[8, 2, 19, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[5, 1, 12, 0]
+			}, {
+				"Color:dddd":	[4, 1, 9, 0]
+			}, {
+				"Color:dddd":	[2, 0, 5, 0]
+			}, {
+				"Color:dddd":	[6, 2, 14, 0]
+			}, {
+				"Color:dddd":	[1, 0, 2, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[9, 3, 20, 0]
+			}, {
+				"Color:dddd":	[4, 1, 10, 0]
+			}, {
+				"Color:dddd":	[7, 2, 16, 0]
+			}, {
+				"Color:dddd":	[17, 5, 39, 0]
+			}, {
+				"Color:dddd":	[17, 5, 38, 0]
+			}, {
+				"Color:dddd":	[8, 2, 19, 0]
+			}, {
+				"Color:dddd":	[3, 1, 7, 0]
+			}, {
+				"Color:dddd":	[6, 2, 15, 0]
+			}, {
+				"Color:dddd":	[7, 2, 15, 0]
+			}, {
+				"Color:dddd":	[14, 4, 31, 0]
+			}, {
+				"Color:dddd":	[6, 2, 14, 0]
+			}, {
+				"Color:dddd":	[12, 4, 27, 0]
+			}, {
+				"Color:dddd":	[18, 6, 41, 0]
+			}, {
+				"Color:dddd":	[9, 3, 20, 0]
+			}, {
+				"Color:dddd":	[11, 3, 24, 0]
+			}, {
+				"Color:dddd":	[18, 6, 40, 0]
+			}, {
+				"Color:dddd":	[5, 1, 12, 0]
+			}, {
+				"Color:dddd":	[6, 2, 14, 0]
+			}, {
+				"Color:dddd":	[13, 4, 30, 0]
+			}, {
+				"Color:dddd":	[7, 2, 16, 0]
+			}, {
+				"Color:dddd":	[1, 0, 4, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[3, 1, 7, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 1, 0]
+			}, {
+				"Color:dddd":	[7, 2, 15, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[9, 3, 20, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}]
+	}, {
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"9911844D_A147EC00",
+				"Name:s":	"Inst_Swordlight_RockD019",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_swordlight_rockd.rgeom",
+				"Pos:fff":	[8786.189453125, -2140.19091796875, -1793.43212890625],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1.7815999984741211, 1.7815999984741211, 1.7815999984741211],
+				"BBox:ffffff":	[8598.2724609375, -2342.522705078125, -1995.763916015625, 8988.521484375, -1952.2744140625, -1605.515625],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	14760,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-187.9169921875, -202.331787109375, -202.331787109375, 202.33203125, 187.91650390625, 187.91650390625],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Inst_Swordlight_RockD019",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	1,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Stone"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	130,
+		"rows":	[{
+				"Color:dddd":	[3, 1, 8, 0]
+			}, {
+				"Color:dddd":	[5, 1, 12, 0]
+			}, {
+				"Color:dddd":	[3, 1, 7, 0]
+			}, {
+				"Color:dddd":	[1, 0, 3, 0]
+			}, {
+				"Color:dddd":	[6, 2, 13, 0]
+			}, {
+				"Color:dddd":	[5, 1, 11, 0]
+			}, {
+				"Color:dddd":	[3, 1, 7, 0]
+			}, {
+				"Color:dddd":	[1, 0, 2, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[8, 3, 15, 0]
+			}, {
+				"Color:dddd":	[14, 6, 21, 0]
+			}, {
+				"Color:dddd":	[8, 3, 15, 0]
+			}, {
+				"Color:dddd":	[5, 1, 12, 0]
+			}, {
+				"Color:dddd":	[17, 8, 25, 0]
+			}, {
+				"Color:dddd":	[11, 5, 18, 0]
+			}, {
+				"Color:dddd":	[40, 21, 52, 0]
+			}, {
+				"Color:dddd":	[30, 16, 38, 0]
+			}, {
+				"Color:dddd":	[14, 7, 20, 0]
+			}, {
+				"Color:dddd":	[25, 13, 34, 0]
+			}, {
+				"Color:dddd":	[2, 1, 2, 0]
+			}, {
+				"Color:dddd":	[1, 0, 3, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[3, 1, 4, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[14, 8, 19, 0]
+			}, {
+				"Color:dddd":	[8, 4, 10, 0]
+			}, {
+				"Color:dddd":	[17, 9, 23, 0]
+			}, {
+				"Color:dddd":	[17, 9, 22, 0]
+			}, {
+				"Color:dddd":	[13, 7, 17, 0]
+			}, {
+				"Color:dddd":	[17, 9, 22, 0]
+			}, {
+				"Color:dddd":	[12, 7, 16, 0]
+			}, {
+				"Color:dddd":	[1, 0, 2, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[1, 0, 1, 0]
+			}, {
+				"Color:dddd":	[3, 1, 8, 0]
+			}, {
+				"Color:dddd":	[1, 0, 3, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[3, 1, 8, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[1, 0, 2, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[11, 6, 15, 0]
+			}, {
+				"Color:dddd":	[16, 8, 20, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[57, 31, 74, 0]
+			}, {
+				"Color:dddd":	[45, 24, 58, 0]
+			}, {
+				"Color:dddd":	[49, 26, 63, 0]
+			}, {
+				"Color:dddd":	[39, 21, 51, 0]
+			}, {
+				"Color:dddd":	[17, 9, 23, 0]
+			}, {
+				"Color:dddd":	[17, 9, 22, 0]
+			}, {
+				"Color:dddd":	[25, 13, 32, 0]
+			}, {
+				"Color:dddd":	[21, 11, 27, 0]
+			}, {
+				"Color:dddd":	[14, 8, 19, 0]
+			}, {
+				"Color:dddd":	[18, 10, 24, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[3, 1, 4, 0]
+			}, {
+				"Color:dddd":	[38, 20, 49, 0]
+			}, {
+				"Color:dddd":	[57, 31, 74, 0]
+			}, {
+				"Color:dddd":	[22, 11, 31, 0]
+			}, {
+				"Color:dddd":	[25, 13, 33, 0]
+			}, {
+				"Color:dddd":	[37, 20, 47, 0]
+			}, {
+				"Color:dddd":	[49, 26, 63, 0]
+			}, {
+				"Color:dddd":	[6, 2, 12, 0]
+			}, {
+				"Color:dddd":	[15, 7, 23, 0]
+			}, {
+				"Color:dddd":	[3, 1, 8, 0]
+			}, {
+				"Color:dddd":	[14, 7, 20, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[1, 0, 1, 0]
+			}, {
+				"Color:dddd":	[13, 7, 16, 0]
+			}, {
+				"Color:dddd":	[1, 0, 3, 0]
+			}, {
+				"Color:dddd":	[12, 7, 16, 0]
+			}, {
+				"Color:dddd":	[21, 11, 27, 0]
+			}, {
+				"Color:dddd":	[17, 9, 23, 0]
+			}, {
+				"Color:dddd":	[21, 11, 27, 0]
+			}, {
+				"Color:dddd":	[23, 12, 30, 0]
+			}, {
+				"Color:dddd":	[17, 9, 22, 0]
+			}, {
+				"Color:dddd":	[8, 3, 15, 0]
+			}, {
+				"Color:dddd":	[5, 1, 12, 0]
+			}, {
+				"Color:dddd":	[6, 2, 13, 0]
+			}, {
+				"Color:dddd":	[6, 2, 12, 0]
+			}, {
+				"Color:dddd":	[6, 2, 13, 0]
+			}, {
+				"Color:dddd":	[6, 2, 14, 0]
+			}, {
+				"Color:dddd":	[4, 1, 9, 0]
+			}, {
+				"Color:dddd":	[4, 1, 10, 0]
+			}, {
+				"Color:dddd":	[3, 1, 8, 0]
+			}, {
+				"Color:dddd":	[3, 1, 8, 0]
+			}, {
+				"Color:dddd":	[3, 1, 8, 0]
+			}, {
+				"Color:dddd":	[6, 2, 13, 0]
+			}, {
+				"Color:dddd":	[5, 1, 12, 0]
+			}, {
+				"Color:dddd":	[1, 0, 2, 0]
+			}, {
+				"Color:dddd":	[3, 1, 6, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[1, 0, 2, 0]
+			}, {
+				"Color:dddd":	[1, 0, 3, 0]
+			}, {
+				"Color:dddd":	[2, 0, 4, 0]
+			}]
+	}, {
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"9911844D_A1595401",
+				"Name:s":	"Inst_Swordlight_RockD020",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_swordlight_rockd.rgeom",
+				"Pos:fff":	[9921.3974609375, -2095.986083984375, 2366.2744140625],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1.7815999984741211, 1.7815999984741211, 1.7815999984741211],
+				"BBox:ffffff":	[9733.48046875, -2298.31787109375, 2163.942626953125, 10123.7294921875, -1908.069580078125, 2554.19091796875],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	14760,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-187.9169921875, -202.331787109375, -202.331787109375, 202.33203125, 187.91650390625, 187.91650390625],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Inst_Swordlight_RockD020",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	1,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Stone"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	130,
+		"rows":	[{
+				"Color:dddd":	[25, 18, 58, 0]
+			}, {
+				"Color:dddd":	[44, 33, 91, 0]
+			}, {
+				"Color:dddd":	[52, 34, 103, 0]
+			}, {
+				"Color:dddd":	[34, 25, 78, 0]
+			}, {
+				"Color:dddd":	[54, 42, 106, 0]
+			}, {
+				"Color:dddd":	[67, 48, 127, 0]
+			}, {
+				"Color:dddd":	[71, 47, 129, 0]
+			}, {
+				"Color:dddd":	[53, 35, 105, 0]
+			}, {
+				"Color:dddd":	[68, 58, 104, 0]
+			}, {
+				"Color:dddd":	[56, 42, 102, 0]
+			}, {
+				"Color:dddd":	[63, 45, 112, 0]
+			}, {
+				"Color:dddd":	[71, 51, 129, 0]
+			}, {
+				"Color:dddd":	[56, 43, 106, 0]
+			}, {
+				"Color:dddd":	[68, 46, 116, 0]
+			}, {
+				"Color:dddd":	[78, 53, 136, 0]
+			}, {
+				"Color:dddd":	[69, 39, 104, 0]
+			}, {
+				"Color:dddd":	[66, 35, 97, 0]
+			}, {
+				"Color:dddd":	[84, 53, 139, 0]
+			}, {
+				"Color:dddd":	[74, 47, 120, 0]
+			}, {
+				"Color:dddd":	[37, 22, 64, 0]
+			}, {
+				"Color:dddd":	[63, 39, 112, 0]
+			}, {
+				"Color:dddd":	[35, 34, 83, 0]
+			}, {
+				"Color:dddd":	[39, 36, 91, 0]
+			}, {
+				"Color:dddd":	[39, 30, 85, 0]
+			}, {
+				"Color:dddd":	[34, 31, 79, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 1, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[25, 26, 60, 0]
+			}, {
+				"Color:dddd":	[4, 4, 10, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[14, 14, 33, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[25, 18, 58, 0]
+			}, {
+				"Color:dddd":	[34, 25, 78, 0]
+			}, {
+				"Color:dddd":	[24, 19, 55, 0]
+			}, {
+				"Color:dddd":	[8, 5, 19, 0]
+			}, {
+				"Color:dddd":	[68, 58, 104, 0]
+			}, {
+				"Color:dddd":	[73, 66, 105, 0]
+			}, {
+				"Color:dddd":	[62, 57, 88, 0]
+			}, {
+				"Color:dddd":	[11, 11, 27, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[35, 34, 83, 0]
+			}, {
+				"Color:dddd":	[34, 33, 81, 0]
+			}, {
+				"Color:dddd":	[40, 38, 94, 0]
+			}, {
+				"Color:dddd":	[39, 36, 91, 0]
+			}, {
+				"Color:dddd":	[36, 34, 85, 0]
+			}, {
+				"Color:dddd":	[41, 39, 96, 0]
+			}, {
+				"Color:dddd":	[39, 38, 92, 0]
+			}, {
+				"Color:dddd":	[38, 36, 88, 0]
+			}, {
+				"Color:dddd":	[22, 22, 52, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[29, 28, 67, 0]
+			}, {
+				"Color:dddd":	[34, 33, 81, 0]
+			}, {
+				"Color:dddd":	[16, 13, 35, 0]
+			}, {
+				"Color:dddd":	[11, 9, 25, 0]
+			}, {
+				"Color:dddd":	[29, 27, 68, 0]
+			}, {
+				"Color:dddd":	[36, 34, 85, 0]
+			}, {
+				"Color:dddd":	[41, 20, 58, 0]
+			}, {
+				"Color:dddd":	[28, 12, 39, 0]
+			}, {
+				"Color:dddd":	[4, 1, 8, 0]
+			}, {
+				"Color:dddd":	[4, 1, 8, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 1, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[1, 0, 3, 0]
+			}, {
+				"Color:dddd":	[25, 26, 60, 0]
+			}, {
+				"Color:dddd":	[38, 36, 88, 0]
+			}, {
+				"Color:dddd":	[25, 24, 58, 0]
+			}, {
+				"Color:dddd":	[4, 4, 10, 0]
+			}, {
+				"Color:dddd":	[49, 29, 77, 0]
+			}, {
+				"Color:dddd":	[41, 20, 58, 0]
+			}, {
+				"Color:dddd":	[52, 35, 88, 0]
+			}, {
+				"Color:dddd":	[17, 10, 27, 0]
+			}, {
+				"Color:dddd":	[7, 3, 11, 0]
+			}, {
+				"Color:dddd":	[4, 1, 8, 0]
+			}, {
+				"Color:dddd":	[41, 32, 78, 0]
+			}, {
+				"Color:dddd":	[48, 34, 85, 0]
+			}, {
+				"Color:dddd":	[19, 16, 38, 0]
+			}, {
+				"Color:dddd":	[23, 16, 40, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 1, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 1, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[56, 42, 102, 0]
+			}, {
+				"Color:dddd":	[56, 43, 106, 0]
+			}, {
+				"Color:dddd":	[33, 29, 67, 0]
+			}, {
+				"Color:dddd":	[41, 32, 78, 0]
+			}, {
+				"Color:dddd":	[54, 42, 106, 0]
+			}, {
+				"Color:dddd":	[29, 26, 61, 0]
+			}, {
+				"Color:dddd":	[4, 4, 10, 0]
+			}, {
+				"Color:dddd":	[11, 11, 25, 0]
+			}, {
+				"Color:dddd":	[19, 16, 38, 0]
+			}, {
+				"Color:dddd":	[25, 18, 58, 0]
+			}, {
+				"Color:dddd":	[8, 5, 19, 0]
+			}, {
+				"Color:dddd":	[17, 16, 40, 0]
+			}, {
+				"Color:dddd":	[44, 33, 91, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 1, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}]
+	}, {
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"9911844D_A1307C01",
+				"Name:s":	"Inst_Swordlight_RockF013",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_swordlight_rockf.rgeom",
+				"Pos:fff":	[8332.416015625, -1655.5404052734375, 176.08810424804687],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1.1299999952316284, 1.1299999952316284, 1.1299999952316284],
+				"BBox:ffffff":	[8176.54443359375, -1753.604248046875, 78.0242919921875, 8430.4794921875, -1514.4761962890625, 331.95965576171875],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	14760,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-155.87158203125, -98.0638427734375, -98.063812255859375, 98.0634765625, 141.064208984375, 155.87155151367188],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Inst_Swordlight_RockF013",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	1,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Stone"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	130,
+		"rows":	[{
+				"Color:dddd":	[33, 30, 77, 0]
+			}, {
+				"Color:dddd":	[25, 23, 59, 0]
+			}, {
+				"Color:dddd":	[32, 31, 76, 0]
+			}, {
+				"Color:dddd":	[40, 37, 93, 0]
+			}, {
+				"Color:dddd":	[1, 1, 3, 0]
+			}, {
+				"Color:dddd":	[8, 8, 20, 0]
+			}, {
+				"Color:dddd":	[16, 15, 38, 0]
+			}, {
+				"Color:dddd":	[36, 34, 85, 0]
+			}, {
+				"Color:dddd":	[43, 40, 100, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[1, 1, 2, 0]
+			}, {
+				"Color:dddd":	[1, 0, 2, 0]
+			}, {
+				"Color:dddd":	[22, 12, 49, 0]
+			}, {
+				"Color:dddd":	[26, 16, 59, 0]
+			}, {
+				"Color:dddd":	[17, 9, 38, 0]
+			}, {
+				"Color:dddd":	[18, 10, 41, 0]
+			}, {
+				"Color:dddd":	[23, 14, 53, 0]
+			}, {
+				"Color:dddd":	[25, 18, 57, 0]
+			}, {
+				"Color:dddd":	[37, 29, 86, 0]
+			}, {
+				"Color:dddd":	[43, 39, 101, 0]
+			}, {
+				"Color:dddd":	[35, 28, 81, 0]
+			}, {
+				"Color:dddd":	[26, 17, 59, 0]
+			}, {
+				"Color:dddd":	[4, 2, 11, 0]
+			}, {
+				"Color:dddd":	[4, 2, 10, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[1, 0, 2, 0]
+			}, {
+				"Color:dddd":	[4, 2, 10, 0]
+			}, {
+				"Color:dddd":	[0, 0, 1, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[2, 0, 5, 0]
+			}, {
+				"Color:dddd":	[7, 6, 17, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[4, 2, 9, 0]
+			}, {
+				"Color:dddd":	[11, 9, 26, 0]
+			}, {
+				"Color:dddd":	[3, 3, 7, 0]
+			}, {
+				"Color:dddd":	[14, 12, 34, 0]
+			}, {
+				"Color:dddd":	[9, 9, 21, 0]
+			}, {
+				"Color:dddd":	[5, 5, 13, 0]
+			}, {
+				"Color:dddd":	[13, 10, 30, 0]
+			}, {
+				"Color:dddd":	[6, 7, 16, 0]
+			}, {
+				"Color:dddd":	[4, 4, 9, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[4, 4, 10, 0]
+			}, {
+				"Color:dddd":	[33, 30, 77, 0]
+			}, {
+				"Color:dddd":	[40, 37, 93, 0]
+			}, {
+				"Color:dddd":	[36, 32, 83, 0]
+			}, {
+				"Color:dddd":	[28, 25, 66, 0]
+			}, {
+				"Color:dddd":	[43, 40, 100, 0]
+			}, {
+				"Color:dddd":	[39, 36, 91, 0]
+			}, {
+				"Color:dddd":	[32, 29, 75, 0]
+			}, {
+				"Color:dddd":	[29, 26, 68, 0]
+			}, {
+				"Color:dddd":	[21, 19, 50, 0]
+			}, {
+				"Color:dddd":	[37, 29, 86, 0]
+			}, {
+				"Color:dddd":	[37, 30, 87, 0]
+			}, {
+				"Color:dddd":	[40, 37, 95, 0]
+			}, {
+				"Color:dddd":	[43, 39, 101, 0]
+			}, {
+				"Color:dddd":	[33, 26, 76, 0]
+			}, {
+				"Color:dddd":	[35, 31, 81, 0]
+			}, {
+				"Color:dddd":	[22, 19, 52, 0]
+			}, {
+				"Color:dddd":	[19, 13, 43, 0]
+			}, {
+				"Color:dddd":	[21, 18, 49, 0]
+			}, {
+				"Color:dddd":	[15, 12, 35, 0]
+			}, {
+				"Color:dddd":	[23, 19, 53, 0]
+			}, {
+				"Color:dddd":	[22, 13, 51, 0]
+			}, {
+				"Color:dddd":	[37, 30, 87, 0]
+			}, {
+				"Color:dddd":	[25, 15, 57, 0]
+			}, {
+				"Color:dddd":	[22, 12, 50, 0]
+			}, {
+				"Color:dddd":	[23, 13, 52, 0]
+			}, {
+				"Color:dddd":	[33, 26, 76, 0]
+			}, {
+				"Color:dddd":	[24, 14, 54, 0]
+			}, {
+				"Color:dddd":	[24, 14, 56, 0]
+			}, {
+				"Color:dddd":	[24, 15, 54, 0]
+			}, {
+				"Color:dddd":	[23, 13, 52, 0]
+			}, {
+				"Color:dddd":	[14, 12, 34, 0]
+			}, {
+				"Color:dddd":	[13, 10, 30, 0]
+			}, {
+				"Color:dddd":	[21, 13, 47, 0]
+			}, {
+				"Color:dddd":	[21, 15, 49, 0]
+			}, {
+				"Color:dddd":	[11, 9, 26, 0]
+			}, {
+				"Color:dddd":	[21, 13, 47, 0]
+			}, {
+				"Color:dddd":	[2, 0, 5, 0]
+			}, {
+				"Color:dddd":	[19, 13, 43, 0]
+			}, {
+				"Color:dddd":	[20, 12, 46, 0]
+			}, {
+				"Color:dddd":	[7, 6, 17, 0]
+			}, {
+				"Color:dddd":	[19, 13, 45, 0]
+			}, {
+				"Color:dddd":	[24, 14, 54, 0]
+			}, {
+				"Color:dddd":	[4, 4, 11, 0]
+			}, {
+				"Color:dddd":	[7, 8, 18, 0]
+			}, {
+				"Color:dddd":	[19, 15, 45, 0]
+			}, {
+				"Color:dddd":	[24, 15, 54, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[1, 1, 2, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[4, 4, 10, 0]
+			}, {
+				"Color:dddd":	[3, 3, 8, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[6, 7, 16, 0]
+			}, {
+				"Color:dddd":	[9, 9, 21, 0]
+			}, {
+				"Color:dddd":	[14, 12, 34, 0]
+			}, {
+				"Color:dddd":	[21, 15, 49, 0]
+			}, {
+				"Color:dddd":	[16, 14, 39, 0]
+			}, {
+				"Color:dddd":	[9, 9, 21, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[1, 1, 3, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[33, 30, 77, 0]
+			}, {
+				"Color:dddd":	[28, 25, 66, 0]
+			}, {
+				"Color:dddd":	[15, 13, 35, 0]
+			}, {
+				"Color:dddd":	[25, 23, 59, 0]
+			}, {
+				"Color:dddd":	[21, 19, 50, 0]
+			}, {
+				"Color:dddd":	[7, 6, 17, 0]
+			}, {
+				"Color:dddd":	[2, 1, 5, 0]
+			}, {
+				"Color:dddd":	[15, 12, 35, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}]
+	}, {
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"9911844D_A1474C01",
+				"Name:s":	"Inst_Swordlight_RockF018",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_swordlight_rockf.rgeom",
+				"Pos:fff":	[8899.533203125, -2168.98486328125, -1532.81005859375],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1.1299999952316284, 1.1299999952316284, 1.1299999952316284],
+				"BBox:ffffff":	[8743.662109375, -2267.048583984375, -1630.8739013671875, 8997.5966796875, -2027.920654296875, -1376.9384765625],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	14760,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-155.87109375, -98.063720703125, -98.0638427734375, 98.0634765625, 141.064208984375, 155.87158203125],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Inst_Swordlight_RockF018",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	1,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Stone"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	130,
+		"rows":	[{
+				"Color:dddd":	[2, 0, 4, 0]
+			}, {
+				"Color:dddd":	[3, 1, 7, 0]
+			}, {
+				"Color:dddd":	[3, 1, 6, 0]
+			}, {
+				"Color:dddd":	[1, 0, 3, 0]
+			}, {
+				"Color:dddd":	[4, 1, 10, 0]
+			}, {
+				"Color:dddd":	[3, 1, 8, 0]
+			}, {
+				"Color:dddd":	[9, 4, 13, 0]
+			}, {
+				"Color:dddd":	[1, 0, 2, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[3, 1, 6, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[3, 1, 7, 0]
+			}, {
+				"Color:dddd":	[3, 1, 7, 0]
+			}, {
+				"Color:dddd":	[57, 30, 77, 0]
+			}, {
+				"Color:dddd":	[29, 16, 38, 0]
+			}, {
+				"Color:dddd":	[85, 46, 110, 0]
+			}, {
+				"Color:dddd":	[62, 33, 80, 0]
+			}, {
+				"Color:dddd":	[63, 34, 81, 0]
+			}, {
+				"Color:dddd":	[98, 53, 127, 0]
+			}, {
+				"Color:dddd":	[49, 26, 63, 0]
+			}, {
+				"Color:dddd":	[39, 21, 51, 0]
+			}, {
+				"Color:dddd":	[9, 5, 12, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[18, 9, 23, 0]
+			}, {
+				"Color:dddd":	[40, 21, 52, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[7, 4, 9, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[21, 11, 27, 0]
+			}, {
+				"Color:dddd":	[6, 3, 8, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[11, 6, 14, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[2, 0, 4, 0]
+			}, {
+				"Color:dddd":	[1, 0, 3, 0]
+			}, {
+				"Color:dddd":	[0, 0, 1, 0]
+			}, {
+				"Color:dddd":	[1, 0, 3, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[1, 0, 2, 0]
+			}, {
+				"Color:dddd":	[9, 5, 12, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[45, 24, 58, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[58, 31, 75, 0]
+			}, {
+				"Color:dddd":	[59, 32, 76, 0]
+			}, {
+				"Color:dddd":	[46, 25, 60, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[89, 48, 114, 0]
+			}, {
+				"Color:dddd":	[66, 35, 85, 0]
+			}, {
+				"Color:dddd":	[79, 43, 102, 0]
+			}, {
+				"Color:dddd":	[65, 35, 84, 0]
+			}, {
+				"Color:dddd":	[21, 11, 27, 0]
+			}, {
+				"Color:dddd":	[11, 6, 14, 0]
+			}, {
+				"Color:dddd":	[43, 23, 55, 0]
+			}, {
+				"Color:dddd":	[52, 28, 67, 0]
+			}, {
+				"Color:dddd":	[7, 4, 9, 0]
+			}, {
+				"Color:dddd":	[44, 23, 57, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[38, 20, 49, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[105, 57, 136, 0]
+			}, {
+				"Color:dddd":	[89, 48, 114, 0]
+			}, {
+				"Color:dddd":	[61, 33, 78, 0]
+			}, {
+				"Color:dddd":	[49, 26, 64, 0]
+			}, {
+				"Color:dddd":	[85, 45, 109, 0]
+			}, {
+				"Color:dddd":	[79, 43, 102, 0]
+			}, {
+				"Color:dddd":	[2, 0, 6, 0]
+			}, {
+				"Color:dddd":	[0, 0, 1, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 1, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[20, 11, 26, 0]
+			}, {
+				"Color:dddd":	[21, 11, 27, 0]
+			}, {
+				"Color:dddd":	[52, 28, 67, 0]
+			}, {
+				"Color:dddd":	[49, 27, 64, 0]
+			}, {
+				"Color:dddd":	[6, 3, 8, 0]
+			}, {
+				"Color:dddd":	[3, 1, 6, 0]
+			}, {
+				"Color:dddd":	[3, 1, 7, 0]
+			}, {
+				"Color:dddd":	[3, 1, 7, 0]
+			}, {
+				"Color:dddd":	[2, 0, 6, 0]
+			}, {
+				"Color:dddd":	[4, 1, 10, 0]
+			}, {
+				"Color:dddd":	[4, 1, 10, 0]
+			}, {
+				"Color:dddd":	[3, 1, 7, 0]
+			}, {
+				"Color:dddd":	[2, 0, 5, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[2, 0, 4, 0]
+			}, {
+				"Color:dddd":	[1, 0, 3, 0]
+			}, {
+				"Color:dddd":	[3, 1, 7, 0]
+			}, {
+				"Color:dddd":	[3, 1, 7, 0]
+			}, {
+				"Color:dddd":	[1, 0, 2, 0]
+			}, {
+				"Color:dddd":	[2, 0, 5, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[1, 0, 2, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}, {
+				"Color:dddd":	[0, 0, 0, 0]
+			}]
+	}]

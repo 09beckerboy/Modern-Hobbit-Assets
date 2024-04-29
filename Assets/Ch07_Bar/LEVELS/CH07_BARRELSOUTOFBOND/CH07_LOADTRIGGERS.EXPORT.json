@@ -1,0 +1,3518 @@
+[{
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD150_EC13D001",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[12002.1982421875, 1857.2740478515625, 10795.591796875],
+				"Orientation:fff":	[0, -31.950016021728516, 0],
+				"LocalBoundingBox:ffffff":	[-195.05136108398437, -355.67498779296875, -271.18621826171875, 195.05136108398437, 355.67498779296875, 271.18621826171875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Bal - Load Spider Lair; Unload Jail",
+				"Name:s":	"Bal - Load Spider Lair; Unload Jail",
+				"Pos:fff":	[12002.1982421875, 1857.2740478515625, 10795.591796875],
+				"BBox:ffffff":	[11807.146484375, 1501.59912109375, 10524.4052734375, 12197.25, 2212.948974609375, 11066.7783203125],
+				"Orient:fff":	[0, -31.950016021728516, 0],
+				"HalfDimensions:fff":	[50, 355.67498779296875, 288.41998291015625],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	3,
+		"rows":	[{
+				"Layer:s":	"CH07_Webs_Grotto"
+			}, {
+				"Layer:s":	"CH07_PS_SpiderRoom"
+			}, {
+				"Layer:s":	"CH07_PS_Spider-Grotto_Floor"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_NPC_Elves_Jail"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	3,
+		"rows":	[{
+				"LoadResources:s":	"CH07_Webs_Grotto"
+			}, {
+				"LoadResources:s":	"CH07_PS_SpiderRoom"
+			}, {
+				"LoadResources:s":	"CH07_PS_Spider-Grotto_Floor"
+			}]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadResources:s":	"CH07_NPC_Elves_Jail"
+			}]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD150_EC168001",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[11612.869140625, 1857.2740478515625, 10366.07421875],
+				"Orientation:fff":	[0, -31.950016021728516, 0],
+				"LocalBoundingBox:ffffff":	[-195.05136108398437, -355.67498779296875, -271.18621826171875, 195.05136108398437, 355.67498779296875, 271.18621826171875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Bal - Unload Spider Lair",
+				"Name:s":	"Bal - Unload Spider Lair",
+				"Pos:fff":	[11612.869140625, 1857.2740478515625, 10366.07421875],
+				"BBox:ffffff":	[11417.8173828125, 1501.59912109375, 10094.8876953125, 11807.9208984375, 2212.948974609375, 10637.2607421875],
+				"Orient:fff":	[0, -31.950016021728516, 0],
+				"HalfDimensions:fff":	[50, 355.67498779296875, 288.41998291015625],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	2,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_Webs_Grotto"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_SpiderRoom"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	2,
+		"rows":	[{
+				"UnloadResources:s":	"CH07_Webs_Grotto"
+			}, {
+				"UnloadResources:s":	"CH07_PS_SpiderRoom"
+			}]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADC0E_9F168402",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-7817.0380859375, 32.777313232421875, 6006.09765625],
+				"Orientation:fff":	[0, 89.9999771118164, 0],
+				"LocalBoundingBox:ffffff":	[-384.40505981445312, -372.87506103515625, -50, 384.40505981445312, 372.87506103515625, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Barrel-Jail LoadTrigger 001",
+				"Name:s":	"Barrel-Jail LoadTrigger 001",
+				"Pos:fff":	[-7817.0380859375, 32.777313232421875, 6006.09765625],
+				"BBox:ffffff":	[-8201.443359375, -340.09774780273437, 5956.09765625, -7432.6328125, 405.65237426757812, 6056.09765625],
+				"Orient:fff":	[0, 89.9999771118164, 0],
+				"HalfDimensions:fff":	[50, 372.87506103515625, 384.40505981445312],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	7,
+		"rows":	[{
+				"Layer:s":	"CH07_PS_Jail"
+			}, {
+				"Layer:s":	"CH07_PS_Throne-Jail_Floor"
+			}, {
+				"Layer:s":	"CH07_NPC_Dwarves"
+			}, {
+				"Layer:s":	"CH07_Inst_Jail"
+			}, {
+				"Layer:s":	"CH07_PS_Jail-Caverns_Floor"
+			}, {
+				"Layer:s":	"CH07_NPC_Elves_Jail"
+			}, {
+				"Layer:s":	"CH07_PS_Slide"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	8,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_PS_CY-Jail_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_BarrelRoom"
+			}, {
+				"UnloadLayer:s":	"CH07_NPC_Elves_BarrelRoom"
+			}, {
+				"UnloadLayer:s":	"CH07_Water_BarrelRoom"
+			}, {
+				"UnloadLayer:s":	"CH07_Switches_BarrelRoom"
+			}, {
+				"UnloadLayer:s":	"CH07_Inst_BarrelRoom"
+			}, {
+				"UnloadLayer:s":	"CH07_Cup_BarrelRoom"
+			}, {
+				"UnloadLayer:s":	"CH07_Barrels_BarrelRoom"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADC0E_9F168404",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-7751.30224609375, -34.569290161132812, 5888.0927734375],
+				"Orientation:fff":	[0, 89.9999771118164, 0],
+				"LocalBoundingBox:ffffff":	[-384.40505981445312, -372.87506103515625, -50, 384.40505981445312, 372.87506103515625, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Barrel-Jail LoadTrigger 002",
+				"Name:s":	"Barrel-Jail LoadTrigger 002",
+				"Pos:fff":	[-7751.30224609375, -34.569290161132812, 5888.0927734375],
+				"BBox:ffffff":	[-8135.70751953125, -407.4443359375, 5838.0927734375, -7366.89697265625, 338.3057861328125, 5938.0927734375],
+				"Orient:fff":	[0, 89.9999771118164, 0],
+				"HalfDimensions:fff":	[50, 372.87506103515625, 384.40505981445312],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	8,
+		"rows":	[{
+				"Layer:s":	"CH07_PS_CY-Jail_Floor"
+			}, {
+				"Layer:s":	"CH07_PS_BarrelRoom"
+			}, {
+				"Layer:s":	"CH07_Inst_BarrelRoom"
+			}, {
+				"Layer:s":	"CH07_NPC_Elves_BarrelRoom"
+			}, {
+				"Layer:s":	"CH07_Switches_BarrelRoom"
+			}, {
+				"Layer:s":	"CH07_Water_BarrelRoom"
+			}, {
+				"Layer:s":	"CH07_Barrels_BarrelRoom"
+			}, {
+				"Layer:s":	"CH07_Cup_BarrelRoom"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	7,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_PS_Jail"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Throne-Jail_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_NPC_Dwarves"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Jail-Caverns_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_NPC_Elves_Jail"
+			}, {
+				"UnloadLayer:s":	"CH07_Inst_Jail"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Slide"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD68E_A498D800",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-15250.0400390625, -1493.219482421875, -17914.138671875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"BarrelCin LoadTrigger",
+				"Name:s":	"BarrelCin LoadTrigger",
+				"Pos:fff":	[-15250.0400390625, -1493.219482421875, -17914.138671875],
+				"BBox:ffffff":	[-15300.0400390625, -1543.219482421875, -17964.138671875, -15200.0400390625, -1443.219482421875, -17864.138671875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"CH07_Cinemas_Cine08_Escape_AnimInst"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_Barrels_BarrelRoom"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	1,
+		"rows":	[{
+				"LoadResources:s":	"CH07_Cinemas_Cine08_Escape_AnimInst"
+			}]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadResources:s":	"CH07_Barrels_BarrelRoom"
+			}]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADCCD_E4D12400",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[118.10531616210937, 1042.4468994140625, 6148.59130859375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-255.36007690429687, -443.1180419921875, -23.0000057220459, 255.36007690429687, 443.1180419921875, 23.0000057220459],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"CY Main Ent LoadTrigger 001",
+				"Name:s":	"CY Main Ent LoadTrigger 001",
+				"Pos:fff":	[118.10531616210937, 1042.4468994140625, 6148.59130859375],
+				"BBox:ffffff":	[-137.2547607421875, 599.328857421875, 6125.59130859375, 373.46539306640625, 1485.56494140625, 6171.59130859375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[255.36007690429687, 443.1180419921875, 23.0000057220459],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	12,
+		"rows":	[{
+				"Layer:s":	"CH07_PS_CY-Jail_Floor"
+			}, {
+				"Layer:s":	"CH07_PS_Entrance"
+			}, {
+				"Layer:s":	"CH07_PS_CY-GR_Floor"
+			}, {
+				"Layer:s":	"CH07_NPC_Elves_Courtyard"
+			}, {
+				"Layer:s":	"CH07_Inst_Courtyard"
+			}, {
+				"Layer:s":	"CH07_Fireflies"
+			}, {
+				"Layer:s":	"CH07_Braziers_Entrance"
+			}, {
+				"Layer:s":	"CH07_LeafClusters_Entrance"
+			}, {
+				"Layer:s":	"CH07_Limbs_Entrance"
+			}, {
+				"Layer:s":	"CH07_MirkTrees_Entrance"
+			}, {
+				"Layer:s":	"CH07_Water_Courtyard"
+			}, {
+				"Layer:s":	"CH07_PS_Spider-Grotto_Floor"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	9,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_Inst_Throne"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Throne-Jail_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_GR-Throne_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_GR-Throne_Roof"
+			}, {
+				"UnloadLayer:s":	"CH07_Water_Throne"
+			}, {
+				"UnloadLayer:s":	"CH07_Vines_Throne"
+			}, {
+				"UnloadLayer:s":	"CH07_NPC_Elves_Throne"
+			}, {
+				"UnloadLayer:s":	"CH07_Switches_Throne"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Throne_Roof"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADA8D_E4D7AC01",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-592.96148681640625, 1042.446044921875, 6159.80224609375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-255.36007690429687, -443.1180419921875, -50, 255.36007690429687, 443.1180419921875, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"CY Main Ent LoadTrigger 002",
+				"Name:s":	"CY Main Ent LoadTrigger 002",
+				"Pos:fff":	[-592.96148681640625, 1042.446044921875, 6159.80224609375],
+				"BBox:ffffff":	[-848.321533203125, 599.3280029296875, 6109.80224609375, -337.60140991210937, 1485.5640869140625, 6209.80224609375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[255.36007690429687, 443.1180419921875, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	10,
+		"rows":	[{
+				"Layer:s":	"CH07_Inst_Throne"
+			}, {
+				"Layer:s":	"CH07_PS_GR-Throne_Floor"
+			}, {
+				"Layer:s":	"CH07_PS_Throne"
+			}, {
+				"Layer:s":	"CH07_Water_Throne"
+			}, {
+				"Layer:s":	"CH07_PS_Throne-Jail_Floor"
+			}, {
+				"Layer:s":	"CH07_Switches_Throne"
+			}, {
+				"Layer:s":	"CH07_Vines_Throne"
+			}, {
+				"Layer:s":	"CH07_NPC_Elves_Throne"
+			}, {
+				"Layer:s":	"CH07_PS_GR-Throne_Roof"
+			}, {
+				"Layer:s":	"CH07_PS_Throne_Roof"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	12,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_PS_CY-GR_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_CY-Jail_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_NPC_Elves_Courtyard"
+			}, {
+				"UnloadLayer:s":	"CH07_Inst_Courtyard"
+			}, {
+				"UnloadLayer:s":	"CH07_Fireflies"
+			}, {
+				"UnloadLayer:s":	"CH07_MirkTrees_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_Braziers_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_Water_Courtyard"
+			}, {
+				"UnloadLayer:s":	"CH07_Limbs_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_LeafClusters_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Spider-Grotto_Floor"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD851_E3ABAC01",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[119.29902648925781, 1042.4462890625, 6195.73193359375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-255.36007690429687, -443.1180419921875, -20.000001907348633, 255.36007690429687, 443.1180419921875, 20.000001907348633],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"CY Main Ent LoadTrigger 003",
+				"Name:s":	"CY Main Ent LoadTrigger 003",
+				"Pos:fff":	[119.29902648925781, 1042.4462890625, 6195.73193359375],
+				"BBox:ffffff":	[-136.06105041503906, 599.3282470703125, 6175.73193359375, 374.65911865234375, 1485.5643310546875, 6215.73193359375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[255.36007690429687, 443.1180419921875, 20.000001907348633],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	10,
+		"rows":	[{
+				"Layer:s":	"CH07_Inst_Throne"
+			}, {
+				"Layer:s":	"CH07_PS_GR-Throne_Floor"
+			}, {
+				"Layer:s":	"CH07_PS_Throne"
+			}, {
+				"Layer:s":	"CH07_Water_Throne"
+			}, {
+				"Layer:s":	"CH07_PS_Throne-Jail_Floor"
+			}, {
+				"Layer:s":	"CH07_Switches_Throne"
+			}, {
+				"Layer:s":	"CH07_Vines_Throne"
+			}, {
+				"Layer:s":	"CH07_NPC_Elves_Throne"
+			}, {
+				"Layer:s":	"CH07_PS_GR-Throne_Roof"
+			}, {
+				"Layer:s":	"CH07_PS_Throne_Roof"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	10,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_PS_CY-GR_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Spider-Grotto_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_CY-Jail_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_NPC_Elves_Courtyard"
+			}, {
+				"UnloadLayer:s":	"CH07_Inst_Courtyard"
+			}, {
+				"UnloadLayer:s":	"CH07_Fireflies"
+			}, {
+				"UnloadLayer:s":	"CH07_MirkTrees_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_Braziers_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_Water_Courtyard"
+			}, {
+				"UnloadLayer:s":	"CH07_Limbs_Entrance"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADBCD_E5C36C00",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-6685.9521484375, 314.49517822265625, 2088.71337890625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -372.87506103515625, -384.40505981445312, 50, 372.87506103515625, 384.40505981445312],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"CY-Barrel LoadTrigger 001",
+				"Name:s":	"CY-Barrel LoadTrigger 001",
+				"Pos:fff":	[-6685.9521484375, 314.49517822265625, 2088.71337890625],
+				"BBox:ffffff":	[-6735.9521484375, -58.3798828125, 1704.308349609375, -6635.9521484375, 687.3702392578125, 2473.118408203125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 372.87506103515625, 384.40505981445312],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	14,
+		"rows":	[{
+				"Layer:s":	"CH07_PS_Entrance"
+			}, {
+				"Layer:s":	"CH07_PS_CY-GR_Floor"
+			}, {
+				"Layer:s":	"CH07_PS_Ent-Throne_Floor"
+			}, {
+				"Layer:s":	"CH07_NPC_Elves_Courtyard"
+			}, {
+				"Layer:s":	"CH07_Inst_Courtyard"
+			}, {
+				"Layer:s":	"CH07_Fireflies"
+			}, {
+				"Layer:s":	"CH07_Limbs_Entrance"
+			}, {
+				"Layer:s":	"CH07_LeafClusters_Entrance"
+			}, {
+				"Layer:s":	"CH07_MirkTrees_Entrance"
+			}, {
+				"Layer:s":	"CH07_Water_Courtyard"
+			}, {
+				"Layer:s":	"CH07_Braziers_Entrance"
+			}, {
+				"Layer:s":	"CH07_Skybox"
+			}, {
+				"Layer:s":	"CH07_PS_Spider-Grotto_Floor"
+			}, {
+				"Layer:s":	"CH07_Inst_CY-THR"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	9,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_PS_Barrel-Jail_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_BarrelRoom"
+			}, {
+				"UnloadLayer:s":	"CH07_NPC_Elves_BarrelRoom"
+			}, {
+				"UnloadLayer:s":	"CH07_Inst_BarrelRoom"
+			}, {
+				"UnloadLayer:s":	"CH07_Switches_BarrelRoom"
+			}, {
+				"UnloadLayer:s":	"CH07_Water_BarrelRoom"
+			}, {
+				"UnloadLayer:s":	"CH07_Cup_BarrelRoom"
+			}, {
+				"UnloadLayer:s":	"CH07_Barrels_BarrelRoom"
+			}, {
+				"UnloadLayer:s":	"CH07_Lianna"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	28,
+		"rows":	[{
+				"LoadResources:s":	"CH07_Inst_Throne"
+			}, {
+				"LoadResources:s":	"CH07_PS_GR-Throne_Floor"
+			}, {
+				"LoadResources:s":	"CH07_PS_GR-Throne_Roof"
+			}, {
+				"LoadResources:s":	"CH07_PS_Throne"
+			}, {
+				"LoadResources:s":	"CH07_PS_Throne_Roof"
+			}, {
+				"LoadResources:s":	"CH07_Water_Throne"
+			}, {
+				"LoadResources:s":	"CH07_Switches_Throne"
+			}, {
+				"LoadResources:s":	"CH07_NPC_Elves_Throne"
+			}, {
+				"LoadResources:s":	"CH07_Vines_Throne"
+			}, {
+				"LoadResources:s":	"CH07_PS_Throne-Jail_Floor"
+			}, {
+				"LoadResources:s":	"CH07_Webs_Grotto"
+			}, {
+				"LoadResources:s":	"CH07_PS_SpiderRoom"
+			}, {
+				"LoadResources:s":	"CH07_PS_Spider-Grotto_Floor"
+			}, {
+				"LoadResources:s":	"CH07_NPC_Spiders"
+			}, {
+				"LoadResources:s":	"CH07_PS_Entrance"
+			}, {
+				"LoadResources:s":	"CH07_PS_CY-GR_Floor"
+			}, {
+				"LoadResources:s":	"CH07_PS_Ent-Throne_Floor"
+			}, {
+				"LoadResources:s":	"CH07_NPC_Elves_Courtyard"
+			}, {
+				"LoadResources:s":	"CH07_Inst_Courtyard"
+			}, {
+				"LoadResources:s":	"CH07_Fireflies"
+			}, {
+				"LoadResources:s":	"CH07_LeafClusters_Entrance"
+			}, {
+				"LoadResources:s":	"CH07_Limbs_Entrance"
+			}, {
+				"LoadResources:s":	"CH07_MirkTrees_Entrance"
+			}, {
+				"LoadResources:s":	"CH07_Water_Courtyard"
+			}, {
+				"LoadResources:s":	"CH07_Braziers_Entrance"
+			}, {
+				"LoadResources:s":	"CH07_Skybox"
+			}, {
+				"LoadResources:s":	"CH07_PS_Spider-Grotto_Floor"
+			}, {
+				"LoadResources:s":	"CH07_Inst_CY-THR"
+			}]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	16,
+		"rows":	[{
+				"UnloadResources:s":	"CH07_PS_Barrel-Jail_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_PS_BarrelRoom"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Elves_BarrelRoom"
+			}, {
+				"UnloadResources:s":	"CH07_Inst_BarrelRoom"
+			}, {
+				"UnloadResources:s":	"CH07_Switches_BarrelRoom"
+			}, {
+				"UnloadResources:s":	"CH07_Water_BarrelRoom"
+			}, {
+				"UnloadResources:s":	"CH07_Cup_BarrelRoom"
+			}, {
+				"UnloadResources:s":	"CH07_Barrels_BarrelRoom"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Jail"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Dwarves"
+			}, {
+				"UnloadResources:s":	"CH07_Cinema_Thorin"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Jail-Caverns_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_Lianna"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Elves_Jail"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Slide"
+			}, {
+				"UnloadResources:s":	"CH07_Inst_Jail"
+			}]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADBCD_E5C4A801",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-6796.36572265625, 392.380126953125, 2086.99951171875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -372.87506103515625, -384.40505981445312, 50, 372.87506103515625, 384.40505981445312],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"CY-Barrel LoadTrigger 002",
+				"Name:s":	"CY-Barrel LoadTrigger 002",
+				"Pos:fff":	[-6796.36572265625, 392.380126953125, 2086.99951171875],
+				"BBox:ffffff":	[-6846.36572265625, 19.50506591796875, 1702.594482421875, -6746.36572265625, 765.25518798828125, 2471.404541015625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 372.87506103515625, 384.40505981445312],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	9,
+		"rows":	[{
+				"Layer:s":	"CH07_PS_BarrelRoom"
+			}, {
+				"Layer:s":	"CH07_PS_Barrel-Jail_Floor"
+			}, {
+				"Layer:s":	"CH07_NPC_Elves_BarrelRoom"
+			}, {
+				"Layer:s":	"CH07_Inst_BarrelRoom"
+			}, {
+				"Layer:s":	"CH07_Water_BarrelRoom"
+			}, {
+				"Layer:s":	"CH07_Switches_BarrelRoom"
+			}, {
+				"Layer:s":	"CH07_Cup_BarrelRoom"
+			}, {
+				"Layer:s":	"CH07_Barrels_BarrelRoom"
+			}, {
+				"Layer:s":	"CH07_Lianna"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	14,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_PS_Ent-Throne_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_CY-GR_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_NPC_Elves_Courtyard"
+			}, {
+				"UnloadLayer:s":	"CH07_Inst_Courtyard"
+			}, {
+				"UnloadLayer:s":	"CH07_Fireflies"
+			}, {
+				"UnloadLayer:s":	"CH07_Skybox"
+			}, {
+				"UnloadLayer:s":	"CH07_Limbs_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_LeafClusters_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_MirkTrees_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_Braziers_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_Water_Courtyard"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Spider-Grotto_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_Inst_CY-THR"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	17,
+		"rows":	[{
+				"LoadResources:s":	"CH07_PS_Jail"
+			}, {
+				"LoadResources:s":	"CH07_PS_Throne-Jail_Floor"
+			}, {
+				"LoadResources:s":	"CH07_PS_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_NPC_Dwarves"
+			}, {
+				"LoadResources:s":	"CH07_PS_Jail-Caverns_Floor"
+			}, {
+				"LoadResources:s":	"CH07_NPC_Elves_Jail"
+			}, {
+				"LoadResources:s":	"CH07_Lianna"
+			}, {
+				"LoadResources:s":	"CH07_PS_Slide"
+			}, {
+				"LoadResources:s":	"CH07_Inst_Jail"
+			}, {
+				"LoadResources:s":	"CH07_PS_Barrel-Jail_Floor"
+			}, {
+				"LoadResources:s":	"CH07_NPC_Elves_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Inst_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Water_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Switches_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Cup_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Barrels_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Lianna"
+			}]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	26,
+		"rows":	[{
+				"UnloadResources:s":	"CH07_PS_Ent-Throne_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_PS_CY-GR_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Elves_Courtyard"
+			}, {
+				"UnloadResources:s":	"CH07_Inst_Courtyard"
+			}, {
+				"UnloadResources:s":	"CH07_Fireflies"
+			}, {
+				"UnloadResources:s":	"CH07_Skybox"
+			}, {
+				"UnloadResources:s":	"CH07_Limbs_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_LeafClusters_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_MirkTrees_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_Braziers_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_Water_Courtyard"
+			}, {
+				"UnloadResources:s":	"CH07_Inst_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Throne_Roof"
+			}, {
+				"UnloadResources:s":	"CH07_PS_GR-Throne_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_PS_GR-Throne_Roof"
+			}, {
+				"UnloadResources:s":	"CH07_Water_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_Vines_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_Switches_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Elves_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Spider-Grotto_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_PS_SpiderRoom"
+			}, {
+				"UnloadResources:s":	"CH07_Webs_Grotto"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Spiders"
+			}, {
+				"UnloadResources:s":	"CH07_Inst_CY-THR"
+			}]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD690_08B05802",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[4924.02587890625, 1857.27294921875, 9036.3134765625],
+				"Orientation:fff":	[0, -31.950016021728516, 0],
+				"LocalBoundingBox:ffffff":	[-195.05136108398437, -355.67498779296875, -271.18621826171875, 195.05136108398437, 355.67498779296875, 271.18621826171875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"CY-Spider LoadTrigger - to CY",
+				"Name:s":	"CY-Spider LoadTrigger - to CY",
+				"Pos:fff":	[4924.02587890625, 1857.27294921875, 9036.3134765625],
+				"BBox:ffffff":	[4728.974609375, 1501.597900390625, 8765.126953125, 5119.0771484375, 2212.947998046875, 9307.5],
+				"Orient:fff":	[0, -31.950016021728516, 0],
+				"HalfDimensions:fff":	[50, 355.67498779296875, 288.41998291015625],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	6,
+		"rows":	[{
+				"Layer:s":	"CH07_PS_Entrance"
+			}, {
+				"Layer:s":	"CH07_NPC_Elves_Courtyard"
+			}, {
+				"Layer:s":	"CH07_Limbs_Entrance"
+			}, {
+				"Layer:s":	"CH07_LeafClusters_Entrance"
+			}, {
+				"Layer:s":	"CH07_Braziers_Entrance"
+			}, {
+				"Layer:s":	"CH07_MirkTrees_Entrance"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	3,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_NPC_Spiders"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_SpiderRoom"
+			}, {
+				"UnloadLayer:s":	"CH07_NPC_Spiders"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD690_08B05804",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[5018.81591796875, 1857.2734375, 9092.2431640625],
+				"Orientation:fff":	[0, -31.950016021728516, 0],
+				"LocalBoundingBox:ffffff":	[-195.05136108398437, -355.67498779296875, -271.18621826171875, 195.05136108398437, 355.67498779296875, 271.18621826171875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"CY-Spider LoadTrigger - to Spiders",
+				"Name:s":	"CY-Spider LoadTrigger - to Spiders",
+				"Pos:fff":	[5018.81591796875, 1857.2734375, 9092.2431640625],
+				"BBox:ffffff":	[4823.7646484375, 1501.598388671875, 8821.056640625, 5213.8671875, 2212.948486328125, 9363.4296875],
+				"Orient:fff":	[0, -31.950016021728516, 0],
+				"HalfDimensions:fff":	[50, 355.67498779296875, 288.41998291015625],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	3,
+		"rows":	[{
+				"Layer:s":	"CH07_Webs_Grotto"
+			}, {
+				"Layer:s":	"CH07_PS_SpiderRoom"
+			}, {
+				"Layer:s":	"CH07_NPC_Spiders"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	6,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_Braziers_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_LeafClusters_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_MirkTrees_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_Limbs_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_NPC_Elves_Courtyard"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Entrance"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD850_08F3AC00",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-5269.9267578125, 4574.34228515625, 4913.6396484375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -389.30007934570312, -245.8399658203125, 50, 389.30007934570312, 245.8399658203125],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"CY-Spider LoadTrigger 001",
+				"Name:s":	"CY-Spider LoadTrigger 001",
+				"Pos:fff":	[-5269.9267578125, 4574.34228515625, 4913.6396484375],
+				"BBox:ffffff":	[-5319.9267578125, 4185.0419921875, 4667.7998046875, -5219.9267578125, 4963.642578125, 5159.4794921875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 389.30007934570312, 245.8399658203125],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"CH07_PS_Spider-Grotto_Floor"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD850_08F47C01",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-4962.5419921875, 4574.34228515625, 4913.6396484375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -389.30007934570312, -245.8399658203125, 50, 389.30007934570312, 245.8399658203125],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"CY-Spider LoadTrigger 003",
+				"Name:s":	"CY-Spider LoadTrigger 003",
+				"Pos:fff":	[-4962.5419921875, 4574.34228515625, 4913.6396484375],
+				"BBox:ffffff":	[-5012.5419921875, 4185.0419921875, 4667.7998046875, -4912.5419921875, 4963.642578125, 5159.4794921875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 389.30007934570312, 245.8399658203125],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	4,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_PS_Spider-Grotto_Floor"
+			}, {
+				"UnloadLayer:s":	""
+			}, {
+				"UnloadLayer:s":	""
+			}, {
+				"UnloadLayer:s":	""
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADA92_621C3800",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-373.69921875, 806.314453125, 6905.9248046875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-359.19500732421875, -438.51004028320312, -15, 359.19500732421875, 438.51004028320312, 15],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"CY-THR Secret LT 001",
+				"Name:s":	"CY-THR Secret LT 001",
+				"Pos:fff":	[-373.69921875, 806.314453125, 6905.9248046875],
+				"BBox:ffffff":	[-732.89422607421875, 367.80441284179687, 6890.9248046875, -14.50421142578125, 1244.824462890625, 6920.9248046875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[359.19500732421875, 438.51004028320312, 15],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	2,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_PS_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_LeafClusters_Entrance"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADA92_621CEC00",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-362.97207641601562, 902.81671142578125, 6853.44873046875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-293.96499633789062, -254.47499084472656, -15, 293.96499633789062, 254.47499084472656, 15],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"CY-THR Secret LT 002",
+				"Name:s":	"CY-THR Secret LT 002",
+				"Pos:fff":	[-362.97207641601562, 902.81671142578125, 6853.44873046875],
+				"BBox:ffffff":	[-656.93707275390625, 648.34173583984375, 6838.44873046875, -69.007080078125, 1157.291748046875, 6868.44873046875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[293.96499633789062, 254.47499084472656, 15],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	2,
+		"rows":	[{
+				"Layer:s":	"CH07_PS_Entrance"
+			}, {
+				"Layer:s":	"CH07_LeafClusters_Entrance"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADA92_62277402",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-255.11508178710937, 1023.671630859375, 5706.40869140625],
+				"Orientation:fff":	[0, 36.900028228759766, 0],
+				"LocalBoundingBox:ffffff":	[-296.24893188476562, -438.51004028320312, -227.66337585449219, 296.24893188476562, 438.51004028320312, 227.66337585449219],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"CY-THR Secret LT 003",
+				"Name:s":	"CY-THR Secret LT 003",
+				"Pos:fff":	[-255.11508178710937, 1023.671630859375, 5706.40869140625],
+				"BBox:ffffff":	[-551.364013671875, 585.16162109375, 5478.7451171875, 41.13385009765625, 1462.181640625, 5934.072265625],
+				"Orient:fff":	[0, 36.900028228759766, 0],
+				"HalfDimensions:fff":	[359.19500732421875, 438.51004028320312, 15],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"CH07_PS_Throne"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADA92_62277404",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-278.04446411132812, 1120.1739501953125, 5658.00390625],
+				"Orientation:fff":	[0, 36.900028228759766, 0],
+				"LocalBoundingBox:ffffff":	[-244.08551025390625, -254.47499084472656, -188.4979248046875, 244.08551025390625, 254.47499084472656, 188.4979248046875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"CY-THR Secret LT 004",
+				"Name:s":	"CY-THR Secret LT 004",
+				"Pos:fff":	[-278.04446411132812, 1120.1739501953125, 5658.00390625],
+				"BBox:ffffff":	[-522.1300048828125, 865.698974609375, 5469.505859375, -33.958953857421875, 1374.64892578125, 5846.501953125],
+				"Orient:fff":	[0, 36.900028228759766, 0],
+				"HalfDimensions:fff":	[293.96499633789062, 254.47499084472656, 15],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_PS_Throne"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C0CFA40E_B0ABF800",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2107.450927734375, 4375.271484375, 3860.6630859375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Cine01_Change_NPCs_AtEnd",
+				"Name:s":	"Cine01_Change_NPCs_AtEnd",
+				"Pos:fff":	[-2107.450927734375, 4375.271484375, 3860.6630859375],
+				"BBox:ffffff":	[-2157.450927734375, 4325.271484375, 3810.6630859375, -2057.450927734375, 4425.271484375, 3910.6630859375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"CH07_NPC_Elves_Courtyard"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_Cinemas_Cine01_Intro_NPCs"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD48E_140B0801",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[6983.97998046875, 404.8175048828125, 4041.163818359375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-455.317138671875, -58.904979705810547, -355.79592895507812, 455.317138671875, 58.904979705810547, 355.79592895507812],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"GR-Caverns LoadTrigger 001",
+				"Name:s":	"GR-Caverns LoadTrigger 001",
+				"Pos:fff":	[6983.97998046875, 404.8175048828125, 4041.163818359375],
+				"BBox:ffffff":	[6528.6630859375, 345.91253662109375, 3685.367919921875, 7439.296875, 463.72247314453125, 4396.9599609375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[455.317138671875, 58.904979705810547, 355.79592895507812],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	9,
+		"rows":	[{
+				"Layer:s":	"CH07_PS_Caverns"
+			}, {
+				"Layer:s":	"CH07_Vines_Caverns"
+			}, {
+				"Layer:s":	"CH07_Cinemas_Cine04_Darkwater"
+			}, {
+				"Layer:s":	"CH07_PS_Jail-Caverns_Floor"
+			}, {
+				"Layer:s":	"CH07_NPC_Leapers"
+			}, {
+				"Layer:s":	"CH07_NPC_CaveCritters"
+			}, {
+				"Layer:s":	"CH07_Pickups_Caverns"
+			}, {
+				"Layer:s":	"CH07_Inst_Caverns"
+			}, {
+				"Layer:s":	"CH07_Breadcrumbs_Caverns"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	5,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_NPC_Elves_Jail"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Barrel-Jail_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Jail"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Throne-Jail_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_NPC_Dwarves"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	10,
+		"rows":	[{
+				"LoadResources:s":	"CH07_Breadcrumbs_Caverns_Upper"
+			}, {
+				"LoadResources:s":	"CH07_PS_Caverns"
+			}, {
+				"LoadResources:s":	"CH07_Vines_Caverns"
+			}, {
+				"LoadResources:s":	"CH07_Cinemas_Cine04_Darkwater"
+			}, {
+				"LoadResources:s":	"CH07_PS_Jail-Caverns_Floor"
+			}, {
+				"LoadResources:s":	"CH07_NPC_CaveCritters"
+			}, {
+				"LoadResources:s":	"CH07_NPC_Leapers"
+			}, {
+				"LoadResources:s":	"CH07_Pickups_Caverns"
+			}, {
+				"LoadResources:s":	"CH07_Inst_Caverns"
+			}, {
+				"LoadResources:s":	"CH07_Breadcrumbs_Caverns"
+			}]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	15,
+		"rows":	[{
+				"UnloadResources:s":	"CH07_PS_Barrel-Jail_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_PS_CY-Jail_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_PS_BarrelRoom"
+			}, {
+				"UnloadResources:s":	"CH07_Inst_BarrelRoom"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Elves_BarrelRoom"
+			}, {
+				"UnloadResources:s":	"CH07_Switches_BarrelRoom"
+			}, {
+				"UnloadResources:s":	"CH07_Water_BarrelRoom"
+			}, {
+				"UnloadResources:s":	"CH07_Barrels_BarrelRoom"
+			}, {
+				"UnloadResources:s":	"CH07_Cup_BarrelRoom"
+			}, {
+				"UnloadResources:s":	"CH07_Water_Grotto"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Elves_Jail"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Barrel-Jail_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Jail"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Throne-Jail_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Dwarves"
+			}]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD68E_A49A2401",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-15250.0400390625, -1493.219482421875, -17783.79296875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"GalionCin LoadTrigger 001",
+				"Name:s":	"GalionCin LoadTrigger 001",
+				"Pos:fff":	[-15250.0400390625, -1493.219482421875, -17783.79296875],
+				"BBox:ffffff":	[-15300.0400390625, -1543.219482421875, -17833.79296875, -15200.0400390625, -1443.219482421875, -17733.79296875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_Cup_BarrelRoom"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD68E_A4A3D801",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-15250.0400390625, -1493.219482421875, -17653.388671875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"GalionCin LoadTrigger 002",
+				"Name:s":	"GalionCin LoadTrigger 002",
+				"Pos:fff":	[-15250.0400390625, -1493.219482421875, -17653.388671875],
+				"BBox:ffffff":	[-15300.0400390625, -1543.219482421875, -17703.388671875, -15200.0400390625, -1443.219482421875, -17603.388671875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"CH07_Cup_BarrelRoom"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD68E_AEC79801",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-15250.0400390625, -1493.219482421875, -18034.228515625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"IntroCin LoadTrigger",
+				"Name:s":	"IntroCin LoadTrigger",
+				"Pos:fff":	[-15250.0400390625, -1493.219482421875, -18034.228515625],
+				"BBox:ffffff":	[-15300.0400390625, -1543.219482421875, -18084.228515625, -15200.0400390625, -1443.219482421875, -17984.228515625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	7,
+		"rows":	[{
+				"Layer:s":	"CH07_NPC_Elves_Courtyard"
+			}, {
+				"Layer:s":	"CH07_Lianna"
+			}, {
+				"Layer:s":	"CH07_Thorin"
+			}, {
+				"Layer:s":	"CH07_Balin"
+			}, {
+				"Layer:s":	"CH07_PS_Spider-Grotto_Floor"
+			}, {
+				"Layer:s":	"CH07_Cinemas_BilboCaughtByElves"
+			}, {
+				"Layer:s":	"CH07_Inst_CY-THR"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	5,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_Cinemas_Cine01_Intro"
+			}, {
+				"UnloadLayer:s":	"CH07_Cinemas_Cine01_Intro_Campaths"
+			}, {
+				"UnloadLayer:s":	"CH07_Cinemas_Cine01_Intro_NPCs"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Throne_Roof"
+			}, {
+				"UnloadLayer:s":	"CH07_Cinemas_Cine01_Intro_AnimInst"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	11,
+		"rows":	[{
+				"LoadResources:s":	"CH07_Balin"
+			}, {
+				"LoadResources:s":	"CH07_Lianna"
+			}, {
+				"LoadResources:s":	"CH07_Thorin"
+			}, {
+				"LoadResources:s":	"CH07_PS_Throne"
+			}, {
+				"LoadResources:s":	"CH07_Vines_Throne"
+			}, {
+				"LoadResources:s":	"CH07_NPC_Spiders"
+			}, {
+				"LoadResources:s":	"CH07_PS_SpiderRoom"
+			}, {
+				"LoadResources:s":	"CH07_NPC_Elves_Throne"
+			}, {
+				"LoadResources:s":	"CH07_PS_Spider-Grotto_Floor"
+			}, {
+				"LoadResources:s":	"CH07_Cinemas_BilboCaughtByElves"
+			}, {
+				"LoadResources:s":	"CH07_Inst_CY-THR"
+			}]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	4,
+		"rows":	[{
+				"UnloadResources:s":	"CH07_Cinemas_Cine01_Intro"
+			}, {
+				"UnloadResources:s":	"CH07_Cinemas_Cine01_Intro_Campaths"
+			}, {
+				"UnloadResources:s":	"CH07_Cinemas_Cine01_Intro_NPCs"
+			}, {
+				"UnloadResources:s":	"CH07_Cinemas_Cine01_Intro_AnimInst"
+			}]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD48E_140E7C00",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-6706.732421875, -928.624267578125, 12361.892578125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -437.60635375976562, -618.175048828125, 50, 437.60635375976562, 618.175048828125],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Jail-Caverns LoadTrigger 001",
+				"Name:s":	"Jail-Caverns LoadTrigger 001",
+				"Pos:fff":	[-6706.732421875, -928.624267578125, 12361.892578125],
+				"BBox:ffffff":	[-6756.732421875, -1366.2305908203125, 11743.7177734375, -6656.732421875, -491.01791381835937, 12980.0673828125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 437.60635375976562, 618.175048828125],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	7,
+		"rows":	[{
+				"Layer:s":	"CH07_Lianna"
+			}, {
+				"Layer:s":	"CH07_PS_Jail"
+			}, {
+				"Layer:s":	"CH07_PS_Barrel-Jail_Floor"
+			}, {
+				"Layer:s":	"CH07_PS_Throne-Jail_Floor"
+			}, {
+				"Layer:s":	"CH07_NPC_Dwarves"
+			}, {
+				"Layer:s":	"CH07_NPC_Elves_Jail"
+			}, {
+				"Layer:s":	"CH07_Inst_Jail"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	8,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_Pickups_Caverns"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Caverns"
+			}, {
+				"UnloadLayer:s":	"CH07_Vines_Caverns"
+			}, {
+				"UnloadLayer:s":	"CH07_Breadcrumbs_Caverns"
+			}, {
+				"UnloadLayer:s":	"CH07_NPC_Leapers"
+			}, {
+				"UnloadLayer:s":	"CH07_NPC_CaveCritters"
+			}, {
+				"UnloadLayer:s":	"CH07_Inst_Caverns"
+			}, {
+				"UnloadLayer:s":	"CH07_Breadcrumbs_Caverns_Upper"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	15,
+		"rows":	[{
+				"LoadResources:s":	"CH07_PS_CY-Jail_Floor"
+			}, {
+				"LoadResources:s":	"CH07_PS_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Barrels_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Cup_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_NPC_Elves_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Water_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Switches_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Inst_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Lianna"
+			}, {
+				"LoadResources:s":	"CH07_PS_Jail"
+			}, {
+				"LoadResources:s":	"CH07_PS_Barrel-Jail_Floor"
+			}, {
+				"LoadResources:s":	"CH07_PS_Throne-Jail_Floor"
+			}, {
+				"LoadResources:s":	"CH07_NPC_Dwarves"
+			}, {
+				"LoadResources:s":	"CH07_NPC_Elves_Jail"
+			}, {
+				"LoadResources:s":	"CH07_Inst_Jail"
+			}]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	8,
+		"rows":	[{
+				"UnloadResources:s":	"CH07_Pickups_Caverns"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Caverns"
+			}, {
+				"UnloadResources:s":	"CH07_Vines_Caverns"
+			}, {
+				"UnloadResources:s":	"CH07_Breadcrumbs_Caverns"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Leapers"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_CaveCritters"
+			}, {
+				"UnloadResources:s":	"CH07_Inst_Caverns"
+			}, {
+				"UnloadResources:s":	"CH07_Breadcrumbs_Caverns_Upper"
+			}]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD48E_140F6401",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-6578, -928.625244140625, 12358.4716796875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -427.6607666015625, -443.7000732421875, 50, 427.6607666015625, 443.7000732421875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Jail-Caverns LoadTrigger 002",
+				"Name:s":	"Jail-Caverns LoadTrigger 002",
+				"Pos:fff":	[-6578, -928.625244140625, 12358.4716796875],
+				"BBox:ffffff":	[-6628, -1356.2860107421875, 11914.771484375, -6528, -500.9644775390625, 12802.171875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 427.6607666015625, 443.7000732421875],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	8,
+		"rows":	[{
+				"Layer:s":	"CH07_Pickups_Caverns"
+			}, {
+				"Layer:s":	"CH07_PS_Caverns"
+			}, {
+				"Layer:s":	"CH07_Vines_Caverns"
+			}, {
+				"Layer:s":	"CH07_Breadcrumbs_Caverns"
+			}, {
+				"Layer:s":	"CH07_NPC_Leapers"
+			}, {
+				"Layer:s":	"CH07_NPC_CaveCritters"
+			}, {
+				"Layer:s":	"CH07_Inst_Caverns"
+			}, {
+				"Layer:s":	"CH07_Breadcrumbs_Caverns_Upper"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	7,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_NPC_Dwarves"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Jail"
+			}, {
+				"UnloadLayer:s":	"CH07_Lianna"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Barrel-Jail_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Throne-Jail_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_NPC_Elves_Jail"
+			}, {
+				"UnloadLayer:s":	"CH07_Inst_Jail"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	8,
+		"rows":	[{
+				"LoadResources:s":	"CH07_Pickups_Caverns"
+			}, {
+				"LoadResources:s":	"CH07_PS_Caverns"
+			}, {
+				"LoadResources:s":	"CH07_Vines_Caverns"
+			}, {
+				"LoadResources:s":	"CH07_Breadcrumbs_Caverns"
+			}, {
+				"LoadResources:s":	"CH07_NPC_CaveCritters"
+			}, {
+				"LoadResources:s":	"CH07_NPC_Leapers"
+			}, {
+				"LoadResources:s":	"CH07_Inst_Caverns"
+			}, {
+				"LoadResources:s":	"CH07_Breadcrumbs_Caverns_Upper"
+			}]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	16,
+		"rows":	[{
+				"UnloadResources:s":	"CH07_NPC_Dwarves"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Jail"
+			}, {
+				"UnloadResources:s":	"CH07_Lianna"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Barrel-Jail_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Throne-Jail_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_PS_CY-Jail_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Elves_Jail"
+			}, {
+				"UnloadResources:s":	"CH07_Cinema_Thorin"
+			}, {
+				"UnloadResources:s":	"CH07_PS_BarrelRoom"
+			}, {
+				"UnloadResources:s":	"CH07_Inst_BarrelRoom"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Elves_BarrelRoom"
+			}, {
+				"UnloadResources:s":	"CH07_Switches_BarrelRoom"
+			}, {
+				"UnloadResources:s":	"CH07_Water_BarrelRoom"
+			}, {
+				"UnloadResources:s":	"CH07_Barrels_BarrelRoom"
+			}, {
+				"UnloadResources:s":	"CH07_Cup_BarrelRoom"
+			}, {
+				"UnloadResources:s":	"CH07_Inst_Jail"
+			}]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD2CD_E51D3C04",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-4755.5810546875, 406.9373779296875, 9940.5380859375],
+				"Orientation:fff":	[0, 43.1999855041504, 0],
+				"LocalBoundingBox:ffffff":	[-298.4927978515625, -383.24453735351562, -315.56954956054687, 298.4927978515625, 383.24453735351562, 315.56954956054687],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Jail-Throne LoadTrigger 001",
+				"Name:s":	"Jail-Throne LoadTrigger 001",
+				"Pos:fff":	[-4755.5810546875, 406.9373779296875, 9940.5380859375],
+				"BBox:ffffff":	[-5054.07373046875, 23.692840576171875, 9624.96875, -4457.08837890625, 790.181884765625, 10256.107421875],
+				"Orient:fff":	[0, 43.1999855041504, 0],
+				"HalfDimensions:fff":	[25, 383.24453735351562, 409.42202758789062],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	12,
+		"rows":	[{
+				"Layer:s":	"CH07_Water_Throne"
+			}, {
+				"Layer:s":	"CH07_PS_GR-Throne_Floor"
+			}, {
+				"Layer:s":	"CH07_PS_Ent-Throne_Floor"
+			}, {
+				"Layer:s":	"CH07_Inst_Throne"
+			}, {
+				"Layer:s":	"CH07_PS_Throne"
+			}, {
+				"Layer:s":	"CH07_Switches_Throne"
+			}, {
+				"Layer:s":	"CH07_Vines_Throne"
+			}, {
+				"Layer:s":	"CH07_NPC_Elves_Throne"
+			}, {
+				"Layer:s":	"CH07_PS_GR-Throne_Floor"
+			}, {
+				"Layer:s":	"CH07_PS_Throne_Roof"
+			}, {
+				"Layer:s":	"CH07_Skybox"
+			}, {
+				"Layer:s":	"CH07_Inst_CY-THR"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	8,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_PS_Jail"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Barrel-Jail_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_NPC_Dwarves"
+			}, {
+				"UnloadLayer:s":	"CH07_Lianna"
+			}, {
+				"UnloadLayer:s":	"CH07_Inst_Jail"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Jail-Caverns_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_NPC_Elves_Jail"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Slide"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	29,
+		"rows":	[{
+				"LoadResources:s":	"CH07_PS_Entrance"
+			}, {
+				"LoadResources:s":	"CH07_PS_CY-GR_Floor"
+			}, {
+				"LoadResources:s":	"CH07_PS_CY-Jail_Floor"
+			}, {
+				"LoadResources:s":	"CH07_PS_Ent-Throne_Floor"
+			}, {
+				"LoadResources:s":	"CH07_NPC_Elves_Courtyard"
+			}, {
+				"LoadResources:s":	"CH07_Inst_Courtyard"
+			}, {
+				"LoadResources:s":	"CH07_Fireflies"
+			}, {
+				"LoadResources:s":	"CH07_Limbs_Entrance"
+			}, {
+				"LoadResources:s":	"CH07_LeafClusters_Entrance"
+			}, {
+				"LoadResources:s":	"CH07_MirkTrees_Entrance"
+			}, {
+				"LoadResources:s":	"CH07_Water_Courtyard"
+			}, {
+				"LoadResources:s":	"CH07_Braziers_Entrance"
+			}, {
+				"LoadResources:s":	"CH07_Skybox"
+			}, {
+				"LoadResources:s":	"CH07_Webs_Grotto"
+			}, {
+				"LoadResources:s":	"CH07_NPC_Spiders"
+			}, {
+				"LoadResources:s":	"CH07_PS_Spider-Grotto_Floor"
+			}, {
+				"LoadResources:s":	"CH07_PS_SpiderRoom"
+			}, {
+				"LoadResources:s":	"CH07_Water_Throne"
+			}, {
+				"LoadResources:s":	"CH07_PS_GR-Throne_Floor"
+			}, {
+				"LoadResources:s":	"CH07_PS_Ent-Throne_Floor"
+			}, {
+				"LoadResources:s":	"CH07_Inst_Throne"
+			}, {
+				"LoadResources:s":	"CH07_PS_Throne"
+			}, {
+				"LoadResources:s":	"CH07_Switches_Throne"
+			}, {
+				"LoadResources:s":	"CH07_Vines_Throne"
+			}, {
+				"LoadResources:s":	"CH07_NPC_Elves_Throne"
+			}, {
+				"LoadResources:s":	"CH07_PS_GR-Throne_Floor"
+			}, {
+				"LoadResources:s":	"CH07_PS_Throne_Roof"
+			}, {
+				"LoadResources:s":	"CH07_Skybox"
+			}, {
+				"LoadResources:s":	"CH07_Inst_CY-THR"
+			}]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	16,
+		"rows":	[{
+				"UnloadResources:s":	"CH07_PS_Jail"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Barrel-Jail_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Dwarves"
+			}, {
+				"UnloadResources:s":	"CH07_Lianna"
+			}, {
+				"UnloadResources:s":	"CH07_Cinema_Thorin"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Jail-Caverns_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Elves_Jail"
+			}, {
+				"UnloadResources:s":	"CH07_PS_BarrelRoom"
+			}, {
+				"UnloadResources:s":	"CH07_Barrels_BarrelRoom"
+			}, {
+				"UnloadResources:s":	"CH07_Cup_BarrelRoom"
+			}, {
+				"UnloadResources:s":	"CH07_Inst_BarrelRoom"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Elves_BarrelRoom"
+			}, {
+				"UnloadResources:s":	"CH07_Water_BarrelRoom"
+			}, {
+				"UnloadResources:s":	"CH07_Switches_BarrelRoom"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Slide"
+			}, {
+				"UnloadResources:s":	"CH07_Inst_Jail"
+			}]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD2CD_E51D3C02",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-5923.42626953125, 570.7838134765625, 9896.0234375],
+				"Orientation:fff":	[0, -56.700016021728516, 0],
+				"LocalBoundingBox:ffffff":	[-395.407958984375, -335.06521606445312, -271.61349487304687, 395.407958984375, 335.06521606445312, 271.61349487304687],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Jail-Throne LoadTrigger 002",
+				"Name:s":	"Jail-Throne LoadTrigger 002",
+				"Pos:fff":	[-5923.42626953125, 570.7838134765625, 9896.0234375],
+				"BBox:ffffff":	[-6318.833984375, 235.71859741210937, 9624.41015625, -5528.0185546875, 905.8489990234375, 10167.63671875],
+				"Orient:fff":	[0, -56.700016021728516, 0],
+				"HalfDimensions:fff":	[25, 335.06521606445312, 456.66302490234375],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	8,
+		"rows":	[{
+				"Layer:s":	"CH07_PS_Jail"
+			}, {
+				"Layer:s":	"CH07_Inst_Jail"
+			}, {
+				"Layer:s":	"CH07_NPC_Dwarves"
+			}, {
+				"Layer:s":	"CH07_Lianna"
+			}, {
+				"Layer:s":	"CH07_PS_Jail-Caverns_Floor"
+			}, {
+				"Layer:s":	"CH07_PS_Barrel-Jail_Floor"
+			}, {
+				"Layer:s":	"CH07_NPC_Elves_Jail"
+			}, {
+				"Layer:s":	"CH07_PS_Slide"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	12,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_PS_GR-Throne_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Ent-Throne_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_Inst_Throne"
+			}, {
+				"UnloadLayer:s":	"CH07_Water_Throne"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Throne"
+			}, {
+				"UnloadLayer:s":	"CH07_Vines_Throne"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Throne_Roof"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_GR-Throne_Roof"
+			}, {
+				"UnloadLayer:s":	"CH07_NPC_Elves_Throne"
+			}, {
+				"UnloadLayer:s":	"CH07_Switches_Throne"
+			}, {
+				"UnloadLayer:s":	"CH07_Skybox"
+			}, {
+				"UnloadLayer:s":	"CH07_Inst_CY-THR"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	15,
+		"rows":	[{
+				"LoadResources:s":	"CH07_PS_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Inst_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_NPC_Elves_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Switches_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Water_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Cup_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Barrels_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_PS_Jail"
+			}, {
+				"LoadResources:s":	"CH07_Inst_Jail"
+			}, {
+				"LoadResources:s":	"CH07_NPC_Dwarves"
+			}, {
+				"LoadResources:s":	"CH07_Lianna"
+			}, {
+				"LoadResources:s":	"CH07_PS_Jail-Caverns_Floor"
+			}, {
+				"LoadResources:s":	"CH07_PS_Barrel-Jail_Floor"
+			}, {
+				"LoadResources:s":	"CH07_NPC_Elves_Jail"
+			}, {
+				"LoadResources:s":	"CH07_PS_Slide"
+			}]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	26,
+		"rows":	[{
+				"UnloadResources:s":	"CH07_PS_GR-Throne_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Ent-Throne_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_Inst_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_Water_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_Switches_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_Vines_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Elves_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_PS_GR-Throne_Roof"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Throne_Roof"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_PS_CY-GR_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_Skybox"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Elves_Courtyard"
+			}, {
+				"UnloadResources:s":	"CH07_Inst_Courtyard"
+			}, {
+				"UnloadResources:s":	"CH07_Fireflies"
+			}, {
+				"UnloadResources:s":	"CH07_Limbs_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_LeafClusters_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_Water_Courtyard"
+			}, {
+				"UnloadResources:s":	"CH07_MirkTrees_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_Braziers_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Spider-Grotto_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_PS_SpiderRoom"
+			}, {
+				"UnloadResources:s":	"CH07_Webs_Grotto"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Spiders"
+			}, {
+				"UnloadResources:s":	"CH07_Inst_CY-THR"
+			}]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD151_122D3001",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-13340.87890625, 4395.869140625, 5680.26953125],
+				"Orientation:fff":	[0, 89.9999771118164, 0],
+				"LocalBoundingBox:ffffff":	[-384.40505981445312, -372.87506103515625, -50, 384.40505981445312, 372.87506103515625, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Load Barrel Room w/Dwarves",
+				"Name:s":	"Load Barrel Room w/Dwarves",
+				"Pos:fff":	[-13340.87890625, 4395.869140625, 5680.26953125],
+				"BBox:ffffff":	[-13725.2841796875, 4022.994140625, 5630.26953125, -12956.4736328125, 4768.744140625, 5730.26953125],
+				"Orient:fff":	[0, 89.9999771118164, 0],
+				"HalfDimensions:fff":	[50, 372.87506103515625, 384.40505981445312],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	8,
+		"rows":	[{
+				"Layer:s":	"CH07_PS_CY-Jail_Floor"
+			}, {
+				"Layer:s":	"CH07_PS_BarrelRoom"
+			}, {
+				"Layer:s":	"CH07_Inst_BarrelRoom"
+			}, {
+				"Layer:s":	"CH07_NPC_Elves_BarrelRoom"
+			}, {
+				"Layer:s":	"CH07_Switches_BarrelRoom"
+			}, {
+				"Layer:s":	"CH07_Water_BarrelRoom"
+			}, {
+				"Layer:s":	"CH07_Barrels_BarrelRoom"
+			}, {
+				"Layer:s":	"CH07_Cup_BarrelRoom"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	6,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_PS_Jail"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Throne-Jail_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Slide"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Jail-Caverns_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_NPC_Elves_Jail"
+			}, {
+				"UnloadLayer:s":	"CH07_Inst_Jail"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD4D0_1601E000",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-16441.427734375, 3259.263671875, -5023.3017578125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Load Breadcrumb Phase 001",
+				"Name:s":	"Load Breadcrumb Phase 001",
+				"Pos:fff":	[-16441.427734375, 3259.263671875, -5023.3017578125],
+				"BBox:ffffff":	[-16491.427734375, 3209.263671875, -5073.3017578125, -16391.427734375, 3309.263671875, -4973.3017578125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"CH07_Breadcrumbs_Phase_001"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD4D0_1602A001",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-16565.646484375, 3259.263671875, -5023.3017578125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Load Breadcrumb Phase 002",
+				"Name:s":	"Load Breadcrumb Phase 002",
+				"Pos:fff":	[-16565.646484375, 3259.263671875, -5023.3017578125],
+				"BBox:ffffff":	[-16615.646484375, 3209.263671875, -5073.3017578125, -16515.646484375, 3309.263671875, -4973.3017578125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"CH07_Breadcrumbs_Phase_002"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD4D0_1602B401",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-16695.291015625, 3259.263671875, -5023.3017578125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Load Breadcrumb Phase 003",
+				"Name:s":	"Load Breadcrumb Phase 003",
+				"Pos:fff":	[-16695.291015625, 3259.263671875, -5023.3017578125],
+				"BBox:ffffff":	[-16745.291015625, 3209.263671875, -5073.3017578125, -16645.291015625, 3309.263671875, -4973.3017578125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"CH07_Breadcrumbs_Phase_003"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD4D0_1602D001",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-16824.685546875, 3259.263671875, -5023.3017578125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Load Breadcrumb Phase 004",
+				"Name:s":	"Load Breadcrumb Phase 004",
+				"Pos:fff":	[-16824.685546875, 3259.263671875, -5023.3017578125],
+				"BBox:ffffff":	[-16874.685546875, 3209.263671875, -5073.3017578125, -16774.685546875, 3309.263671875, -4973.3017578125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"CH07_Breadcrumbs_Phase_004"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD4D0_1602E801",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-16952.724609375, 3259.263671875, -5023.3017578125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Load Breadcrumb Phase 005",
+				"Name:s":	"Load Breadcrumb Phase 005",
+				"Pos:fff":	[-16952.724609375, 3259.263671875, -5023.3017578125],
+				"BBox:ffffff":	[-17002.724609375, 3209.263671875, -5073.3017578125, -16902.724609375, 3309.263671875, -4973.3017578125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"CH07_Breadcrumbs_Phase_005"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADB52_68370400",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-6470.15185546875, 16357.578125, 31420.328125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Load Breadcrumbs_GalionHerbs",
+				"Name:s":	"Load Breadcrumbs_GalionHerbs",
+				"Pos:fff":	[-6470.15185546875, 16357.578125, 31420.328125],
+				"BBox:ffffff":	[-6520.15185546875, 16307.578125, 31370.328125, -6420.15185546875, 16407.578125, 31470.328125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"CH07_Breadcrumbs_GalionHerbs"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADB52_68136000",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-10038.576171875, 16586.28125, 31733.451171875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Load Breadcrumbs_Jail",
+				"Name:s":	"Load Breadcrumbs_Jail",
+				"Pos:fff":	[-10038.576171875, 16586.28125, 31733.451171875],
+				"BBox:ffffff":	[-10088.576171875, 16536.28125, 31683.451171875, -9988.576171875, 16636.28125, 31783.451171875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"CH07_Breadcrumbs_Jail"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD851_E384B400",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-12090.0751953125, 12505.2568359375, 3877.41357421875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Load DwarfTriggers",
+				"Name:s":	"Load DwarfTriggers",
+				"Pos:fff":	[-12090.0751953125, 12505.2568359375, 3877.41357421875],
+				"BBox:ffffff":	[-12140.0751953125, 12455.2568359375, 3827.41357421875, -12040.0751953125, 12555.2568359375, 3927.41357421875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"CH07_DwarfTriggers"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD050_16804C00",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-1453.3848876953125, 9110.4169921875, -962.98828125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Load Secret Vine!",
+				"Name:s":	"Load Secret Vine!",
+				"Pos:fff":	[-1453.3848876953125, 9110.4169921875, -962.98828125],
+				"BBox:ffffff":	[-1503.3848876953125, 9060.4169921875, -1012.98828125, -1403.3848876953125, 9160.4169921875, -912.98828125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"CH07_Vines_CY_SEC"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADB12_0F695800",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-1482.92529296875, 24963.49609375, -3183.3984375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Load Snore Emitter",
+				"Name:s":	"Load Snore Emitter",
+				"Pos:fff":	[-1482.92529296875, 24963.49609375, -3183.3984375],
+				"BBox:ffffff":	[-1532.92529296875, 24913.49609375, -3233.3984375, -1432.92529296875, 25013.49609375, -3133.3984375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"CH07_Audio_Emitters_Snore"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD251_0BC85400",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-5689.2783203125, -1412.208740234375, 6549.53125],
+				"Orientation:fff":	[0, 29.700010299682617, 0],
+				"LocalBoundingBox:ffffff":	[-459.09600830078125, -535.18994140625, -290.2861328125, 459.09600830078125, 535.18994140625, 290.2861328125],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Load Upper Cavern Breadcrumbs",
+				"Name:s":	"Load Upper Cavern Breadcrumbs",
+				"Pos:fff":	[-5689.2783203125, -1412.208740234375, 6549.53125],
+				"BBox:ffffff":	[-6148.37451171875, -1947.398681640625, 6259.2451171875, -5230.18212890625, -877.018798828125, 6839.8173828125],
+				"Orient:fff":	[0, 29.700010299682617, 0],
+				"HalfDimensions:fff":	[500.86404418945312, 535.18994140625, 48.500007629394531],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"CH07_Breadcrumbs_Caverns_Upper"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD850_09684C00",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-5160.5791015625, 6563.56689453125, 7539.8525390625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LoadTorchTrigs",
+				"Name:s":	"LoadTorchTrigs",
+				"Pos:fff":	[-5160.5791015625, 6563.56689453125, 7539.8525390625],
+				"BBox:ffffff":	[-5210.5791015625, 6513.56689453125, 7489.8525390625, -5110.5791015625, 6613.56689453125, 7589.8525390625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"CH07_TorchTrigs"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD311_FA0E8801",
+				"Teleport:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-7564.826171875, -314.59732055664062, 4357.4345703125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Teleporter_BarrelRoom_EOL",
+				"Name:s":	"Teleporter_BarrelRoom_EOL",
+				"Pos:fff":	[-7564.826171875, -314.59732055664062, 4357.4345703125],
+				"BBox:ffffff":	[-7614.826171875, -364.59732055664062, 4307.4345703125, -7514.826171875, -264.59732055664062, 4407.4345703125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	10,
+		"rows":	[{
+				"Layer:s":	"CH07_PS_BarrelRoom"
+			}, {
+				"Layer:s":	"CH07_PS_Barrel-Jail_Floor"
+			}, {
+				"Layer:s":	"CH07_NPC_Elves_BarrelRoom"
+			}, {
+				"Layer:s":	"CH07_Inst_BarrelRoom"
+			}, {
+				"Layer:s":	"CH07_Water_BarrelRoom"
+			}, {
+				"Layer:s":	"CH07_Switches_BarrelRoom"
+			}, {
+				"Layer:s":	"CH07_Cup_BarrelRoom"
+			}, {
+				"Layer:s":	"CH07_Barrels_BarrelRoom"
+			}, {
+				"Layer:s":	"CH07_Lianna"
+			}, {
+				"Layer:s":	"CH07_CheatBarrelCinema"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	14,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_PS_Ent-Throne_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_CY-GR_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_NPC_Elves_Courtyard"
+			}, {
+				"UnloadLayer:s":	"CH07_Inst_Courtyard"
+			}, {
+				"UnloadLayer:s":	"CH07_Fireflies"
+			}, {
+				"UnloadLayer:s":	"CH07_Skybox"
+			}, {
+				"UnloadLayer:s":	"CH07_Limbs_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_LeafClusters_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_MirkTrees_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_Braziers_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_Water_Courtyard"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Spider-Grotto_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_Inst_CY-THR"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	18,
+		"rows":	[{
+				"LoadResources:s":	"CH07_PS_Jail"
+			}, {
+				"LoadResources:s":	"CH07_PS_Throne-Jail_Floor"
+			}, {
+				"LoadResources:s":	"CH07_PS_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_NPC_Dwarves"
+			}, {
+				"LoadResources:s":	"CH07_PS_Jail-Caverns_Floor"
+			}, {
+				"LoadResources:s":	"CH07_NPC_Elves_Jail"
+			}, {
+				"LoadResources:s":	"CH07_Lianna"
+			}, {
+				"LoadResources:s":	"CH07_PS_Slide"
+			}, {
+				"LoadResources:s":	"CH07_Inst_Jail"
+			}, {
+				"LoadResources:s":	"CH07_PS_Barrel-Jail_Floor"
+			}, {
+				"LoadResources:s":	"CH07_NPC_Elves_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Inst_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Water_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Switches_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Cup_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Barrels_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Lianna"
+			}, {
+				"LoadResources:s":	"CH07_CheatBarrelCinema"
+			}]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	26,
+		"rows":	[{
+				"UnloadResources:s":	"CH07_PS_Ent-Throne_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_PS_CY-GR_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Elves_Courtyard"
+			}, {
+				"UnloadResources:s":	"CH07_Inst_Courtyard"
+			}, {
+				"UnloadResources:s":	"CH07_Fireflies"
+			}, {
+				"UnloadResources:s":	"CH07_Skybox"
+			}, {
+				"UnloadResources:s":	"CH07_Limbs_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_LeafClusters_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_MirkTrees_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_Braziers_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_Water_Courtyard"
+			}, {
+				"UnloadResources:s":	"CH07_Inst_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Throne_Roof"
+			}, {
+				"UnloadResources:s":	"CH07_PS_GR-Throne_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_PS_GR-Throne_Roof"
+			}, {
+				"UnloadResources:s":	"CH07_Water_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_Vines_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_Switches_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Elves_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Spider-Grotto_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_PS_SpiderRoom"
+			}, {
+				"UnloadResources:s":	"CH07_Webs_Grotto"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Spiders"
+			}, {
+				"UnloadResources:s":	"CH07_Inst_CY-THR"
+			}]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD8D1_C07DC401",
+				"Teleport:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[273.41073608398437, -2247.161865234375, 5072.0078125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Teleporter_Caverns",
+				"Name:s":	"Teleporter_Caverns",
+				"Pos:fff":	[273.41073608398437, -2247.161865234375, 5072.0078125],
+				"BBox:ffffff":	[223.41073608398438, -2297.161865234375, 5022.0078125, 323.41073608398437, -2197.161865234375, 5122.0078125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	12,
+		"rows":	[{
+				"Layer:s":	"CH07_PS_Caverns"
+			}, {
+				"Layer:s":	"CH07_Vines_Caverns"
+			}, {
+				"Layer:s":	"CH07_Cinemas_Cine04_Darkwater"
+			}, {
+				"Layer:s":	"CH07_PS_Jail-Caverns_Floor"
+			}, {
+				"Layer:s":	"CH07_NPC_Leapers"
+			}, {
+				"Layer:s":	"CH07_NPC_CaveCritters"
+			}, {
+				"Layer:s":	"CH07_Pickups_Caverns"
+			}, {
+				"Layer:s":	"CH07_Inst_Caverns"
+			}, {
+				"Layer:s":	"CH07_Breadcrumbs_Caverns"
+			}, {
+				"Layer:s":	"CH07_Balin"
+			}, {
+				"Layer:s":	"CH07_Thorin"
+			}, {
+				"Layer:s":	"CH07_Cinemas_BilboCaughtByElves"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	19,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_PS_Ent-Throne_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_CY-GR_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_NPC_Elves_Courtyard"
+			}, {
+				"UnloadLayer:s":	"CH07_Inst_Courtyard"
+			}, {
+				"UnloadLayer:s":	"CH07_Fireflies"
+			}, {
+				"UnloadLayer:s":	"CH07_Skybox"
+			}, {
+				"UnloadLayer:s":	"CH07_Limbs_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_LeafClusters_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_MirkTrees_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_Braziers_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_Water_Courtyard"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Spider-Grotto_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_Inst_CY-THR"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Throne_Roof"
+			}, {
+				"UnloadLayer:s":	"CH07_Cinemas_Cine01_Intro"
+			}, {
+				"UnloadLayer:s":	"CH07_Cinemas_Cine01_Intro_AnimInst"
+			}, {
+				"UnloadLayer:s":	"CH07_Cinemas_Cine01_Intro_Campaths"
+			}, {
+				"UnloadLayer:s":	"CH07_Cinemas_Cine01_Intro_NPCs"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	13,
+		"rows":	[{
+				"LoadResources:s":	"CH07_Breadcrumbs_Caverns_Upper"
+			}, {
+				"LoadResources:s":	"CH07_PS_Caverns"
+			}, {
+				"LoadResources:s":	"CH07_Vines_Caverns"
+			}, {
+				"LoadResources:s":	"CH07_Cinemas_Cine04_Darkwater"
+			}, {
+				"LoadResources:s":	"CH07_PS_Jail-Caverns_Floor"
+			}, {
+				"LoadResources:s":	"CH07_NPC_CaveCritters"
+			}, {
+				"LoadResources:s":	"CH07_NPC_Leapers"
+			}, {
+				"LoadResources:s":	"CH07_Pickups_Caverns"
+			}, {
+				"LoadResources:s":	"CH07_Inst_Caverns"
+			}, {
+				"LoadResources:s":	"CH07_Breadcrumbs_Caverns"
+			}, {
+				"LoadResources:s":	"CH07_Balin"
+			}, {
+				"LoadResources:s":	"CH07_Thorin"
+			}, {
+				"LoadResources:s":	"CH07_Cinemas_BilboCaughtByElves"
+			}]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	31,
+		"rows":	[{
+				"UnloadResources:s":	"CH07_PS_Ent-Throne_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_PS_CY-GR_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Elves_Courtyard"
+			}, {
+				"UnloadResources:s":	"CH07_Inst_Courtyard"
+			}, {
+				"UnloadResources:s":	"CH07_Fireflies"
+			}, {
+				"UnloadResources:s":	"CH07_Skybox"
+			}, {
+				"UnloadResources:s":	"CH07_Limbs_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_LeafClusters_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_MirkTrees_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_Braziers_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_Water_Courtyard"
+			}, {
+				"UnloadResources:s":	"CH07_Inst_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Throne_Roof"
+			}, {
+				"UnloadResources:s":	"CH07_PS_GR-Throne_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_PS_GR-Throne_Roof"
+			}, {
+				"UnloadResources:s":	"CH07_Water_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_Vines_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_Switches_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Elves_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Spider-Grotto_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_PS_SpiderRoom"
+			}, {
+				"UnloadResources:s":	"CH07_Webs_Grotto"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Spiders"
+			}, {
+				"UnloadResources:s":	"CH07_Inst_CY-THR"
+			}, {
+				"UnloadResources:s":	"CH07_Cinemas_Cine01_Intro"
+			}, {
+				"UnloadResources:s":	"CH07_Cinemas_Cine01_Intro_AnimInst"
+			}, {
+				"UnloadResources:s":	"CH07_Cinemas_Cine01_Intro_Campaths"
+			}, {
+				"UnloadResources:s":	"CH07_Cinemas_Cine01_Intro_Campaths"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Throne_Roof"
+			}]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD651_CE758001",
+				"Teleport:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-8784.544921875, -513.63360595703125, 9836.4189453125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Teleporter_DeepCellar",
+				"Name:s":	"Teleporter_DeepCellar",
+				"Pos:fff":	[-8784.544921875, -513.63360595703125, 9836.4189453125],
+				"BBox:ffffff":	[-8834.544921875, -563.63360595703125, 9786.4189453125, -8734.544921875, -463.63360595703125, 9886.4189453125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	8,
+		"rows":	[{
+				"Layer:s":	"CH07_PS_Jail"
+			}, {
+				"Layer:s":	"CH07_PS_Barrel-Jail_Floor"
+			}, {
+				"Layer:s":	"CH07_Lianna"
+			}, {
+				"Layer:s":	"CH07_PS_Throne-Jail_Floor"
+			}, {
+				"Layer:s":	"CH07_NPC_Dwarves"
+			}, {
+				"Layer:s":	"CH07_NPC_Elves_Jail"
+			}, {
+				"Layer:s":	"CH07_Inst_Jail"
+			}, {
+				"Layer:s":	"CH07_CheatDeepCellarKeyPU"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	14,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_PS_Ent-Throne_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_CY-GR_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_NPC_Elves_Courtyard"
+			}, {
+				"UnloadLayer:s":	"CH07_Inst_Courtyard"
+			}, {
+				"UnloadLayer:s":	"CH07_Fireflies"
+			}, {
+				"UnloadLayer:s":	"CH07_Skybox"
+			}, {
+				"UnloadLayer:s":	"CH07_Limbs_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_LeafClusters_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_MirkTrees_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_Braziers_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_Water_Courtyard"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Spider-Grotto_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_Inst_CY-THR"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	18,
+		"rows":	[{
+				"LoadResources:s":	"CH07_PS_Jail"
+			}, {
+				"LoadResources:s":	"CH07_PS_Throne-Jail_Floor"
+			}, {
+				"LoadResources:s":	"CH07_PS_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_NPC_Dwarves"
+			}, {
+				"LoadResources:s":	"CH07_PS_Jail-Caverns_Floor"
+			}, {
+				"LoadResources:s":	"CH07_NPC_Elves_Jail"
+			}, {
+				"LoadResources:s":	"CH07_Lianna"
+			}, {
+				"LoadResources:s":	"CH07_PS_Slide"
+			}, {
+				"LoadResources:s":	"CH07_Inst_Jail"
+			}, {
+				"LoadResources:s":	"CH07_PS_Barrel-Jail_Floor"
+			}, {
+				"LoadResources:s":	"CH07_NPC_Elves_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Inst_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Water_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Switches_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Cup_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Barrels_BarrelRoom"
+			}, {
+				"LoadResources:s":	"CH07_Lianna"
+			}, {
+				"LoadResources:s":	"CH07_CheatDeepCellarKeyPU"
+			}]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	26,
+		"rows":	[{
+				"UnloadResources:s":	"CH07_PS_Ent-Throne_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_PS_CY-GR_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Elves_Courtyard"
+			}, {
+				"UnloadResources:s":	"CH07_Inst_Courtyard"
+			}, {
+				"UnloadResources:s":	"CH07_Fireflies"
+			}, {
+				"UnloadResources:s":	"CH07_Skybox"
+			}, {
+				"UnloadResources:s":	"CH07_Limbs_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_LeafClusters_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_MirkTrees_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_Braziers_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_Water_Courtyard"
+			}, {
+				"UnloadResources:s":	"CH07_Inst_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Throne_Roof"
+			}, {
+				"UnloadResources:s":	"CH07_PS_GR-Throne_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_PS_GR-Throne_Roof"
+			}, {
+				"UnloadResources:s":	"CH07_Water_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_Vines_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_Switches_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Elves_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Spider-Grotto_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_PS_SpiderRoom"
+			}, {
+				"UnloadResources:s":	"CH07_Webs_Grotto"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Spiders"
+			}, {
+				"UnloadResources:s":	"CH07_Inst_CY-THR"
+			}]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD14F_612F9800",
+				"Teleport:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-1511.288818359375, 347.35809326171875, -2764.75537109375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-75.000007629394531, -205.49993896484375, -75, 75.000007629394531, 205.49993896484375, 75],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Teleporter_EOL",
+				"Name:s":	"Teleporter_EOL",
+				"Pos:fff":	[-1511.288818359375, 347.35809326171875, -2764.75537109375],
+				"BBox:ffffff":	[-1586.288818359375, 141.858154296875, -2839.75537109375, -1436.288818359375, 552.8580322265625, -2689.75537109375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[75.000007629394531, 205.49993896484375, 75],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD451_F3BD3801",
+				"Teleport:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[2450.093017578125, 831.98565673828125, 3037.052734375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Teleporter_SlideNEW",
+				"Name:s":	"Teleporter_SlideNEW",
+				"Pos:fff":	[2450.093017578125, 831.98565673828125, 3037.052734375],
+				"BBox:ffffff":	[2400.093017578125, 781.98565673828125, 2987.052734375, 2500.093017578125, 881.98565673828125, 3087.052734375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	10,
+		"rows":	[{
+				"Layer:s":	"CH07_PS_Caverns"
+			}, {
+				"Layer:s":	"CH07_Vines_Caverns"
+			}, {
+				"Layer:s":	"CH07_Cinemas_Cine04_Darkwater"
+			}, {
+				"Layer:s":	"CH07_PS_Jail-Caverns_Floor"
+			}, {
+				"Layer:s":	"CH07_PS_Jail"
+			}, {
+				"Layer:s":	"CH07_NPC_CaveCritters"
+			}, {
+				"Layer:s":	"CH07_Pickups_Caverns"
+			}, {
+				"Layer:s":	"CH07_Inst_Caverns"
+			}, {
+				"Layer:s":	"CH07_PS_Slide"
+			}, {
+				"Layer:s":	"CH07_CheatDeepCellarKeyPU"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	14,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_PS_Ent-Throne_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_CY-GR_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_NPC_Elves_Courtyard"
+			}, {
+				"UnloadLayer:s":	"CH07_Inst_Courtyard"
+			}, {
+				"UnloadLayer:s":	"CH07_Fireflies"
+			}, {
+				"UnloadLayer:s":	"CH07_Skybox"
+			}, {
+				"UnloadLayer:s":	"CH07_Limbs_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_LeafClusters_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_MirkTrees_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_Braziers_Entrance"
+			}, {
+				"UnloadLayer:s":	"CH07_Water_Courtyard"
+			}, {
+				"UnloadLayer:s":	"CH07_PS_Spider-Grotto_Floor"
+			}, {
+				"UnloadLayer:s":	"CH07_Inst_CY-THR"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	11,
+		"rows":	[{
+				"LoadResources:s":	"CH07_Breadcrumbs_Caverns_Upper"
+			}, {
+				"LoadResources:s":	"CH07_PS_Caverns"
+			}, {
+				"LoadResources:s":	"CH07_Vines_Caverns"
+			}, {
+				"LoadResources:s":	"CH07_Cinemas_Cine04_Darkwater"
+			}, {
+				"LoadResources:s":	"CH07_PS_Jail-Caverns_Floor"
+			}, {
+				"LoadResources:s":	"CH07_NPC_CaveCritters"
+			}, {
+				"LoadResources:s":	"CH07_NPC_Leapers"
+			}, {
+				"LoadResources:s":	"CH07_Pickups_Caverns"
+			}, {
+				"LoadResources:s":	"CH07_Inst_Caverns"
+			}, {
+				"LoadResources:s":	"CH07_Breadcrumbs_Caverns"
+			}, {
+				"LoadResources:s":	"CH07_CheatDeepCellarKeyPU"
+			}]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	26,
+		"rows":	[{
+				"UnloadResources:s":	"CH07_PS_Ent-Throne_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_PS_CY-GR_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Elves_Courtyard"
+			}, {
+				"UnloadResources:s":	"CH07_Inst_Courtyard"
+			}, {
+				"UnloadResources:s":	"CH07_Fireflies"
+			}, {
+				"UnloadResources:s":	"CH07_Skybox"
+			}, {
+				"UnloadResources:s":	"CH07_Limbs_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_LeafClusters_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_MirkTrees_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_Braziers_Entrance"
+			}, {
+				"UnloadResources:s":	"CH07_Water_Courtyard"
+			}, {
+				"UnloadResources:s":	"CH07_Inst_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Throne_Roof"
+			}, {
+				"UnloadResources:s":	"CH07_PS_GR-Throne_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_PS_GR-Throne_Roof"
+			}, {
+				"UnloadResources:s":	"CH07_Water_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_Vines_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_Switches_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Elves_Throne"
+			}, {
+				"UnloadResources:s":	"CH07_PS_Spider-Grotto_Floor"
+			}, {
+				"UnloadResources:s":	"CH07_PS_SpiderRoom"
+			}, {
+				"UnloadResources:s":	"CH07_Webs_Grotto"
+			}, {
+				"UnloadResources:s":	"CH07_NPC_Spiders"
+			}, {
+				"UnloadResources:s":	"CH07_Inst_CY-THR"
+			}]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADB12_0F6A2401",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-1386.728515625, 25300.076171875, -3336.24609375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Unload Snore Emitter",
+				"Name:s":	"Unload Snore Emitter",
+				"Pos:fff":	[-1386.728515625, 25300.076171875, -3336.24609375],
+				"BBox:ffffff":	[-1436.728515625, 25250.076171875, -3386.24609375, -1336.728515625, 25350.076171875, -3286.24609375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_Audio_Emitters_Snore"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD850_0968AC01",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-5268.9228515625, 6563.56689453125, 7539.8525390625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"UnloadTorchTrigs",
+				"Name:s":	"UnloadTorchTrigs",
+				"Pos:fff":	[-5268.9228515625, 6563.56689453125, 7539.8525390625],
+				"BBox:ffffff":	[-5318.9228515625, 6513.56689453125, 7489.8525390625, -5218.9228515625, 6613.56689453125, 7589.8525390625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadLayer:s":	"CH07_TorchTrigs"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}]

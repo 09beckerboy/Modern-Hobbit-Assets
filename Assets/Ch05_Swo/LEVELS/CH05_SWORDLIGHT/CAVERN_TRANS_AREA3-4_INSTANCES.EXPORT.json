@@ -1,0 +1,529 @@
+[{
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDB4D_C0EA2C01",
+				"Name:s":	"Cavern CrateDirty LT 115 *",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_swordlight_crate-destr.rgeom",
+				"Pos:fff":	[-7357.76318359375, -3548.26708984375, -1315.172119140625],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1.5, 1.5, 1.5],
+				"BBox:ffffff":	[-7411.76318359375, -3549.76708984375, -1369.172119140625, -7303.76318359375, -3441.76708984375, -1261.172119140625],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	1,
+				"DestructibleByNPC:d":	1,
+				"DestructibleByBilbo:d":	1,
+				"ContentType:s":	"Health",
+				"DestructGeom:s":	"inst_swordlight_crate-destr_ani.rgeom",
+				"DestructAnim:s":	"inst_swordlight_crate-destr_ani.anim",
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	10632,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-54, -1.5, -54, 54, 106.5, 54],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Cavern CrateDirty LT 115 *",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Wood"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	58,
+		"rows":	[{
+				"Color:dddd":	[76, 30, 92, 255]
+			}, {
+				"Color:dddd":	[110, 44, 134, 255]
+			}, {
+				"Color:dddd":	[73, 29, 90, 255]
+			}, {
+				"Color:dddd":	[20, 8, 24, 255]
+			}, {
+				"Color:dddd":	[71, 36, 100, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[91, 36, 111, 255]
+			}, {
+				"Color:dddd":	[103, 42, 127, 255]
+			}, {
+				"Color:dddd":	[99, 40, 121, 255]
+			}, {
+				"Color:dddd":	[38, 15, 46, 255]
+			}, {
+				"Color:dddd":	[221, 97, 255, 255]
+			}, {
+				"Color:dddd":	[44, 17, 54, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[99, 40, 121, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[5, 7, 16, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[58, 29, 82, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[83, 43, 119, 255]
+			}, {
+				"Color:dddd":	[84, 44, 120, 255]
+			}, {
+				"Color:dddd":	[10, 13, 27, 255]
+			}, {
+				"Color:dddd":	[15, 15, 33, 255]
+			}, {
+				"Color:dddd":	[5, 7, 16, 255]
+			}, {
+				"Color:dddd":	[71, 36, 100, 255]
+			}, {
+				"Color:dddd":	[48, 29, 75, 255]
+			}, {
+				"Color:dddd":	[89, 45, 126, 255]
+			}, {
+				"Color:dddd":	[221, 97, 255, 255]
+			}, {
+				"Color:dddd":	[10, 13, 27, 255]
+			}, {
+				"Color:dddd":	[58, 29, 82, 255]
+			}, {
+				"Color:dddd":	[54, 31, 83, 255]
+			}, {
+				"Color:dddd":	[210, 86, 255, 255]
+			}, {
+				"Color:dddd":	[188, 75, 230, 255]
+			}, {
+				"Color:dddd":	[181, 73, 221, 255]
+			}, {
+				"Color:dddd":	[199, 80, 243, 255]
+			}, {
+				"Color:dddd":	[58, 29, 82, 255]
+			}, {
+				"Color:dddd":	[221, 97, 255, 255]
+			}, {
+				"Color:dddd":	[189, 77, 233, 255]
+			}, {
+				"Color:dddd":	[187, 75, 229, 255]
+			}, {
+				"Color:dddd":	[206, 82, 251, 255]
+			}, {
+				"Color:dddd":	[200, 80, 244, 255]
+			}]
+	}, {
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDB4D_C0EB0801",
+				"Name:s":	"Cavern CrateDirty LT 116 *",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_swordlight_crate-destr.rgeom",
+				"Pos:fff":	[-7533.7783203125, -3448.67138671875, -1226.8201904296875],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1.0791369676589966, 1.0791369676589966, 1.0791369676589966],
+				"BBox:ffffff":	[-7572.62744140625, -3449.75048828125, -1265.6690673828125, -7494.92919921875, -3372.052734375, -1187.97119140625],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	1,
+				"DestructibleByNPC:d":	1,
+				"DestructibleByBilbo:d":	1,
+				"ContentType:s":	"Health",
+				"DestructGeom:s":	"inst_swordlight_crate-destr_ani.rgeom",
+				"DestructAnim:s":	"inst_swordlight_crate-destr_ani.anim",
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	10632,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-38.84912109375, -1.0791015625, -38.848876953125, 38.84912109375, 76.61865234375, 38.8489990234375],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Cavern CrateDirty LT 116 *",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Wood"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	58,
+		"rows":	[{
+				"Color:dddd":	[160, 65, 197, 255]
+			}, {
+				"Color:dddd":	[184, 78, 232, 255]
+			}, {
+				"Color:dddd":	[161, 69, 204, 255]
+			}, {
+				"Color:dddd":	[133, 54, 163, 255]
+			}, {
+				"Color:dddd":	[113, 58, 160, 255]
+			}, {
+				"Color:dddd":	[78, 31, 95, 255]
+			}, {
+				"Color:dddd":	[168, 72, 214, 255]
+			}, {
+				"Color:dddd":	[179, 74, 222, 255]
+			}, {
+				"Color:dddd":	[160, 64, 196, 255]
+			}, {
+				"Color:dddd":	[141, 59, 177, 255]
+			}, {
+				"Color:dddd":	[199, 94, 255, 255]
+			}, {
+				"Color:dddd":	[153, 61, 187, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[25, 10, 30, 255]
+			}, {
+				"Color:dddd":	[1, 0, 1, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[78, 31, 95, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[24, 9, 29, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[160, 64, 196, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[3, 4, 9, 255]
+			}, {
+				"Color:dddd":	[1, 1, 3, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[15, 20, 43, 255]
+			}, {
+				"Color:dddd":	[1, 2, 5, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[16, 21, 46, 255]
+			}, {
+				"Color:dddd":	[2, 2, 6, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[71, 48, 119, 255]
+			}, {
+				"Color:dddd":	[38, 35, 81, 255]
+			}, {
+				"Color:dddd":	[21, 27, 58, 255]
+			}, {
+				"Color:dddd":	[20, 26, 55, 255]
+			}, {
+				"Color:dddd":	[15, 20, 43, 255]
+			}, {
+				"Color:dddd":	[113, 58, 160, 255]
+			}, {
+				"Color:dddd":	[22, 28, 60, 255]
+			}, {
+				"Color:dddd":	[65, 46, 114, 255]
+			}, {
+				"Color:dddd":	[199, 94, 255, 255]
+			}, {
+				"Color:dddd":	[20, 26, 56, 255]
+			}, {
+				"Color:dddd":	[16, 21, 46, 255]
+			}, {
+				"Color:dddd":	[44, 36, 86, 255]
+			}, {
+				"Color:dddd":	[154, 64, 192, 255]
+			}, {
+				"Color:dddd":	[111, 45, 136, 255]
+			}, {
+				"Color:dddd":	[93, 40, 119, 255]
+			}, {
+				"Color:dddd":	[140, 61, 179, 255]
+			}, {
+				"Color:dddd":	[16, 21, 46, 255]
+			}, {
+				"Color:dddd":	[199, 94, 255, 255]
+			}, {
+				"Color:dddd":	[94, 40, 120, 255]
+			}, {
+				"Color:dddd":	[128, 52, 158, 255]
+			}, {
+				"Color:dddd":	[124, 54, 158, 255]
+			}, {
+				"Color:dddd":	[153, 65, 194, 255]
+			}]
+	}, {
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDB4D_C0EB7401",
+				"Name:s":	"Cavern CrateDirty LT 117 *",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_swordlight_crate-destr.rgeom",
+				"Pos:fff":	[-7221.92041015625, -3544.1640625, -1315.48193359375],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1.2820509672164917, 1.2820509672164917, 1.2820509672164917],
+				"BBox:ffffff":	[-7268.07421875, -3545.446044921875, -1361.6357421875, -7175.7666015625, -3453.138427734375, -1269.328125],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	1,
+				"DestructibleByNPC:d":	1,
+				"DestructibleByBilbo:d":	1,
+				"ContentType:s":	"Health",
+				"DestructGeom:s":	"inst_swordlight_crate-destr_ani.rgeom",
+				"DestructAnim:s":	"inst_swordlight_crate-destr_ani.anim",
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	10632,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-46.15380859375, -1.281982421875, -46.15380859375, 46.15380859375, 91.025634765625, 46.15380859375],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Cavern CrateDirty LT 117 *",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Wood"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	58,
+		"rows":	[{
+				"Color:dddd":	[34, 23, 50, 255]
+			}, {
+				"Color:dddd":	[80, 42, 106, 255]
+			}, {
+				"Color:dddd":	[18, 17, 31, 255]
+			}, {
+				"Color:dddd":	[17, 15, 28, 255]
+			}, {
+				"Color:dddd":	[49, 35, 79, 255]
+			}, {
+				"Color:dddd":	[8, 8, 14, 255]
+			}, {
+				"Color:dddd":	[60, 34, 81, 255]
+			}, {
+				"Color:dddd":	[65, 36, 88, 255]
+			}, {
+				"Color:dddd":	[74, 35, 95, 255]
+			}, {
+				"Color:dddd":	[17, 16, 29, 255]
+			}, {
+				"Color:dddd":	[200, 96, 255, 255]
+			}, {
+				"Color:dddd":	[17, 16, 29, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[8, 8, 14, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[29, 12, 36, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[74, 35, 95, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[4, 1, 5, 255]
+			}, {
+				"Color:dddd":	[6, 2, 7, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[6, 9, 19, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[15, 6, 18, 255]
+			}, {
+				"Color:dddd":	[139, 63, 181, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[29, 12, 36, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[85, 44, 121, 255]
+			}, {
+				"Color:dddd":	[107, 54, 149, 255]
+			}, {
+				"Color:dddd":	[29, 21, 52, 255]
+			}, {
+				"Color:dddd":	[10, 13, 27, 255]
+			}, {
+				"Color:dddd":	[6, 9, 19, 255]
+			}, {
+				"Color:dddd":	[49, 35, 79, 255]
+			}, {
+				"Color:dddd":	[73, 39, 106, 255]
+			}, {
+				"Color:dddd":	[103, 51, 143, 255]
+			}, {
+				"Color:dddd":	[200, 96, 255, 255]
+			}, {
+				"Color:dddd":	[10, 13, 28, 255]
+			}, {
+				"Color:dddd":	[139, 63, 181, 255]
+			}, {
+				"Color:dddd":	[45, 27, 71, 255]
+			}, {
+				"Color:dddd":	[236, 96, 255, 255]
+			}, {
+				"Color:dddd":	[220, 89, 255, 255]
+			}, {
+				"Color:dddd":	[225, 90, 255, 255]
+			}, {
+				"Color:dddd":	[237, 95, 255, 255]
+			}, {
+				"Color:dddd":	[139, 63, 181, 255]
+			}, {
+				"Color:dddd":	[200, 96, 255, 255]
+			}, {
+				"Color:dddd":	[232, 95, 255, 255]
+			}, {
+				"Color:dddd":	[223, 90, 255, 255]
+			}, {
+				"Color:dddd":	[241, 98, 255, 255]
+			}, {
+				"Color:dddd":	[230, 92, 255, 255]
+			}]
+	}]

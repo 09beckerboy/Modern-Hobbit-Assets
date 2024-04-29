@@ -1,0 +1,329 @@
+[{
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD7D0D_2BE6C801",
+				"bHasTargetGuids:d":	1,
+				"UsesInven:d":	0,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	1,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	0,
+				"MaxItems:d":	0,
+				"nActivators:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"trigger_area07_rocktrigger_001.xsc",
+				"InitialPos:fff":	[-8986.4326171875, -693.3773193359375, 12874.134765625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-26.780033111572266, -26.625038146972656, -13.5, 26.780033111572266, 26.625038146972656, 13.5],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Area07 RockTrigger 001",
+				"Name:s":	"Area07 RockTrigger 001",
+				"Pos:fff":	[-8986.4326171875, -693.3773193359375, 12874.134765625],
+				"BBox:ffffff":	[-9013.212890625, -720.00238037109375, 12860.634765625, -8959.65234375, -666.75225830078125, 12887.634765625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[26.780033111572266, 26.625038146972656, 13.5],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	3,
+		"rows":	[{
+				"Guid:g":	"CD5883CD_02B26926"
+			}, {
+				"Guid:g":	"CD5883CD_02B2681D"
+			}, {
+				"Guid:g":	"CD5883CD_02B26818"
+			}]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD7CCD_22F44000",
+				"bHasTargetGuids:d":	1,
+				"UsesInven:d":	0,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	1,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	0,
+				"MaxItems:d":	0,
+				"nActivators:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"trigger_area07_rocktrigger_002.xsc",
+				"InitialPos:fff":	[-11591.4609375, -1102.0556640625, 13879.3681640625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-52.5, -52.5, -20, 52.5, 52.5, 20],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Area07 RockTrigger 002",
+				"Name:s":	"Area07 RockTrigger 002",
+				"Pos:fff":	[-11591.4609375, -1102.0556640625, 13879.3681640625],
+				"BBox:ffffff":	[-11643.9609375, -1154.5556640625, 13859.3681640625, -11538.9609375, -1049.5556640625, 13899.3681640625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[52.5, 52.5, 20],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	1,
+		"rows":	[{
+				"Guid:g":	"CD5883CD_02B2692B"
+			}]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"15A46A11_8ADB7C01",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	0,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	0,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	0,
+				"nActivators:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"bilboenter1.xsc",
+				"InitialPos:fff":	[-5129.439453125, 299.443115234375, 1408.8646240234375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-402.67041015625, -75.499992370605469, -386.11508178710937, 402.67041015625, 75.499992370605469, 386.11508178710937],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"BilboEnterPillarBridgeTrigger 001",
+				"Name:s":	"BilboEnterPillarBridgeTrigger 001",
+				"Pos:fff":	[-5129.439453125, 299.443115234375, 1408.8646240234375],
+				"BBox:ffffff":	[-5532.10986328125, 223.943115234375, 1022.74951171875, -4726.76904296875, 374.943115234375, 1794.979736328125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[402.67041015625, 75.499992370605469, 386.11508178710937],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"15A46A11_8ADFC401",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	0,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	0,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	0,
+				"nActivators:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"bilboenter2.xsc",
+				"InitialPos:fff":	[-5084.314453125, 577.76702880859375, 3366.343017578125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-937.1346435546875, -164.0159912109375, -965.2486572265625, 937.1346435546875, 164.0159912109375, 965.2486572265625],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"BilboEnterPillarBridgeTrigger 002",
+				"Name:s":	"BilboEnterPillarBridgeTrigger 002",
+				"Pos:fff":	[-5084.314453125, 577.76702880859375, 3366.343017578125],
+				"BBox:ffffff":	[-6021.44921875, 413.75103759765625, 2401.09423828125, -4147.1796875, 741.78302001953125, 4331.591796875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[937.1346435546875, 164.0159912109375, 965.2486572265625],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"15A46A11_8AE2C001",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	0,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	0,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	0,
+				"nActivators:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"bilboenter3.xsc",
+				"InitialPos:fff":	[-6590.44775390625, 1049.8631591796875, 4158.40625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-1010.3153686523437, -163.42253112792969, -673.6246337890625, 1010.3153686523437, 163.42253112792969, 673.6246337890625],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"BilboEnterPillarBridgeTrigger 003",
+				"Name:s":	"BilboEnterPillarBridgeTrigger 003",
+				"Pos:fff":	[-6590.44775390625, 1049.8631591796875, 4158.40625],
+				"BBox:ffffff":	[-7600.76318359375, 886.44061279296875, 3484.78173828125, -5580.13232421875, 1213.28564453125, 4832.03076171875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[1010.3153686523437, 163.42253112792969, 673.6246337890625],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"2CDD898C_ED4C7800",
+				"bHasTargetGuids:d":	1,
+				"UsesInven:d":	0,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	1,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	0,
+				"MaxItems:d":	0,
+				"nActivators:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"trigger_fallingpillar.xsc",
+				"InitialPos:fff":	[-5113.0849609375, 262.79208374023437, 1714.1058349609375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-111.70378112792969, -42.6599998474121, -103.56010437011719, 111.70378112792969, 42.6599998474121, 103.56010437011719],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"PillarBridgeTrigger 001",
+				"Name:s":	"PillarBridgeTrigger 001",
+				"Pos:fff":	[-5113.0849609375, 262.79208374023437, 1714.1058349609375],
+				"BBox:ffffff":	[-5224.78857421875, 220.132080078125, 1610.5457763671875, -5001.38134765625, 305.45208740234375, 1817.6658935546875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[111.70378112792969, 42.6599998474121, 103.56010437011719],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	1,
+		"rows":	[{
+				"Guid:g":	"CD5883CD_02B2690C"
+			}]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD7F4D_08DCF801",
+				"bHasTargetGuids:d":	1,
+				"UsesInven:d":	0,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	1,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	0,
+				"MaxItems:d":	0,
+				"nActivators:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"trigger_fallingpillarb.xsc",
+				"InitialPos:fff":	[-4832.9501953125, 478.75811767578125, 3617.3291015625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-125, -50, -125, 125, 50, 125],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"PillarBridgeTrigger 002",
+				"Name:s":	"PillarBridgeTrigger 002",
+				"Pos:fff":	[-4832.9501953125, 478.75811767578125, 3617.3291015625],
+				"BBox:ffffff":	[-4957.9501953125, 428.75811767578125, 3492.3291015625, -4707.9501953125, 528.75811767578125, 3742.3291015625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[125, 50, 125],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	1,
+		"rows":	[{
+				"Guid:g":	"CD5883CD_02B26907"
+			}]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD718D_18135C01",
+				"bHasTargetGuids:d":	1,
+				"UsesInven:d":	0,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	1,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	0,
+				"MaxItems:d":	0,
+				"nActivators:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"trigger_rooffall.xsc",
+				"InitialPos:fff":	[-6335.04345703125, 910.4022216796875, 4145.7119140625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-71.41119384765625, -27.5, -61.347698211669922, 71.41119384765625, 27.5, 61.347698211669922],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"PillarBridgeTrigger 003",
+				"Name:s":	"PillarBridgeTrigger 003",
+				"Pos:fff":	[-6335.04345703125, 910.4022216796875, 4145.7119140625],
+				"BBox:ffffff":	[-6406.45458984375, 882.9022216796875, 4084.3642578125, -6263.63232421875, 937.9022216796875, 4207.0595703125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[71.41119384765625, 27.5, 61.347698211669922],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	6,
+		"rows":	[{
+				"Guid:g":	"15A46ECE_4A3B7C04"
+			}, {
+				"Guid:g":	"CD5883CD_02B268C2"
+			}, {
+				"Guid:g":	"CD5883CD_02B268C7"
+			}, {
+				"Guid:g":	"CD5883CD_02B268CC"
+			}, {
+				"Guid:g":	"CD5883CD_02B268D5"
+			}, {
+				"Guid:g":	"CD5883CD_02B268DA"
+			}]
+	}]

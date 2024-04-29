@@ -1,0 +1,36 @@
+[{
+		"name":	"AudioEmitter",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADB12_0F586400",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	436,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-9471.103515625, -719.39569091796875, 4352.8056640625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-1550, -1550, -1550, 1550, 1550, 1550],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"GalionSnoreEmitter",
+				"Pos:fff":	[-9471.103515625, -719.39569091796875, 4352.8056640625],
+				"TriggerRadius:f":	1550,
+				"FarRadius:f":	1200,
+				"NearRadius:f":	300,
+				"OffsetRadius:f":	0,
+				"MinDelay:f":	0,
+				"MaxDelay:f":	0,
+				"AudioFlags:d":	12,
+				"Playback:d":	1,
+				"FadeTime:f":	0,
+				"FadeVolume:f":	0,
+				"AttachedGuid:g":	"00000000_00000000",
+				"AttachedOffset:fff":	[0, 0, 0]
+			}]
+	}, {
+		"name":	"SoundList",
+		"row_count":	1,
+		"rows":	[{
+				"DescriptorName:s":	"GALION_07_24"
+			}]
+	}]

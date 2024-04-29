@@ -1,0 +1,199 @@
+[{
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD20D_A0359400",
+				"Teleport:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-4677.66845703125, -1420.28955078125, -11016.1171875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-134.5, -213.99998474121094, -110.5, 134.5, 213.99998474121094, 110.5],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Teleporter_BigCave",
+				"Name:s":	"Teleporter_BigCave",
+				"Pos:fff":	[-4677.66845703125, -1420.28955078125, -11016.1171875],
+				"BBox:ffffff":	[-4812.16845703125, -1634.28955078125, -11126.6171875, -4543.16845703125, -1206.28955078125, -10905.6171875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[134.5, 213.99998474121094, 110.5],
+				"Pain:s":	""
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	16,
+		"rows":	[{
+				"Layer:s":	"CH02a_Play_Surface_BigCave"
+			}, {
+				"Layer:s":	"Ch02a_Water"
+			}, {
+				"Layer:s":	"CH02a_Shelfstone"
+			}, {
+				"Layer:s":	"Ch02a_Creatures_BigCaveEntrance"
+			}, {
+				"Layer:s":	"CH02a_Creatures_BigCave"
+			}, {
+				"Layer:s":	"CH02a_Creatures_LowerCave"
+			}, {
+				"Layer:s":	"CH02a_Inst_BigCave"
+			}, {
+				"Layer:s":	"CH02a_Inst_LowerCave"
+			}, {
+				"Layer:s":	"CH02a_NPC_Friendly03"
+			}, {
+				"Layer:s":	"CH02a_Pickups_BigCave"
+			}, {
+				"Layer:s":	"CH02a_Rocks_MainCave"
+			}, {
+				"Layer:s":	"CH02a_Inst_BigCaveEntr"
+			}, {
+				"Layer:s":	"CH02a_Play_Surface_BigCaveEntrance"
+			}, {
+				"Layer:s":	"CH02a_Play_Surface_LowerCave"
+			}, {
+				"Layer:s":	"CH02a_Play_Surface_LowerCaveEntrance"
+			}, {
+				"Layer:s":	"CH02a_Inst_LowerCaveEntr"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	15,
+		"rows":	[{
+				"UnloadLayer:s":	"CH02a_Creatures_Outside"
+			}, {
+				"UnloadLayer:s":	"CH02a_Play_Surface_Cliff_S"
+			}, {
+				"UnloadLayer:s":	"CH02a_Play_Surface"
+			}, {
+				"UnloadLayer:s":	"CH02a_NPC_Friendly01"
+			}, {
+				"UnloadLayer:s":	"CH02a_Play_Surface_Campground"
+			}, {
+				"UnloadLayer:s":	"CH02a_Skybox"
+			}, {
+				"UnloadLayer:s":	"CH02a_Tree_LODs"
+			}, {
+				"UnloadLayer:s":	"CH02a_Rocks_Cliff"
+			}, {
+				"UnloadLayer:s":	"CH02a_Inst_Cliff"
+			}, {
+				"UnloadLayer:s":	"CH02a_Play_Surface_LowerCaveEntrance"
+			}, {
+				"UnloadLayer:s":	"CH02a_Inst_LowerCaveEntr"
+			}, {
+				"UnloadLayer:s":	"CH02a_NPC_Friendly02"
+			}, {
+				"UnloadLayer:s":	"CH02a_LittleRB13"
+			}, {
+				"UnloadLayer:s":	"CH02a_Ponies"
+			}, {
+				"UnloadLayer:s":	"CH02a_Grass"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD20D_A00FD800",
+				"Teleport:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-9433.80859375, 454.402587890625, -8181.3154296875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-134.5, -213.99998474121094, -110.5, 134.5, 213.99998474121094, 110.5],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Teleporter_SmallCave",
+				"Name:s":	"Teleporter_SmallCave",
+				"Pos:fff":	[-9433.80859375, 454.402587890625, -8181.3154296875],
+				"BBox:ffffff":	[-9568.30859375, 240.40260314941406, -8291.8154296875, -9299.30859375, 668.402587890625, -8070.8154296875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[134.5, 213.99998474121094, 110.5],
+				"Pain:s":	""
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	14,
+		"rows":	[{
+				"Layer:s":	"CH02a_Play_Surface_SmallCave"
+			}, {
+				"Layer:s":	"Ch02a_Water"
+			}, {
+				"Layer:s":	"CH02a_Shelfstone"
+			}, {
+				"Layer:s":	"CH02a_Creatures_SmallCave"
+			}, {
+				"Layer:s":	"CH02a_Inst_SmallCave"
+			}, {
+				"Layer:s":	"CH02a_Vines_SmallCave"
+			}, {
+				"Layer:s":	"CH02a_Pickups_SmallCave"
+			}, {
+				"Layer:s":	"CH02a_Rocks_SmallCave"
+			}, {
+				"Layer:s":	"CH02a_Waterfall_Plats"
+			}, {
+				"Layer:s":	"CH02a_Key_Plats"
+			}, {
+				"Layer:s":	"CH02a_Key_PushBlox"
+			}, {
+				"Layer:s":	"CH02a_Waterfall_Pickups"
+			}, {
+				"Layer:s":	"CH02a_Play_Surface_SmallCaveEntr"
+			}, {
+				"Layer:s":	"CH02a_Inst_SmallCaveEntr"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	15,
+		"rows":	[{
+				"UnloadLayer:s":	"CH02a_Creatures_Outside"
+			}, {
+				"UnloadLayer:s":	"CH02a_Play_Surface_Cliff_S"
+			}, {
+				"UnloadLayer:s":	"CH02a_Play_Surface"
+			}, {
+				"UnloadLayer:s":	"CH02a_NPC_Friendly01"
+			}, {
+				"UnloadLayer:s":	"CH02a_Play_Surface_Campground"
+			}, {
+				"UnloadLayer:s":	"CH02a_Skybox"
+			}, {
+				"UnloadLayer:s":	"CH02a_Tree_LODs"
+			}, {
+				"UnloadLayer:s":	"CH02a_Rocks_Cliff"
+			}, {
+				"UnloadLayer:s":	"CH02a_Inst_Cliff"
+			}, {
+				"UnloadLayer:s":	"CH02a_Play_Surface_LowerCaveEntrance"
+			}, {
+				"UnloadLayer:s":	"CH02a_Inst_LowerCaveEntr"
+			}, {
+				"UnloadLayer:s":	"CH02a_NPC_Friendly02"
+			}, {
+				"UnloadLayer:s":	"CH02a_LittleRB13"
+			}, {
+				"UnloadLayer:s":	"CH02a_Ponies"
+			}, {
+				"UnloadLayer:s":	"CH02a_Grass"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}]

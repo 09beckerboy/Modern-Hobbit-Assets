@@ -1,0 +1,752 @@
+[{
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD48F_5BA30400",
+				"CreatureType:s":	"HobbitKid",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"hobbit_kid_female2_bind_geom.npcgeom",
+				"Name:s":	"Hobbit_Bell",
+				"Team:d":	0,
+				"Position:fff":	[904.77532958984375, -1921.6298828125, -5906.22998046875],
+				"Rotation:fff":	[0, -33.2999610900879, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"NONE",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	25,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00000002_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	1,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	0,
+				"EvadePercent:d":	0,
+				"ShovePercent:d":	0,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"IdleLeashRadius:f":	0,
+				"IdleAnimDelay:f":	3,
+				"WanderDelay:f":	5,
+				"PatrolCount:d":	0,
+				"IdleGoalListName:s":	"Bell Idle",
+				"GoalListCount:d":	3
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Bell Idle",
+				"GoalListLooping0:d":	0,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	2,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0ActionName:s":	"Idle",
+				"List0Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList1",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName1:s":	"Bell Run",
+				"GoalListLooping1:d":	0,
+				"GoalListLoopStart1:d":	0,
+				"GoalListCollision1:d":	1,
+				"GoalListMustComplete1:d":	1,
+				"GoalListRestartFromBeginning1:d":	1,
+				"GoalListGoalCount1:d":	1
+			}]
+	}, {
+		"name":	"GoalList1GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList1Goal0:d":	1,
+				"List1Goal0MustSuceed:d":	0,
+				"List1Goal0Target:g":	"CA3DD2CF_5C254800",
+				"List1Goal0AnimType:d":	8,
+				"List1Goal0AnimName:s":	"",
+				"List1Goal0Lock:d":	0,
+				"List1Goal0LookAhead:d":	1,
+				"List1Goal0ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList2",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName2:s":	"Bell Hide",
+				"GoalListLooping2:d":	0,
+				"GoalListLoopStart2:d":	0,
+				"GoalListCollision2:d":	1,
+				"GoalListMustComplete2:d":	0,
+				"GoalListRestartFromBeginning2:d":	1,
+				"GoalListGoalCount2:d":	1
+			}]
+	}, {
+		"name":	"GoalList2GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList2Goal0:d":	2,
+				"List2Goal0MustSuceed:d":	0,
+				"List2Goal0ActionName:s":	"SeatedPlay",
+				"List2Goal0PlayTime:f":	0,
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	1000,
+				"HearingRange:f":	1000,
+				"LoudHearingRange:f":	1000,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[904.77532958984375, -1921.6298828125, -5906.22998046875],
+				"Orientation:fff":	[0, -33.2999610900879, 0],
+				"LocalBoundingBox:ffffff":	[-20, 0, -20, 20, 65, 20],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Hobbit_Bell"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD58F_5BD13800",
+				"CreatureType:s":	"HobbitKid",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"hobbit_kid_male_bind_geom.npcgeom",
+				"Name:s":	"Hobbit_Hamfast",
+				"Team:d":	0,
+				"Position:fff":	[744.295166015625, -1924.0078125, -5777.2666015625],
+				"Rotation:fff":	[0, 150.75, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"NONE",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	25,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00000002_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	1,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"CA3DDF4F_5C892000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	0,
+				"EvadePercent:d":	0,
+				"ShovePercent:d":	0,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"IdleLeashRadius:f":	0,
+				"IdleAnimDelay:f":	3,
+				"WanderDelay:f":	5,
+				"PatrolCount:d":	0,
+				"IdleGoalListName:s":	"Hamfast Idle",
+				"GoalListCount:d":	4
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Hamfast Idle",
+				"GoalListLooping0:d":	1,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	2,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0ActionName:s":	"Idle",
+				"List0Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList1",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName1:s":	"Hamfast Run",
+				"GoalListLooping1:d":	0,
+				"GoalListLoopStart1:d":	0,
+				"GoalListCollision1:d":	1,
+				"GoalListMustComplete1:d":	0,
+				"GoalListRestartFromBeginning1:d":	1,
+				"GoalListGoalCount1:d":	1
+			}]
+	}, {
+		"name":	"GoalList1GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList1Goal0:d":	1,
+				"List1Goal0MustSuceed:d":	0,
+				"List1Goal0Target:g":	"CA3DD2CF_5C23DC00",
+				"List1Goal0AnimType:d":	8,
+				"List1Goal0AnimName:s":	"",
+				"List1Goal0Lock:d":	0,
+				"List1Goal0LookAhead:d":	1,
+				"List1Goal0ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList2",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName2:s":	"Hamfast Hide",
+				"GoalListLooping2:d":	0,
+				"GoalListLoopStart2:d":	0,
+				"GoalListCollision2:d":	1,
+				"GoalListMustComplete2:d":	0,
+				"GoalListRestartFromBeginning2:d":	1,
+				"GoalListGoalCount2:d":	1
+			}]
+	}, {
+		"name":	"GoalList2GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList2Goal0:d":	2,
+				"List2Goal0MustSuceed:d":	0,
+				"List2Goal0ActionName:s":	"SeatedPlay",
+				"List2Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList3",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName3:s":	"Face Bilbo",
+				"GoalListLooping3:d":	0,
+				"GoalListLoopStart3:d":	0,
+				"GoalListCollision3:d":	1,
+				"GoalListMustComplete3:d":	0,
+				"GoalListRestartFromBeginning3:d":	1,
+				"GoalListGoalCount3:d":	1
+			}]
+	}, {
+		"name":	"GoalList3GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList3Goal0:d":	0,
+				"List3Goal0MustSuceed:d":	0,
+				"List3Goal0Target:g":	"ABCABCAB_CABCABC0",
+				"GoalListSetCount:d":	1
+			}]
+	}, {
+		"name":	"GoalListSet0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListSetName0:s":	"Hamfast Run",
+				"GoalListGoalCount0:d":	1,
+				"GoalListSet0GoalListName0:s":	"Hamfast Run",
+				"GoalListSet0GoalListWeight0:d":	100
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	1000,
+				"HearingRange:f":	1000,
+				"LoudHearingRange:f":	1000,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[744.295166015625, -1924.0078125, -5777.2666015625],
+				"Orientation:fff":	[0, 150.75, 0],
+				"LocalBoundingBox:ffffff":	[-20, 0, -20, 20, 65, 20],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Hobbit_Hamfast"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD58F_5BD28001",
+				"CreatureType:s":	"HobbitKid",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"hobbit_kid_female_bind_geom.npcgeom",
+				"Name:s":	"Hobbit_Hilda",
+				"Team:d":	0,
+				"Position:fff":	[766.042724609375, -1930.1588134765625, -5915.12890625],
+				"Rotation:fff":	[0, 58.5000228881836, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"NONE",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	25,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00080006_00050036",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	1,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	0,
+				"EvadePercent:d":	0,
+				"ShovePercent:d":	0,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"IdleLeashRadius:f":	0,
+				"IdleAnimDelay:f":	3,
+				"WanderDelay:f":	5,
+				"PatrolCount:d":	0,
+				"IdleGoalListName:s":	"Hilda Idle",
+				"GoalListCount:d":	3
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Hilda Idle",
+				"GoalListLooping0:d":	1,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	2,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0ActionName:s":	"Idle",
+				"List0Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList1",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName1:s":	"Hilda Run",
+				"GoalListLooping1:d":	0,
+				"GoalListLoopStart1:d":	0,
+				"GoalListCollision1:d":	1,
+				"GoalListMustComplete1:d":	1,
+				"GoalListRestartFromBeginning1:d":	1,
+				"GoalListGoalCount1:d":	1
+			}]
+	}, {
+		"name":	"GoalList1GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList1Goal0:d":	1,
+				"List1Goal0MustSuceed:d":	0,
+				"List1Goal0Target:g":	"63CA7F8F_62A12C01",
+				"List1Goal0AnimType:d":	8,
+				"List1Goal0AnimName:s":	"",
+				"List1Goal0Lock:d":	0,
+				"List1Goal0LookAhead:d":	1,
+				"List1Goal0ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList2",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName2:s":	"Hilda Hide",
+				"GoalListLooping2:d":	0,
+				"GoalListLoopStart2:d":	0,
+				"GoalListCollision2:d":	1,
+				"GoalListMustComplete2:d":	0,
+				"GoalListRestartFromBeginning2:d":	1,
+				"GoalListGoalCount2:d":	1
+			}]
+	}, {
+		"name":	"GoalList2GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList2Goal0:d":	2,
+				"List2Goal0MustSuceed:d":	0,
+				"List2Goal0ActionName:s":	"SeatedPlay",
+				"List2Goal0PlayTime:f":	0,
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	1000,
+				"HearingRange:f":	1000,
+				"LoudHearingRange:f":	1000,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[766.042724609375, -1930.1588134765625, -5915.12890625],
+				"Orientation:fff":	[0, 58.5000228881836, 0],
+				"LocalBoundingBox:ffffff":	[-20, 0, -20, 20, 65, 20],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Hobbit_Hilda"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD58F_5BD6DC00",
+				"CreatureType:s":	"HobbitKid",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"hobbit_kid_male4_bind_geom.npcgeom",
+				"Name:s":	"Hobbit_Sadoc",
+				"Team:d":	0,
+				"Position:fff":	[881.23675537109375, -1915.4429931640625, -5764.7392578125],
+				"Rotation:fff":	[0, -121.04998779296875, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"NONE",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	25,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00080006_00050037",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	1,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	0,
+				"EvadePercent:d":	0,
+				"ShovePercent:d":	0,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"IdleLeashRadius:f":	0,
+				"IdleAnimDelay:f":	3,
+				"WanderDelay:f":	5,
+				"PatrolCount:d":	0,
+				"IdleGoalListName:s":	"Sadoc Idle",
+				"GoalListCount:d":	3
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Sadoc Idle",
+				"GoalListLooping0:d":	0,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	2,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0ActionName:s":	"Idle",
+				"List0Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList1",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName1:s":	"Sadoc Run",
+				"GoalListLooping1:d":	0,
+				"GoalListLoopStart1:d":	0,
+				"GoalListCollision1:d":	1,
+				"GoalListMustComplete1:d":	1,
+				"GoalListRestartFromBeginning1:d":	1,
+				"GoalListGoalCount1:d":	1
+			}]
+	}, {
+		"name":	"GoalList1GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList1Goal0:d":	1,
+				"List1Goal0MustSuceed:d":	0,
+				"List1Goal0Target:g":	"CA3DD2CF_5C284400",
+				"List1Goal0AnimType:d":	8,
+				"List1Goal0AnimName:s":	"",
+				"List1Goal0Lock:d":	0,
+				"List1Goal0LookAhead:d":	1,
+				"List1Goal0ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList2",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName2:s":	"Sadoc Hide",
+				"GoalListLooping2:d":	0,
+				"GoalListLoopStart2:d":	0,
+				"GoalListCollision2:d":	1,
+				"GoalListMustComplete2:d":	0,
+				"GoalListRestartFromBeginning2:d":	1,
+				"GoalListGoalCount2:d":	1
+			}]
+	}, {
+		"name":	"GoalList2GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList2Goal0:d":	2,
+				"List2Goal0MustSuceed:d":	0,
+				"List2Goal0ActionName:s":	"SeatedPlay",
+				"List2Goal0PlayTime:f":	0,
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	1000,
+				"HearingRange:f":	1000,
+				"LoudHearingRange:f":	1000,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[881.23675537109375, -1915.4429931640625, -5764.7392578125],
+				"Orientation:fff":	[0, -121.04998779296875, 0],
+				"LocalBoundingBox:ffffff":	[-20, 0, -20, 20, 65, 20],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Hobbit_Sadoc"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD88F_6075F401",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[918.4073486328125, -1868.5509033203125, -5962.0703125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"BellStartVol",
+				"Name:s":	"BellStartVol",
+				"Pos:fff":	[918.4073486328125, -1868.5509033203125, -5962.0703125],
+				"BBox:ffffff":	[868.4073486328125, -1918.5509033203125, -6012.0703125, 968.4073486328125, -1818.5509033203125, -5912.0703125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD8CF_C5E6EC00",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[781.73944091796875, -1884.332275390625, -5856.12841796875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-568.85784912109375, -144.20004272460937, -796.4249267578125, 568.85784912109375, 144.20004272460937, 796.4249267578125],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Bilbo_Hide_Seek_Vol",
+				"Name:s":	"Bilbo_Hide_Seek_Vol",
+				"Pos:fff":	[781.73944091796875, -1884.332275390625, -5856.12841796875],
+				"BBox:ffffff":	[212.881591796875, -2028.5323486328125, -6652.55322265625, 1350.5972900390625, -1740.1322021484375, -5059.70361328125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[568.85784912109375, 144.20004272460937, 796.4249267578125],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD88F_5C3F6000",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[762.51776123046875, -1874.073974609375, -5769.1240234375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"HamfastStartVol",
+				"Name:s":	"HamfastStartVol",
+				"Pos:fff":	[762.51776123046875, -1874.073974609375, -5769.1240234375],
+				"BBox:ffffff":	[712.51776123046875, -1924.073974609375, -5819.1240234375, 812.51776123046875, -1824.073974609375, -5719.1240234375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD88F_60747400",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[756.876708984375, -1868.5509033203125, -5913.73486328125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"HildaStartVol",
+				"Name:s":	"HildaStartVol",
+				"Pos:fff":	[756.876708984375, -1868.5509033203125, -5913.73486328125],
+				"BBox:ffffff":	[706.876708984375, -1918.5509033203125, -5963.73486328125, 806.876708984375, -1818.5509033203125, -5863.73486328125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD88F_60765001",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[970.99102783203125, -1868.5509033203125, -5815.11669921875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"SadocStartVol",
+				"Name:s":	"SadocStartVol",
+				"Pos:fff":	[970.99102783203125, -1868.5509033203125, -5815.11669921875],
+				"BBox:ffffff":	[920.99102783203125, -1918.5509033203125, -5865.11669921875, 1020.9910278320312, -1818.5509033203125, -5765.11669921875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}]

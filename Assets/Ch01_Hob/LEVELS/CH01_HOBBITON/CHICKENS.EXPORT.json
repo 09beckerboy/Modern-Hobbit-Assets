@@ -1,0 +1,683 @@
+[{
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD2D1_CA4BBC01",
+				"CreatureType:s":	"Chicken",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"chicken_bind.npcgeom",
+				"Name:s":	"Chicken017",
+				"Team:d":	0,
+				"Position:fff":	[-156.68135070800781, -1975.307373046875, -6341.23779296875],
+				"Rotation:fff":	[0, 0, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"NONE",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	0,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	0,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	0,
+				"EvadePercent:d":	0,
+				"ShovePercent:d":	0,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"RunAwayRange:f":	200,
+				"PatrolCount:d":	3,
+				"WayPointVolume0:g":	"CA3DD251_CA5F3C00",
+				"GoalListSet0:s":	"PeckProcedure",
+				"NextWayPointName0:s":	"RANDOM",
+				"NextWayPointID0:d":	-1,
+				"NextWayPointCount0:d":	2,
+				"NextWayPoint0-0:d":	1,
+				"NextWayPoint0-1:d":	2,
+				"WayPointVolume1:g":	"CA3DD251_CA609801",
+				"GoalListSet1:s":	"PeckProcedure",
+				"NextWayPointName1:s":	"RANDOM",
+				"NextWayPointID1:d":	-1,
+				"NextWayPointCount1:d":	2,
+				"NextWayPoint1-0:d":	2,
+				"NextWayPoint1-1:d":	0,
+				"WayPointVolume2:g":	"CA3DD251_CA60BC02",
+				"GoalListSet2:s":	"PeckProcedure",
+				"NextWayPointName2:s":	"RANDOM",
+				"NextWayPointID2:d":	-1,
+				"NextWayPointCount2:d":	2,
+				"NextWayPoint2-0:d":	0,
+				"NextWayPoint2-1:d":	1,
+				"ChickenIdleGoalListName:s":	"",
+				"GoalListCount:d":	2
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"PeckActionShort",
+				"GoalListLooping0:d":	0,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	2,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0ActionName:s":	"PeckShort",
+				"List0Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList1",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName1:s":	"PeckActionLong",
+				"GoalListLooping1:d":	0,
+				"GoalListLoopStart1:d":	0,
+				"GoalListCollision1:d":	1,
+				"GoalListMustComplete1:d":	0,
+				"GoalListRestartFromBeginning1:d":	1,
+				"GoalListGoalCount1:d":	1
+			}]
+	}, {
+		"name":	"GoalList1GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList1Goal0:d":	2,
+				"List1Goal0MustSuceed:d":	0,
+				"List1Goal0ActionName:s":	"PeckShort",
+				"List1Goal0PlayTime:f":	0,
+				"GoalListSetCount:d":	1
+			}]
+	}, {
+		"name":	"GoalListSet0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListSetName0:s":	"PeckProcedure",
+				"GoalListGoalCount0:d":	2,
+				"GoalListSet0GoalListName0:s":	"PeckActionShort",
+				"GoalListSet0GoalListWeight0:d":	50,
+				"GoalListSet0GoalListName1:s":	"PeckActionLong",
+				"GoalListSet0GoalListWeight1:d":	50
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	1000,
+				"HearingRange:f":	1000,
+				"LoudHearingRange:f":	1000,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	1920,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-156.68135070800781, -1975.307373046875, -6341.23779296875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-25, 0, -25, 25, 50, 25],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Chicken017"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD5D1_CA7A2001",
+				"CreatureType:s":	"Chicken",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"chicken_bind.npcgeom",
+				"Name:s":	"Chicken023",
+				"Team:d":	0,
+				"Position:fff":	[-139.56982421875, -1975.307373046875, -6244.9091796875],
+				"Rotation:fff":	[0, 0, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"NONE",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	0,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	0,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	0,
+				"EvadePercent:d":	0,
+				"ShovePercent:d":	0,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"RunAwayRange:f":	200,
+				"PatrolCount:d":	3,
+				"WayPointVolume0:g":	"CA3DD251_CA5F3C00",
+				"GoalListSet0:s":	"PeckProcedure",
+				"NextWayPointName0:s":	"RANDOM",
+				"NextWayPointID0:d":	-1,
+				"NextWayPointCount0:d":	2,
+				"NextWayPoint0-0:d":	1,
+				"NextWayPoint0-1:d":	2,
+				"WayPointVolume1:g":	"CA3DD251_CA609801",
+				"GoalListSet1:s":	"PeckProcedure",
+				"NextWayPointName1:s":	"RANDOM",
+				"NextWayPointID1:d":	-1,
+				"NextWayPointCount1:d":	2,
+				"NextWayPoint1-0:d":	2,
+				"NextWayPoint1-1:d":	0,
+				"WayPointVolume2:g":	"CA3DD251_CA60BC02",
+				"GoalListSet2:s":	"PeckProcedure",
+				"NextWayPointName2:s":	"RANDOM",
+				"NextWayPointID2:d":	-1,
+				"NextWayPointCount2:d":	2,
+				"NextWayPoint2-0:d":	0,
+				"NextWayPoint2-1:d":	1,
+				"ChickenIdleGoalListName:s":	"",
+				"GoalListCount:d":	2
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"PeckActionShort",
+				"GoalListLooping0:d":	0,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	2,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0ActionName:s":	"PeckShort",
+				"List0Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList1",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName1:s":	"PeckActionLong",
+				"GoalListLooping1:d":	0,
+				"GoalListLoopStart1:d":	0,
+				"GoalListCollision1:d":	1,
+				"GoalListMustComplete1:d":	0,
+				"GoalListRestartFromBeginning1:d":	1,
+				"GoalListGoalCount1:d":	1
+			}]
+	}, {
+		"name":	"GoalList1GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList1Goal0:d":	2,
+				"List1Goal0MustSuceed:d":	0,
+				"List1Goal0ActionName:s":	"PeckShort",
+				"List1Goal0PlayTime:f":	0,
+				"GoalListSetCount:d":	1
+			}]
+	}, {
+		"name":	"GoalListSet0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListSetName0:s":	"PeckProcedure",
+				"GoalListGoalCount0:d":	2,
+				"GoalListSet0GoalListName0:s":	"PeckActionShort",
+				"GoalListSet0GoalListWeight0:d":	50,
+				"GoalListSet0GoalListName1:s":	"PeckActionLong",
+				"GoalListSet0GoalListWeight1:d":	50
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	1000,
+				"HearingRange:f":	1000,
+				"LoudHearingRange:f":	1000,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	1920,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-139.56982421875, -1975.307373046875, -6244.9091796875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-25, 0, -25, 25, 50, 25],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Chicken023"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDF91_E9A72C00",
+				"CreatureType:s":	"Chicken",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"chicken_bind.npcgeom",
+				"Name:s":	"Cin_Chicken-001",
+				"Team:d":	0,
+				"Position:fff":	[-148.45021057128906, -2623.501220703125, -487.96044921875],
+				"Rotation:fff":	[0, 0, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"NONE",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	0,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	0,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"RunAwayRange:f":	200,
+				"PatrolCount:d":	0,
+				"ChickenIdleGoalListName:s":	"",
+				"GoalListCount:d":	0,
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	2000,
+				"HearingRange:f":	3000,
+				"LoudHearingRange:f":	5000,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-148.45021057128906, -2623.501220703125, -487.96044921875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-25, 0, -25, 25, 50, 25],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Cin_Chicken-001"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDF91_E9A7E801",
+				"CreatureType:s":	"Chicken",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"chicken_bind.npcgeom",
+				"Name:s":	"Cin_Chicken-002",
+				"Team:d":	0,
+				"Position:fff":	[-38.592010498046875, -2623.501220703125, -500.032958984375],
+				"Rotation:fff":	[0, 0, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"NONE",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	0,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	0,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"RunAwayRange:f":	200,
+				"PatrolCount:d":	0,
+				"ChickenIdleGoalListName:s":	"",
+				"GoalListCount:d":	0,
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	2000,
+				"HearingRange:f":	3000,
+				"LoudHearingRange:f":	5000,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-38.592010498046875, -2623.501220703125, -500.032958984375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-25, 0, -25, 25, 50, 25],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Cin_Chicken-002"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD251_CA5F3C00",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[26.795356750488281, -1971.513671875, -6187.70068359375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"BagChickenNav001",
+				"Name:s":	"BagChickenNav001",
+				"Pos:fff":	[26.795356750488281, -1971.513671875, -6187.70068359375],
+				"BBox:ffffff":	[-23.204643249511719, -2021.513671875, -6237.70068359375, 76.7953567504883, -1921.513671875, -6137.70068359375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD251_CA609801",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-400.44241333007812, -1971.513671875, -6281.21435546875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"BagChickenNav002",
+				"Name:s":	"BagChickenNav002",
+				"Pos:fff":	[-400.44241333007812, -1971.513671875, -6281.21435546875],
+				"BBox:ffffff":	[-450.44241333007812, -2021.513671875, -6331.21435546875, -350.44241333007812, -1921.513671875, -6231.21435546875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD251_CA60BC02",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-32.836360931396484, -1971.513671875, -6472.81689453125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"BagChickenNav003",
+				"Name:s":	"BagChickenNav003",
+				"Pos:fff":	[-32.836360931396484, -1971.513671875, -6472.81689453125],
+				"BBox:ffffff":	[-82.83636474609375, -2021.513671875, -6522.81689453125, 17.163639068603516, -1921.513671875, -6422.81689453125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD5D1_CA74C807",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-4455.138671875, -727.85009765625, -438.20858764648437],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"BagChickenNav004",
+				"Name:s":	"BagChickenNav004",
+				"Pos:fff":	[-4455.138671875, -727.85009765625, -438.20858764648437],
+				"BBox:ffffff":	[-4505.138671875, -777.85009765625, -488.20858764648437, -4405.138671875, -677.85009765625, -388.20858764648437],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD5D1_CA74C809",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-4395.5068359375, -727.85009765625, -153.0919189453125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"BagChickenNav005",
+				"Name:s":	"BagChickenNav005",
+				"Pos:fff":	[-4395.5068359375, -727.85009765625, -153.0919189453125],
+				"BBox:ffffff":	[-4445.5068359375, -777.85009765625, -203.0919189453125, -4345.5068359375, -677.85009765625, -103.0919189453125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD5D1_CA74C80B",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-4822.7451171875, -727.85009765625, -246.6060791015625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"BagChickenNav006",
+				"Name:s":	"BagChickenNav006",
+				"Pos:fff":	[-4822.7451171875, -727.85009765625, -246.6060791015625],
+				"BBox:ffffff":	[-4872.7451171875, -777.85009765625, -296.6060791015625, -4772.7451171875, -677.85009765625, -196.6060791015625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD5D1_CA75BC07",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[572.1732177734375, -239.55436706542969, 556.6732177734375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"BagChickenNav007",
+				"Name:s":	"BagChickenNav007",
+				"Pos:fff":	[572.1732177734375, -239.55436706542969, 556.6732177734375],
+				"BBox:ffffff":	[522.1732177734375, -289.55438232421875, 506.6732177734375, 622.1732177734375, -189.55436706542969, 606.6732177734375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD5D1_CA75BC09",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[631.80499267578125, -239.55436706542969, 841.7891845703125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"BagChickenNav008",
+				"Name:s":	"BagChickenNav008",
+				"Pos:fff":	[631.80499267578125, -239.55436706542969, 841.7891845703125],
+				"BBox:ffffff":	[581.80499267578125, -289.55438232421875, 791.7891845703125, 681.80499267578125, -189.55436706542969, 891.7891845703125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD5D1_CA75BC0B",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[204.56712341308594, -239.55436706542969, 748.2755126953125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"BagChickenNav009",
+				"Name:s":	"BagChickenNav009",
+				"Pos:fff":	[204.56712341308594, -239.55436706542969, 748.2755126953125],
+				"BBox:ffffff":	[154.56712341308594, -289.55438232421875, 698.2755126953125, 254.56712341308594, -189.55436706542969, 798.2755126953125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}]

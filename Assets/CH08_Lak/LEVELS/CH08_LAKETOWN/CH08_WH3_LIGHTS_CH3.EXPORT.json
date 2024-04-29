@@ -1,0 +1,121 @@
+[{
+		"name":	"Light",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"B5D7A04F_D01D7E12",
+				"Name:s":	"StingDynamicLight",
+				"Kind:d":	1,
+				"Color:dddd":	[0, 85, 128, 255],
+				"Intensity:f":	1,
+				"Pos:fff":	[-8, -1953, 1481],
+				"FlickerAmp:f":	15,
+				"FlickerJitter:f":	5,
+				"FlickerSpeed:f":	10,
+				"AttenStart:f":	0,
+				"AttenEnd:f":	800,
+				"Dynamic:d":	1,
+				"Flicker:d":	0,
+				"TargetAttr:d":	0,
+				"LightChannel:d":	1
+			}]
+	}, {
+		"name":	"Light",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"B5D7A04F_D01D7E11",
+				"Name:s":	"StingStaticLight",
+				"Kind:d":	1,
+				"Color:dddd":	[0, 85, 128, 255],
+				"Intensity:f":	1,
+				"Pos:fff":	[-8, -1953, 1481],
+				"FlickerAmp:f":	15,
+				"FlickerJitter:f":	5,
+				"FlickerSpeed:f":	10,
+				"AttenStart:f":	0,
+				"AttenEnd:f":	1000,
+				"Dynamic:d":	1,
+				"Flicker:d":	0,
+				"TargetAttr:d":	0,
+				"LightChannel:d":	1
+			}]
+	}, {
+		"name":	"Light",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"B5D7A90F_C41AB001",
+				"Name:s":	"WH3_Point111",
+				"Kind:d":	1,
+				"Color:dddd":	[182, 223, 255, 255],
+				"Intensity:f":	2,
+				"Pos:fff":	[3759.521728515625, -3767.480224609375, 177.68215942382812],
+				"FlickerAmp:f":	15,
+				"FlickerJitter:f":	5,
+				"FlickerSpeed:f":	10,
+				"AttenStart:f":	0,
+				"AttenEnd:f":	250,
+				"Dynamic:d":	0,
+				"Flicker:d":	0,
+				"TargetAttr:d":	7248,
+				"LightChannel:d":	8
+			}]
+	}, {
+		"name":	"Light",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"B5D7A90F_C41B5801",
+				"Name:s":	"WH3_Point112",
+				"Kind:d":	1,
+				"Color:dddd":	[182, 223, 255, 255],
+				"Intensity:f":	2,
+				"Pos:fff":	[3477.603515625, -3760.415283203125, 339.46490478515625],
+				"FlickerAmp:f":	15,
+				"FlickerJitter:f":	5,
+				"FlickerSpeed:f":	10,
+				"AttenStart:f":	0,
+				"AttenEnd:f":	200,
+				"Dynamic:d":	0,
+				"Flicker:d":	0,
+				"TargetAttr:d":	7248,
+				"LightChannel:d":	8
+			}]
+	}, {
+		"name":	"Light",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"B5D7A90F_C41B9401",
+				"Name:s":	"WH3_Point113",
+				"Kind:d":	1,
+				"Color:dddd":	[182, 223, 255, 255],
+				"Intensity:f":	2,
+				"Pos:fff":	[3564.515625, -3751.56982421875, 679.23736572265625],
+				"FlickerAmp:f":	15,
+				"FlickerJitter:f":	5,
+				"FlickerSpeed:f":	10,
+				"AttenStart:f":	0,
+				"AttenEnd:f":	250,
+				"Dynamic:d":	0,
+				"Flicker:d":	0,
+				"TargetAttr:d":	7248,
+				"LightChannel:d":	8
+			}]
+	}, {
+		"name":	"Light",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"B5D7A90F_C42CDC04",
+				"Name:s":	"WH3_Point121",
+				"Kind:d":	1,
+				"Color:dddd":	[182, 223, 255, 255],
+				"Intensity:f":	2,
+				"Pos:fff":	[3657.832275390625, -3760.18505859375, 976.79315185546875],
+				"FlickerAmp:f":	15,
+				"FlickerJitter:f":	5,
+				"FlickerSpeed:f":	10,
+				"AttenStart:f":	0,
+				"AttenEnd:f":	200,
+				"Dynamic:d":	0,
+				"Flicker:d":	0,
+				"TargetAttr:d":	7248,
+				"LightChannel:d":	8
+			}]
+	}]

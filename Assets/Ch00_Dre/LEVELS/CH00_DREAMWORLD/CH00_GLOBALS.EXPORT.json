@@ -1,0 +1,1548 @@
+[{
+		"name":	"Globals",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADAD0_5E76E406",
+				"BilboStartYaw:f":	-0.32201299071311951,
+				"BilboStartPos:fff":	[1542.5819091796875, -398.81463623046875, -1298.8253173828125],
+				"FogColor:dddd":	[90, 90, 170, 255],
+				"FogStart:f":	2000,
+				"FogEnd:f":	130000,
+				"FogEnabled:d":	1,
+				"LevelName:s":	"Ch00_DreamWorld",
+				"Number of Quests:d":	4,
+				"OpeningCinema:g":	"0D8AD3D1_55B5B000",
+				"Ambient0:dddd":	[20, 20, 32, 255],
+				"Ambient1:dddd":	[0, 0, 0, 255],
+				"Ambient2:dddd":	[0, 0, 0, 255],
+				"Ambient3:dddd":	[0, 0, 0, 255],
+				"Ambient4:dddd":	[0, 0, 0, 255],
+				"Ambient5:dddd":	[0, 0, 0, 255],
+				"Ambient6:dddd":	[0, 0, 0, 255],
+				"Ambient7:dddd":	[0, 0, 0, 255]
+			}]
+	}, {
+		"name":	"AIManager",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerCount:d":	34,
+				"ActionCount:d":	70,
+				"LinkCount:d":	13
+			}]
+	}, {
+		"name":	"Trigger0",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType0:d":	3,
+				"TriggerName0:s":	"Bilbo Enters EOL Vol",
+				"Volume0:g":	"0D8AD390_5E7B9800",
+				"Character0:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce0:d":	0,
+				"AllNPCs0:d":	0,
+				"StaysTrue0:d":	0,
+				"TriggeredOnTrue0:d":	1
+			}]
+	}, {
+		"name":	"Trigger1",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType1:d":	3,
+				"TriggerName1:s":	"Bilbo Enters Mug1",
+				"Volume1:g":	"0D8AD9D0_E2DBF800",
+				"Character1:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce1:d":	0,
+				"AllNPCs1:d":	0,
+				"StaysTrue1:d":	0,
+				"TriggeredOnTrue1:d":	1
+			}]
+	}, {
+		"name":	"Trigger2",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType2:d":	19,
+				"TriggerName2:s":	"Bolg Cin Ends",
+				"Cinema2:g":	"0D8AD211_5AB5F000",
+				"TriggerOnce2:d":	0,
+				"StaysTrue2:d":	0,
+				"TriggeredOnTrue2:d":	1
+			}]
+	}, {
+		"name":	"Trigger3",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType3:d":	19,
+				"TriggerName3:s":	"Bag End Cin Ends",
+				"Cinema3:g":	"0D8AD3D1_55B6B000",
+				"TriggerOnce3:d":	0,
+				"StaysTrue3:d":	0,
+				"TriggeredOnTrue3:d":	1
+			}]
+	}, {
+		"name":	"Trigger4",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType4:d":	11,
+				"TriggerName4:s":	"BolgGuard 001 Dies",
+				"NPCCount4:d":	1,
+				"Trigger4NPC0:g":	"0D8AD590_E29A5C00",
+				"StaysTrue4:d":	0,
+				"TriggeredOnTrue4:d":	1
+			}]
+	}, {
+		"name":	"Trigger5",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType5:d":	11,
+				"TriggerName5:s":	"BolgGuard 003 Dies",
+				"NPCCount5:d":	1,
+				"Trigger5NPC0:g":	"0D8AD910_E7B49003",
+				"StaysTrue5:d":	0,
+				"TriggeredOnTrue5:d":	1
+			}]
+	}, {
+		"name":	"Trigger6",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType6:d":	11,
+				"TriggerName6:s":	"BolgGuard 004 Dies",
+				"NPCCount6:d":	1,
+				"Trigger6NPC0:g":	"0D8AD910_E7B4A403",
+				"StaysTrue6:d":	0,
+				"TriggeredOnTrue6:d":	1
+			}]
+	}, {
+		"name":	"Trigger7",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType7:d":	11,
+				"TriggerName7:s":	"Guard 001 Dies",
+				"NPCCount7:d":	1,
+				"Trigger7NPC0:g":	"0D8AD590_E29A0400",
+				"StaysTrue7:d":	0,
+				"TriggeredOnTrue7:d":	1
+			}]
+	}, {
+		"name":	"Trigger8",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType8:d":	11,
+				"TriggerName8:s":	"Guard 003 Dies",
+				"NPCCount8:d":	1,
+				"Trigger8NPC0:g":	"0D8AD910_E7B49007",
+				"StaysTrue8:d":	0,
+				"TriggeredOnTrue8:d":	1
+			}]
+	}, {
+		"name":	"Trigger9",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType9:d":	11,
+				"TriggerName9:s":	"Guard 004 Dies",
+				"NPCCount9:d":	1,
+				"Trigger9NPC0:g":	"0D8AD910_E7B4A407",
+				"StaysTrue9:d":	0,
+				"TriggeredOnTrue9:d":	1
+			}]
+	}, {
+		"name":	"Trigger10",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType10:d":	11,
+				"TriggerName10:s":	"Shaman 001 Dies",
+				"NPCCount10:d":	1,
+				"Trigger10NPC0:g":	"0D8AD590_E29AD400",
+				"StaysTrue10:d":	0,
+				"TriggeredOnTrue10:d":	1
+			}]
+	}, {
+		"name":	"Trigger11",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType11:d":	11,
+				"TriggerName11:s":	"Shaman 002 Dies",
+				"NPCCount11:d":	1,
+				"Trigger11NPC0:g":	"0D8AD910_E7B4C001",
+				"StaysTrue11:d":	0,
+				"TriggeredOnTrue11:d":	1
+			}]
+	}, {
+		"name":	"Trigger12",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType12:d":	11,
+				"TriggerName12:s":	"Slave 001 Dies",
+				"NPCCount12:d":	1,
+				"Trigger12NPC0:g":	"0D8AD590_E298B000",
+				"StaysTrue12:d":	0,
+				"TriggeredOnTrue12:d":	1
+			}]
+	}, {
+		"name":	"Trigger13",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType13:d":	11,
+				"TriggerName13:s":	"Slave 003 Dies",
+				"NPCCount13:d":	1,
+				"Trigger13NPC0:g":	"0D8AD910_E7B4900B",
+				"StaysTrue13:d":	0,
+				"TriggeredOnTrue13:d":	1
+			}]
+	}, {
+		"name":	"Trigger14",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType14:d":	11,
+				"TriggerName14:s":	"Slave 004 Dies",
+				"NPCCount14:d":	1,
+				"Trigger14NPC0:g":	"0D8AD910_E7B4A40B",
+				"StaysTrue14:d":	0,
+				"TriggeredOnTrue14:d":	1
+			}]
+	}, {
+		"name":	"Trigger15",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType15:d":	3,
+				"TriggerName15:s":	"Bilbo Enters Bal1",
+				"Volume15:g":	"0D8AD910_E7C36000",
+				"Character15:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce15:d":	0,
+				"AllNPCs15:d":	0,
+				"StaysTrue15:d":	0,
+				"TriggeredOnTrue15:d":	1
+			}]
+	}, {
+		"name":	"Trigger16",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType16:d":	19,
+				"TriggerName16:s":	"Intro Cin Ends",
+				"Cinema16:g":	"0D8AD3D1_55B5B000",
+				"TriggerOnce16:d":	0,
+				"StaysTrue16:d":	0,
+				"TriggeredOnTrue16:d":	1
+			}]
+	}, {
+		"name":	"Trigger17",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType17:d":	3,
+				"TriggerName17:s":	"BILBOFOE Enters 'Turn On' Vol",
+				"Volume17:g":	"0D8ADD11_16E86C01",
+				"Character17:g":	"0D8ADD11_16E57001",
+				"TriggersOnce17:d":	0,
+				"AllNPCs17:d":	0,
+				"StaysTrue17:d":	0,
+				"TriggeredOnTrue17:d":	1
+			}]
+	}, {
+		"name":	"Trigger18",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType18:d":	19,
+				"TriggerName18:s":	"Bal Intro Cin Ends",
+				"Cinema18:g":	"0D8AD910_E7C1B400",
+				"TriggerOnce18:d":	0,
+				"StaysTrue18:d":	0,
+				"TriggeredOnTrue18:d":	1
+			}]
+	}, {
+		"name":	"Trigger19",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType19:d":	22,
+				"TriggerName19:s":	"BalCin Trig 001",
+				"StaysTrue19:d":	0,
+				"TriggeredOnTrue19:d":	1
+			}]
+	}, {
+		"name":	"Trigger20",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType20:d":	21,
+				"TriggerName20:s":	"Intro Cin Begins",
+				"Cinema20:g":	"0D8AD3D1_55B5B000",
+				"StaysTrue20:d":	0,
+				"TriggeredOnTrue20:d":	1
+			}]
+	}, {
+		"name":	"Trigger21",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType21:d":	19,
+				"TriggerName21:s":	"Bolg Cin Pt2 Ends",
+				"Cinema21:g":	"0D8ADAD1_AFBF5000",
+				"TriggerOnce21:d":	0,
+				"StaysTrue21:d":	0,
+				"TriggeredOnTrue21:d":	1
+			}]
+	}, {
+		"name":	"Trigger22",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType22:d":	19,
+				"TriggerName22:s":	"Ladder Cin Ends",
+				"Cinema22:g":	"0D8AD910_E7C05800",
+				"TriggerOnce22:d":	0,
+				"StaysTrue22:d":	0,
+				"TriggeredOnTrue22:d":	1
+			}]
+	}, {
+		"name":	"Trigger23",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType23:d":	6,
+				"TriggerName23:s":	"Hit by Rock: Bolg Guard 001",
+				"NPC23:g":	"0D8AD590_E29A5C00",
+				"AttackType23:d":	0,
+				"StaysTrue23:d":	0,
+				"TriggeredOnTrue23:d":	1
+			}]
+	}, {
+		"name":	"Trigger24",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType24:d":	6,
+				"TriggerName24:s":	"Hit by Rock: Bolg Guard 003",
+				"NPC24:g":	"0D8AD910_E7B49003",
+				"AttackType24:d":	0,
+				"StaysTrue24:d":	0,
+				"TriggeredOnTrue24:d":	1
+			}]
+	}, {
+		"name":	"Trigger25",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType25:d":	6,
+				"TriggerName25:s":	"Hit by Rock: Bolg Guard 004",
+				"NPC25:g":	"0D8AD910_E7B4A403",
+				"AttackType25:d":	0,
+				"StaysTrue25:d":	0,
+				"TriggeredOnTrue25:d":	1
+			}]
+	}, {
+		"name":	"Trigger26",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType26:d":	6,
+				"TriggerName26:s":	"Hit by Rock: Guard 001",
+				"NPC26:g":	"0D8AD590_E29A0400",
+				"AttackType26:d":	0,
+				"StaysTrue26:d":	0,
+				"TriggeredOnTrue26:d":	1
+			}]
+	}, {
+		"name":	"Trigger27",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType27:d":	6,
+				"TriggerName27:s":	"Hit by Rock: Guard 003",
+				"NPC27:g":	"0D8AD910_E7B49007",
+				"AttackType27:d":	0,
+				"StaysTrue27:d":	0,
+				"TriggeredOnTrue27:d":	1
+			}]
+	}, {
+		"name":	"Trigger28",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType28:d":	6,
+				"TriggerName28:s":	"Hit by Rock: Guard 004",
+				"NPC28:g":	"0D8AD910_E7B4A407",
+				"AttackType28:d":	0,
+				"StaysTrue28:d":	0,
+				"TriggeredOnTrue28:d":	1
+			}]
+	}, {
+		"name":	"Trigger29",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType29:d":	6,
+				"TriggerName29:s":	"Hit by Rock: Shaman 001",
+				"NPC29:g":	"0D8AD590_E29AD400",
+				"AttackType29:d":	0,
+				"StaysTrue29:d":	0,
+				"TriggeredOnTrue29:d":	1
+			}]
+	}, {
+		"name":	"Trigger30",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType30:d":	6,
+				"TriggerName30:s":	"Hit by Rock: Shaman 002",
+				"NPC30:g":	"0D8AD910_E7B4C001",
+				"AttackType30:d":	0,
+				"StaysTrue30:d":	0,
+				"TriggeredOnTrue30:d":	1
+			}]
+	}, {
+		"name":	"Trigger31",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType31:d":	6,
+				"TriggerName31:s":	"Hit by Rock: Slave 001",
+				"NPC31:g":	"0D8AD590_E298B000",
+				"AttackType31:d":	0,
+				"StaysTrue31:d":	0,
+				"TriggeredOnTrue31:d":	1
+			}]
+	}, {
+		"name":	"Trigger32",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType32:d":	6,
+				"TriggerName32:s":	"Hit by Rock: Slave 003",
+				"NPC32:g":	"0D8AD910_E7B4900B",
+				"AttackType32:d":	0,
+				"StaysTrue32:d":	0,
+				"TriggeredOnTrue32:d":	1
+			}]
+	}, {
+		"name":	"Trigger33",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType33:d":	6,
+				"TriggerName33:s":	"Hit by Rock: Slave 004",
+				"NPC33:g":	"0D8AD910_E7B4A40B",
+				"AttackType33:d":	0,
+				"StaysTrue33:d":	0,
+				"TriggeredOnTrue33:d":	1
+			}]
+	}, {
+		"name":	"Action0",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType0:d":	19,
+				"ActionName0:s":	"END LEVEL",
+				"Action0ExecuteDelay:f":	0,
+				"Action0ExecuteImmediately:d":	0
+			}]
+	}, {
+		"name":	"Action1",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType1:d":	20,
+				"ActionName1:s":	"Start Bolg Cin",
+				"Action1ExecuteDelay:f":	0,
+				"Action1ExecuteImmediately:d":	0,
+				"Action1cinemaCount:d":	1,
+				"Action1cinemaSelect:d":	0,
+				"Action1cinema0Guid:g":	"0D8AD211_5AB5F000"
+			}]
+	}, {
+		"name":	"Action2",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType2:d":	20,
+				"ActionName2:s":	"Start BagEnd Cin",
+				"Action2ExecuteDelay:f":	0,
+				"Action2ExecuteImmediately:d":	0,
+				"Action2cinemaCount:d":	1,
+				"Action2cinemaSelect:d":	0,
+				"Action2cinema0Guid:g":	"0D8AD3D1_55B6B000"
+			}]
+	}, {
+		"name":	"Action3",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType3:d":	10,
+				"ActionName3:s":	"Load BagEnd",
+				"Action3ExecuteDelay:f":	0,
+				"Action3ExecuteImmediately:d":	0,
+				"Action3LoadLayerGuid:g":	"0D8AD9D0_E2EC0C00"
+			}]
+	}, {
+		"name":	"Action4",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType4:d":	33,
+				"ActionName4:s":	"Drop Ladder",
+				"Action4ExecuteDelay:f":	0,
+				"Action4ExecuteImmediately:d":	0,
+				"Action4InstanceCount:d":	1,
+				"Action4RigidInstance0:g":	"0D8ADC10_E28B9400",
+				"Action4AnimIndex:d":	0,
+				"Action4Loops:d":	0
+			}]
+	}, {
+		"name":	"Action5",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType5:d":	20,
+				"ActionName5:s":	"Start Ladder Cin",
+				"Action5ExecuteDelay:f":	0,
+				"Action5ExecuteImmediately:d":	0,
+				"Action5cinemaCount:d":	1,
+				"Action5cinemaSelect:d":	0,
+				"Action5cinema0Guid:g":	"0D8AD910_E7C05800"
+			}]
+	}, {
+		"name":	"Action6",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType6:d":	20,
+				"ActionName6:s":	"Start Bal1 Cin",
+				"Action6ExecuteDelay:f":	0,
+				"Action6ExecuteImmediately:d":	0,
+				"Action6cinemaCount:d":	1,
+				"Action6cinemaSelect:d":	0,
+				"Action6cinema0Guid:g":	"0D8AD910_E7C1B400"
+			}]
+	}, {
+		"name":	"Action7",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType7:d":	4,
+				"ActionName7:s":	"Set BILBOFOE to Run",
+				"Action7ExecuteDelay:f":	0,
+				"Action7ExecuteImmediately:d":	0,
+				"Action7CharacterGuid:g":	"0D8ADD11_16E57001",
+				"Action7AIStateName:s":	"PatrolIdleState",
+				"Action7GoalListName:s":	"Run to Bilbo",
+				"Action7OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action8",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType8:d":	2,
+				"ActionName8:s":	"Set BILBOFOE to Team 2",
+				"Action8ExecuteDelay:f":	0,
+				"Action8ExecuteImmediately:d":	0,
+				"Action8CharacterGuid:g":	"0D8ADD11_16E57001",
+				"Action8Team:d":	2
+			}]
+	}, {
+		"name":	"Action9",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType9:d":	41,
+				"ActionName9:s":	"Unroot Goblin Guard 001",
+				"Action9ExecuteDelay:f":	0,
+				"Action9ExecuteImmediately:d":	0,
+				"Action9DoRootToPosition:d":	0,
+				"Action9ResetRootPosition:d":	1,
+				"Action9NPC:g":	"0D8AD590_E29A0400"
+			}]
+	}, {
+		"name":	"Action10",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType10:d":	33,
+				"ActionName10:s":	"Start Spike Animation 002, 010",
+				"Action10ExecuteDelay:f":	0,
+				"Action10ExecuteImmediately:d":	0,
+				"Action10InstanceCount:d":	2,
+				"Action10RigidInstance0:g":	"0D8ADD11_16F4C401",
+				"Action10RigidInstance1:g":	"0D8AD991_AFDA2C01",
+				"Action10AnimIndex:d":	0,
+				"Action10Loops:d":	0
+			}]
+	}, {
+		"name":	"Action11",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType11:d":	4,
+				"ActionName11:s":	"BolgGuard 004 - Run",
+				"Action11ExecuteDelay:f":	0.5,
+				"Action11ExecuteImmediately:d":	0,
+				"Action11CharacterGuid:g":	"0D8AD910_E7B4A403",
+				"Action11AIStateName:s":	"PatrolIdleState",
+				"Action11GoalListName:s":	"Run To Battle",
+				"Action11OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action12",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType12:d":	4,
+				"ActionName12:s":	"BolgGuard 003 - Run",
+				"Action12ExecuteDelay:f":	0.5,
+				"Action12ExecuteImmediately:d":	0,
+				"Action12CharacterGuid:g":	"0D8AD910_E7B49003",
+				"Action12AIStateName:s":	"PatrolIdleState",
+				"Action12GoalListName:s":	"Run To Battle",
+				"Action12OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action13",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType13:d":	4,
+				"ActionName13:s":	"BolgGuard 001 - Run",
+				"Action13ExecuteDelay:f":	0.800000011920929,
+				"Action13ExecuteImmediately:d":	0,
+				"Action13CharacterGuid:g":	"0D8AD590_E29A5C00",
+				"Action13AIStateName:s":	"PatrolIdleState",
+				"Action13GoalListName:s":	"Run To Battle",
+				"Action13OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action14",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType14:d":	4,
+				"ActionName14:s":	"Guard 003 - Run",
+				"Action14ExecuteDelay:f":	0.600000023841858,
+				"Action14ExecuteImmediately:d":	0,
+				"Action14CharacterGuid:g":	"0D8AD910_E7B49007",
+				"Action14AIStateName:s":	"WarIdle",
+				"Action14GoalListName:s":	"Run To Battle",
+				"Action14OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action15",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType15:d":	4,
+				"ActionName15:s":	"Guard 004 - Run",
+				"Action15ExecuteDelay:f":	0.699999988079071,
+				"Action15ExecuteImmediately:d":	0,
+				"Action15CharacterGuid:g":	"0D8AD910_E7B4A407",
+				"Action15AIStateName:s":	"WarIdle",
+				"Action15GoalListName:s":	"Run To Battle",
+				"Action15OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action16",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType16:d":	4,
+				"ActionName16:s":	"Slave 003 - Run",
+				"Action16ExecuteDelay:f":	0.300000011920929,
+				"Action16ExecuteImmediately:d":	0,
+				"Action16CharacterGuid:g":	"0D8AD910_E7B4900B",
+				"Action16AIStateName:s":	"PatrolIdleState",
+				"Action16GoalListName:s":	"Run To Battle",
+				"Action16OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action17",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType17:d":	4,
+				"ActionName17:s":	"WarElf 001 - Run",
+				"Action17ExecuteDelay:f":	0.800000011920929,
+				"Action17ExecuteImmediately:d":	0,
+				"Action17CharacterGuid:g":	"0D8AD590_E297BC00",
+				"Action17AIStateName:s":	"PatrolIdleState",
+				"Action17GoalListName:s":	"Run to Battle",
+				"Action17OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action18",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType18:d":	4,
+				"ActionName18:s":	"WarElf 003 - Run",
+				"Action18ExecuteDelay:f":	0.5,
+				"Action18ExecuteImmediately:d":	0,
+				"Action18CharacterGuid:g":	"0D8AD910_E7B4600B",
+				"Action18AIStateName:s":	"PatrolIdleState",
+				"Action18GoalListName:s":	"Run to Battle",
+				"Action18OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action19",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType19:d":	4,
+				"ActionName19:s":	"WarElf 004 - Run",
+				"Action19ExecuteDelay:f":	0.5,
+				"Action19ExecuteImmediately:d":	0,
+				"Action19CharacterGuid:g":	"0D8AD910_E7B4700B",
+				"Action19AIStateName:s":	"PatrolIdleState",
+				"Action19GoalListName:s":	"Run to Battle",
+				"Action19OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action20",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType20:d":	4,
+				"ActionName20:s":	"WarMan2 001 - Run",
+				"Action20ExecuteDelay:f":	0.600000023841858,
+				"Action20ExecuteImmediately:d":	0,
+				"Action20CharacterGuid:g":	"0D8AD590_E2987000",
+				"Action20AIStateName:s":	"PatrolIdleState",
+				"Action20GoalListName:s":	"Run to Battle",
+				"Action20OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action21",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType21:d":	4,
+				"ActionName21:s":	"WarMan2 004 - Run",
+				"Action21ExecuteDelay:f":	0.899999976158142,
+				"Action21ExecuteImmediately:d":	0,
+				"Action21CharacterGuid:g":	"0D8AD910_E7B47003",
+				"Action21AIStateName:s":	"PatrolIdleState",
+				"Action21GoalListName:s":	"Run to Battle",
+				"Action21OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action22",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType22:d":	4,
+				"ActionName22:s":	"WarMan2 003 - Run",
+				"Action22ExecuteDelay:f":	0.300000011920929,
+				"Action22ExecuteImmediately:d":	0,
+				"Action22CharacterGuid:g":	"0D8AD910_E7B46003",
+				"Action22AIStateName:s":	"PatrolIdleState",
+				"Action22GoalListName:s":	"Run to Battle",
+				"Action22OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action23",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType23:d":	4,
+				"ActionName23:s":	"WarMan1 004 - Run",
+				"Action23ExecuteDelay:f":	0.800000011920929,
+				"Action23ExecuteImmediately:d":	0,
+				"Action23CharacterGuid:g":	"0D8AD910_E7B47007",
+				"Action23AIStateName:s":	"PatrolIdleState",
+				"Action23GoalListName:s":	"Run to Battle",
+				"Action23OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action24",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType24:d":	4,
+				"ActionName24:s":	"WarMan1 001 - Run",
+				"Action24ExecuteDelay:f":	1,
+				"Action24ExecuteImmediately:d":	0,
+				"Action24CharacterGuid:g":	"0D8AD590_E2981800",
+				"Action24AIStateName:s":	"PatrolIdleState",
+				"Action24GoalListName:s":	"Run to Battle",
+				"Action24OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action25",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType25:d":	4,
+				"ActionName25:s":	"WarMan1 003 - Run",
+				"Action25ExecuteDelay:f":	0.5,
+				"Action25ExecuteImmediately:d":	0,
+				"Action25CharacterGuid:g":	"0D8AD910_E7B46007",
+				"Action25AIStateName:s":	"PatrolIdleState",
+				"Action25GoalListName:s":	"Run to Battle",
+				"Action25OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action26",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType26:d":	45,
+				"ActionName26:s":	"Turn off Battle Ambience",
+				"Action26ExecuteDelay:f":	0,
+				"Action26ExecuteImmediately:d":	0,
+				"Action26AmbientAudioTrigger:g":	"9D153991_5786C001"
+			}]
+	}, {
+		"name":	"Action27",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType27:d":	45,
+				"ActionName27:s":	"Turn on Battle Ambience",
+				"Action27ExecuteDelay:f":	0,
+				"Action27ExecuteImmediately:d":	0,
+				"Action27AmbientAudioTrigger:g":	"97B765D1_41100C00"
+			}]
+	}, {
+		"name":	"Action28",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType28:d":	48,
+				"ActionName28:s":	"Turn off Dream Ripple",
+				"Action28ExecuteDelay:f":	0,
+				"Action28ExecuteImmediately:d":	0,
+				"Action28Amp:f":	0,
+				"Action28Time:f":	2
+			}]
+	}, {
+		"name":	"Action29",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType29:d":	48,
+				"ActionName29:s":	"Turn on Dream Ripple",
+				"Action29ExecuteDelay:f":	0.75,
+				"Action29ExecuteImmediately:d":	0,
+				"Action29Amp:f":	75,
+				"Action29Time:f":	1
+			}]
+	}, {
+		"name":	"Action30",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType30:d":	4,
+				"ActionName30:s":	"Make Bolg Gob 001 Run",
+				"Action30ExecuteDelay:f":	0,
+				"Action30ExecuteImmediately:d":	0,
+				"Action30CharacterGuid:g":	"0D8ADAD1_AFB0D001",
+				"Action30AIStateName:s":	"PatrolIdleState",
+				"Action30GoalListName:s":	"Run To Battle",
+				"Action30OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action31",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType31:d":	4,
+				"ActionName31:s":	"Make Bolg Gob 002 Run",
+				"Action31ExecuteDelay:f":	0,
+				"Action31ExecuteImmediately:d":	0,
+				"Action31CharacterGuid:g":	"0D8ADAD1_AFB16001",
+				"Action31AIStateName:s":	"PatrolIdleState",
+				"Action31GoalListName:s":	"Run To Battle",
+				"Action31OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action32",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType32:d":	4,
+				"ActionName32:s":	"Make Bolg Gob 003 Run",
+				"Action32ExecuteDelay:f":	0,
+				"Action32ExecuteImmediately:d":	0,
+				"Action32CharacterGuid:g":	"0D8ADAD1_AFB1BC02",
+				"Action32AIStateName:s":	"PatrolIdleState",
+				"Action32GoalListName:s":	"Run To Battle",
+				"Action32OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action33",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType33:d":	4,
+				"ActionName33:s":	"Make Bolg Gob 004 Run",
+				"Action33ExecuteDelay:f":	0,
+				"Action33ExecuteImmediately:d":	0,
+				"Action33CharacterGuid:g":	"0D8ADAD1_AFB1BC06",
+				"Action33AIStateName:s":	"PatrolIdleState",
+				"Action33GoalListName:s":	"Run To Battle",
+				"Action33OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action34",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType34:d":	4,
+				"ActionName34:s":	"Make Bolg Gob 005 Run",
+				"Action34ExecuteDelay:f":	0,
+				"Action34ExecuteImmediately:d":	0,
+				"Action34CharacterGuid:g":	"0D8ADAD1_AFB1D401",
+				"Action34AIStateName:s":	"PatrolIdleState",
+				"Action34GoalListName:s":	"Run To Battle",
+				"Action34OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action35",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType35:d":	20,
+				"ActionName35:s":	"Start Bolg Cin Pt2",
+				"Action35ExecuteDelay:f":	0,
+				"Action35ExecuteImmediately:d":	0,
+				"Action35cinemaCount:d":	1,
+				"Action35cinemaSelect:d":	0,
+				"Action35cinema0Guid:g":	"0D8ADAD1_AFBF5000"
+			}]
+	}, {
+		"name":	"Action36",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType36:d":	33,
+				"ActionName36:s":	"Start Spike Animation 009",
+				"Action36ExecuteDelay:f":	0.20000000298023224,
+				"Action36ExecuteImmediately:d":	0,
+				"Action36InstanceCount:d":	1,
+				"Action36RigidInstance0:g":	"0D8AD991_AFD9F001",
+				"Action36AnimIndex:d":	0,
+				"Action36Loops:d":	0
+			}]
+	}, {
+		"name":	"Action37",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType37:d":	33,
+				"ActionName37:s":	"Start Spike Animation 008, 007",
+				"Action37ExecuteDelay:f":	0,
+				"Action37ExecuteImmediately:d":	0,
+				"Action37InstanceCount:d":	2,
+				"Action37RigidInstance0:g":	"0D8AD991_AFD9B001",
+				"Action37RigidInstance1:g":	"0D8ADD11_16F5B401",
+				"Action37AnimIndex:d":	0,
+				"Action37Loops:d":	0
+			}]
+	}, {
+		"name":	"Action38",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType38:d":	4,
+				"ActionName38:s":	"Set to Guard - WarElf 001",
+				"Action38ExecuteDelay:f":	0,
+				"Action38ExecuteImmediately:d":	0,
+				"Action38CharacterGuid:g":	"0D8AD590_E297BC00",
+				"Action38AIStateName:s":	"PatrolIdleState",
+				"Action38GoalListName:s":	"Guard Bal1",
+				"Action38OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action39",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType39:d":	4,
+				"ActionName39:s":	"Set to Guard - WarElf 003",
+				"Action39ExecuteDelay:f":	0,
+				"Action39ExecuteImmediately:d":	0,
+				"Action39CharacterGuid:g":	"0D8AD910_E7B4600B",
+				"Action39AIStateName:s":	"PatrolIdleState",
+				"Action39GoalListName:s":	"Guard Bal1",
+				"Action39OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action40",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType40:d":	4,
+				"ActionName40:s":	"Set to Guard - WarElf 004",
+				"Action40ExecuteDelay:f":	0,
+				"Action40ExecuteImmediately:d":	0,
+				"Action40CharacterGuid:g":	"0D8AD910_E7B4700B",
+				"Action40AIStateName:s":	"PatrolIdleState",
+				"Action40GoalListName:s":	"Guard Bal1",
+				"Action40OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action41",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType41:d":	4,
+				"ActionName41:s":	"Set to Guard - WarMan1 001",
+				"Action41ExecuteDelay:f":	0,
+				"Action41ExecuteImmediately:d":	0,
+				"Action41CharacterGuid:g":	"0D8AD590_E2981800",
+				"Action41AIStateName:s":	"PatrolIdleState",
+				"Action41GoalListName:s":	"Guard Bal1",
+				"Action41OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action42",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType42:d":	4,
+				"ActionName42:s":	"Set to Guard - WarMan1 003",
+				"Action42ExecuteDelay:f":	0,
+				"Action42ExecuteImmediately:d":	0,
+				"Action42CharacterGuid:g":	"0D8AD910_E7B46007",
+				"Action42AIStateName:s":	"PatrolIdleState",
+				"Action42GoalListName:s":	"Guard Bal1",
+				"Action42OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action43",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType43:d":	4,
+				"ActionName43:s":	"Set to Guard - WarMan1 004",
+				"Action43ExecuteDelay:f":	0,
+				"Action43ExecuteImmediately:d":	0,
+				"Action43CharacterGuid:g":	"0D8AD910_E7B47007",
+				"Action43AIStateName:s":	"PatrolIdleState",
+				"Action43GoalListName:s":	"Guard Bal1",
+				"Action43OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action44",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType44:d":	4,
+				"ActionName44:s":	"Set to Guard - WarMan2 001",
+				"Action44ExecuteDelay:f":	0,
+				"Action44ExecuteImmediately:d":	0,
+				"Action44CharacterGuid:g":	"0D8AD590_E2987000",
+				"Action44AIStateName:s":	"PatrolIdleState",
+				"Action44GoalListName:s":	"Guard Bal1",
+				"Action44OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action45",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType45:d":	4,
+				"ActionName45:s":	"Set to Guard - WarMan2 003",
+				"Action45ExecuteDelay:f":	0,
+				"Action45ExecuteImmediately:d":	0,
+				"Action45CharacterGuid:g":	"0D8AD910_E7B46003",
+				"Action45AIStateName:s":	"PatrolIdleState",
+				"Action45GoalListName:s":	"Guard Bal1",
+				"Action45OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action46",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType46:d":	4,
+				"ActionName46:s":	"Set to Guard - WarMan2 004",
+				"Action46ExecuteDelay:f":	0,
+				"Action46ExecuteImmediately:d":	0,
+				"Action46CharacterGuid:g":	"0D8AD910_E7B47003",
+				"Action46AIStateName:s":	"PatrolIdleState",
+				"Action46GoalListName:s":	"Guard Bal1",
+				"Action46OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action47",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType47:d":	15,
+				"ActionName47:s":	"Move Bal Sight Blocker Wall",
+				"Action47ExecuteDelay:f":	0,
+				"Action47ExecuteImmediately:d":	0,
+				"Action47Object:g":	"0D8AD7D1_D05FF000",
+				"Action47Volume:g":	"0D8AD7D1_D0629400",
+				"Action47Facing:g":	"00000000_00000000"
+			}]
+	}, {
+		"name":	"Action48",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType48:d":	22,
+				"ActionName48:s":	"Give Main Quest",
+				"Action48ExecuteDelay:f":	0,
+				"Action48ExecuteImmediately:d":	0,
+				"Action48QuestID:s":	"AA_ID_DREAM_MAIN_QUEST",
+				"Action48Required:d":	1
+			}]
+	}, {
+		"name":	"Action49",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType49:d":	34,
+				"ActionName49:s":	"Kill Main Quest",
+				"Action49ExecuteDelay:f":	0,
+				"Action49ExecuteImmediately:d":	0,
+				"Action49QuestID:s":	"AA_ID_DREAM_MAIN_QUEST"
+			}]
+	}, {
+		"name":	"Action50",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType50:d":	22,
+				"ActionName50:s":	"Give Area 1 Quest",
+				"Action50ExecuteDelay:f":	0,
+				"Action50ExecuteImmediately:d":	0,
+				"Action50QuestID:s":	"BB_ID_DREAM_AREA_1",
+				"Action50Required:d":	1
+			}]
+	}, {
+		"name":	"Action51",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType51:d":	29,
+				"ActionName51:s":	"Kill Area 1 Quest",
+				"Action51ExecuteDelay:f":	0,
+				"Action51ExecuteImmediately:d":	0,
+				"Action51QuestID:s":	"BB_ID_DREAM_AREA_1"
+			}]
+	}, {
+		"name":	"Action52",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType52:d":	22,
+				"ActionName52:s":	"Give Area 2 Quest",
+				"Action52ExecuteDelay:f":	0,
+				"Action52ExecuteImmediately:d":	0,
+				"Action52QuestID:s":	"CC_ID_DREAM_AREA_2",
+				"Action52Required:d":	1
+			}]
+	}, {
+		"name":	"Action53",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType53:d":	29,
+				"ActionName53:s":	"Kill Area 2 Quest",
+				"Action53ExecuteDelay:f":	0,
+				"Action53ExecuteImmediately:d":	0,
+				"Action53QuestID:s":	"CC_ID_DREAM_AREA_2"
+			}]
+	}, {
+		"name":	"Action54",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType54:d":	22,
+				"ActionName54:s":	"Give Ladder Quest",
+				"Action54ExecuteDelay:f":	0,
+				"Action54ExecuteImmediately:d":	0,
+				"Action54QuestID:s":	"DD_ID_DREAM_LADDER",
+				"Action54Required:d":	1
+			}]
+	}, {
+		"name":	"Action55",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType55:d":	29,
+				"ActionName55:s":	"Kill Ladder Quest",
+				"Action55ExecuteDelay:f":	0,
+				"Action55ExecuteImmediately:d":	0,
+				"Action55QuestID:s":	"DD_ID_DREAM_LADDER"
+			}]
+	}, {
+		"name":	"Action56",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType56:d":	2,
+				"ActionName56:s":	"Set Team 1: WarMan2 003",
+				"Action56ExecuteDelay:f":	0,
+				"Action56ExecuteImmediately:d":	0,
+				"Action56CharacterGuid:g":	"0D8AD910_E7B46003",
+				"Action56Team:d":	1
+			}]
+	}, {
+		"name":	"Action57",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType57:d":	2,
+				"ActionName57:s":	"Set Team 1: WarDwarf 004",
+				"Action57ExecuteDelay:f":	0,
+				"Action57ExecuteImmediately:d":	0,
+				"Action57CharacterGuid:g":	"0D8AD910_E7B47007",
+				"Action57Team:d":	1
+			}]
+	}, {
+		"name":	"Action58",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType58:d":	2,
+				"ActionName58:s":	"Set Team 1: WarMan1 003",
+				"Action58ExecuteDelay:f":	0,
+				"Action58ExecuteImmediately:d":	0,
+				"Action58CharacterGuid:g":	"0D8AD910_E7B46007",
+				"Action58Team:d":	1
+			}]
+	}, {
+		"name":	"Action59",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType59:d":	2,
+				"ActionName59:s":	"Set Team 1: WarDwarf 005",
+				"Action59ExecuteDelay:f":	0,
+				"Action59ExecuteImmediately:d":	0,
+				"Action59CharacterGuid:g":	"0D8AD590_E2987000",
+				"Action59Team:d":	1
+			}]
+	}, {
+		"name":	"Action60",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType60:d":	2,
+				"ActionName60:s":	"Set Team 1: WarElf 003",
+				"Action60ExecuteDelay:f":	0,
+				"Action60ExecuteImmediately:d":	0,
+				"Action60CharacterGuid:g":	"0D8AD910_E7B4600B",
+				"Action60Team:d":	1
+			}]
+	}, {
+		"name":	"Action61",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType61:d":	2,
+				"ActionName61:s":	"Set Team 1: WarElf 001",
+				"Action61ExecuteDelay:f":	0,
+				"Action61ExecuteImmediately:d":	0,
+				"Action61CharacterGuid:g":	"0D8AD590_E297BC00",
+				"Action61Team:d":	1
+			}]
+	}, {
+		"name":	"Action62",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType62:d":	2,
+				"ActionName62:s":	"Set Team 1: WarMan2 004",
+				"Action62ExecuteDelay:f":	0,
+				"Action62ExecuteImmediately:d":	0,
+				"Action62CharacterGuid:g":	"0D8AD910_E7B47003",
+				"Action62Team:d":	1
+			}]
+	}, {
+		"name":	"Action63",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType63:d":	2,
+				"ActionName63:s":	"Set Team 1: WarElf 004",
+				"Action63ExecuteDelay:f":	0,
+				"Action63ExecuteImmediately:d":	0,
+				"Action63CharacterGuid:g":	"0D8AD910_E7B4700B",
+				"Action63Team:d":	1
+			}]
+	}, {
+		"name":	"Action64",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType64:d":	2,
+				"ActionName64:s":	"Set Team 1: WarMan1 001",
+				"Action64ExecuteDelay:f":	0,
+				"Action64ExecuteImmediately:d":	0,
+				"Action64CharacterGuid:g":	"0D8AD590_E2981800",
+				"Action64Team:d":	1
+			}]
+	}, {
+		"name":	"Action65",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType65:d":	30,
+				"ActionName65:s":	"Quick Fade In",
+				"Action65ExecuteDelay:f":	5,
+				"Action65ExecuteImmediately:d":	0,
+				"Action65Fadeout:d":	0,
+				"Action65Color:dddd":	[0, 0, 0, 255],
+				"Action65Duration:f":	1
+			}]
+	}, {
+		"name":	"Action66",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType66:d":	40,
+				"ActionName66:s":	"Music - Opening Cinema",
+				"Action66ExecuteDelay:f":	0,
+				"Action66ExecuteImmediately:d":	0,
+				"Action66MusicTrigger:g":	"9D153112_5EDCA401"
+			}]
+	}, {
+		"name":	"Action67",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType67:d":	40,
+				"ActionName67:s":	"Music - Level End Cinema",
+				"Action67ExecuteDelay:f":	0,
+				"Action67ExecuteImmediately:d":	0,
+				"Action67MusicTrigger:g":	"9D153592_648B6001"
+			}]
+	}, {
+		"name":	"Action68",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType68:d":	40,
+				"ActionName68:s":	"Music - Cine03 End",
+				"Action68ExecuteDelay:f":	5,
+				"Action68ExecuteImmediately:d":	0,
+				"Action68MusicTrigger:g":	"9D153052_B7854801"
+			}]
+	}, {
+		"name":	"Action69",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType69:d":	10,
+				"ActionName69:s":	"Load Mug1",
+				"Action69ExecuteDelay:f":	0,
+				"Action69ExecuteImmediately:d":	0,
+				"Action69LoadLayerGuid:g":	"0D8AD812_F056BC00"
+			}]
+	}, {
+		"name":	"Link0",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats0:d":	0,
+				"LinkState0:d":	0,
+				"LogicType0:d":	0,
+				"LinkTriggerCount0:d":	1,
+				"LinkTriggerIndex0-0:d":	0,
+				"LinkActionCount0:d":	1,
+				"LinkActionIndex0-0:d":	0
+			}]
+	}, {
+		"name":	"Link1",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats1:d":	0,
+				"LinkState1:d":	0,
+				"LogicType1:d":	0,
+				"LinkTriggerCount1:d":	1,
+				"LinkTriggerIndex1-0:d":	1,
+				"LinkActionCount1:d":	2,
+				"LinkActionIndex1-0:d":	1,
+				"LinkActionIndex1-1:d":	3
+			}]
+	}, {
+		"name":	"Link2",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats2:d":	0,
+				"LinkState2:d":	0,
+				"LogicType2:d":	0,
+				"LinkTriggerCount2:d":	1,
+				"LinkTriggerIndex2-0:d":	21,
+				"LinkActionCount2:d":	5,
+				"LinkActionIndex2-0:d":	2,
+				"LinkActionIndex2-1:d":	26,
+				"LinkActionIndex2-2:d":	28,
+				"LinkActionIndex2-3:d":	67,
+				"LinkActionIndex2-4:d":	68
+			}]
+	}, {
+		"name":	"Link3",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats3:d":	0,
+				"LinkState3:d":	0,
+				"LogicType3:d":	0,
+				"LinkTriggerCount3:d":	1,
+				"LinkTriggerIndex3-0:d":	3,
+				"LinkActionCount3:d":	3,
+				"LinkActionIndex3-0:d":	49,
+				"LinkActionIndex3-1:d":	55,
+				"LinkActionIndex3-2:d":	0
+			}]
+	}, {
+		"name":	"Link4",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats4:d":	0,
+				"LinkState4:d":	0,
+				"LogicType4:d":	0,
+				"LinkTriggerCount4:d":	11,
+				"LinkTriggerIndex4-0:d":	4,
+				"LinkTriggerIndex4-1:d":	5,
+				"LinkTriggerIndex4-2:d":	6,
+				"LinkTriggerIndex4-3:d":	7,
+				"LinkTriggerIndex4-4:d":	8,
+				"LinkTriggerIndex4-5:d":	9,
+				"LinkTriggerIndex4-6:d":	12,
+				"LinkTriggerIndex4-7:d":	13,
+				"LinkTriggerIndex4-8:d":	14,
+				"LinkTriggerIndex4-9:d":	10,
+				"LinkTriggerIndex4-10:d":	11,
+				"LinkActionCount4:d":	12,
+				"LinkActionIndex4-0:d":	4,
+				"LinkActionIndex4-1:d":	5,
+				"LinkActionIndex4-2:d":	38,
+				"LinkActionIndex4-3:d":	39,
+				"LinkActionIndex4-4:d":	40,
+				"LinkActionIndex4-5:d":	41,
+				"LinkActionIndex4-6:d":	42,
+				"LinkActionIndex4-7:d":	43,
+				"LinkActionIndex4-8:d":	45,
+				"LinkActionIndex4-9:d":	44,
+				"LinkActionIndex4-10:d":	46,
+				"LinkActionIndex4-11:d":	69
+			}]
+	}, {
+		"name":	"Link5",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats5:d":	0,
+				"LinkState5:d":	0,
+				"LogicType5:d":	1,
+				"LinkTriggerCount5:d":	12,
+				"LinkTriggerIndex5-0:d":	15,
+				"LinkTriggerIndex5-1:d":	23,
+				"LinkTriggerIndex5-2:d":	24,
+				"LinkTriggerIndex5-3:d":	25,
+				"LinkTriggerIndex5-4:d":	26,
+				"LinkTriggerIndex5-5:d":	27,
+				"LinkTriggerIndex5-6:d":	28,
+				"LinkTriggerIndex5-7:d":	29,
+				"LinkTriggerIndex5-8:d":	30,
+				"LinkTriggerIndex5-9:d":	31,
+				"LinkTriggerIndex5-10:d":	32,
+				"LinkTriggerIndex5-11:d":	33,
+				"LinkActionCount5:d":	1,
+				"LinkActionIndex5-0:d":	6
+			}]
+	}, {
+		"name":	"Link6",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats6:d":	0,
+				"LinkState6:d":	0,
+				"LogicType6:d":	0,
+				"LinkTriggerCount6:d":	1,
+				"LinkTriggerIndex6-0:d":	16,
+				"LinkActionCount6:d":	2,
+				"LinkActionIndex6-0:d":	48,
+				"LinkActionIndex6-1:d":	50
+			}]
+	}, {
+		"name":	"Link7",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats7:d":	0,
+				"LinkState7:d":	3,
+				"LogicType7:d":	0,
+				"LinkTriggerCount7:d":	1,
+				"LinkTriggerIndex7-0:d":	17,
+				"LinkActionCount7:d":	1,
+				"LinkActionIndex7-0:d":	8
+			}]
+	}, {
+		"name":	"Link8",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats8:d":	0,
+				"LinkState8:d":	0,
+				"LogicType8:d":	0,
+				"LinkTriggerCount8:d":	1,
+				"LinkTriggerIndex8-0:d":	18,
+				"LinkActionCount8:d":	3,
+				"LinkActionIndex8-0:d":	9,
+				"LinkActionIndex8-1:d":	51,
+				"LinkActionIndex8-2:d":	52
+			}]
+	}, {
+		"name":	"Link9",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats9:d":	0,
+				"LinkState9:d":	0,
+				"LogicType9:d":	0,
+				"LinkTriggerCount9:d":	1,
+				"LinkTriggerIndex9-0:d":	19,
+				"LinkActionCount9:d":	27,
+				"LinkActionIndex9-0:d":	10,
+				"LinkActionIndex9-1:d":	17,
+				"LinkActionIndex9-2:d":	18,
+				"LinkActionIndex9-3:d":	24,
+				"LinkActionIndex9-4:d":	25,
+				"LinkActionIndex9-5:d":	23,
+				"LinkActionIndex9-6:d":	20,
+				"LinkActionIndex9-7:d":	22,
+				"LinkActionIndex9-8:d":	21,
+				"LinkActionIndex9-9:d":	13,
+				"LinkActionIndex9-10:d":	12,
+				"LinkActionIndex9-11:d":	12,
+				"LinkActionIndex9-12:d":	14,
+				"LinkActionIndex9-13:d":	15,
+				"LinkActionIndex9-14:d":	16,
+				"LinkActionIndex9-15:d":	37,
+				"LinkActionIndex9-16:d":	36,
+				"LinkActionIndex9-17:d":	47,
+				"LinkActionIndex9-18:d":	57,
+				"LinkActionIndex9-19:d":	59,
+				"LinkActionIndex9-20:d":	61,
+				"LinkActionIndex9-21:d":	60,
+				"LinkActionIndex9-22:d":	63,
+				"LinkActionIndex9-23:d":	64,
+				"LinkActionIndex9-24:d":	58,
+				"LinkActionIndex9-25:d":	56,
+				"LinkActionIndex9-26:d":	62
+			}]
+	}, {
+		"name":	"Link10",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats10:d":	0,
+				"LinkState10:d":	0,
+				"LogicType10:d":	0,
+				"LinkTriggerCount10:d":	1,
+				"LinkTriggerIndex10-0:d":	20,
+				"LinkActionCount10:d":	2,
+				"LinkActionIndex10-0:d":	27,
+				"LinkActionIndex10-1:d":	66
+			}]
+	}, {
+		"name":	"Link11",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats11:d":	0,
+				"LinkState11:d":	0,
+				"LogicType11:d":	0,
+				"LinkTriggerCount11:d":	1,
+				"LinkTriggerIndex11-0:d":	2,
+				"LinkActionCount11:d":	7,
+				"LinkActionIndex11-0:d":	35,
+				"LinkActionIndex11-1:d":	30,
+				"LinkActionIndex11-2:d":	31,
+				"LinkActionIndex11-3:d":	32,
+				"LinkActionIndex11-4:d":	33,
+				"LinkActionIndex11-5:d":	34,
+				"LinkActionIndex11-6:d":	29
+			}]
+	}, {
+		"name":	"Link12",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats12:d":	0,
+				"LinkState12:d":	0,
+				"LogicType12:d":	0,
+				"LinkTriggerCount12:d":	1,
+				"LinkTriggerIndex12-0:d":	22,
+				"LinkActionCount12:d":	2,
+				"LinkActionIndex12-0:d":	54,
+				"LinkActionIndex12-1:d":	53
+			}]
+	}, {
+		"name":	"ConversationMgr",
+		"row_count":	1,
+		"rows":	[{
+				"ConversationCount:d":	0,
+				"ConversationListCount:d":	0,
+				"DialogListCount:d":	0
+			}]
+	}, {
+		"name":	"CameraMgr",
+		"row_count":	1,
+		"rows":	[{
+				"ChaseOffset:fff":	[0, 0, 0]
+			}]
+	}, {
+		"name":	"Skybox",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD451_173CA000",
+				"OffsetScale:fff":	[0, 0, 0],
+				"Center:fff":	[0, 0, 0],
+				"AnimSpeed:f":	0,
+				"Name:s":	"Skybox",
+				"AnimationResource:s":	"cb_skybox_cloud01.anim",
+				"GeometryResource:s":	"cb_skybox_cloud01.rgeom",
+				"Pos:fff":	[-5219.228515625, 353.41314697265625, -3336.54638671875],
+				"Ambient:dddd":	[255, 255, 255, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[-5491.1962890625, 331.4942626953125, -3614.431640625, -4921.22412109375, 564.59783935546875, -3044.45947265625],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	1,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	0,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	8608,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-271.9677734375, -21.91888427734375, -277.88525390625, 298.00439453125, 211.1846923828125, 292.0869140625],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Skybox",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}]

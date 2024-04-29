@@ -1,0 +1,39 @@
+[{
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD04B_7C802C00",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	0,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	1,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	0,
+				"nActivators:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[176.43771362304687, -1489.472412109375, -23919.900390625],
+				"Orientation:fff":	[0, -59.4000244140625, 0],
+				"LocalBoundingBox:ffffff":	[-897.68707275390625, -1094.939697265625, -672.0897216796875, 897.68707275390625, 1094.939697265625, 672.0897216796875],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"WetTrigger",
+				"Name:s":	"WetTrigger",
+				"Pos:fff":	[176.43771362304687, -1489.472412109375, -23919.900390625],
+				"BBox:ffffff":	[-721.2493896484375, -2584.412109375, -24591.990234375, 1074.124755859375, -394.53271484375, -23247.810546875],
+				"Orient:fff":	[0, -59.4000244140625, 0],
+				"HalfDimensions:fff":	[252.27882385253906, 1094.939697265625, 893.72491455078125],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}]

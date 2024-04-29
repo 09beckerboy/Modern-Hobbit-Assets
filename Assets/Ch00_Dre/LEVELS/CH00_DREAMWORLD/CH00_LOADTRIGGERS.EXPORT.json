@@ -1,0 +1,222 @@
+[{
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD9D0_E2EC0C00",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-417.3402099609375, 8012.791015625, -1376.218505859375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LoadBagEnd",
+				"Name:s":	"LoadBagEnd",
+				"Pos:fff":	[-417.3402099609375, 8012.791015625, -1376.218505859375],
+				"BBox:ffffff":	[-467.3402099609375, 7962.791015625, -1426.218505859375, -367.3402099609375, 8062.791015625, -1326.218505859375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	2,
+		"rows":	[{
+				"Layer:s":	"CH00_PlaySurface_BagEnd"
+			}, {
+				"Layer:s":	"CH00_NPC_Bolg"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	2,
+		"rows":	[{
+				"UnloadLayer:s":	"CH00_Inst_Bal1"
+			}, {
+				"UnloadLayer:s":	"CH00_NPC_Bal1"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD812_F056BC00",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-5441.45361328125, 8016.5029296875, -3020.421142578125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LoadMug1",
+				"Name:s":	"LoadMug1",
+				"Pos:fff":	[-5441.45361328125, 8016.5029296875, -3020.421142578125],
+				"BBox:ffffff":	[-5491.45361328125, 7966.5029296875, -3070.421142578125, -5391.45361328125, 8066.5029296875, -2970.421142578125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"CH00_Inst_Mug1"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD9D0_E2EDB400",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2322.5361328125, -345.11672973632812, -1703.7967529296875],
+				"Orientation:fff":	[0, 47.699993133544922, 0],
+				"LocalBoundingBox:ffffff":	[-520.0625, -443.67987060546875, -477.03762817382812, 520.0625, 443.67987060546875, 477.03762817382812],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LoadTrigger - Bal1 001",
+				"Name:s":	"LoadTrigger - Bal1 001",
+				"Pos:fff":	[-2322.5361328125, -345.11672973632812, -1703.7967529296875],
+				"BBox:ffffff":	[-2842.5986328125, -788.796630859375, -2180.83447265625, -1802.4736328125, 98.563140869140625, -1226.7591552734375],
+				"Orient:fff":	[0, 47.699993133544922, 0],
+				"HalfDimensions:fff":	[30, 443.67987060546875, 675.83984375],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	2,
+		"rows":	[{
+				"Layer:s":	"CH00_NPC_Bal1"
+			}, {
+				"Layer:s":	"CH00_Inst_Bal1"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	2,
+		"rows":	[{
+				"UnloadLayer:s":	"CH00_NPC_Rav"
+			}, {
+				"UnloadLayer:s":	"CH00_Inst_Rav"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD9D0_E2EE5C01",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2279.23193359375, -345.11721801757813, -1751.3875732421875],
+				"Orientation:fff":	[0, 47.699993133544922, 0],
+				"LocalBoundingBox:ffffff":	[-520.0625, -443.68011474609375, -477.03762817382812, 520.0625, 443.68011474609375, 477.03762817382812],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LoadTrigger - Bal1 002",
+				"Name:s":	"LoadTrigger - Bal1 002",
+				"Pos:fff":	[-2279.23193359375, -345.11721801757813, -1751.3875732421875],
+				"BBox:ffffff":	[-2799.29443359375, -788.79736328125, -2228.42529296875, -1759.16943359375, 98.562896728515625, -1274.3499755859375],
+				"Orient:fff":	[0, 47.699993133544922, 0],
+				"HalfDimensions:fff":	[30, 443.68011474609375, 675.83984375],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	2,
+		"rows":	[{
+				"Layer:s":	"CH00_NPC_Rav"
+			}, {
+				"Layer:s":	"CH00_Inst_Rav"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	2,
+		"rows":	[{
+				"UnloadLayer:s":	"CH00_NPC_Bal1"
+			}, {
+				"UnloadLayer:s":	"CH00_Inst_Bal1"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD390_5E7CB000",
+				"Teleport:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-5112.9033203125, -349.44219970703125, -8053.52099609375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Teleporter_EOL",
+				"Name:s":	"Teleporter_EOL",
+				"Pos:fff":	[-5112.9033203125, -349.44219970703125, -8053.52099609375],
+				"BBox:ffffff":	[-5162.9033203125, -399.44219970703125, -8103.52099609375, -5062.9033203125, -299.44219970703125, -8003.52099609375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}]

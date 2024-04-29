@@ -1,0 +1,304 @@
+[{
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADACE_7DFC0000",
+				"bHasTargetGuids:d":	1,
+				"UsesInven:d":	1,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	0,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	1,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	1,
+				"nActivators:d":	3,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"trigger_opening_pedestal_1.xsc",
+				"InitialPos:fff":	[-737.39215087890625, 1168.1767578125, 10726.5908203125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-26.658309936523438, -45.868896484375, -20.19189453125, 26.658309936523438, 45.868896484375, 20.19189453125],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Trigger_OpeningPed001",
+				"Name:s":	"Trigger_OpeningPed001",
+				"Pos:fff":	[-737.39215087890625, 1168.1767578125, 10726.5908203125],
+				"BBox:ffffff":	[-764.05047607421875, 1122.307861328125, 10706.3984375, -710.73382568359375, 1214.045654296875, 10746.783203125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[26.658309936523438, 45.868896484375, 20.19189453125],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"ItemList",
+		"row_count":	3,
+		"rows":	[{
+				"Item:d":	126
+			}, {
+				"Item:d":	127
+			}, {
+				"Item:d":	128
+			}]
+	}, {
+		"name":	"ValidItems",
+		"row_count":	1,
+		"rows":	[{
+				"Number:d":	3,
+				"ValidItem0:d":	128,
+				"ValidItem1:d":	127,
+				"ValidItem2:d":	126
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	2,
+		"rows":	[{
+				"Guid:g":	"0D8ADA0E_7F8AA000"
+			}, {
+				"Guid:g":	"0D8AD44E_7DEEF000"
+			}]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADACE_7E022C01",
+				"bHasTargetGuids:d":	1,
+				"UsesInven:d":	1,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	0,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	1,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	1,
+				"nActivators:d":	3,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"trigger_opening_pedestal_2.xsc",
+				"InitialPos:fff":	[-627.894287109375, 1168.056884765625, 10551.1982421875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-26.658317565917969, -45.868896484375, -20.19189453125, 26.658317565917969, 45.868896484375, 20.19189453125],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Trigger_OpeningPed002",
+				"Name:s":	"Trigger_OpeningPed002",
+				"Pos:fff":	[-627.894287109375, 1168.056884765625, 10551.1982421875],
+				"BBox:ffffff":	[-654.5526123046875, 1122.18798828125, 10531.005859375, -601.2359619140625, 1213.92578125, 10571.390625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[26.658317565917969, 45.868896484375, 20.19189453125],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"ItemList",
+		"row_count":	3,
+		"rows":	[{
+				"Item:d":	127
+			}, {
+				"Item:d":	126
+			}, {
+				"Item:d":	128
+			}]
+	}, {
+		"name":	"ValidItems",
+		"row_count":	1,
+		"rows":	[{
+				"Number:d":	3,
+				"ValidItem0:d":	128,
+				"ValidItem1:d":	127,
+				"ValidItem2:d":	126
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	2,
+		"rows":	[{
+				"Guid:g":	"0D8ADA0E_7F8AF001"
+			}, {
+				"Guid:g":	"0D8AD44E_7DEFF001"
+			}]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADACE_7E027401",
+				"bHasTargetGuids:d":	1,
+				"UsesInven:d":	1,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	0,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	1,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	1,
+				"nActivators:d":	3,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"trigger_opening_pedestal_3.xsc",
+				"InitialPos:fff":	[-508.97164916992187, 1170.7379150390625, 10392.486328125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-26.658315658569336, -45.868896484375, -20.19189453125, 26.658315658569336, 45.868896484375, 20.19189453125],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Trigger_OpeningPed003",
+				"Name:s":	"Trigger_OpeningPed003",
+				"Pos:fff":	[-508.97164916992187, 1170.7379150390625, 10392.486328125],
+				"BBox:ffffff":	[-535.62994384765625, 1124.8690185546875, 10372.294921875, -482.31332397460937, 1216.6068115234375, 10412.677734375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[26.658315658569336, 45.868896484375, 20.19189453125],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"ItemList",
+		"row_count":	3,
+		"rows":	[{
+				"Item:d":	128
+			}, {
+				"Item:d":	127
+			}, {
+				"Item:d":	126
+			}]
+	}, {
+		"name":	"ValidItems",
+		"row_count":	1,
+		"rows":	[{
+				"Number:d":	3,
+				"ValidItem0:d":	128,
+				"ValidItem1:d":	127,
+				"ValidItem2:d":	126
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	2,
+		"rows":	[{
+				"Guid:g":	"0D8ADA0E_7F8B0801"
+			}, {
+				"Guid:g":	"0D8AD44E_7DF02401"
+			}]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADD8E_83CA8400",
+				"bHasTargetGuids:d":	1,
+				"UsesInven:d":	0,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	0,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	0,
+				"MaxItems:d":	0,
+				"nActivators:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"trigger_pushblock001.xsc",
+				"InitialPos:fff":	[-536.8197021484375, 1156.8154296875, 10846.1396484375],
+				"Orientation:fff":	[0, 57.150016784667969, 0],
+				"LocalBoundingBox:ffffff":	[-1.3825349807739258, -50, -1.3825349807739258, 1.3825349807739258, 50, 1.3825349807739258],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Trigger_PushBlock001",
+				"Name:s":	"Trigger_PushBlock001",
+				"Pos:fff":	[-536.8197021484375, 1156.8154296875, 10846.1396484375],
+				"BBox:ffffff":	[-538.20220947265625, 1106.8154296875, 10844.7568359375, -535.43719482421875, 1206.8154296875, 10847.5224609375],
+				"Orient:fff":	[0, 57.150016784667969, 0],
+				"HalfDimensions:fff":	[1, 50, 1],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	1,
+		"rows":	[{
+				"Guid:g":	"0D8ADA0E_7F8F3800"
+			}]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADD8E_83CAFC01",
+				"bHasTargetGuids:d":	1,
+				"UsesInven:d":	0,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	0,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	0,
+				"MaxItems:d":	0,
+				"nActivators:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"trigger_pushblock002.xsc",
+				"InitialPos:fff":	[-429.19296264648437, 1156.8154296875, 10678.875],
+				"Orientation:fff":	[0, 57.150016784667969, 0],
+				"LocalBoundingBox:ffffff":	[-1.3825349807739258, -50, -1.3825349807739258, 1.3825349807739258, 50, 1.3825349807739258],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Trigger_PushBlock002",
+				"Name:s":	"Trigger_PushBlock002",
+				"Pos:fff":	[-429.19296264648437, 1156.8154296875, 10678.875],
+				"BBox:ffffff":	[-430.57550048828125, 1106.8154296875, 10677.4921875, -427.8104248046875, 1206.8154296875, 10680.2578125],
+				"Orient:fff":	[0, 57.150016784667969, 0],
+				"HalfDimensions:fff":	[1, 50, 1],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	1,
+		"rows":	[{
+				"Guid:g":	"0D8ADA0E_7F8FDC01"
+			}]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADD8E_83CB0C07",
+				"bHasTargetGuids:d":	1,
+				"UsesInven:d":	0,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	0,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	0,
+				"MaxItems:d":	0,
+				"nActivators:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"trigger_pushblock003.xsc",
+				"InitialPos:fff":	[-321.806396484375, 1144.28515625, 10506.318359375],
+				"Orientation:fff":	[0, 57.600021362304688, 0],
+				"LocalBoundingBox:ffffff":	[-1.3801546096801758, -37.469699859619141, -1.3801546096801758, 1.3801546096801758, 37.469699859619141, 1.3801546096801758],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Trigger_PushBlock003",
+				"Name:s":	"Trigger_PushBlock003",
+				"Pos:fff":	[-321.806396484375, 1144.28515625, 10506.318359375],
+				"BBox:ffffff":	[-323.18655395507812, 1106.8154296875, 10504.9384765625, -320.42623901367187, 1181.7548828125, 10507.6982421875],
+				"Orient:fff":	[0, 57.600021362304688, 0],
+				"HalfDimensions:fff":	[1, 37.469699859619141, 1],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	1,
+		"rows":	[{
+				"Guid:g":	"0D8ADA0E_7F900C01"
+			}]
+	}]

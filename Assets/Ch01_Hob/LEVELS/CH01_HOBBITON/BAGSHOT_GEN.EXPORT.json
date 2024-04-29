@@ -1,0 +1,184 @@
+[{
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"99118A4F_A1087C01",
+				"Name:s":	"Inst_Htown_Chimney002",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_htown_chimney.rgeom",
+				"Pos:fff":	[-655.776611328125, -1364.42529296875, -4587.23046875],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, -179.10000610351562, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[-699.44671630859375, -1367.92529296875, -4630.900390625, -612.10650634765625, -1260.92529296875, -4543.560546875],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	10664,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, -179.10000610351562, 0],
+				"LocalBoundingBox:ffffff":	[-43.67010498046875, -3.5, -43.669921875, 43.67010498046875, 103.5, 43.669921875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Inst_Htown_Chimney002",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	28,
+		"rows":	[{
+				"Color:dddd":	[63, 49, 72, 255]
+			}, {
+				"Color:dddd":	[88, 70, 101, 255]
+			}, {
+				"Color:dddd":	[255, 255, 240, 255]
+			}, {
+				"Color:dddd":	[51, 41, 51, 255]
+			}, {
+				"Color:dddd":	[109, 93, 109, 255]
+			}, {
+				"Color:dddd":	[255, 255, 248, 255]
+			}, {
+				"Color:dddd":	[197, 180, 172, 255]
+			}, {
+				"Color:dddd":	[80, 63, 88, 255]
+			}, {
+				"Color:dddd":	[137, 124, 122, 255]
+			}, {
+				"Color:dddd":	[96, 76, 106, 255]
+			}, {
+				"Color:dddd":	[36, 27, 38, 255]
+			}, {
+				"Color:dddd":	[59, 46, 64, 255]
+			}, {
+				"Color:dddd":	[136, 122, 120, 255]
+			}, {
+				"Color:dddd":	[42, 32, 45, 255]
+			}, {
+				"Color:dddd":	[255, 254, 228, 255]
+			}, {
+				"Color:dddd":	[80, 63, 88, 255]
+			}, {
+				"Color:dddd":	[188, 170, 168, 255]
+			}, {
+				"Color:dddd":	[85, 67, 96, 255]
+			}, {
+				"Color:dddd":	[65, 50, 72, 255]
+			}, {
+				"Color:dddd":	[65, 50, 72, 255]
+			}, {
+				"Color:dddd":	[96, 77, 106, 255]
+			}, {
+				"Color:dddd":	[64, 50, 69, 255]
+			}, {
+				"Color:dddd":	[95, 78, 98, 255]
+			}, {
+				"Color:dddd":	[255, 255, 255, 255]
+			}, {
+				"Color:dddd":	[255, 255, 244, 255]
+			}, {
+				"Color:dddd":	[51, 39, 57, 255]
+			}, {
+				"Color:dddd":	[255, 255, 255, 255]
+			}, {
+				"Color:dddd":	[36, 27, 38, 255]
+			}]
+	}, {
+		"name":	"TreeLeafCluster",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"9911858E_92D1B804",
+				"Name:s":	"Inst_Htown_TreeBLeaves006",
+				"HighLOD:s":	"inst_htown_treebleaves.tree",
+				"MedLOD:s":	"inst_htown_treebleaves_lod2.tree",
+				"LowLOD:s":	"inst_htown_treebleaves_lod3.tree",
+				"MaxPitch:f":	60,
+				"MaxRoll:f":	8,
+				"BaseRoll:f":	0,
+				"NumPhases:d":	8,
+				"TimeScale:f":	0.5,
+				"FreezeStartDist:f":	1500,
+				"FreezeEndDist:f":	2500,
+				"Tint:dddd":	[255, 255, 255, 255],
+				"HighMedDist:f":	3000,
+				"MedLowDist:f":	4000,
+				"LodTransTime:f":	3,
+				"OccluderOnDist:f":	0,
+				"OccluderWidth:f":	0,
+				"OccluderPosY:f":	0,
+				"OccluderNegY:f":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	148,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2921.359130859375, -1290.5439453125, -4266.7607421875],
+				"Orientation:fff":	[10.99064826965332, 84.758506774902344, 21.468669891357422],
+				"LocalBoundingBox:ffffff":	[-516.181396484375, 67.18701171875, -401.744140625, 751.992431640625, 958.72509765625, 842.55859375],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Inst_Htown_TreeBLeaves006"
+			}]
+	}, {
+		"name":	"TreeLeafCluster",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"9911858E_92DD1002",
+				"Name:s":	"Inst_Htown_TreeBLeaves017",
+				"HighLOD:s":	"inst_htown_treebleaves.tree",
+				"MedLOD:s":	"inst_htown_treebleaves_lod2.tree",
+				"LowLOD:s":	"inst_htown_treebleaves_lod3.tree",
+				"MaxPitch:f":	60,
+				"MaxRoll:f":	8,
+				"BaseRoll:f":	0,
+				"NumPhases:d":	8,
+				"TimeScale:f":	0.5,
+				"FreezeStartDist:f":	1500,
+				"FreezeEndDist:f":	2500,
+				"Tint:dddd":	[255, 255, 255, 255],
+				"HighMedDist:f":	3000,
+				"MedLowDist:f":	4000,
+				"LodTransTime:f":	3,
+				"OccluderOnDist:f":	0,
+				"OccluderWidth:f":	0,
+				"OccluderPosY:f":	0,
+				"OccluderNegY:f":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	148,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[156.10458374023437, -1736.1278076171875, -4858.92626953125],
+				"Orientation:fff":	[-16.2874698638916, -47.302078247070313, -8.9938898086547852],
+				"LocalBoundingBox:ffffff":	[-395.474853515625, 191.23974609375, -574.091796875, 811.958740234375, 1005.55517578125, 532.5654296875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Inst_Htown_TreeBLeaves017"
+			}]
+	}]

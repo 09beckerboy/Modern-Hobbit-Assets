@@ -1,0 +1,165 @@
+[{
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD588B91_99F76400",
+				"bHasTargetGuids:d":	1,
+				"UsesInven:d":	1,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	0,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	1,
+				"nActivators:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"platform_path.xsc",
+				"InitialPos:fff":	[-2675.6650390625, -1152.0531005859375, -5529.24658203125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Trigger Plat Path",
+				"Name:s":	"Trigger Plat Path",
+				"Pos:fff":	[-2675.6650390625, -1152.0531005859375, -5529.24658203125],
+				"BBox:ffffff":	[-2725.6650390625, -1202.0531005859375, -5579.24658203125, -2625.6650390625, -1102.0531005859375, -5479.24658203125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"ItemList",
+		"row_count":	1,
+		"rows":	[{
+				"Item:d":	60
+			}]
+	}, {
+		"name":	"ValidItems",
+		"row_count":	1,
+		"rows":	[{
+				"Number:d":	1,
+				"ValidItem0:d":	60
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	1,
+		"rows":	[{
+				"Guid:g":	"CD588E10_3F1B9000"
+			}]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD588B91_99FA4400",
+				"bHasTargetGuids:d":	1,
+				"UsesInven:d":	1,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	0,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	1,
+				"nActivators:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"platform_slide.xsc",
+				"InitialPos:fff":	[-10682.8349609375, 800.6285400390625, -6103.96533203125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Trigger Plat Slide",
+				"Name:s":	"Trigger Plat Slide",
+				"Pos:fff":	[-10682.8349609375, 800.6285400390625, -6103.96533203125],
+				"BBox:ffffff":	[-10732.8349609375, 750.6285400390625, -6153.96533203125, -10632.8349609375, 850.6285400390625, -6053.96533203125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"ItemList",
+		"row_count":	1,
+		"rows":	[{
+				"Item:d":	60
+			}]
+	}, {
+		"name":	"ValidItems",
+		"row_count":	1,
+		"rows":	[{
+				"Number:d":	1,
+				"ValidItem0:d":	60
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	5,
+		"rows":	[{
+				"Guid:g":	"CD588790_3EDF1800"
+			}, {
+				"Guid:g":	"CD588790_3EE51001"
+			}, {
+				"Guid:g":	"CD588790_3EE7F001"
+			}, {
+				"Guid:g":	"CD588790_3EE9A401"
+			}, {
+				"Guid:g":	"CD588790_3EEB6001"
+			}]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD60E_C886B000",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	1,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	1,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	1,
+				"nActivators:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"end_level.xsc",
+				"InitialPos:fff":	[-6402.2138671875, 837.30767822265625, -9217.787109375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-26, -26.5, -14.500002861022949, 26, 26.5, 14.500002861022949],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Trigger_TrollLockThing",
+				"Name:s":	"Trigger_TrollLockThing",
+				"Pos:fff":	[-6402.2138671875, 837.30767822265625, -9217.787109375],
+				"BBox:ffffff":	[-6428.2138671875, 810.80767822265625, -9232.287109375, -6376.2138671875, 863.80767822265625, -9203.287109375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[26, 26.5, 14.500002861022949],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"ItemList",
+		"row_count":	1,
+		"rows":	[{
+				"Item:d":	159
+			}]
+	}, {
+		"name":	"ValidItems",
+		"row_count":	1,
+		"rows":	[{
+				"Number:d":	0
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}]

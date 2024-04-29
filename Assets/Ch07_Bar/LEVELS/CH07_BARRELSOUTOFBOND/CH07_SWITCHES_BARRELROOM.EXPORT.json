@@ -1,0 +1,131 @@
+[{
+		"name":	"Switch",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADB0E_9A353800",
+				"On:d":	0,
+				"TargetLoops:d":	1,
+				"ReverseAnimForOff:d":	0,
+				"ToggleDelay:f":	8,
+				"RockCanTrigger:d":	1,
+				"bHasTargetGuids:d":	0,
+				"Name:s":	"Barrel Door Switch 001",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"",
+				"Pos:fff":	[-10563.23046875, -461.033935546875, 4421.6650390625],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[0.78740197420120239, 0.78740197420120239, 0.78740197420120239],
+				"BBox:ffffff":	[-10613.23046875, -511.033935546875, 4371.6650390625, -10513.23046875, -411.033935546875, 4471.6650390625],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	0,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	8608,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Barrel Door Switch 001",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADDCE_744FE001",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	1,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	1,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	1,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	3,
+				"nActivators:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"trigger_galion.xsc",
+				"InitialPos:fff":	[-9444.7919921875, -684.16229248046875, 4221.92919921875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-34.09765625, -38.404388427734375, -34.09765625, 34.09765625, 38.404388427734375, 34.09765625],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Galion_Cup",
+				"Name:s":	"Galion_Cup",
+				"Pos:fff":	[-9444.7919921875, -684.16229248046875, 4221.92919921875],
+				"BBox:ffffff":	[-9478.8896484375, -722.566650390625, 4187.83154296875, -9410.6943359375, -645.7579345703125, 4256.02685546875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[34.09765625, 38.404388427734375, 34.09765625],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"ItemList",
+		"row_count":	3,
+		"rows":	[{
+				"Item:d":	138
+			}, {
+				"Item:d":	137
+			}, {
+				"Item:d":	136
+			}]
+	}, {
+		"name":	"ValidItems",
+		"row_count":	3,
+		"rows":	[{
+				"Number:d":	3,
+				"ValidItem0:d":	138,
+				"ValidItem1:d":	136,
+				"ValidItem2:d":	137
+			}, {
+				"Number:d":	3,
+				"ValidItem0:d":	137,
+				"ValidItem1:d":	138,
+				"ValidItem2:d":	136
+			}, {
+				"Number:d":	3,
+				"ValidItem0:d":	136,
+				"ValidItem1:d":	137,
+				"ValidItem2:d":	138
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}]

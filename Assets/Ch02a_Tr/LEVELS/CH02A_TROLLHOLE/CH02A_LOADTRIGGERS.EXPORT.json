@@ -1,0 +1,1386 @@
+[{
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD588210_E2A22801",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-5457.08642578125, -885.96173095703125, -10526.498046875],
+				"Orientation:fff":	[0, -8.99996280670166, 0],
+				"LocalBoundingBox:ffffff":	[-115.43670654296875, -485.77175903320312, -424.861083984375, 115.43670654296875, 485.77175903320312, 424.861083984375],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LT Area1 Load 001",
+				"Name:s":	"LT Area1 Load 001",
+				"Pos:fff":	[-5457.08642578125, -885.96173095703125, -10526.498046875],
+				"BBox:ffffff":	[-5572.52294921875, -1371.7335205078125, -10951.359375, -5341.64990234375, -400.18997192382812, -10101.63671875],
+				"Orient:fff":	[0, -8.99996280670166, 0],
+				"HalfDimensions:fff":	[50, 485.77175903320312, 422.23782348632812],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	5,
+		"rows":	[{
+				"Layer:s":	"CH02a_Area1_Creatures"
+			}, {
+				"Layer:s":	"CH02a_Area1_Instances"
+			}, {
+				"Layer:s":	"CH02a_Area1_Playsurfaces"
+			}, {
+				"Layer:s":	"CH02a_Area1_Trees_LOD"
+			}, {
+				"Layer:s":	"CH02a_Area1_NPC"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD588210_E2BA2804",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-4777.6328125, 71.58111572265625, -8893.9775390625],
+				"Orientation:fff":	[0, -121.94999694824219, 0],
+				"LocalBoundingBox:ffffff":	[-384.73208618164062, -485.77175903320312, -265.8648681640625, 384.73208618164062, 485.77175903320312, 265.8648681640625],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LT Area1 Load 002",
+				"Name:s":	"LT Area1 Load 002",
+				"Pos:fff":	[-4777.6328125, 71.58111572265625, -8893.9775390625],
+				"BBox:ffffff":	[-5162.36474609375, -414.19064331054687, -9159.8427734375, -4392.90087890625, 557.3529052734375, -8628.1123046875],
+				"Orient:fff":	[0, -121.94999694824219, 0],
+				"HalfDimensions:fff":	[50, 485.77175903320312, 422.23782348632812],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	6,
+		"rows":	[{
+				"Layer:s":	"CH02a_Area1_Creatures"
+			}, {
+				"Layer:s":	"CH02a_Area1_Instances"
+			}, {
+				"Layer:s":	"CH02a_Area1_Playsurfaces"
+			}, {
+				"Layer:s":	"CH02a_Area1_Trees_LOD"
+			}, {
+				"Layer:s":	"CH02a_Area1_NPC"
+			}, {
+				"Layer:s":	"CH02a_Skybox"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD588210_E2CE4804",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-8954.09375, 502.0086669921875, -9924.4716796875],
+				"Orientation:fff":	[0, -97.199989318847656, 0],
+				"LocalBoundingBox:ffffff":	[-324.63699340820312, -306.03622436523437, -89.82525634765625, 324.63699340820312, 306.03622436523437, 89.82525634765625],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LT Area1 Load 004",
+				"Name:s":	"LT Area1 Load 004",
+				"Pos:fff":	[-8954.09375, 502.0086669921875, -9924.4716796875],
+				"BBox:ffffff":	[-9278.73046875, 195.97244262695312, -10014.296875, -8629.45703125, 808.044921875, -9834.646484375],
+				"Orient:fff":	[0, -97.199989318847656, 0],
+				"HalfDimensions:fff":	[50, 306.03622436523437, 320.90072631835937],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	6,
+		"rows":	[{
+				"Layer:s":	"CH02a_Area1_Creatures"
+			}, {
+				"Layer:s":	"CH02a_Area1_Instances"
+			}, {
+				"Layer:s":	"CH02a_Area1_Playsurfaces"
+			}, {
+				"Layer:s":	"CH02a_Area1_Trees_LOD"
+			}, {
+				"Layer:s":	"CH02a_Area1_NPC"
+			}, {
+				"Layer:s":	"CH02a_Skybox"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD588210_E2CFEC02",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-7927.7099609375, 982.2274169921875, -9846.5654296875],
+				"Orientation:fff":	[0, -74.699943542480469, 0],
+				"LocalBoundingBox:ffffff":	[-322.72079467773437, -306.03622436523437, -132.90519714355469, 322.72079467773437, 306.03622436523437, 132.90519714355469],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LT Area1 Load 005",
+				"Name:s":	"LT Area1 Load 005",
+				"Pos:fff":	[-7927.7099609375, 982.2274169921875, -9846.5654296875],
+				"BBox:ffffff":	[-8250.4306640625, 676.191162109375, -9979.470703125, -7604.9892578125, 1288.263671875, -9713.66015625],
+				"Orient:fff":	[0, -74.699943542480469, 0],
+				"HalfDimensions:fff":	[50, 306.03622436523437, 320.90072631835937],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	6,
+		"rows":	[{
+				"Layer:s":	"CH02a_Area1_Creatures"
+			}, {
+				"Layer:s":	"CH02a_Area1_Instances"
+			}, {
+				"Layer:s":	"CH02a_Area1_Playsurfaces"
+			}, {
+				"Layer:s":	"CH02a_Area1_Trees_LOD"
+			}, {
+				"Layer:s":	"CH02a_Area1_NPC"
+			}, {
+				"Layer:s":	"CH02a_Skybox"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD588210_E2A2C801",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-5016.8466796875, -1095.1488037109375, -10618.169921875],
+				"Orientation:fff":	[0, 20.2499885559082, 0],
+				"LocalBoundingBox:ffffff":	[-193.05322265625, -485.77175903320312, -413.44573974609375, 193.05322265625, 485.77175903320312, 413.44573974609375],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LT Area1 Unload 001",
+				"Name:s":	"LT Area1 Unload 001",
+				"Pos:fff":	[-5016.8466796875, -1095.1488037109375, -10618.169921875],
+				"BBox:ffffff":	[-5209.89990234375, -1580.9205322265625, -11031.615234375, -4823.79345703125, -609.3770751953125, -10204.724609375],
+				"Orient:fff":	[0, 20.2499885559082, 0],
+				"HalfDimensions:fff":	[50, 485.77175903320312, 422.23782348632812],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"CH02a_Skybox"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	5,
+		"rows":	[{
+				"UnloadLayer:s":	"CH02a_Area1_Creatures"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area1_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area1_Instances"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area1_Trees_LOD"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area1_NPC"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD588210_E2BA2802",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-4949.99853515625, -137.60595703125, -8565.2919921875],
+				"Orientation:fff":	[0, -116.54998016357422, 0],
+				"LocalBoundingBox:ffffff":	[-400.05953979492187, -485.77175903320312, -233.45846557617187, 400.05953979492187, 485.77175903320312, 233.45846557617187],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LT Area1 Unload 002",
+				"Name:s":	"LT Area1 Unload 002",
+				"Pos:fff":	[-4949.99853515625, -137.60595703125, -8565.2919921875],
+				"BBox:ffffff":	[-5350.05810546875, -623.377685546875, -8798.75, -4549.93896484375, 348.16580200195312, -8331.833984375],
+				"Orient:fff":	[0, -116.54998016357422, 0],
+				"HalfDimensions:fff":	[50, 485.77175903320312, 422.23782348632812],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	6,
+		"rows":	[{
+				"UnloadLayer:s":	"CH02a_Area1_Creatures"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area1_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area1_Instances"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area1_Trees_LOD"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area1_NPC"
+			}, {
+				"UnloadLayer:s":	"CH02a_Skybox"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD588210_E2CE4802",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-8945.271484375, 441.98150634765625, -9594.201171875],
+				"Orientation:fff":	[0, -99.4499969482422, 0],
+				"LocalBoundingBox:ffffff":	[-312.260009765625, -293.7947998046875, -99.9293670654297, 312.260009765625, 293.7947998046875, 99.9293670654297],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LT Area1 Unload 004",
+				"Name:s":	"LT Area1 Unload 004",
+				"Pos:fff":	[-8945.271484375, 441.98150634765625, -9594.201171875],
+				"BBox:ffffff":	[-9257.53125, 148.18670654296875, -9694.130859375, -8633.01171875, 735.77630615234375, -9494.271484375],
+				"Orient:fff":	[0, -99.4499969482422, 0],
+				"HalfDimensions:fff":	[50, 293.7947998046875, 308.23361206054687],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	6,
+		"rows":	[{
+				"UnloadLayer:s":	"CH02a_Area1_Creatures"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area1_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area1_Instances"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area1_Trees_LOD"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area1_NPC"
+			}, {
+				"UnloadLayer:s":	"CH02a_Skybox"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD588210_E2CFEC04",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-7793.17041015625, 1034.86669921875, -9544.8115234375],
+				"Orientation:fff":	[0, -76.949943542480469, 0],
+				"LocalBoundingBox:ffffff":	[-311.56301879882813, -293.7947998046875, -118.3084716796875, 311.56301879882813, 293.7947998046875, 118.3084716796875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LT Area1 Unload 005",
+				"Name:s":	"LT Area1 Unload 005",
+				"Pos:fff":	[-7793.17041015625, 1034.86669921875, -9544.8115234375],
+				"BBox:ffffff":	[-8104.7333984375, 741.0718994140625, -9663.1201171875, -7481.607421875, 1328.6614990234375, -9426.5029296875],
+				"Orient:fff":	[0, -76.949943542480469, 0],
+				"HalfDimensions:fff":	[50, 293.7947998046875, 308.23361206054687],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	6,
+		"rows":	[{
+				"UnloadLayer:s":	"CH02a_Area1_Creatures"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area1_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area1_Instances"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area1_Trees_LOD"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area1_NPC"
+			}, {
+				"UnloadLayer:s":	"CH02a_Skybox"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD588210_E27F4001",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-6713.3125, -676.12744140625, -11826.2841796875],
+				"Orientation:fff":	[0, -82.350013732910156, 0],
+				"LocalBoundingBox:ffffff":	[-425.13583374023437, -485.77175903320312, -105.76371002197266, 425.13583374023437, 485.77175903320312, 105.76371002197266],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LT Area3 Load 001",
+				"Name:s":	"LT Area3 Load 001",
+				"Pos:fff":	[-6713.3125, -676.12744140625, -11826.2841796875],
+				"BBox:ffffff":	[-7138.4482421875, -1161.899169921875, -11932.0478515625, -6288.1767578125, -190.35568237304687, -11720.5205078125],
+				"Orient:fff":	[0, -82.350013732910156, 0],
+				"HalfDimensions:fff":	[50, 485.77175903320312, 422.23782348632812],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	6,
+		"rows":	[{
+				"Layer:s":	"CH02a_Area3_Instances"
+			}, {
+				"Layer:s":	"CH02a_Area3_Creatures"
+			}, {
+				"Layer:s":	"CH02a_Area2_Creatures"
+			}, {
+				"Layer:s":	"CH02a_Area3_Playsurfaces"
+			}, {
+				"Layer:s":	"CH02a_Area2_Instances"
+			}, {
+				"Layer:s":	"CH02a_Area2_Playsurfaces"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	6,
+		"rows":	[{
+				"UnloadLayer:s":	"CH02a_Area5_Instances"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area5_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area6_Instances"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area6_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area8_Instances"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area8_Playsurfaces"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD588210_E2B3F004",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-5897.52587890625, -232.916748046875, -5281.11083984375],
+				"Orientation:fff":	[0, -86.849967956542969, 0],
+				"LocalBoundingBox:ffffff":	[-424.34738159179687, -485.77175903320312, -73.126693725585938, 424.34738159179687, 485.77175903320312, 73.126693725585938],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LT Area3 Load 002",
+				"Name:s":	"LT Area3 Load 002",
+				"Pos:fff":	[-5897.52587890625, -232.916748046875, -5281.11083984375],
+				"BBox:ffffff":	[-6321.873046875, -718.6884765625, -5354.2373046875, -5473.1787109375, 252.85501098632812, -5207.984375],
+				"Orient:fff":	[0, -86.849967956542969, 0],
+				"HalfDimensions:fff":	[50, 485.77175903320312, 422.23782348632812],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	3,
+		"rows":	[{
+				"Layer:s":	"CH02a_Area3_Creatures"
+			}, {
+				"Layer:s":	"CH02a_Area3_Instances"
+			}, {
+				"Layer:s":	"CH02a_Area3_Playsurfaces"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD588210_E2B6C001",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-1575.851318359375, -425.3265380859375, -8715.12890625],
+				"Orientation:fff":	[1.0898230075836182, -87.044319152832031, -20.221857070922852],
+				"LocalBoundingBox:ffffff":	[-1356.0836181640625, -498.80581665039062, -284.8480224609375, 1356.0836181640625, 498.80581665039062, 284.8480224609375],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LT Area3 Load 003",
+				"Name:s":	"LT Area3 Load 003",
+				"Pos:fff":	[-1575.851318359375, -425.3265380859375, -8715.12890625],
+				"BBox:ffffff":	[-2931.93505859375, -924.13232421875, -8999.9765625, -219.7677001953125, 73.479278564453125, -8430.28125],
+				"Orient:fff":	[1.0898230075836182, -87.044319152832031, -20.221857070922852],
+				"HalfDimensions:fff":	[50, 485.77175903320312, 1355.3836669921875],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	3,
+		"rows":	[{
+				"Layer:s":	"CH02a_Area3_Creatures"
+			}, {
+				"Layer:s":	"CH02a_Area3_Instances"
+			}, {
+				"Layer:s":	"CH02a_Area3_Playsurfaces"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	5,
+		"rows":	[{
+				"UnloadLayer:s":	"CH02a_Area1_Creatures"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area1_Instances"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area1_NPC"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area1_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area1_Trees_LOD"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD588210_E297DC01",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-6698.83056640625, -676.1273193359375, -12061.76171875],
+				"Orientation:fff":	[0, -81.45001220703125, 0],
+				"LocalBoundingBox:ffffff":	[-424.9788818359375, -485.77175903320312, -112.21931457519531, 424.9788818359375, 485.77175903320312, 112.21931457519531],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LT Area3 Unload 001",
+				"Name:s":	"LT Area3 Unload 001",
+				"Pos:fff":	[-6698.83056640625, -676.1273193359375, -12061.76171875],
+				"BBox:ffffff":	[-7123.8095703125, -1161.8990478515625, -12173.9814453125, -6273.8515625, -190.35556030273438, -11949.5419921875],
+				"Orient:fff":	[0, -81.45001220703125, 0],
+				"HalfDimensions:fff":	[50, 485.77175903320312, 422.23782348632812],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	6,
+		"rows":	[{
+				"Layer:s":	"CH02a_Area5_Playsurfaces"
+			}, {
+				"Layer:s":	"CH02a_Area5_Instances"
+			}, {
+				"Layer:s":	"CH02a_Area6_Playsurfaces"
+			}, {
+				"Layer:s":	"CH02a_Area6_Instances"
+			}, {
+				"Layer:s":	"CH02a_Area8_Instances"
+			}, {
+				"Layer:s":	"CH02a_Area8_Playsurfaces"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	6,
+		"rows":	[{
+				"UnloadLayer:s":	"CH02a_Area3_Creatures"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area3_Instances"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area2_Creatures"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area3_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area2_Instances"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area2_Playsurfaces"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD588210_E2B3F002",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-5857.0859375, -252.13156127929687, -5768.58447265625],
+				"Orientation:fff":	[0, -105.75001525878906, 0],
+				"LocalBoundingBox:ffffff":	[-419.95700073242187, -485.77175903320312, -162.73529052734375, 419.95700073242187, 485.77175903320312, 162.73529052734375],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LT Area3 Unload 002",
+				"Name:s":	"LT Area3 Unload 002",
+				"Pos:fff":	[-5857.0859375, -252.13156127929687, -5768.58447265625],
+				"BBox:ffffff":	[-6277.04296875, -737.9033203125, -5931.31982421875, -5437.12890625, 233.64019775390625, -5605.84912109375],
+				"Orient:fff":	[0, -105.75001525878906, 0],
+				"HalfDimensions:fff":	[50, 485.77175903320312, 422.23782348632812],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	4,
+		"rows":	[{
+				"UnloadLayer:s":	"CH02a_Area3_Creatures"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area3_Instances"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area3_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area4_NPC"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD588210_E2A48401",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2103.14501953125, -1434.779541015625, -11655.0927734375],
+				"Orientation:fff":	[0, 31.950016021728516, 0],
+				"LocalBoundingBox:ffffff":	[-265.864990234375, -485.77175903320312, -384.73199462890625, 265.864990234375, 485.77175903320312, 384.73199462890625],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LT Area4 Load 001",
+				"Name:s":	"LT Area4 Load 001",
+				"Pos:fff":	[-2103.14501953125, -1434.779541015625, -11655.0927734375],
+				"BBox:ffffff":	[-2369.010009765625, -1920.55126953125, -12039.8251953125, -1837.280029296875, -949.0078125, -11270.3603515625],
+				"Orient:fff":	[0, 31.950016021728516, 0],
+				"HalfDimensions:fff":	[50, 485.77175903320312, 422.23782348632812],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	4,
+		"rows":	[{
+				"Layer:s":	"CH02a_Area4_Creatures"
+			}, {
+				"Layer:s":	"CH02a_Area4_Instances"
+			}, {
+				"Layer:s":	"CH02a_Area4_Playsurfaces"
+			}, {
+				"Layer:s":	"CH02a_Area4_NPC"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD588210_E2BE1001",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-5346.8076171875, 107.37786865234375, -11472.7685546875],
+				"Orientation:fff":	[0, 111.60002899169922, 0],
+				"LocalBoundingBox:ffffff":	[-328.70675659179687, -283.69076538085937, -169.34567260742187, 328.70675659179687, 283.69076538085937, 169.34567260742187],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LT Area4 Load 002",
+				"Name:s":	"LT Area4 Load 002",
+				"Pos:fff":	[-5346.8076171875, 107.37786865234375, -11472.7685546875],
+				"BBox:ffffff":	[-5675.51416015625, -176.31289672851562, -11642.1142578125, -5018.10107421875, 391.06863403320312, -11303.4228515625],
+				"Orient:fff":	[0, 111.60002899169922, 0],
+				"HalfDimensions:fff":	[50, 283.69076538085937, 333.73672485351562],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	4,
+		"rows":	[{
+				"Layer:s":	"CH02a_Area4_Creatures"
+			}, {
+				"Layer:s":	"CH02a_Area4_Instances"
+			}, {
+				"Layer:s":	"CH02a_Area4_Playsurfaces"
+			}, {
+				"Layer:s":	"CH02a_Area4_NPC"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	5,
+		"rows":	[{
+				"UnloadLayer:s":	"CH02a_Area1-2_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area8_Instances"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area8_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area6_Instances"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area6_Playsurfaces"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD588210_E2A54C01",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-4599.318359375, -1203.975341796875, -11067.5205078125],
+				"Orientation:fff":	[0, 31.950016021728516, 0],
+				"LocalBoundingBox:ffffff":	[-328.427978515625, -514.91796875, -485.04837036132812, 328.427978515625, 514.91796875, 485.04837036132812],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LT Area4 Unoad 001",
+				"Name:s":	"LT Area4 Unoad 001",
+				"Pos:fff":	[-4599.318359375, -1203.975341796875, -11067.5205078125],
+				"BBox:ffffff":	[-4927.74609375, -1718.893310546875, -11552.5693359375, -4270.890625, -689.057373046875, -10582.4716796875],
+				"Orient:fff":	[0, 31.950016021728516, 0],
+				"HalfDimensions:fff":	[50, 514.91796875, 540.46429443359375],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	5,
+		"rows":	[{
+				"UnloadLayer:s":	"CH02a_Area4_Creatures"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area4_Instances"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area4_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area4_NPC"
+			}, {
+				"UnloadLayer:s":	"CH02a_Skybox"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD588210_E2BD7001",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-5430.76220703125, 83.805908203125, -11667.4326171875],
+				"Orientation:fff":	[0, 121.050048828125, 0],
+				"LocalBoundingBox:ffffff":	[-527.73443603515625, -282.89593505859375, -345.031982421875, 527.73443603515625, 282.89593505859375, 345.031982421875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LT Area4 Unoad 002",
+				"Name:s":	"LT Area4 Unoad 002",
+				"Pos:fff":	[-5430.76220703125, 83.805908203125, -11667.4326171875],
+				"BBox:ffffff":	[-5958.49658203125, -199.09002685546875, -12012.46484375, -4903.02783203125, 366.70184326171875, -11322.400390625],
+				"Orient:fff":	[0, 121.050048828125, 0],
+				"HalfDimensions:fff":	[50, 282.89593505859375, 585.8936767578125],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	5,
+		"rows":	[{
+				"Layer:s":	"CH02a_Area1-2_Playsurfaces"
+			}, {
+				"Layer:s":	"CH02a_Area8_Instances"
+			}, {
+				"Layer:s":	"CH02a_Area8_Playsurfaces"
+			}, {
+				"Layer:s":	"CH02a_Area6_Instances"
+			}, {
+				"Layer:s":	"CH02a_Area6_Playsurfaces"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	4,
+		"rows":	[{
+				"UnloadLayer:s":	"CH02a_Area4_Creatures"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area4_Instances"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area4_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area4_NPC"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD588210_E2A6F001",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[1108.6534423828125, -1302.02685546875, -9477.41015625],
+				"Orientation:fff":	[0, 68.849983215332031, 0],
+				"LocalBoundingBox:ffffff":	[-411.83599853515625, -485.77175903320312, -198.98001098632812, 411.83599853515625, 485.77175903320312, 198.98001098632812],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LT Area5 Load",
+				"Name:s":	"LT Area5 Load",
+				"Pos:fff":	[1108.6534423828125, -1302.02685546875, -9477.41015625],
+				"BBox:ffffff":	[696.81744384765625, -1787.798583984375, -9676.390625, 1520.489501953125, -816.255126953125, -9278.4296875],
+				"Orient:fff":	[0, 68.849983215332031, 0],
+				"HalfDimensions:fff":	[50, 485.77175903320312, 422.23782348632812],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	3,
+		"rows":	[{
+				"Layer:s":	"CH02a_Area5_Creatures"
+			}, {
+				"Layer:s":	"CH02a_Area5_Instances"
+			}, {
+				"Layer:s":	"CH02a_Area5_Playsurfaces"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	4,
+		"rows":	[{
+				"UnloadLayer:s":	"CH02a_Area2_Creatures"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area2_Instances"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area2_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area1-2_Playsurfaces"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD588210_E2A96401",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[1378.6141357421875, -1302.027099609375, -10064.3583984375],
+				"Orientation:fff":	[0, 87.750030517578125, 0],
+				"LocalBoundingBox:ffffff":	[-423.87527465820313, -485.77175903320312, -66.538169860839844, 423.87527465820313, 485.77175903320312, 66.538169860839844],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LT Area5 Unload",
+				"Name:s":	"LT Area5 Unload",
+				"Pos:fff":	[1378.6141357421875, -1302.027099609375, -10064.3583984375],
+				"BBox:ffffff":	[954.7388916015625, -1787.798828125, -10130.896484375, 1802.4893798828125, -816.25537109375, -9997.8203125],
+				"Orient:fff":	[0, 87.750030517578125, 0],
+				"HalfDimensions:fff":	[50, 485.77175903320312, 422.23782348632812],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	4,
+		"rows":	[{
+				"Layer:s":	"CH02a_Area2_Creatures"
+			}, {
+				"Layer:s":	"CH02a_Area2_Instances"
+			}, {
+				"Layer:s":	"CH02a_Area2_Playsurfaces"
+			}, {
+				"Layer:s":	"CH02a_Area1-2_Playsurfaces"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	3,
+		"rows":	[{
+				"UnloadLayer:s":	"CH02a_Area5_Creatures"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area5_Instances"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area5_Playsurfaces"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD588210_E2CA3C04",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-7782.2333984375, 436.39620971679687, -10912.7158203125],
+				"Orientation:fff":	[0, -169.64997863769531, 0],
+				"LocalBoundingBox:ffffff":	[-101.52958679199219, -318.27764892578125, -295.58657836914062, 101.52958679199219, 318.27764892578125, 295.58657836914062],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LT Area7 Load 001",
+				"Name:s":	"LT Area7 Load 001",
+				"Pos:fff":	[-7782.2333984375, 436.39620971679687, -10912.7158203125],
+				"BBox:ffffff":	[-7883.76318359375, 118.11856079101562, -11208.302734375, -7680.70361328125, 754.673828125, -10617.12890625],
+				"Orient:fff":	[0, -169.64997863769531, 0],
+				"HalfDimensions:fff":	[50, 318.27764892578125, 291.34408569335937],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	3,
+		"rows":	[{
+				"Layer:s":	"CH02a_Area7_Creatures"
+			}, {
+				"Layer:s":	"CH02a_Area7_Instances"
+			}, {
+				"Layer:s":	"CH02a_Area7_Playsurfaces"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	5,
+		"rows":	[{
+				"UnloadLayer:s":	"CH02a_Area5_Instances"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area5_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area1-2_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area8_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area8_Instances"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD588210_E2D15802",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-8125.0341796875, 952.1661376953125, -11422.4873046875],
+				"Orientation:fff":	[0, -150.30000305175781, 0],
+				"LocalBoundingBox:ffffff":	[-187.780517578125, -318.27764892578125, -277.84359741210937, 187.780517578125, 318.27764892578125, 277.84359741210937],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LT Area7 Load 002",
+				"Name:s":	"LT Area7 Load 002",
+				"Pos:fff":	[-8125.0341796875, 952.1661376953125, -11422.4873046875],
+				"BBox:ffffff":	[-8312.814453125, 633.88848876953125, -11700.3310546875, -7937.25390625, 1270.44384765625, -11144.6435546875],
+				"Orient:fff":	[0, -150.30000305175781, 0],
+				"HalfDimensions:fff":	[50, 318.27764892578125, 291.34408569335937],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	3,
+		"rows":	[{
+				"Layer:s":	"CH02a_Area7_Creatures"
+			}, {
+				"Layer:s":	"CH02a_Area7_Instances"
+			}, {
+				"Layer:s":	"CH02a_Area7_Playsurfaces"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	6,
+		"rows":	[{
+				"UnloadLayer:s":	"CH02a_Area5_Instances"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area5_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area1-2_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area8_Creatures"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area8_Instances"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area8_Playsurfaces"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD588210_E2CA3C02",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-7547.826171875, 398.99600219726562, -11005.3955078125],
+				"Orientation:fff":	[0, -166.04998779296875, 0],
+				"LocalBoundingBox:ffffff":	[-115.70744323730469, -237.83387756347656, -282.51153564453125, 115.70744323730469, 237.83387756347656, 282.51153564453125],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LT Area7 Unload 001",
+				"Name:s":	"LT Area7 Unload 001",
+				"Pos:fff":	[-7547.826171875, 398.99600219726562, -11005.3955078125],
+				"BBox:ffffff":	[-7663.53369140625, 161.16212463378906, -11287.9072265625, -7432.11865234375, 636.82989501953125, -10722.8837890625],
+				"Orient:fff":	[0, -166.04998779296875, 0],
+				"HalfDimensions:fff":	[50, 237.83387756347656, 278.67694091796875],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	5,
+		"rows":	[{
+				"Layer:s":	"CH02a_Area5_Playsurfaces"
+			}, {
+				"Layer:s":	"CH02a_Area5_Instances"
+			}, {
+				"Layer:s":	"CH02a_Area1-2_Playsurfaces"
+			}, {
+				"Layer:s":	"CH02a_Area8_Playsurfaces"
+			}, {
+				"Layer:s":	"CH02a_Area8_Instances"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	3,
+		"rows":	[{
+				"UnloadLayer:s":	"CH02a_Area7_Creatures"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area7_Instances"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area7_Playsurfaces"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD588210_E2D15804",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-7934.576171875, 844.97021484375, -11587.6005859375],
+				"Orientation:fff":	[0, -146.69999694824219, 0],
+				"LocalBoundingBox:ffffff":	[-194.79034423828125, -237.83387756347656, -260.37136840820312, 194.79034423828125, 237.83387756347656, 260.37136840820312],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LT Area7 Unload 002",
+				"Name:s":	"LT Area7 Unload 002",
+				"Pos:fff":	[-7934.576171875, 844.97021484375, -11587.6005859375],
+				"BBox:ffffff":	[-8129.36669921875, 607.1363525390625, -11847.9716796875, -7739.78564453125, 1082.8040771484375, -11327.2294921875],
+				"Orient:fff":	[0, -146.69999694824219, 0],
+				"HalfDimensions:fff":	[50, 237.83387756347656, 278.67694091796875],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	6,
+		"rows":	[{
+				"Layer:s":	"CH02a_Area5_Playsurfaces"
+			}, {
+				"Layer:s":	"CH02a_Area5_Instances"
+			}, {
+				"Layer:s":	"CH02a_Area1-2_Playsurfaces"
+			}, {
+				"Layer:s":	"CH02a_Area8_Creatures"
+			}, {
+				"Layer:s":	"CH02a_Area8_Instances"
+			}, {
+				"Layer:s":	"CH02a_Area8_Playsurfaces"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	3,
+		"rows":	[{
+				"UnloadLayer:s":	"CH02a_Area7_Creatures"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area7_Instances"
+			}, {
+				"UnloadLayer:s":	"CH02a_Area7_Playsurfaces"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD588610_F161A001",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-6542.97802734375, -1763.1353759765625, -14727.1376953125],
+				"Orientation:fff":	[0, -25.649999618530273, 0],
+				"LocalBoundingBox:ffffff":	[-169.45179748535156, -250.97996520996094, -280.662353515625, 169.45179748535156, 250.97996520996094, 280.662353515625],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LT Tree LOD Change Load",
+				"Name:s":	"LT Tree LOD Change Load",
+				"Pos:fff":	[-6542.97802734375, -1763.1353759765625, -14727.1376953125],
+				"BBox:ffffff":	[-6712.4296875, -2014.1153564453125, -15007.7998046875, -6373.5263671875, -1512.1553955078125, -14446.4755859375],
+				"Orient:fff":	[0, -25.649999618530273, 0],
+				"HalfDimensions:fff":	[50, 250.97996520996094, 287.33404541015625],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"CH02a_Area1_Trees_LOD"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadLayer:s":	"CH02a_Area1_Trees_Full"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD588210_E27BB400",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-6691.05712890625, -1701.989013671875, -14835.9033203125],
+				"Orientation:fff":	[0, -25.649999618530273, 0],
+				"LocalBoundingBox:ffffff":	[-215.47207641601562, -250.97996520996094, -376.4993896484375, 215.47207641601562, 250.97996520996094, 376.4993896484375],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LT Tree LOD Change Unload",
+				"Name:s":	"LT Tree LOD Change Unload",
+				"Pos:fff":	[-6691.05712890625, -1701.989013671875, -14835.9033203125],
+				"BBox:ffffff":	[-6906.529296875, -1952.968994140625, -15212.40234375, -6475.5849609375, -1451.009033203125, -14459.404296875],
+				"Orient:fff":	[0, -25.649999618530273, 0],
+				"HalfDimensions:fff":	[50, 250.97996520996094, 393.64773559570312],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"CH02a_Area1_Trees_Full"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadLayer:s":	"CH02a_Area1_Trees_LOD"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD5886D2_3E513800",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-6279.75390625, 1690.01220703125, -10058.2138671875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LT Unload Area8 Creatures",
+				"Name:s":	"LT Unload Area8 Creatures",
+				"Pos:fff":	[-6279.75390625, 1690.01220703125, -10058.2138671875],
+				"BBox:ffffff":	[-6329.75390625, 1640.01220703125, -10108.2138671875, -6229.75390625, 1740.01220703125, -10008.2138671875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadLayer:s":	"CH02a_Area8_Creatures"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD2CF_60868000",
+				"Teleport:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-4007.3857421875, -1159.2484130859375, -21372.73046875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-134.99998474121094, -214.26644897460937, -153.44998168945312, 134.99998474121094, 214.26644897460937, 153.44998168945312],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Teleporter_EOL",
+				"Name:s":	"Teleporter_EOL",
+				"Pos:fff":	[-4007.3857421875, -1159.2484130859375, -21372.73046875],
+				"BBox:ffffff":	[-4142.3857421875, -1373.514892578125, -21526.1796875, -3872.3857421875, -944.98193359375, -21219.28125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[134.99998474121094, 214.26644897460937, 153.44998168945312],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}]

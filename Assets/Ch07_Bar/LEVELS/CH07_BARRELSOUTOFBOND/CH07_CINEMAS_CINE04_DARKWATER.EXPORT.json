@@ -1,0 +1,240 @@
+[{
+		"name":	"Cinema",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C0CFA1CE_84D1DC00",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-1, -1, -1, 1, 1, 1],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Cinema_04_Darkwater",
+				"Repeatable:d":	0,
+				"PopAtEnd:d":	0,
+				"Cinematic:d":	0,
+				"Time:f":	0,
+				"Duration:f":	0,
+				"nShots:d":	0,
+				"nSyncPoints:d":	0,
+				"nActions:d":	0,
+				"nParticipants:d":	0,
+				"InitialShot:d":	0,
+				"BilboInvisible:d":	0,
+				"HasIntroTrans:d":	0,
+				"HasOutroTrans:d":	0,
+				"Skippable:d":	1,
+				"IsDeathCinema:d":	0,
+				"ForceNoWeapon:d":	0,
+				"ForceUseStick:d":	0,
+				"ForceUseSting:d":	0,
+				"Letterbox:d":	1,
+				"DisableControl:d":	0,
+				"BypassQueue:d":	0,
+				"LowPriority:d":	0,
+				"SubtitleInBox:d":	0
+			}]
+	}, {
+		"name":	"Action-1",
+		"row_count":	1,
+		"rows":	[{
+				"Action-1\\Shot:d":	0,
+				"Action-1\\Offset:f":	0,
+				"Action-1\\Duration:f":	1,
+				"Action-1\\SyncPoint:d":	0,
+				"Action-1\\FinishShot:d":	0,
+				"Action-1\\DefaultLength:f":	1,
+				"Action-1\\FXType:d":	3,
+				"Action-1\\Magnitude:f":	0.15000000596046448,
+				"Action-1\\Frequency:f":	20,
+				"Action-1\\Rolling:d":	0,
+				"Action-1\\Fadeout:d":	0,
+				"Action-1\\Color:dddd":	[0, 0, 0, 255],
+				"Action-1\\Target:f":	0
+			}]
+	}, {
+		"name":	"Action-2",
+		"row_count":	1,
+		"rows":	[{
+				"Action-2\\Shot:d":	0,
+				"Action-2\\Offset:f":	0,
+				"Action-2\\Duration:f":	1,
+				"Action-2\\SyncPoint:d":	0,
+				"Action-2\\FinishShot:d":	0,
+				"Action-2\\DefaultLength:f":	1,
+				"Action-2\\FXType:d":	3,
+				"Action-2\\Magnitude:f":	0.15000000596046448,
+				"Action-2\\Frequency:f":	20,
+				"Action-2\\Rolling:d":	0,
+				"Action-2\\Fadeout:d":	0,
+				"Action-2\\Color:dddd":	[0, 0, 0, 255],
+				"Action-2\\Target:f":	0
+			}]
+	}, {
+		"name":	"Cinema",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD910_0FC46400",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-238.54397583007812, -1045.619873046875, -2426.3486328125, 238.54397583007812, 1045.619873046875, 2426.3486328125],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"TEMP_Darkwater Cin",
+				"Repeatable:d":	0,
+				"PopAtEnd:d":	0,
+				"Cinematic:d":	1,
+				"Time:f":	0,
+				"Duration:f":	2.5999999046325684,
+				"nShots:d":	1,
+				"nSyncPoints:d":	1,
+				"nActions:d":	3,
+				"nParticipants:d":	1,
+				"InitialShot:d":	0,
+				"BilboInvisible:d":	0,
+				"HasIntroTrans:d":	0,
+				"HasOutroTrans:d":	0,
+				"Skippable:d":	1,
+				"IsDeathCinema:d":	0,
+				"ForceNoWeapon:d":	0,
+				"ForceUseStick:d":	0,
+				"ForceUseSting:d":	0,
+				"Letterbox:d":	1,
+				"DisableControl:d":	0,
+				"BypassQueue:d":	0,
+				"LowPriority:d":	0,
+				"SubtitleInBox:d":	0
+			}]
+	}, {
+		"name":	"Shot0",
+		"row_count":	1,
+		"rows":	[{
+				"Shot0\\Name:s":	"Shot 0",
+				"Shot0\\NextShot:d":	1,
+				"Shot0\\SkipShot:d":	1,
+				"Shot0\\MaxTime:f":	600,
+				"Shot0\\Time:f":	0
+			}]
+	}, {
+		"name":	"SyncPoint0",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint0\\Name:s":	"Shot 0, Sync 0",
+				"SyncPoint0\\Type:d":	0,
+				"SyncPoint0\\Action:d":	0,
+				"SyncPoint0\\Offset:f":	0,
+				"SyncPoint0\\Shot:d":	0,
+				"SyncPoint0\\FromEnd:d":	1,
+				"SyncPoint0\\AbsoluteTimeStart:f":	0
+			}]
+	}, {
+		"name":	"Action0",
+		"row_count":	1,
+		"rows":	[{
+				"Action0\\Name:s":	"Bilbo Cam",
+				"Action0\\Type:d":	4,
+				"Action0\\Shot:d":	0,
+				"Action0\\Offset:f":	0,
+				"Action0\\Duration:f":	3.0630509853363037,
+				"Action0\\SyncPoint:d":	0,
+				"Action0\\FinishShot:d":	0,
+				"Action0\\DefaultLength:f":	6.6999998092651367,
+				"Action0\\CameraType:d":	0,
+				"Action0\\Target:g":	"0D8AD910_0FCE6C01",
+				"Action0\\Relative:d":	0,
+				"Action0\\StartOrient:fff":	[0, 0, 0],
+				"Action0\\EndOrient:fff":	[0, 0, 0],
+				"Action0\\StartOffset:fff":	[0, 0, 0],
+				"Action0\\EndOffset:fff":	[0, 0, 0],
+				"Action0\\TargetOffset:fff":	[0, 0, 0],
+				"Action0\\StartFOV:f":	1.25663697719574,
+				"Action0\\EndFOV:f":	1.25663697719574,
+				"Action0\\TransitionPop:d":	0,
+				"Action0\\Loop:d":	0,
+				"Action0\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action1",
+		"row_count":	1,
+		"rows":	[{
+				"Action1\\Name:s":	"Bilbo Pop",
+				"Action1\\Type:d":	6,
+				"Action1\\Shot:d":	0,
+				"Action1\\Offset:f":	0,
+				"Action1\\Duration:f":	0,
+				"Action1\\SyncPoint:d":	0,
+				"Action1\\FinishShot:d":	1,
+				"Action1\\DefaultLength:f":	0,
+				"Action1\\Object:g":	"ABCABCAB_CABCABC0",
+				"Action1\\Location:g":	"0D8AD910_0FCCA400",
+				"Action1\\Facing:g":	"0D8AD910_0FCD8401",
+				"Action1\\SetFacing:d":	1,
+				"Action1\\Anim:s":	""
+			}]
+	}, {
+		"name":	"Action2",
+		"row_count":	1,
+		"rows":	[{
+				"Action2\\Name:s":	"Bilbo_07_03",
+				"Action2\\Type:d":	5,
+				"Action2\\Shot:d":	0,
+				"Action2\\Offset:f":	0,
+				"Action2\\Duration:f":	3.0630509853363037,
+				"Action2\\SyncPoint:d":	0,
+				"Action2\\FinishShot:d":	1,
+				"Action2\\DefaultLength:f":	2.17343807220459,
+				"Action2\\Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action2\\Sample:s":	"Bilbo_07_03",
+				"Action2\\ForceEnd:d":	1,
+				"Action2\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Participants",
+		"row_count":	1,
+		"rows":	[{
+				"PGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action-1",
+		"row_count":	1,
+		"rows":	[{
+				"Action-1\\Shot:d":	0,
+				"Action-1\\Offset:f":	0,
+				"Action-1\\Duration:f":	1,
+				"Action-1\\SyncPoint:d":	0,
+				"Action-1\\FinishShot:d":	0,
+				"Action-1\\DefaultLength:f":	1,
+				"Action-1\\FXType:d":	3,
+				"Action-1\\Magnitude:f":	0.15000000596046448,
+				"Action-1\\Frequency:f":	20,
+				"Action-1\\Rolling:d":	0,
+				"Action-1\\Fadeout:d":	0,
+				"Action-1\\Color:dddd":	[0, 0, 0, 255],
+				"Action-1\\Target:f":	0
+			}]
+	}, {
+		"name":	"Action-2",
+		"row_count":	1,
+		"rows":	[{
+				"Action-2\\Shot:d":	0,
+				"Action-2\\Offset:f":	0,
+				"Action-2\\Duration:f":	1,
+				"Action-2\\SyncPoint:d":	0,
+				"Action-2\\FinishShot:d":	0,
+				"Action-2\\DefaultLength:f":	1,
+				"Action-2\\FXType:d":	3,
+				"Action-2\\Magnitude:f":	0.15000000596046448,
+				"Action-2\\Frequency:f":	20,
+				"Action-2\\Rolling:d":	0,
+				"Action-2\\Fadeout:d":	0,
+				"Action-2\\Color:dddd":	[0, 0, 0, 255],
+				"Action-2\\Target:f":	0
+			}]
+	}]

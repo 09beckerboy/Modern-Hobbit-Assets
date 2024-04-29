@@ -1,0 +1,3813 @@
+[{
+		"name":	"Cinema",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C0CFA1CE_84D32400",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-10558, -13075.6982421875, -20479.703125, 10558, 13075.6982421875, 20479.703125],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Cinema_08_Escape",
+				"Repeatable:d":	0,
+				"PopAtEnd:d":	0,
+				"Cinematic:d":	1,
+				"Time:f":	0,
+				"Duration:f":	68.5,
+				"nShots:d":	18,
+				"nSyncPoints:d":	18,
+				"nActions:d":	98,
+				"nParticipants:d":	14,
+				"InitialShot:d":	0,
+				"BilboInvisible:d":	0,
+				"HasIntroTrans:d":	0,
+				"HasOutroTrans:d":	0,
+				"Skippable:d":	1,
+				"IsDeathCinema:d":	0,
+				"ForceNoWeapon:d":	0,
+				"ForceUseStick:d":	0,
+				"ForceUseSting:d":	0,
+				"Letterbox:d":	1,
+				"DisableControl:d":	0,
+				"BypassQueue:d":	0,
+				"LowPriority:d":	0,
+				"SubtitleInBox:d":	0
+			}]
+	}, {
+		"name":	"Shot0",
+		"row_count":	1,
+		"rows":	[{
+				"Shot0\\Name:s":	"SHOT00_BILBO_BY_LEVER",
+				"Shot0\\NextShot:d":	1,
+				"Shot0\\SkipShot:d":	1,
+				"Shot0\\MaxTime:f":	600,
+				"Shot0\\Time:f":	0
+			}]
+	}, {
+		"name":	"Shot1",
+		"row_count":	1,
+		"rows":	[{
+				"Shot1\\Name:s":	"SHOT01_BILBO_PUSH01",
+				"Shot1\\NextShot:d":	2,
+				"Shot1\\SkipShot:d":	2,
+				"Shot1\\MaxTime:f":	600,
+				"Shot1\\Time:f":	1.5
+			}]
+	}, {
+		"name":	"Shot2",
+		"row_count":	1,
+		"rows":	[{
+				"Shot2\\Name:s":	"SHOT02_BILBO_PUSH02",
+				"Shot2\\NextShot:d":	3,
+				"Shot2\\SkipShot:d":	3,
+				"Shot2\\MaxTime:f":	600,
+				"Shot2\\Time:f":	4.53333282470703
+			}]
+	}, {
+		"name":	"Shot3",
+		"row_count":	1,
+		"rows":	[{
+				"Shot3\\Name:s":	"SHOT03_BILBO_PUSH03",
+				"Shot3\\NextShot:d":	4,
+				"Shot3\\SkipShot:d":	4,
+				"Shot3\\MaxTime:f":	600,
+				"Shot3\\Time:f":	7.233332633972168
+			}]
+	}, {
+		"name":	"Shot4",
+		"row_count":	1,
+		"rows":	[{
+				"Shot4\\Name:s":	"SHOT04_BILBO_PUSH04",
+				"Shot4\\NextShot:d":	5,
+				"Shot4\\SkipShot:d":	5,
+				"Shot4\\MaxTime:f":	600,
+				"Shot4\\Time:f":	10.09999942779541
+			}]
+	}, {
+		"name":	"Shot5",
+		"row_count":	1,
+		"rows":	[{
+				"Shot5\\Name:s":	"SHOT05_BILBO_PUSH05",
+				"Shot5\\NextShot:d":	6,
+				"Shot5\\SkipShot:d":	6,
+				"Shot5\\MaxTime:f":	600,
+				"Shot5\\Time:f":	11.033332824707031
+			}]
+	}, {
+		"name":	"Shot6",
+		"row_count":	1,
+		"rows":	[{
+				"Shot6\\Name:s":	"SHOT06_BILBO_PUSH06",
+				"Shot6\\NextShot:d":	7,
+				"Shot6\\SkipShot:d":	7,
+				"Shot6\\MaxTime:f":	600,
+				"Shot6\\Time:f":	13.066665649414063
+			}]
+	}, {
+		"name":	"Shot7",
+		"row_count":	1,
+		"rows":	[{
+				"Shot7\\Name:s":	"SHOT07_BILBO_PUSH07",
+				"Shot7\\NextShot:d":	8,
+				"Shot7\\SkipShot:d":	8,
+				"Shot7\\MaxTime:f":	600,
+				"Shot7\\Time:f":	13.999999046325684
+			}]
+	}, {
+		"name":	"Shot8",
+		"row_count":	1,
+		"rows":	[{
+				"Shot8\\Name:s":	"SHOT08_BILBO_PUSH08",
+				"Shot8\\NextShot:d":	9,
+				"Shot8\\SkipShot:d":	9,
+				"Shot8\\MaxTime:f":	600,
+				"Shot8\\Time:f":	18.033332824707031
+			}]
+	}, {
+		"name":	"Shot9",
+		"row_count":	1,
+		"rows":	[{
+				"Shot9\\Name:s":	"SHOT09_BILBO_PUSH09",
+				"Shot9\\NextShot:d":	10,
+				"Shot9\\SkipShot:d":	10,
+				"Shot9\\MaxTime:f":	600,
+				"Shot9\\Time:f":	23.399999618530273
+			}]
+	}, {
+		"name":	"Shot10",
+		"row_count":	1,
+		"rows":	[{
+				"Shot10\\Name:s":	"SHOT10_BILBO_PUSH10",
+				"Shot10\\NextShot:d":	11,
+				"Shot10\\SkipShot:d":	11,
+				"Shot10\\MaxTime:f":	600,
+				"Shot10\\Time:f":	26.4333324432373
+			}]
+	}, {
+		"name":	"Shot11",
+		"row_count":	1,
+		"rows":	[{
+				"Shot11\\Name:s":	"SHOT11_BILBO_PUSH11",
+				"Shot11\\NextShot:d":	12,
+				"Shot11\\SkipShot:d":	12,
+				"Shot11\\MaxTime:f":	600,
+				"Shot11\\Time:f":	30.299999237060547
+			}]
+	}, {
+		"name":	"Shot12",
+		"row_count":	1,
+		"rows":	[{
+				"Shot12\\Name:s":	"SHOT12_BILBO_PUSH12",
+				"Shot12\\NextShot:d":	13,
+				"Shot12\\SkipShot:d":	13,
+				"Shot12\\MaxTime:f":	600,
+				"Shot12\\Time:f":	33.333332061767578
+			}]
+	}, {
+		"name":	"Shot13",
+		"row_count":	1,
+		"rows":	[{
+				"Shot13\\Name:s":	"SHOT13_BILBO_JUMP",
+				"Shot13\\NextShot:d":	14,
+				"Shot13\\SkipShot:d":	14,
+				"Shot13\\MaxTime:f":	600,
+				"Shot13\\Time:f":	34.733333587646484
+			}]
+	}, {
+		"name":	"Shot14",
+		"row_count":	1,
+		"rows":	[{
+				"Shot14\\Name:s":	"SHOT14_BARREL_RIDE1",
+				"Shot14\\NextShot:d":	15,
+				"Shot14\\SkipShot:d":	15,
+				"Shot14\\MaxTime:f":	600,
+				"Shot14\\Time:f":	41.433334350585938
+			}]
+	}, {
+		"name":	"Shot15",
+		"row_count":	1,
+		"rows":	[{
+				"Shot15\\Name:s":	"SHOT15_BARREL_RIDE2",
+				"Shot15\\NextShot:d":	16,
+				"Shot15\\SkipShot:d":	16,
+				"Shot15\\MaxTime:f":	600,
+				"Shot15\\Time:f":	48.1333351135254
+			}]
+	}, {
+		"name":	"Shot16",
+		"row_count":	1,
+		"rows":	[{
+				"Shot16\\Name:s":	"SHOT16_BARREL_RIDE3",
+				"Shot16\\NextShot:d":	17,
+				"Shot16\\SkipShot:d":	17,
+				"Shot16\\MaxTime:f":	600,
+				"Shot16\\Time:f":	58.166667938232422
+			}]
+	}, {
+		"name":	"Shot17",
+		"row_count":	1,
+		"rows":	[{
+				"Shot17\\Name:s":	"SHOT17_BARREL_RIDE4",
+				"Shot17\\NextShot:d":	18,
+				"Shot17\\SkipShot:d":	18,
+				"Shot17\\MaxTime:f":	600,
+				"Shot17\\Time:f":	63.466667175292969
+			}]
+	}, {
+		"name":	"SyncPoint0",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint0\\Name:s":	"Shot 0, Sync 0",
+				"SyncPoint0\\Type:d":	0,
+				"SyncPoint0\\Action:d":	0,
+				"SyncPoint0\\Offset:f":	0,
+				"SyncPoint0\\Shot:d":	0,
+				"SyncPoint0\\FromEnd:d":	1,
+				"SyncPoint0\\AbsoluteTimeStart:f":	0
+			}]
+	}, {
+		"name":	"SyncPoint1",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint1\\Name:s":	"Shot 1, Sync 1",
+				"SyncPoint1\\Type:d":	1,
+				"SyncPoint1\\Action:d":	1,
+				"SyncPoint1\\Offset:f":	0,
+				"SyncPoint1\\Shot:d":	1,
+				"SyncPoint1\\FromEnd:d":	1,
+				"SyncPoint1\\AbsoluteTimeStart:f":	1.5
+			}]
+	}, {
+		"name":	"SyncPoint2",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint2\\Name:s":	"Shot 2, Sync 2",
+				"SyncPoint2\\Type:d":	1,
+				"SyncPoint2\\Action:d":	5,
+				"SyncPoint2\\Offset:f":	0,
+				"SyncPoint2\\Shot:d":	2,
+				"SyncPoint2\\FromEnd:d":	1,
+				"SyncPoint2\\AbsoluteTimeStart:f":	4.53333282470703
+			}]
+	}, {
+		"name":	"SyncPoint3",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint3\\Name:s":	"Shot 3, Sync 3",
+				"SyncPoint3\\Type:d":	1,
+				"SyncPoint3\\Action:d":	9,
+				"SyncPoint3\\Offset:f":	0,
+				"SyncPoint3\\Shot:d":	3,
+				"SyncPoint3\\FromEnd:d":	1,
+				"SyncPoint3\\AbsoluteTimeStart:f":	7.233332633972168
+			}]
+	}, {
+		"name":	"SyncPoint4",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint4\\Name:s":	"Shot 4, Sync 4",
+				"SyncPoint4\\Type:d":	1,
+				"SyncPoint4\\Action:d":	13,
+				"SyncPoint4\\Offset:f":	0,
+				"SyncPoint4\\Shot:d":	4,
+				"SyncPoint4\\FromEnd:d":	1,
+				"SyncPoint4\\AbsoluteTimeStart:f":	10.09999942779541
+			}]
+	}, {
+		"name":	"SyncPoint5",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint5\\Name:s":	"Shot 5, Sync 5",
+				"SyncPoint5\\Type:d":	1,
+				"SyncPoint5\\Action:d":	17,
+				"SyncPoint5\\Offset:f":	0,
+				"SyncPoint5\\Shot:d":	5,
+				"SyncPoint5\\FromEnd:d":	1,
+				"SyncPoint5\\AbsoluteTimeStart:f":	11.033332824707031
+			}]
+	}, {
+		"name":	"SyncPoint6",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint6\\Name:s":	"Shot 6, Sync 6",
+				"SyncPoint6\\Type:d":	1,
+				"SyncPoint6\\Action:d":	20,
+				"SyncPoint6\\Offset:f":	0,
+				"SyncPoint6\\Shot:d":	6,
+				"SyncPoint6\\FromEnd:d":	1,
+				"SyncPoint6\\AbsoluteTimeStart:f":	13.066665649414063
+			}]
+	}, {
+		"name":	"SyncPoint7",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint7\\Name:s":	"Shot 7, Sync 7",
+				"SyncPoint7\\Type:d":	1,
+				"SyncPoint7\\Action:d":	23,
+				"SyncPoint7\\Offset:f":	0,
+				"SyncPoint7\\Shot:d":	7,
+				"SyncPoint7\\FromEnd:d":	1,
+				"SyncPoint7\\AbsoluteTimeStart:f":	13.999999046325684
+			}]
+	}, {
+		"name":	"SyncPoint8",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint8\\Name:s":	"Shot 8, Sync 8",
+				"SyncPoint8\\Type:d":	1,
+				"SyncPoint8\\Action:d":	27,
+				"SyncPoint8\\Offset:f":	0,
+				"SyncPoint8\\Shot:d":	8,
+				"SyncPoint8\\FromEnd:d":	1,
+				"SyncPoint8\\AbsoluteTimeStart:f":	18.033332824707031
+			}]
+	}, {
+		"name":	"SyncPoint9",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint9\\Name:s":	"Shot 9, Sync 9",
+				"SyncPoint9\\Type:d":	1,
+				"SyncPoint9\\Action:d":	30,
+				"SyncPoint9\\Offset:f":	0,
+				"SyncPoint9\\Shot:d":	9,
+				"SyncPoint9\\FromEnd:d":	1,
+				"SyncPoint9\\AbsoluteTimeStart:f":	23.399999618530273
+			}]
+	}, {
+		"name":	"SyncPoint10",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint10\\Name:s":	"Shot 10, Sync 10",
+				"SyncPoint10\\Type:d":	1,
+				"SyncPoint10\\Action:d":	34,
+				"SyncPoint10\\Offset:f":	0,
+				"SyncPoint10\\Shot:d":	10,
+				"SyncPoint10\\FromEnd:d":	1,
+				"SyncPoint10\\AbsoluteTimeStart:f":	26.4333324432373
+			}]
+	}, {
+		"name":	"SyncPoint11",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint11\\Name:s":	"Shot 11, Sync 11",
+				"SyncPoint11\\Type:d":	1,
+				"SyncPoint11\\Action:d":	37,
+				"SyncPoint11\\Offset:f":	0,
+				"SyncPoint11\\Shot:d":	11,
+				"SyncPoint11\\FromEnd:d":	1,
+				"SyncPoint11\\AbsoluteTimeStart:f":	30.299999237060547
+			}]
+	}, {
+		"name":	"SyncPoint12",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint12\\Name:s":	"Shot 12, Sync 12",
+				"SyncPoint12\\Type:d":	1,
+				"SyncPoint12\\Action:d":	41,
+				"SyncPoint12\\Offset:f":	0,
+				"SyncPoint12\\Shot:d":	12,
+				"SyncPoint12\\FromEnd:d":	1,
+				"SyncPoint12\\AbsoluteTimeStart:f":	33.333332061767578
+			}]
+	}, {
+		"name":	"SyncPoint13",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint13\\Name:s":	"Shot 13, Sync 13",
+				"SyncPoint13\\Type:d":	1,
+				"SyncPoint13\\Action:d":	45,
+				"SyncPoint13\\Offset:f":	0,
+				"SyncPoint13\\Shot:d":	13,
+				"SyncPoint13\\FromEnd:d":	1,
+				"SyncPoint13\\AbsoluteTimeStart:f":	34.733333587646484
+			}]
+	}, {
+		"name":	"SyncPoint14",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint14\\Name:s":	"Shot 14, Sync 14",
+				"SyncPoint14\\Type:d":	1,
+				"SyncPoint14\\Action:d":	48,
+				"SyncPoint14\\Offset:f":	0,
+				"SyncPoint14\\Shot:d":	14,
+				"SyncPoint14\\FromEnd:d":	1,
+				"SyncPoint14\\AbsoluteTimeStart:f":	41.433334350585938
+			}]
+	}, {
+		"name":	"SyncPoint15",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint15\\Name:s":	"Shot 15, Sync 15",
+				"SyncPoint15\\Type:d":	1,
+				"SyncPoint15\\Action:d":	52,
+				"SyncPoint15\\Offset:f":	0,
+				"SyncPoint15\\Shot:d":	15,
+				"SyncPoint15\\FromEnd:d":	1,
+				"SyncPoint15\\AbsoluteTimeStart:f":	48.1333351135254
+			}]
+	}, {
+		"name":	"SyncPoint16",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint16\\Name:s":	"Shot 16, Sync 16",
+				"SyncPoint16\\Type:d":	1,
+				"SyncPoint16\\Action:d":	56,
+				"SyncPoint16\\Offset:f":	0,
+				"SyncPoint16\\Shot:d":	16,
+				"SyncPoint16\\FromEnd:d":	1,
+				"SyncPoint16\\AbsoluteTimeStart:f":	58.166667938232422
+			}]
+	}, {
+		"name":	"SyncPoint17",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint17\\Name:s":	"Shot 17, Sync 17",
+				"SyncPoint17\\Type:d":	1,
+				"SyncPoint17\\Action:d":	59,
+				"SyncPoint17\\Offset:f":	0,
+				"SyncPoint17\\Shot:d":	17,
+				"SyncPoint17\\FromEnd:d":	1,
+				"SyncPoint17\\AbsoluteTimeStart:f":	63.466667175292969
+			}]
+	}, {
+		"name":	"Action0",
+		"row_count":	1,
+		"rows":	[{
+				"Action0\\Name:s":	"SHOT00_Camera_Behind_Bilbo_ByLever",
+				"Action0\\Type:d":	4,
+				"Action0\\Shot:d":	0,
+				"Action0\\Offset:f":	0,
+				"Action0\\Duration:f":	1.5,
+				"Action0\\SyncPoint:d":	0,
+				"Action0\\FinishShot:d":	0,
+				"Action0\\DefaultLength:f":	0,
+				"Action0\\CameraType:d":	0,
+				"Action0\\Target:g":	"C0CFA40E_99A76000",
+				"Action0\\Relative:d":	0,
+				"Action0\\StartOrient:fff":	[0, 0, 0],
+				"Action0\\EndOrient:fff":	[0, 0, 0],
+				"Action0\\StartOffset:fff":	[0, 0, 0],
+				"Action0\\EndOffset:fff":	[0, 0, 0],
+				"Action0\\TargetOffset:fff":	[0, 0, 0],
+				"Action0\\StartFOV:f":	1.25663697719574,
+				"Action0\\EndFOV:f":	1.25663697719574,
+				"Action0\\TransitionPop:d":	0,
+				"Action0\\Loop:d":	0,
+				"Action0\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action1",
+		"row_count":	1,
+		"rows":	[{
+				"Action1\\Name:s":	"SHOT00_Anim_Bilbo_ByLever_Idle",
+				"Action1\\Type:d":	2,
+				"Action1\\Shot:d":	0,
+				"Action1\\Offset:f":	0,
+				"Action1\\Duration:f":	1.5,
+				"Action1\\SyncPoint:d":	0,
+				"Action1\\FinishShot:d":	1,
+				"Action1\\DefaultLength:f":	0,
+				"Action1\\Character:g":	"ABCABCAB_CABCABC0",
+				"Action1\\AnimName:s":	"idle_no_weapon",
+				"Action1\\Length:f":	1.5,
+				"Action1\\AnimGroup:s":	"",
+				"Action1\\AnimatedInPlace:d":	1,
+				"Action1\\Loops:d":	1,
+				"Action1\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action2",
+		"row_count":	1,
+		"rows":	[{
+				"Action2\\Name:s":	"SHOT01_Camera_Bilbo_Push01",
+				"Action2\\Type:d":	4,
+				"Action2\\Shot:d":	1,
+				"Action2\\Offset:f":	1.5,
+				"Action2\\Duration:f":	3.0333328247070313,
+				"Action2\\SyncPoint:d":	1,
+				"Action2\\FinishShot:d":	0,
+				"Action2\\DefaultLength:f":	0,
+				"Action2\\CameraType:d":	0,
+				"Action2\\Target:g":	"C0CFA0CE_9AD74400",
+				"Action2\\Relative:d":	0,
+				"Action2\\StartOrient:fff":	[0, 0, 0],
+				"Action2\\EndOrient:fff":	[0, 0, 0],
+				"Action2\\StartOffset:fff":	[0, 0, 0],
+				"Action2\\EndOffset:fff":	[0, 0, 0],
+				"Action2\\TargetOffset:fff":	[0, 0, 0],
+				"Action2\\StartFOV:f":	1.25663697719574,
+				"Action2\\EndFOV:f":	1.25663697719574,
+				"Action2\\TransitionPop:d":	0,
+				"Action2\\Loop:d":	0,
+				"Action2\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action3",
+		"row_count":	1,
+		"rows":	[{
+				"Action3\\Name:s":	"SHOT01_PopTo_Bilbo_ToGreenRoom",
+				"Action3\\Type:d":	6,
+				"Action3\\Shot:d":	1,
+				"Action3\\Offset:f":	1.5,
+				"Action3\\Duration:f":	0,
+				"Action3\\SyncPoint:d":	1,
+				"Action3\\FinishShot:d":	0,
+				"Action3\\DefaultLength:f":	0,
+				"Action3\\Object:g":	"ABCABCAB_CABCABC0",
+				"Action3\\Location:g":	"0D8ADE8E_2F0BCC00",
+				"Action3\\Facing:g":	"00000000_00000000",
+				"Action3\\SetFacing:d":	1,
+				"Action3\\Anim:s":	""
+			}]
+	}, {
+		"name":	"Action4",
+		"row_count":	1,
+		"rows":	[{
+				"Action4\\Name:s":	"SHOT01_Anim_Bilbo_Push01",
+				"Action4\\Type:d":	2,
+				"Action4\\Shot:d":	1,
+				"Action4\\Offset:f":	1.5,
+				"Action4\\Duration:f":	3.03333306312561,
+				"Action4\\SyncPoint:d":	1,
+				"Action4\\FinishShot:d":	1,
+				"Action4\\DefaultLength:f":	0,
+				"Action4\\Character:g":	"0D8AD38E_82E48000",
+				"Action4\\AnimName:s":	"Bilbo_PushBarrels01",
+				"Action4\\Length:f":	3.03333306312561,
+				"Action4\\AnimGroup:s":	"",
+				"Action4\\AnimatedInPlace:d":	1,
+				"Action4\\Loops:d":	1,
+				"Action4\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action5",
+		"row_count":	1,
+		"rows":	[{
+				"Action5\\Name:s":	"SHOT01_AnimInst_Bilbo_Push01",
+				"Action5\\Type:d":	9,
+				"Action5\\Shot:d":	1,
+				"Action5\\Offset:f":	1.5,
+				"Action5\\Duration:f":	3.03333306312561,
+				"Action5\\SyncPoint:d":	1,
+				"Action5\\FinishShot:d":	0,
+				"Action5\\DefaultLength:f":	0,
+				"Action5\\Object:g":	"C0CFA04E_9B4E1400",
+				"Action5\\AnimName:s":	"Barrel_Cine08_PushShot01",
+				"Action5\\StartAnimating:d":	1,
+				"Action5\\Looping:d":	0,
+				"Action5\\HideWhenDone:d":	1,
+				"Action5\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action6",
+		"row_count":	1,
+		"rows":	[{
+				"Action6\\Name:s":	"SHOT01_Dialog_Bilbo_Push01",
+				"Action6\\Type:d":	5,
+				"Action6\\Shot:d":	1,
+				"Action6\\Offset:f":	1.5,
+				"Action6\\Duration:f":	1.0956460237503052,
+				"Action6\\SyncPoint:d":	1,
+				"Action6\\FinishShot:d":	1,
+				"Action6\\DefaultLength:f":	0.90200001001358032,
+				"Action6\\Speaker:g":	"0D8AD38E_82E48000",
+				"Action6\\Sample:s":	"Bilbo_07_31",
+				"Action6\\ForceEnd:d":	1,
+				"Action6\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action7",
+		"row_count":	1,
+		"rows":	[{
+				"Action7\\Name:s":	"SHOT02_Camera_Bilbo_Push02",
+				"Action7\\Type:d":	4,
+				"Action7\\Shot:d":	2,
+				"Action7\\Offset:f":	4.53333282470703,
+				"Action7\\Duration:f":	2.6999998092651367,
+				"Action7\\SyncPoint:d":	2,
+				"Action7\\FinishShot:d":	0,
+				"Action7\\DefaultLength:f":	0,
+				"Action7\\CameraType:d":	0,
+				"Action7\\Target:g":	"C0CFA0CE_9AD8F400",
+				"Action7\\Relative:d":	0,
+				"Action7\\StartOrient:fff":	[0, 0, 0],
+				"Action7\\EndOrient:fff":	[0, 0, 0],
+				"Action7\\StartOffset:fff":	[0, 0, 0],
+				"Action7\\EndOffset:fff":	[0, 0, 0],
+				"Action7\\TargetOffset:fff":	[0, 0, 0],
+				"Action7\\StartFOV:f":	1.25663697719574,
+				"Action7\\EndFOV:f":	1.25663697719574,
+				"Action7\\TransitionPop:d":	0,
+				"Action7\\Loop:d":	0,
+				"Action7\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action8",
+		"row_count":	1,
+		"rows":	[{
+				"Action8\\Name:s":	"SHOT02_Anim_Bilbo_Push02",
+				"Action8\\Type:d":	2,
+				"Action8\\Shot:d":	2,
+				"Action8\\Offset:f":	4.53333282470703,
+				"Action8\\Duration:f":	2.7000000476837158,
+				"Action8\\SyncPoint:d":	2,
+				"Action8\\FinishShot:d":	1,
+				"Action8\\DefaultLength:f":	0,
+				"Action8\\Character:g":	"0D8AD38E_82E48000",
+				"Action8\\AnimName:s":	"Bilbo_PushBarrels02",
+				"Action8\\Length:f":	2.7000000476837158,
+				"Action8\\AnimGroup:s":	"",
+				"Action8\\AnimatedInPlace:d":	1,
+				"Action8\\Loops:d":	1,
+				"Action8\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action9",
+		"row_count":	1,
+		"rows":	[{
+				"Action9\\Name:s":	"SHOT02_AnimInst_Bilbo_Push02",
+				"Action9\\Type:d":	9,
+				"Action9\\Shot:d":	2,
+				"Action9\\Offset:f":	4.53333282470703,
+				"Action9\\Duration:f":	2.7000000476837158,
+				"Action9\\SyncPoint:d":	2,
+				"Action9\\FinishShot:d":	0,
+				"Action9\\DefaultLength:f":	0,
+				"Action9\\Object:g":	"C0CFA04E_9B522C00",
+				"Action9\\AnimName:s":	"Barrel_Cine08_PushShot02",
+				"Action9\\StartAnimating:d":	1,
+				"Action9\\Looping:d":	0,
+				"Action9\\HideWhenDone:d":	1,
+				"Action9\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action10",
+		"row_count":	1,
+		"rows":	[{
+				"Action10\\Name:s":	"SHOT02_Dialog_Bilbo_Push02",
+				"Action10\\Type:d":	5,
+				"Action10\\Shot:d":	2,
+				"Action10\\Offset:f":	4.53333282470703,
+				"Action10\\Duration:f":	0.965400457382202,
+				"Action10\\SyncPoint:d":	2,
+				"Action10\\FinishShot:d":	1,
+				"Action10\\DefaultLength:f":	3.3511874675750732,
+				"Action10\\Speaker:g":	"0D8AD38E_82E48000",
+				"Action10\\Sample:s":	"Bilbo_07_32",
+				"Action10\\ForceEnd:d":	1,
+				"Action10\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action11",
+		"row_count":	1,
+		"rows":	[{
+				"Action11\\Name:s":	"SHOT03_Camera_Bilbo_Push03",
+				"Action11\\Type:d":	4,
+				"Action11\\Shot:d":	3,
+				"Action11\\Offset:f":	7.233332633972168,
+				"Action11\\Duration:f":	2.8666667938232422,
+				"Action11\\SyncPoint:d":	3,
+				"Action11\\FinishShot:d":	0,
+				"Action11\\DefaultLength:f":	0,
+				"Action11\\CameraType:d":	0,
+				"Action11\\Target:g":	"C0CFA0CE_9ADD1000",
+				"Action11\\Relative:d":	0,
+				"Action11\\StartOrient:fff":	[0, 0, 0],
+				"Action11\\EndOrient:fff":	[0, 0, 0],
+				"Action11\\StartOffset:fff":	[0, 0, 0],
+				"Action11\\EndOffset:fff":	[0, 0, 0],
+				"Action11\\TargetOffset:fff":	[0, 0, 0],
+				"Action11\\StartFOV:f":	1.25663697719574,
+				"Action11\\EndFOV:f":	1.25663697719574,
+				"Action11\\TransitionPop:d":	0,
+				"Action11\\Loop:d":	0,
+				"Action11\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action12",
+		"row_count":	1,
+		"rows":	[{
+				"Action12\\Name:s":	"SHOT03_Anim_Bilbo_Push03",
+				"Action12\\Type:d":	2,
+				"Action12\\Shot:d":	3,
+				"Action12\\Offset:f":	7.233332633972168,
+				"Action12\\Duration:f":	2.8666670322418213,
+				"Action12\\SyncPoint:d":	3,
+				"Action12\\FinishShot:d":	1,
+				"Action12\\DefaultLength:f":	0,
+				"Action12\\Character:g":	"0D8AD38E_82E48000",
+				"Action12\\AnimName:s":	"Bilbo_PushBarrels03",
+				"Action12\\Length:f":	2.8666670322418213,
+				"Action12\\AnimGroup:s":	"",
+				"Action12\\AnimatedInPlace:d":	1,
+				"Action12\\Loops:d":	1,
+				"Action12\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action13",
+		"row_count":	1,
+		"rows":	[{
+				"Action13\\Name:s":	"SHOT03_AnimInst_Bilbo_Push03",
+				"Action13\\Type:d":	9,
+				"Action13\\Shot:d":	3,
+				"Action13\\Offset:f":	7.233332633972168,
+				"Action13\\Duration:f":	2.8666670322418213,
+				"Action13\\SyncPoint:d":	3,
+				"Action13\\FinishShot:d":	0,
+				"Action13\\DefaultLength:f":	0,
+				"Action13\\Object:g":	"C0CFA04E_9B530400",
+				"Action13\\AnimName:s":	"Barrel_Cine08_PushShot03",
+				"Action13\\StartAnimating:d":	1,
+				"Action13\\Looping:d":	0,
+				"Action13\\HideWhenDone:d":	1,
+				"Action13\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action14",
+		"row_count":	1,
+		"rows":	[{
+				"Action14\\Name:s":	"SHOT03_Dialog_Bilbo_Push03",
+				"Action14\\Type:d":	5,
+				"Action14\\Shot:d":	3,
+				"Action14\\Offset:f":	7.233332633972168,
+				"Action14\\Duration:f":	1.0956460237503052,
+				"Action14\\SyncPoint:d":	3,
+				"Action14\\FinishShot:d":	1,
+				"Action14\\DefaultLength:f":	0.90200001001358032,
+				"Action14\\Speaker:g":	"0D8AD38E_82E48000",
+				"Action14\\Sample:s":	"Bilbo_07_31",
+				"Action14\\ForceEnd:d":	1,
+				"Action14\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action15",
+		"row_count":	1,
+		"rows":	[{
+				"Action15\\Name:s":	"SHOT04_Camera_Bilbo_Push04",
+				"Action15\\Type:d":	4,
+				"Action15\\Shot:d":	4,
+				"Action15\\Offset:f":	10.09999942779541,
+				"Action15\\Duration:f":	0.933333396911621,
+				"Action15\\SyncPoint:d":	4,
+				"Action15\\FinishShot:d":	0,
+				"Action15\\DefaultLength:f":	0,
+				"Action15\\CameraType:d":	0,
+				"Action15\\Target:g":	"C0CFA0CE_9ADE0C00",
+				"Action15\\Relative:d":	0,
+				"Action15\\StartOrient:fff":	[0, 0, 0],
+				"Action15\\EndOrient:fff":	[0, 0, 0],
+				"Action15\\StartOffset:fff":	[0, 0, 0],
+				"Action15\\EndOffset:fff":	[0, 0, 0],
+				"Action15\\TargetOffset:fff":	[0, 0, 0],
+				"Action15\\StartFOV:f":	1.25663697719574,
+				"Action15\\EndFOV:f":	1.25663697719574,
+				"Action15\\TransitionPop:d":	0,
+				"Action15\\Loop:d":	0,
+				"Action15\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action16",
+		"row_count":	1,
+		"rows":	[{
+				"Action16\\Name:s":	"SHOT04_Anim_Bilbo_Push04",
+				"Action16\\Type:d":	2,
+				"Action16\\Shot:d":	4,
+				"Action16\\Offset:f":	10.09999942779541,
+				"Action16\\Duration:f":	0.93333297967910767,
+				"Action16\\SyncPoint:d":	4,
+				"Action16\\FinishShot:d":	1,
+				"Action16\\DefaultLength:f":	0,
+				"Action16\\Character:g":	"0D8AD38E_82E48000",
+				"Action16\\AnimName:s":	"Bilbo_PushBarrels04",
+				"Action16\\Length:f":	0.93333297967910767,
+				"Action16\\AnimGroup:s":	"",
+				"Action16\\AnimatedInPlace:d":	1,
+				"Action16\\Loops:d":	1,
+				"Action16\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action17",
+		"row_count":	1,
+		"rows":	[{
+				"Action17\\Name:s":	"SHOT04_AnimInst_Bilbo_Push04",
+				"Action17\\Type:d":	9,
+				"Action17\\Shot:d":	4,
+				"Action17\\Offset:f":	10.09999942779541,
+				"Action17\\Duration:f":	0.93333297967910767,
+				"Action17\\SyncPoint:d":	4,
+				"Action17\\FinishShot:d":	0,
+				"Action17\\DefaultLength:f":	0,
+				"Action17\\Object:g":	"C0CFA04E_9B534C00",
+				"Action17\\AnimName:s":	"Barrel_Cine08_PushShot04",
+				"Action17\\StartAnimating:d":	1,
+				"Action17\\Looping:d":	0,
+				"Action17\\HideWhenDone:d":	1,
+				"Action17\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action18",
+		"row_count":	1,
+		"rows":	[{
+				"Action18\\Name:s":	"SHOT04_Dialog_Bilbo_Push04",
+				"Action18\\Type:d":	5,
+				"Action18\\Shot:d":	4,
+				"Action18\\Offset:f":	10.09999942779541,
+				"Action18\\Duration:f":	0.965400457382202,
+				"Action18\\SyncPoint:d":	4,
+				"Action18\\FinishShot:d":	1,
+				"Action18\\DefaultLength:f":	3.3511874675750732,
+				"Action18\\Speaker:g":	"0D8AD38E_82E48000",
+				"Action18\\Sample:s":	"Bilbo_07_32",
+				"Action18\\ForceEnd:d":	1,
+				"Action18\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action19",
+		"row_count":	1,
+		"rows":	[{
+				"Action19\\Name:s":	"SHOT05_Camera_Bilbo_Push05",
+				"Action19\\Type:d":	4,
+				"Action19\\Shot:d":	5,
+				"Action19\\Offset:f":	11.033332824707031,
+				"Action19\\Duration:f":	2.0333328247070313,
+				"Action19\\SyncPoint:d":	5,
+				"Action19\\FinishShot:d":	0,
+				"Action19\\DefaultLength:f":	0,
+				"Action19\\CameraType:d":	0,
+				"Action19\\Target:g":	"C0CFA0CE_9ADEE800",
+				"Action19\\Relative:d":	0,
+				"Action19\\StartOrient:fff":	[0, 0, 0],
+				"Action19\\EndOrient:fff":	[0, 0, 0],
+				"Action19\\StartOffset:fff":	[0, 0, 0],
+				"Action19\\EndOffset:fff":	[0, 0, 0],
+				"Action19\\TargetOffset:fff":	[0, 0, 0],
+				"Action19\\StartFOV:f":	1.25663697719574,
+				"Action19\\EndFOV:f":	1.25663697719574,
+				"Action19\\TransitionPop:d":	0,
+				"Action19\\Loop:d":	0,
+				"Action19\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action20",
+		"row_count":	1,
+		"rows":	[{
+				"Action20\\Name:s":	"SHOT05_AnimInst_Bilbo_Push05",
+				"Action20\\Type:d":	9,
+				"Action20\\Shot:d":	5,
+				"Action20\\Offset:f":	11.033332824707031,
+				"Action20\\Duration:f":	2.03333306312561,
+				"Action20\\SyncPoint:d":	5,
+				"Action20\\FinishShot:d":	1,
+				"Action20\\DefaultLength:f":	0,
+				"Action20\\Object:g":	"C0CFA04E_9B539C00",
+				"Action20\\AnimName:s":	"Barrel_Cine08_PushShot05",
+				"Action20\\StartAnimating:d":	1,
+				"Action20\\Looping:d":	0,
+				"Action20\\HideWhenDone:d":	1,
+				"Action20\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action21",
+		"row_count":	1,
+		"rows":	[{
+				"Action21\\Name:s":	"SHOT05_Dialog_Bilbo_Push05",
+				"Action21\\Type:d":	5,
+				"Action21\\Shot:d":	5,
+				"Action21\\Offset:f":	11.033332824707031,
+				"Action21\\Duration:f":	1.0956460237503052,
+				"Action21\\SyncPoint:d":	5,
+				"Action21\\FinishShot:d":	1,
+				"Action21\\DefaultLength:f":	0.90200001001358032,
+				"Action21\\Speaker:g":	"0D8AD38E_82E48000",
+				"Action21\\Sample:s":	"Bilbo_07_31",
+				"Action21\\ForceEnd:d":	1,
+				"Action21\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action22",
+		"row_count":	1,
+		"rows":	[{
+				"Action22\\Name:s":	"SHOT06_Camera_Bilbo_Push06",
+				"Action22\\Type:d":	4,
+				"Action22\\Shot:d":	6,
+				"Action22\\Offset:f":	13.066665649414063,
+				"Action22\\Duration:f":	0.933333396911621,
+				"Action22\\SyncPoint:d":	6,
+				"Action22\\FinishShot:d":	0,
+				"Action22\\DefaultLength:f":	0,
+				"Action22\\CameraType:d":	0,
+				"Action22\\Target:g":	"C0CFA0CE_9ADFA000",
+				"Action22\\Relative:d":	0,
+				"Action22\\StartOrient:fff":	[0, 0, 0],
+				"Action22\\EndOrient:fff":	[0, 0, 0],
+				"Action22\\StartOffset:fff":	[0, 0, 0],
+				"Action22\\EndOffset:fff":	[0, 0, 0],
+				"Action22\\TargetOffset:fff":	[0, 0, 0],
+				"Action22\\StartFOV:f":	1.25663697719574,
+				"Action22\\EndFOV:f":	1.25663697719574,
+				"Action22\\TransitionPop:d":	0,
+				"Action22\\Loop:d":	0,
+				"Action22\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action23",
+		"row_count":	1,
+		"rows":	[{
+				"Action23\\Name:s":	"SHOT06_Anim_Bilbo_Push06",
+				"Action23\\Type:d":	2,
+				"Action23\\Shot:d":	6,
+				"Action23\\Offset:f":	13.066665649414063,
+				"Action23\\Duration:f":	0.93333297967910767,
+				"Action23\\SyncPoint:d":	6,
+				"Action23\\FinishShot:d":	1,
+				"Action23\\DefaultLength:f":	0,
+				"Action23\\Character:g":	"0D8AD38E_82E48000",
+				"Action23\\AnimName:s":	"Bilbo_PushBarrels06",
+				"Action23\\Length:f":	0.93333297967910767,
+				"Action23\\AnimGroup:s":	"",
+				"Action23\\AnimatedInPlace:d":	1,
+				"Action23\\Loops:d":	1,
+				"Action23\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action24",
+		"row_count":	1,
+		"rows":	[{
+				"Action24\\Name:s":	"SHOT06_AnimInst_Bilbo_Push06",
+				"Action24\\Type:d":	9,
+				"Action24\\Shot:d":	6,
+				"Action24\\Offset:f":	13.066665649414063,
+				"Action24\\Duration:f":	0.93333297967910767,
+				"Action24\\SyncPoint:d":	6,
+				"Action24\\FinishShot:d":	0,
+				"Action24\\DefaultLength:f":	0,
+				"Action24\\Object:g":	"C0CFA04E_9B541800",
+				"Action24\\AnimName:s":	"Barrel_Cine08_PushShot06",
+				"Action24\\StartAnimating:d":	1,
+				"Action24\\Looping:d":	0,
+				"Action24\\HideWhenDone:d":	1,
+				"Action24\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action25",
+		"row_count":	1,
+		"rows":	[{
+				"Action25\\Name:s":	"SHOT06_Dialog_Bilbo_Push06",
+				"Action25\\Type:d":	5,
+				"Action25\\Shot:d":	6,
+				"Action25\\Offset:f":	13.066665649414063,
+				"Action25\\Duration:f":	0.965400457382202,
+				"Action25\\SyncPoint:d":	6,
+				"Action25\\FinishShot:d":	1,
+				"Action25\\DefaultLength:f":	3.3511874675750732,
+				"Action25\\Speaker:g":	"0D8AD38E_82E48000",
+				"Action25\\Sample:s":	"Bilbo_07_32",
+				"Action25\\ForceEnd:d":	1,
+				"Action25\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action26",
+		"row_count":	1,
+		"rows":	[{
+				"Action26\\Name:s":	"SHOT07_Camera_Bilbo_Push07",
+				"Action26\\Type:d":	4,
+				"Action26\\Shot:d":	7,
+				"Action26\\Offset:f":	13.999999046325684,
+				"Action26\\Duration:f":	4.0333337783813477,
+				"Action26\\SyncPoint:d":	7,
+				"Action26\\FinishShot:d":	0,
+				"Action26\\DefaultLength:f":	0,
+				"Action26\\CameraType:d":	0,
+				"Action26\\Target:g":	"C0CFA0CE_9AE09000",
+				"Action26\\Relative:d":	0,
+				"Action26\\StartOrient:fff":	[0, 0, 0],
+				"Action26\\EndOrient:fff":	[0, 0, 0],
+				"Action26\\StartOffset:fff":	[0, 0, 0],
+				"Action26\\EndOffset:fff":	[0, 0, 0],
+				"Action26\\TargetOffset:fff":	[0, 0, 0],
+				"Action26\\StartFOV:f":	1.25663697719574,
+				"Action26\\EndFOV:f":	1.25663697719574,
+				"Action26\\TransitionPop:d":	0,
+				"Action26\\Loop:d":	0,
+				"Action26\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action27",
+		"row_count":	1,
+		"rows":	[{
+				"Action27\\Name:s":	"SHOT07_AnimInst_Bilbo_Push07",
+				"Action27\\Type:d":	9,
+				"Action27\\Shot:d":	7,
+				"Action27\\Offset:f":	13.999999046325684,
+				"Action27\\Duration:f":	4.03333282470703,
+				"Action27\\SyncPoint:d":	7,
+				"Action27\\FinishShot:d":	1,
+				"Action27\\DefaultLength:f":	0,
+				"Action27\\Object:g":	"C0CFA04E_9B54AC00",
+				"Action27\\AnimName:s":	"Barrel_Cine08_PushShot07",
+				"Action27\\StartAnimating:d":	1,
+				"Action27\\Looping:d":	0,
+				"Action27\\HideWhenDone:d":	1,
+				"Action27\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action28",
+		"row_count":	1,
+		"rows":	[{
+				"Action28\\Name:s":	"SHOT07_Dialog_Bilbo_Push07",
+				"Action28\\Type:d":	5,
+				"Action28\\Shot:d":	7,
+				"Action28\\Offset:f":	13.999999046325684,
+				"Action28\\Duration:f":	1.0956460237503052,
+				"Action28\\SyncPoint:d":	7,
+				"Action28\\FinishShot:d":	0,
+				"Action28\\DefaultLength:f":	0.90200001001358032,
+				"Action28\\Speaker:g":	"0D8AD38E_82E48000",
+				"Action28\\Sample:s":	"Bilbo_07_31",
+				"Action28\\ForceEnd:d":	1,
+				"Action28\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action29",
+		"row_count":	1,
+		"rows":	[{
+				"Action29\\Name:s":	"SHOT08_Camera_Bilbo_Push08",
+				"Action29\\Type:d":	4,
+				"Action29\\Shot:d":	8,
+				"Action29\\Offset:f":	18.033332824707031,
+				"Action29\\Duration:f":	5.3666667938232422,
+				"Action29\\SyncPoint:d":	8,
+				"Action29\\FinishShot:d":	0,
+				"Action29\\DefaultLength:f":	0,
+				"Action29\\CameraType:d":	0,
+				"Action29\\Target:g":	"C0CFA0CE_9AE13C00",
+				"Action29\\Relative:d":	0,
+				"Action29\\StartOrient:fff":	[0, 0, 0],
+				"Action29\\EndOrient:fff":	[0, 0, 0],
+				"Action29\\StartOffset:fff":	[0, 0, 0],
+				"Action29\\EndOffset:fff":	[0, 0, 0],
+				"Action29\\TargetOffset:fff":	[0, 0, 0],
+				"Action29\\StartFOV:f":	1.25663697719574,
+				"Action29\\EndFOV:f":	1.25663697719574,
+				"Action29\\TransitionPop:d":	0,
+				"Action29\\Loop:d":	0,
+				"Action29\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action30",
+		"row_count":	1,
+		"rows":	[{
+				"Action30\\Name:s":	"SHOT08_AnimInst_Bilbo_Push08",
+				"Action30\\Type:d":	9,
+				"Action30\\Shot:d":	8,
+				"Action30\\Offset:f":	18.033332824707031,
+				"Action30\\Duration:f":	5.3666667938232422,
+				"Action30\\SyncPoint:d":	8,
+				"Action30\\FinishShot:d":	1,
+				"Action30\\DefaultLength:f":	0,
+				"Action30\\Object:g":	"C0CFA04E_9B551800",
+				"Action30\\AnimName:s":	"Barrel_Cine08_PushShot08",
+				"Action30\\StartAnimating:d":	1,
+				"Action30\\Looping:d":	0,
+				"Action30\\HideWhenDone:d":	1,
+				"Action30\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action31",
+		"row_count":	1,
+		"rows":	[{
+				"Action31\\Name:s":	"SHOT08_Dialog_Bilbo_Push08",
+				"Action31\\Type:d":	5,
+				"Action31\\Shot:d":	8,
+				"Action31\\Offset:f":	18.033332824707031,
+				"Action31\\Duration:f":	0.965400457382202,
+				"Action31\\SyncPoint:d":	8,
+				"Action31\\FinishShot:d":	1,
+				"Action31\\DefaultLength:f":	3.3511874675750732,
+				"Action31\\Speaker:g":	"0D8AD38E_82E48000",
+				"Action31\\Sample:s":	"Bilbo_07_32",
+				"Action31\\ForceEnd:d":	1,
+				"Action31\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action32",
+		"row_count":	1,
+		"rows":	[{
+				"Action32\\Name:s":	"SHOT09_Camera_Bilbo_Push09",
+				"Action32\\Type:d":	4,
+				"Action32\\Shot:d":	9,
+				"Action32\\Offset:f":	23.399999618530273,
+				"Action32\\Duration:f":	3.0333328247070313,
+				"Action32\\SyncPoint:d":	9,
+				"Action32\\FinishShot:d":	0,
+				"Action32\\DefaultLength:f":	0,
+				"Action32\\CameraType:d":	0,
+				"Action32\\Target:g":	"C0CFA0CE_9AE1FC00",
+				"Action32\\Relative:d":	0,
+				"Action32\\StartOrient:fff":	[0, 0, 0],
+				"Action32\\EndOrient:fff":	[0, 0, 0],
+				"Action32\\StartOffset:fff":	[0, 0, 0],
+				"Action32\\EndOffset:fff":	[0, 0, 0],
+				"Action32\\TargetOffset:fff":	[0, 0, 0],
+				"Action32\\StartFOV:f":	1.25663697719574,
+				"Action32\\EndFOV:f":	1.25663697719574,
+				"Action32\\TransitionPop:d":	0,
+				"Action32\\Loop:d":	0,
+				"Action32\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action33",
+		"row_count":	1,
+		"rows":	[{
+				"Action33\\Name:s":	"SHOT09_Anim_Bilbo_Push09",
+				"Action33\\Type:d":	2,
+				"Action33\\Shot:d":	9,
+				"Action33\\Offset:f":	23.399999618530273,
+				"Action33\\Duration:f":	3.03333306312561,
+				"Action33\\SyncPoint:d":	9,
+				"Action33\\FinishShot:d":	1,
+				"Action33\\DefaultLength:f":	0,
+				"Action33\\Character:g":	"0D8AD38E_82E48000",
+				"Action33\\AnimName:s":	"Bilbo_PushBarrels09",
+				"Action33\\Length:f":	3.03333306312561,
+				"Action33\\AnimGroup:s":	"",
+				"Action33\\AnimatedInPlace:d":	1,
+				"Action33\\Loops:d":	1,
+				"Action33\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action34",
+		"row_count":	1,
+		"rows":	[{
+				"Action34\\Name:s":	"SHOT09_AnimInst_Bilbo_Push09",
+				"Action34\\Type:d":	9,
+				"Action34\\Shot:d":	9,
+				"Action34\\Offset:f":	23.399999618530273,
+				"Action34\\Duration:f":	3.03333306312561,
+				"Action34\\SyncPoint:d":	9,
+				"Action34\\FinishShot:d":	0,
+				"Action34\\DefaultLength:f":	0,
+				"Action34\\Object:g":	"C0CFA04E_9B558000",
+				"Action34\\AnimName:s":	"Barrel_Cine08_PushShot09",
+				"Action34\\StartAnimating:d":	1,
+				"Action34\\Looping:d":	0,
+				"Action34\\HideWhenDone:d":	1,
+				"Action34\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action35",
+		"row_count":	1,
+		"rows":	[{
+				"Action35\\Name:s":	"SHOT09_Dialog_Bilbo_Push09",
+				"Action35\\Type:d":	5,
+				"Action35\\Shot:d":	9,
+				"Action35\\Offset:f":	23.399999618530273,
+				"Action35\\Duration:f":	1.0956460237503052,
+				"Action35\\SyncPoint:d":	9,
+				"Action35\\FinishShot:d":	1,
+				"Action35\\DefaultLength:f":	0.90200001001358032,
+				"Action35\\Speaker:g":	"0D8AD38E_82E48000",
+				"Action35\\Sample:s":	"Bilbo_07_31",
+				"Action35\\ForceEnd:d":	1,
+				"Action35\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action36",
+		"row_count":	1,
+		"rows":	[{
+				"Action36\\Name:s":	"SHOT10_Camera_Bilbo_Push10",
+				"Action36\\Type:d":	4,
+				"Action36\\Shot:d":	10,
+				"Action36\\Offset:f":	26.4333324432373,
+				"Action36\\Duration:f":	3.8666667938232422,
+				"Action36\\SyncPoint:d":	10,
+				"Action36\\FinishShot:d":	0,
+				"Action36\\DefaultLength:f":	0,
+				"Action36\\CameraType:d":	0,
+				"Action36\\Target:g":	"C0CFA0CE_9AE37C00",
+				"Action36\\Relative:d":	0,
+				"Action36\\StartOrient:fff":	[0, 0, 0],
+				"Action36\\EndOrient:fff":	[0, 0, 0],
+				"Action36\\StartOffset:fff":	[0, 0, 0],
+				"Action36\\EndOffset:fff":	[0, 0, 0],
+				"Action36\\TargetOffset:fff":	[0, 0, 0],
+				"Action36\\StartFOV:f":	1.25663697719574,
+				"Action36\\EndFOV:f":	1.25663697719574,
+				"Action36\\TransitionPop:d":	0,
+				"Action36\\Loop:d":	0,
+				"Action36\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action37",
+		"row_count":	1,
+		"rows":	[{
+				"Action37\\Name:s":	"SHOT10_AnimInst_Barrel_Push10",
+				"Action37\\Type:d":	9,
+				"Action37\\Shot:d":	10,
+				"Action37\\Offset:f":	26.4333324432373,
+				"Action37\\Duration:f":	3.8666670322418213,
+				"Action37\\SyncPoint:d":	10,
+				"Action37\\FinishShot:d":	1,
+				"Action37\\DefaultLength:f":	0,
+				"Action37\\Object:g":	"C0CFA04E_9B55EC00",
+				"Action37\\AnimName:s":	"Barrel_Cine08_PushShot10",
+				"Action37\\StartAnimating:d":	1,
+				"Action37\\Looping:d":	0,
+				"Action37\\HideWhenDone:d":	1,
+				"Action37\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action38",
+		"row_count":	1,
+		"rows":	[{
+				"Action38\\Name:s":	"SHOT10_Dialog_Bilbo_Push10",
+				"Action38\\Type:d":	5,
+				"Action38\\Shot:d":	10,
+				"Action38\\Offset:f":	26.4333324432373,
+				"Action38\\Duration:f":	0.965400457382202,
+				"Action38\\SyncPoint:d":	10,
+				"Action38\\FinishShot:d":	1,
+				"Action38\\DefaultLength:f":	3.3511874675750732,
+				"Action38\\Speaker:g":	"0D8AD38E_82E48000",
+				"Action38\\Sample:s":	"Bilbo_07_32",
+				"Action38\\ForceEnd:d":	1,
+				"Action38\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action39",
+		"row_count":	1,
+		"rows":	[{
+				"Action39\\Name:s":	"SHOT11_Camera_Bilbo_Push11",
+				"Action39\\Type:d":	4,
+				"Action39\\Shot:d":	11,
+				"Action39\\Offset:f":	30.299999237060547,
+				"Action39\\Duration:f":	3.0333328247070313,
+				"Action39\\SyncPoint:d":	11,
+				"Action39\\FinishShot:d":	0,
+				"Action39\\DefaultLength:f":	0,
+				"Action39\\CameraType:d":	0,
+				"Action39\\Target:g":	"C0CFA0CE_9AE40000",
+				"Action39\\Relative:d":	0,
+				"Action39\\StartOrient:fff":	[0, 0, 0],
+				"Action39\\EndOrient:fff":	[0, 0, 0],
+				"Action39\\StartOffset:fff":	[0, 0, 0],
+				"Action39\\EndOffset:fff":	[0, 0, 0],
+				"Action39\\TargetOffset:fff":	[0, 0, 0],
+				"Action39\\StartFOV:f":	1.25663697719574,
+				"Action39\\EndFOV:f":	1.25663697719574,
+				"Action39\\TransitionPop:d":	0,
+				"Action39\\Loop:d":	0,
+				"Action39\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action40",
+		"row_count":	1,
+		"rows":	[{
+				"Action40\\Name:s":	"SHOT11_Anim_Bilbo_Push11",
+				"Action40\\Type:d":	2,
+				"Action40\\Shot:d":	11,
+				"Action40\\Offset:f":	30.299999237060547,
+				"Action40\\Duration:f":	3.03333306312561,
+				"Action40\\SyncPoint:d":	11,
+				"Action40\\FinishShot:d":	1,
+				"Action40\\DefaultLength:f":	0,
+				"Action40\\Character:g":	"0D8AD38E_82E48000",
+				"Action40\\AnimName:s":	"Bilbo_PushBarrels11",
+				"Action40\\Length:f":	3.03333306312561,
+				"Action40\\AnimGroup:s":	"",
+				"Action40\\AnimatedInPlace:d":	1,
+				"Action40\\Loops:d":	1,
+				"Action40\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action41",
+		"row_count":	1,
+		"rows":	[{
+				"Action41\\Name:s":	"SHOT11_AnimInst_Barrel_Push11",
+				"Action41\\Type:d":	9,
+				"Action41\\Shot:d":	11,
+				"Action41\\Offset:f":	30.299999237060547,
+				"Action41\\Duration:f":	3.03333306312561,
+				"Action41\\SyncPoint:d":	11,
+				"Action41\\FinishShot:d":	0,
+				"Action41\\DefaultLength:f":	0,
+				"Action41\\Object:g":	"C0CFA04E_9B565400",
+				"Action41\\AnimName:s":	"Barrel_Cine08_PushShot11",
+				"Action41\\StartAnimating:d":	1,
+				"Action41\\Looping:d":	0,
+				"Action41\\HideWhenDone:d":	1,
+				"Action41\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action42",
+		"row_count":	1,
+		"rows":	[{
+				"Action42\\Name:s":	"SHOT11_Dialog_Bilbo_Push11",
+				"Action42\\Type:d":	5,
+				"Action42\\Shot:d":	11,
+				"Action42\\Offset:f":	30.299999237060547,
+				"Action42\\Duration:f":	1.0956460237503052,
+				"Action42\\SyncPoint:d":	11,
+				"Action42\\FinishShot:d":	1,
+				"Action42\\DefaultLength:f":	0.90200001001358032,
+				"Action42\\Speaker:g":	"0D8AD38E_82E48000",
+				"Action42\\Sample:s":	"Bilbo_07_31",
+				"Action42\\ForceEnd:d":	1,
+				"Action42\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action43",
+		"row_count":	1,
+		"rows":	[{
+				"Action43\\Name:s":	"SHOT12_Camera_Bilbo_Push12",
+				"Action43\\Type:d":	4,
+				"Action43\\Shot:d":	12,
+				"Action43\\Offset:f":	33.333332061767578,
+				"Action43\\Duration:f":	1.4000015258789062,
+				"Action43\\SyncPoint:d":	12,
+				"Action43\\FinishShot:d":	0,
+				"Action43\\DefaultLength:f":	0,
+				"Action43\\CameraType:d":	0,
+				"Action43\\Target:g":	"C0CFA0CE_9AE67400",
+				"Action43\\Relative:d":	0,
+				"Action43\\StartOrient:fff":	[0, 0, 0],
+				"Action43\\EndOrient:fff":	[0, 0, 0],
+				"Action43\\StartOffset:fff":	[0, 0, 0],
+				"Action43\\EndOffset:fff":	[0, 0, 0],
+				"Action43\\TargetOffset:fff":	[0, 0, 0],
+				"Action43\\StartFOV:f":	1.25663697719574,
+				"Action43\\EndFOV:f":	1.25663697719574,
+				"Action43\\TransitionPop:d":	0,
+				"Action43\\Loop:d":	0,
+				"Action43\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action44",
+		"row_count":	1,
+		"rows":	[{
+				"Action44\\Name:s":	"SHOT12_Anim_Bilbo_Push12",
+				"Action44\\Type:d":	2,
+				"Action44\\Shot:d":	12,
+				"Action44\\Offset:f":	33.333332061767578,
+				"Action44\\Duration:f":	1.3999999761581421,
+				"Action44\\SyncPoint:d":	12,
+				"Action44\\FinishShot:d":	1,
+				"Action44\\DefaultLength:f":	0,
+				"Action44\\Character:g":	"0D8AD38E_82E48000",
+				"Action44\\AnimName:s":	"Bilbo_PushBarrels12",
+				"Action44\\Length:f":	1.3999999761581421,
+				"Action44\\AnimGroup:s":	"",
+				"Action44\\AnimatedInPlace:d":	1,
+				"Action44\\Loops:d":	1,
+				"Action44\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action45",
+		"row_count":	1,
+		"rows":	[{
+				"Action45\\Name:s":	"SHOT12_AnimInst_Bilbo_Push12",
+				"Action45\\Type:d":	9,
+				"Action45\\Shot:d":	12,
+				"Action45\\Offset:f":	33.333332061767578,
+				"Action45\\Duration:f":	1.3999999761581421,
+				"Action45\\SyncPoint:d":	12,
+				"Action45\\FinishShot:d":	0,
+				"Action45\\DefaultLength:f":	0,
+				"Action45\\Object:g":	"C0CFA04E_9B56E000",
+				"Action45\\AnimName:s":	"Barrel_Cine08_PushShot12",
+				"Action45\\StartAnimating:d":	1,
+				"Action45\\Looping:d":	0,
+				"Action45\\HideWhenDone:d":	1,
+				"Action45\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action46",
+		"row_count":	1,
+		"rows":	[{
+				"Action46\\Name:s":	"SHOT12_Dialog_Bilbo_Push12",
+				"Action46\\Type:d":	5,
+				"Action46\\Shot:d":	12,
+				"Action46\\Offset:f":	33.333332061767578,
+				"Action46\\Duration:f":	0.965400457382202,
+				"Action46\\SyncPoint:d":	12,
+				"Action46\\FinishShot:d":	1,
+				"Action46\\DefaultLength:f":	3.3511874675750732,
+				"Action46\\Speaker:g":	"0D8AD38E_82E48000",
+				"Action46\\Sample:s":	"Bilbo_07_32",
+				"Action46\\ForceEnd:d":	1,
+				"Action46\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action47",
+		"row_count":	1,
+		"rows":	[{
+				"Action47\\Name:s":	"SHOT13_Camera_Bilbo_Jump",
+				"Action47\\Type:d":	4,
+				"Action47\\Shot:d":	13,
+				"Action47\\Offset:f":	34.733333587646484,
+				"Action47\\Duration:f":	6.7000007629394531,
+				"Action47\\SyncPoint:d":	13,
+				"Action47\\FinishShot:d":	0,
+				"Action47\\DefaultLength:f":	0,
+				"Action47\\CameraType:d":	0,
+				"Action47\\Target:g":	"C0CFA0CE_9AE71000",
+				"Action47\\Relative:d":	0,
+				"Action47\\StartOrient:fff":	[0, 0, 0],
+				"Action47\\EndOrient:fff":	[0, 0, 0],
+				"Action47\\StartOffset:fff":	[0, 0, 0],
+				"Action47\\EndOffset:fff":	[0, 0, 0],
+				"Action47\\TargetOffset:fff":	[0, 0, 0],
+				"Action47\\StartFOV:f":	1.25663697719574,
+				"Action47\\EndFOV:f":	1.25663697719574,
+				"Action47\\TransitionPop:d":	0,
+				"Action47\\Loop:d":	0,
+				"Action47\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action48",
+		"row_count":	1,
+		"rows":	[{
+				"Action48\\Name:s":	"SHOT13_Anim_Bilbo_Jump",
+				"Action48\\Type:d":	2,
+				"Action48\\Shot:d":	13,
+				"Action48\\Offset:f":	34.733333587646484,
+				"Action48\\Duration:f":	6.6999998092651367,
+				"Action48\\SyncPoint:d":	13,
+				"Action48\\FinishShot:d":	1,
+				"Action48\\DefaultLength:f":	0,
+				"Action48\\Character:g":	"0D8AD38E_82E48000",
+				"Action48\\AnimName:s":	"Bilbo_JumpThruTrapDoor",
+				"Action48\\Length:f":	6.6999998092651367,
+				"Action48\\AnimGroup:s":	"",
+				"Action48\\AnimatedInPlace:d":	1,
+				"Action48\\Loops:d":	1,
+				"Action48\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action49",
+		"row_count":	1,
+		"rows":	[{
+				"Action49\\Name:s":	"SHOT13_Dialog_Bilbo_Jump",
+				"Action49\\Type:d":	5,
+				"Action49\\Shot:d":	13,
+				"Action49\\Offset:f":	34.733333587646484,
+				"Action49\\Duration:f":	1.7406346797943115,
+				"Action49\\SyncPoint:d":	13,
+				"Action49\\FinishShot:d":	1,
+				"Action49\\DefaultLength:f":	0.78259372711181641,
+				"Action49\\Speaker:g":	"0D8AD38E_82E48000",
+				"Action49\\Sample:s":	"Bilbo_07_33",
+				"Action49\\ForceEnd:d":	1,
+				"Action49\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action50",
+		"row_count":	1,
+		"rows":	[{
+				"Action50\\Name:s":	"SHOT14_Camera_Barrel_Ride1",
+				"Action50\\Type:d":	4,
+				"Action50\\Shot:d":	14,
+				"Action50\\Offset:f":	41.433334350585938,
+				"Action50\\Duration:f":	6.7000007629394531,
+				"Action50\\SyncPoint:d":	14,
+				"Action50\\FinishShot:d":	0,
+				"Action50\\DefaultLength:f":	0,
+				"Action50\\CameraType:d":	0,
+				"Action50\\Target:g":	"C0CFABCE_9E8C7800",
+				"Action50\\Relative:d":	0,
+				"Action50\\StartOrient:fff":	[0, 0, 0],
+				"Action50\\EndOrient:fff":	[0, 0, 0],
+				"Action50\\StartOffset:fff":	[0, 0, 0],
+				"Action50\\EndOffset:fff":	[0, 0, 0],
+				"Action50\\TargetOffset:fff":	[0, 0, 0],
+				"Action50\\StartFOV:f":	1.25663697719574,
+				"Action50\\EndFOV:f":	1.25663697719574,
+				"Action50\\TransitionPop:d":	0,
+				"Action50\\Loop:d":	0,
+				"Action50\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action51",
+		"row_count":	1,
+		"rows":	[{
+				"Action51\\Name:s":	"SHOT14_Anim_Barrel_Ride1",
+				"Action51\\Type:d":	2,
+				"Action51\\Shot:d":	14,
+				"Action51\\Offset:f":	41.433334350585938,
+				"Action51\\Duration:f":	6.6999998092651367,
+				"Action51\\SyncPoint:d":	14,
+				"Action51\\FinishShot:d":	1,
+				"Action51\\DefaultLength:f":	0,
+				"Action51\\Character:g":	"0D8AD38E_82E48000",
+				"Action51\\AnimName:s":	"Bilbo_BarrelRide2",
+				"Action51\\Length:f":	6.6999998092651367,
+				"Action51\\AnimGroup:s":	"",
+				"Action51\\AnimatedInPlace:d":	1,
+				"Action51\\Loops:d":	1,
+				"Action51\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action52",
+		"row_count":	1,
+		"rows":	[{
+				"Action52\\Name:s":	"SHOT14_AnimInst_Barrel_Ride1",
+				"Action52\\Type:d":	9,
+				"Action52\\Shot:d":	14,
+				"Action52\\Offset:f":	41.433334350585938,
+				"Action52\\Duration:f":	6.6999998092651367,
+				"Action52\\SyncPoint:d":	14,
+				"Action52\\FinishShot:d":	0,
+				"Action52\\DefaultLength:f":	0,
+				"Action52\\Object:g":	"C0CFA3CE_9F043C00",
+				"Action52\\AnimName:s":	"Barrel_Cine08_Ride2Shot15",
+				"Action52\\StartAnimating:d":	1,
+				"Action52\\Looping:d":	0,
+				"Action52\\HideWhenDone:d":	1,
+				"Action52\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action53",
+		"row_count":	1,
+		"rows":	[{
+				"Action53\\Name:s":	"SHOT14_Dialog_Bilbo_Barrel_Ride1",
+				"Action53\\Type:d":	5,
+				"Action53\\Shot:d":	14,
+				"Action53\\Offset:f":	41.433334350585938,
+				"Action53\\Duration:f":	1.0956460237503052,
+				"Action53\\SyncPoint:d":	14,
+				"Action53\\FinishShot:d":	1,
+				"Action53\\DefaultLength:f":	0.90200001001358032,
+				"Action53\\Speaker:g":	"0D8AD38E_82E48000",
+				"Action53\\Sample:s":	"Bilbo_07_31",
+				"Action53\\ForceEnd:d":	1,
+				"Action53\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action54",
+		"row_count":	1,
+		"rows":	[{
+				"Action54\\Name:s":	"SHOT15_Camera_Barrel_Ride2",
+				"Action54\\Type:d":	4,
+				"Action54\\Shot:d":	15,
+				"Action54\\Offset:f":	48.1333351135254,
+				"Action54\\Duration:f":	10.033332824707031,
+				"Action54\\SyncPoint:d":	15,
+				"Action54\\FinishShot:d":	0,
+				"Action54\\DefaultLength:f":	0,
+				"Action54\\CameraType:d":	0,
+				"Action54\\Target:g":	"C0CFABCE_9E8DB400",
+				"Action54\\Relative:d":	0,
+				"Action54\\StartOrient:fff":	[0, 0, 0],
+				"Action54\\EndOrient:fff":	[0, 0, 0],
+				"Action54\\StartOffset:fff":	[0, 0, 0],
+				"Action54\\EndOffset:fff":	[0, 0, 0],
+				"Action54\\TargetOffset:fff":	[0, 0, 0],
+				"Action54\\StartFOV:f":	1.25663697719574,
+				"Action54\\EndFOV:f":	1.25663697719574,
+				"Action54\\TransitionPop:d":	0,
+				"Action54\\Loop:d":	0,
+				"Action54\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action55",
+		"row_count":	1,
+		"rows":	[{
+				"Action55\\Name:s":	"SHOT15_Anim_Barrel_Ride2",
+				"Action55\\Type:d":	2,
+				"Action55\\Shot:d":	15,
+				"Action55\\Offset:f":	48.1333351135254,
+				"Action55\\Duration:f":	10.033333778381348,
+				"Action55\\SyncPoint:d":	15,
+				"Action55\\FinishShot:d":	1,
+				"Action55\\DefaultLength:f":	0,
+				"Action55\\Character:g":	"0D8AD38E_82E48000",
+				"Action55\\AnimName:s":	"Bilbo_BarrelRide1",
+				"Action55\\Length:f":	10.033333778381348,
+				"Action55\\AnimGroup:s":	"",
+				"Action55\\AnimatedInPlace:d":	1,
+				"Action55\\Loops:d":	1,
+				"Action55\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action56",
+		"row_count":	1,
+		"rows":	[{
+				"Action56\\Name:s":	"SHOT15_AnimInst_Barrel_Ride2",
+				"Action56\\Type:d":	9,
+				"Action56\\Shot:d":	15,
+				"Action56\\Offset:f":	48.1333351135254,
+				"Action56\\Duration:f":	10.033333778381348,
+				"Action56\\SyncPoint:d":	15,
+				"Action56\\FinishShot:d":	0,
+				"Action56\\DefaultLength:f":	0,
+				"Action56\\Object:g":	"C0CFA3CE_9F025000",
+				"Action56\\AnimName:s":	"Barrel_Cine08_Ride1Shot14",
+				"Action56\\StartAnimating:d":	1,
+				"Action56\\Looping:d":	0,
+				"Action56\\HideWhenDone:d":	1,
+				"Action56\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action57",
+		"row_count":	1,
+		"rows":	[{
+				"Action57\\Name:s":	"Shot15_Dialog_Bilbo_Barrel_Ride2",
+				"Action57\\Type:d":	5,
+				"Action57\\Shot:d":	15,
+				"Action57\\Offset:f":	48.1333351135254,
+				"Action57\\Duration:f":	2.2637639045715332,
+				"Action57\\SyncPoint:d":	15,
+				"Action57\\FinishShot:d":	0,
+				"Action57\\DefaultLength:f":	4.53334379196167,
+				"Action57\\Speaker:g":	"0D8AD38E_82E48000",
+				"Action57\\Sample:s":	"Bilbo_07_11",
+				"Action57\\ForceEnd:d":	1,
+				"Action57\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action58",
+		"row_count":	1,
+		"rows":	[{
+				"Action58\\Name:s":	"SHOT16_Camera_Barrel_Ride3",
+				"Action58\\Type:d":	4,
+				"Action58\\Shot:d":	16,
+				"Action58\\Offset:f":	58.166667938232422,
+				"Action58\\Duration:f":	5.2999992370605469,
+				"Action58\\SyncPoint:d":	16,
+				"Action58\\FinishShot:d":	0,
+				"Action58\\DefaultLength:f":	0,
+				"Action58\\CameraType:d":	0,
+				"Action58\\Target:g":	"C0CFABCE_9E8D1000",
+				"Action58\\Relative:d":	0,
+				"Action58\\StartOrient:fff":	[0, 0, 0],
+				"Action58\\EndOrient:fff":	[0, 0, 0],
+				"Action58\\StartOffset:fff":	[0, 0, 0],
+				"Action58\\EndOffset:fff":	[0, 0, 0],
+				"Action58\\TargetOffset:fff":	[0, 0, 0],
+				"Action58\\StartFOV:f":	1.25663697719574,
+				"Action58\\EndFOV:f":	1.25663697719574,
+				"Action58\\TransitionPop:d":	0,
+				"Action58\\Loop:d":	0,
+				"Action58\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action59",
+		"row_count":	1,
+		"rows":	[{
+				"Action59\\Name:s":	"SHOT16_AnimInst_Barrel_Ride3",
+				"Action59\\Type:d":	9,
+				"Action59\\Shot:d":	16,
+				"Action59\\Offset:f":	58.166667938232422,
+				"Action59\\Duration:f":	5.3000001907348633,
+				"Action59\\SyncPoint:d":	16,
+				"Action59\\FinishShot:d":	1,
+				"Action59\\DefaultLength:f":	0,
+				"Action59\\Object:g":	"C0CFA3CE_9F04C000",
+				"Action59\\AnimName:s":	"Barrel_Cine08_Ride3Shot16",
+				"Action59\\StartAnimating:d":	1,
+				"Action59\\Looping:d":	0,
+				"Action59\\HideWhenDone:d":	1,
+				"Action59\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action60",
+		"row_count":	1,
+		"rows":	[{
+				"Action60\\Name:s":	"SHOT16_Dialog_Bilbo_Barrel_Ride3",
+				"Action60\\Type:d":	5,
+				"Action60\\Shot:d":	16,
+				"Action60\\Offset:f":	58.166667938232422,
+				"Action60\\Duration:f":	0.965400457382202,
+				"Action60\\SyncPoint:d":	16,
+				"Action60\\FinishShot:d":	1,
+				"Action60\\DefaultLength:f":	3.3511874675750732,
+				"Action60\\Speaker:g":	"0D8AD38E_82E48000",
+				"Action60\\Sample:s":	"Bilbo_07_32",
+				"Action60\\ForceEnd:d":	1,
+				"Action60\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action61",
+		"row_count":	1,
+		"rows":	[{
+				"Action61\\Name:s":	"SHOT17_Camera_Barrel_Ride4",
+				"Action61\\Type:d":	4,
+				"Action61\\Shot:d":	17,
+				"Action61\\Offset:f":	63.466667175292969,
+				"Action61\\Duration:f":	5.03333282470703,
+				"Action61\\SyncPoint:d":	17,
+				"Action61\\FinishShot:d":	0,
+				"Action61\\DefaultLength:f":	0,
+				"Action61\\CameraType:d":	0,
+				"Action61\\Target:g":	"C0CFABCE_9E8E0C00",
+				"Action61\\Relative:d":	0,
+				"Action61\\StartOrient:fff":	[0, 0, 0],
+				"Action61\\EndOrient:fff":	[0, 0, 0],
+				"Action61\\StartOffset:fff":	[0, 0, 0],
+				"Action61\\EndOffset:fff":	[0, 0, 0],
+				"Action61\\TargetOffset:fff":	[0, 0, 0],
+				"Action61\\StartFOV:f":	1.25663697719574,
+				"Action61\\EndFOV:f":	1.25663697719574,
+				"Action61\\TransitionPop:d":	0,
+				"Action61\\Loop:d":	0,
+				"Action61\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action62",
+		"row_count":	1,
+		"rows":	[{
+				"Action62\\Name:s":	"SHOT17_Anim_Barrel_Ride4",
+				"Action62\\Type:d":	2,
+				"Action62\\Shot:d":	17,
+				"Action62\\Offset:f":	63.466667175292969,
+				"Action62\\Duration:f":	5.03333282470703,
+				"Action62\\SyncPoint:d":	17,
+				"Action62\\FinishShot:d":	1,
+				"Action62\\DefaultLength:f":	0,
+				"Action62\\Character:g":	"0D8AD38E_82E48000",
+				"Action62\\AnimName:s":	"Bilbo_BarrelRide4",
+				"Action62\\Length:f":	5.03333282470703,
+				"Action62\\AnimGroup:s":	"",
+				"Action62\\AnimatedInPlace:d":	1,
+				"Action62\\Loops:d":	1,
+				"Action62\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action63",
+		"row_count":	1,
+		"rows":	[{
+				"Action63\\Name:s":	"SHOT17_AnimInst_Barrel_Ride4",
+				"Action63\\Type:d":	9,
+				"Action63\\Shot:d":	17,
+				"Action63\\Offset:f":	63.466667175292969,
+				"Action63\\Duration:f":	5.03333282470703,
+				"Action63\\SyncPoint:d":	17,
+				"Action63\\FinishShot:d":	0,
+				"Action63\\DefaultLength:f":	0,
+				"Action63\\Object:g":	"C0CFA3CE_9F052000",
+				"Action63\\AnimName:s":	"Barrel_Cine08_Ride4Shot17",
+				"Action63\\StartAnimating:d":	1,
+				"Action63\\Looping:d":	0,
+				"Action63\\HideWhenDone:d":	1,
+				"Action63\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action64",
+		"row_count":	1,
+		"rows":	[{
+				"Action64\\Name:s":	"SHOT17_Dialog_Bilbo_Barrel_Ride4",
+				"Action64\\Type:d":	5,
+				"Action64\\Shot:d":	17,
+				"Action64\\Offset:f":	63.466667175292969,
+				"Action64\\Duration:f":	2.3179142475128174,
+				"Action64\\SyncPoint:d":	17,
+				"Action64\\FinishShot:d":	1,
+				"Action64\\DefaultLength:f":	1.7930312156677246,
+				"Action64\\Speaker:g":	"0D8AD38E_82E48000",
+				"Action64\\Sample:s":	"Bilbo_07_34",
+				"Action64\\ForceEnd:d":	1,
+				"Action64\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action65",
+		"row_count":	1,
+		"rows":	[{
+				"Action65\\Name:s":	"SHOT01_SoundFX_Barrel_Push01===",
+				"Action65\\Type:d":	3,
+				"Action65\\Shot:d":	1,
+				"Action65\\Offset:f":	1.5,
+				"Action65\\Duration:f":	0.10000000149011612,
+				"Action65\\SyncPoint:d":	1,
+				"Action65\\FinishShot:d":	0,
+				"Action65\\DefaultLength:f":	0,
+				"Action65\\Sound:s":	""
+			}]
+	}, {
+		"name":	"Action66",
+		"row_count":	1,
+		"rows":	[{
+				"Action66\\Name:s":	"SHOT02_SoundFX_Barrel_Push01===",
+				"Action66\\Type:d":	3,
+				"Action66\\Shot:d":	2,
+				"Action66\\Offset:f":	4.53333282470703,
+				"Action66\\Duration:f":	0.10000000149011612,
+				"Action66\\SyncPoint:d":	2,
+				"Action66\\FinishShot:d":	0,
+				"Action66\\DefaultLength:f":	0,
+				"Action66\\Sound:s":	""
+			}]
+	}, {
+		"name":	"Action67",
+		"row_count":	1,
+		"rows":	[{
+				"Action67\\Name:s":	"SHOT03_SoundFX_Barrel_Push03===",
+				"Action67\\Type:d":	3,
+				"Action67\\Shot:d":	3,
+				"Action67\\Offset:f":	7.233332633972168,
+				"Action67\\Duration:f":	0.10000000149011612,
+				"Action67\\SyncPoint:d":	3,
+				"Action67\\FinishShot:d":	0,
+				"Action67\\DefaultLength:f":	0,
+				"Action67\\Sound:s":	""
+			}]
+	}, {
+		"name":	"Action68",
+		"row_count":	1,
+		"rows":	[{
+				"Action68\\Name:s":	"SHOT04_SoundFX_Barrel_Push04===",
+				"Action68\\Type:d":	3,
+				"Action68\\Shot:d":	4,
+				"Action68\\Offset:f":	10.09999942779541,
+				"Action68\\Duration:f":	0.10000000149011612,
+				"Action68\\SyncPoint:d":	4,
+				"Action68\\FinishShot:d":	0,
+				"Action68\\DefaultLength:f":	0,
+				"Action68\\Sound:s":	""
+			}]
+	}, {
+		"name":	"Action69",
+		"row_count":	1,
+		"rows":	[{
+				"Action69\\Name:s":	"SHOT05_SoundFX_Barrel_Push05===",
+				"Action69\\Type:d":	3,
+				"Action69\\Shot:d":	5,
+				"Action69\\Offset:f":	11.033332824707031,
+				"Action69\\Duration:f":	0.10000000149011612,
+				"Action69\\SyncPoint:d":	5,
+				"Action69\\FinishShot:d":	0,
+				"Action69\\DefaultLength:f":	0,
+				"Action69\\Sound:s":	""
+			}]
+	}, {
+		"name":	"Action70",
+		"row_count":	1,
+		"rows":	[{
+				"Action70\\Name:s":	"SHOT06_SoundFX_Barrel_Push06===",
+				"Action70\\Type:d":	3,
+				"Action70\\Shot:d":	6,
+				"Action70\\Offset:f":	13.066665649414063,
+				"Action70\\Duration:f":	0.10000000149011612,
+				"Action70\\SyncPoint:d":	6,
+				"Action70\\FinishShot:d":	0,
+				"Action70\\DefaultLength:f":	0,
+				"Action70\\Sound:s":	""
+			}]
+	}, {
+		"name":	"Action71",
+		"row_count":	1,
+		"rows":	[{
+				"Action71\\Name:s":	"SHOT07_SoundFX_Barrel_Push07===",
+				"Action71\\Type:d":	3,
+				"Action71\\Shot:d":	7,
+				"Action71\\Offset:f":	13.999999046325684,
+				"Action71\\Duration:f":	0.10000000149011612,
+				"Action71\\SyncPoint:d":	7,
+				"Action71\\FinishShot:d":	0,
+				"Action71\\DefaultLength:f":	0,
+				"Action71\\Sound:s":	""
+			}]
+	}, {
+		"name":	"Action72",
+		"row_count":	1,
+		"rows":	[{
+				"Action72\\Name:s":	"SHOT08_SoundFX_Barrel_Push08===",
+				"Action72\\Type:d":	3,
+				"Action72\\Shot:d":	8,
+				"Action72\\Offset:f":	18.033332824707031,
+				"Action72\\Duration:f":	0.10000000149011612,
+				"Action72\\SyncPoint:d":	8,
+				"Action72\\FinishShot:d":	0,
+				"Action72\\DefaultLength:f":	0,
+				"Action72\\Sound:s":	""
+			}]
+	}, {
+		"name":	"Action73",
+		"row_count":	1,
+		"rows":	[{
+				"Action73\\Name:s":	"SHOT09_SoundFX_Barrel_Push09===",
+				"Action73\\Type:d":	3,
+				"Action73\\Shot:d":	9,
+				"Action73\\Offset:f":	23.399999618530273,
+				"Action73\\Duration:f":	0.10000000149011612,
+				"Action73\\SyncPoint:d":	9,
+				"Action73\\FinishShot:d":	0,
+				"Action73\\DefaultLength:f":	0,
+				"Action73\\Sound:s":	""
+			}]
+	}, {
+		"name":	"Action74",
+		"row_count":	1,
+		"rows":	[{
+				"Action74\\Name:s":	"SHOT10_SoundFX_Barrel_Push10===",
+				"Action74\\Type:d":	3,
+				"Action74\\Shot:d":	10,
+				"Action74\\Offset:f":	26.4333324432373,
+				"Action74\\Duration:f":	0.10000000149011612,
+				"Action74\\SyncPoint:d":	10,
+				"Action74\\FinishShot:d":	0,
+				"Action74\\DefaultLength:f":	0,
+				"Action74\\Sound:s":	""
+			}]
+	}, {
+		"name":	"Action75",
+		"row_count":	1,
+		"rows":	[{
+				"Action75\\Name:s":	"SHOT11_SoundFX_Barrel_Push11===",
+				"Action75\\Type:d":	3,
+				"Action75\\Shot:d":	11,
+				"Action75\\Offset:f":	30.299999237060547,
+				"Action75\\Duration:f":	0.10000000149011612,
+				"Action75\\SyncPoint:d":	11,
+				"Action75\\FinishShot:d":	0,
+				"Action75\\DefaultLength:f":	0,
+				"Action75\\Sound:s":	""
+			}]
+	}, {
+		"name":	"Action76",
+		"row_count":	1,
+		"rows":	[{
+				"Action76\\Name:s":	"SHOT12_SoundFX_Barrel_Push12===",
+				"Action76\\Type:d":	3,
+				"Action76\\Shot:d":	12,
+				"Action76\\Offset:f":	33.333332061767578,
+				"Action76\\Duration:f":	0.10000000149011612,
+				"Action76\\SyncPoint:d":	12,
+				"Action76\\FinishShot:d":	0,
+				"Action76\\DefaultLength:f":	0,
+				"Action76\\Sound:s":	""
+			}]
+	}, {
+		"name":	"Action77",
+		"row_count":	1,
+		"rows":	[{
+				"Action77\\Name:s":	"SHOT13_SoundFX_Bilbo_Jump===",
+				"Action77\\Type:d":	3,
+				"Action77\\Shot:d":	13,
+				"Action77\\Offset:f":	34.733333587646484,
+				"Action77\\Duration:f":	0.10000000149011612,
+				"Action77\\SyncPoint:d":	13,
+				"Action77\\FinishShot:d":	0,
+				"Action77\\DefaultLength:f":	0,
+				"Action77\\Sound:s":	""
+			}]
+	}, {
+		"name":	"Action78",
+		"row_count":	1,
+		"rows":	[{
+				"Action78\\Name:s":	"SHOT14_SoundFX_Barrel_Ride1===",
+				"Action78\\Type:d":	3,
+				"Action78\\Shot:d":	14,
+				"Action78\\Offset:f":	41.433334350585938,
+				"Action78\\Duration:f":	0.10000000149011612,
+				"Action78\\SyncPoint:d":	14,
+				"Action78\\FinishShot:d":	0,
+				"Action78\\DefaultLength:f":	0,
+				"Action78\\Sound:s":	""
+			}]
+	}, {
+		"name":	"Action79",
+		"row_count":	1,
+		"rows":	[{
+				"Action79\\Name:s":	"SHOT15_SoundFX_Barrel_Ride2===",
+				"Action79\\Type:d":	3,
+				"Action79\\Shot:d":	15,
+				"Action79\\Offset:f":	48.1333351135254,
+				"Action79\\Duration:f":	0.10000000149011612,
+				"Action79\\SyncPoint:d":	15,
+				"Action79\\FinishShot:d":	0,
+				"Action79\\DefaultLength:f":	0,
+				"Action79\\Sound:s":	""
+			}]
+	}, {
+		"name":	"Action80",
+		"row_count":	1,
+		"rows":	[{
+				"Action80\\Name:s":	"SHOT16_SoundFX_Barrel_Ride3===",
+				"Action80\\Type:d":	3,
+				"Action80\\Shot:d":	16,
+				"Action80\\Offset:f":	58.166667938232422,
+				"Action80\\Duration:f":	0.10000000149011612,
+				"Action80\\SyncPoint:d":	16,
+				"Action80\\FinishShot:d":	0,
+				"Action80\\DefaultLength:f":	0,
+				"Action80\\Sound:s":	""
+			}]
+	}, {
+		"name":	"Action81",
+		"row_count":	1,
+		"rows":	[{
+				"Action81\\Name:s":	"SHOT17_SoundFX_Barrel_Ride4===",
+				"Action81\\Type:d":	3,
+				"Action81\\Shot:d":	17,
+				"Action81\\Offset:f":	63.466667175292969,
+				"Action81\\Duration:f":	0.10000000149011612,
+				"Action81\\SyncPoint:d":	17,
+				"Action81\\FinishShot:d":	0,
+				"Action81\\DefaultLength:f":	0,
+				"Action81\\Sound:s":	""
+			}]
+	}, {
+		"name":	"Action82",
+		"row_count":	1,
+		"rows":	[{
+				"Action82\\Name:s":	"SHOT01_Dialog_Kili_Push01",
+				"Action82\\Type:d":	5,
+				"Action82\\Shot:d":	1,
+				"Action82\\Offset:f":	1.5,
+				"Action82\\Duration:f":	1.6700354814529419,
+				"Action82\\SyncPoint:d":	1,
+				"Action82\\FinishShot:d":	1,
+				"Action82\\DefaultLength:f":	1.1784374713897705,
+				"Action82\\Speaker:g":	"0D8ADC4E_05499801",
+				"Action82\\Sample:s":	"Kili_07_03",
+				"Action82\\ForceEnd:d":	1,
+				"Action82\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action83",
+		"row_count":	1,
+		"rows":	[{
+				"Action83\\Name:s":	"SHOT02_Dialog_Bofur_Push02",
+				"Action83\\Type:d":	5,
+				"Action83\\Shot:d":	2,
+				"Action83\\Offset:f":	4.53333282470703,
+				"Action83\\Duration:f":	1.7282534837722778,
+				"Action83\\SyncPoint:d":	2,
+				"Action83\\FinishShot:d":	1,
+				"Action83\\DefaultLength:f":	2.8098125457763672,
+				"Action83\\Speaker:g":	"0D8ADC4E_0549D801",
+				"Action83\\Sample:s":	"Bofur_07_04",
+				"Action83\\ForceEnd:d":	1,
+				"Action83\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action84",
+		"row_count":	1,
+		"rows":	[{
+				"Action84\\Name:s":	"SHOT03_Dialog_Nori_Push03",
+				"Action84\\Type:d":	5,
+				"Action84\\Shot:d":	3,
+				"Action84\\Offset:f":	7.233332633972168,
+				"Action84\\Duration:f":	1.6252604722976685,
+				"Action84\\SyncPoint:d":	3,
+				"Action84\\FinishShot:d":	1,
+				"Action84\\DefaultLength:f":	1.6396875381469727,
+				"Action84\\Speaker:g":	"0D8ADC4E_05496401",
+				"Action84\\Sample:s":	"Nori_07_04",
+				"Action84\\ForceEnd:d":	1,
+				"Action84\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action85",
+		"row_count":	1,
+		"rows":	[{
+				"Action85\\Name:s":	"SHOT01_Dialog_Dwalin_Push04",
+				"Action85\\Type:d":	5,
+				"Action85\\Shot:d":	4,
+				"Action85\\Offset:f":	10.09999942779541,
+				"Action85\\Duration:f":	1.2626760005950928,
+				"Action85\\SyncPoint:d":	4,
+				"Action85\\FinishShot:d":	1,
+				"Action85\\DefaultLength:f":	2.2929999828338623,
+				"Action85\\Speaker:g":	"0D8ADC4E_0548FC01",
+				"Action85\\Sample:s":	"Dwalin_07_04",
+				"Action85\\ForceEnd:d":	1,
+				"Action85\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action86",
+		"row_count":	1,
+		"rows":	[{
+				"Action86\\Name:s":	"SHOT05_Dialog_Ori_Push05",
+				"Action86\\Type:d":	5,
+				"Action86\\Shot:d":	5,
+				"Action86\\Offset:f":	11.033332824707031,
+				"Action86\\Duration:f":	1.4601362943649292,
+				"Action86\\SyncPoint:d":	5,
+				"Action86\\FinishShot:d":	1,
+				"Action86\\DefaultLength:f":	2.9085311889648437,
+				"Action86\\Speaker:g":	"0D8ADC4E_05493801",
+				"Action86\\Sample:s":	"Ori_07_04",
+				"Action86\\ForceEnd:d":	1,
+				"Action86\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action87",
+		"row_count":	1,
+		"rows":	[{
+				"Action87\\Name:s":	"SHOT06_Dialog_Dwarf_Push06===",
+				"Action87\\Type:d":	5,
+				"Action87\\Shot:d":	6,
+				"Action87\\Offset:f":	13.066665649414063,
+				"Action87\\Duration:f":	0.10000000149011612,
+				"Action87\\SyncPoint:d":	6,
+				"Action87\\FinishShot:d":	1,
+				"Action87\\DefaultLength:f":	0,
+				"Action87\\Speaker:g":	"00000000_00000000",
+				"Action87\\Sample:s":	"",
+				"Action87\\ForceEnd:d":	1,
+				"Action87\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action88",
+		"row_count":	1,
+		"rows":	[{
+				"Action88\\Name:s":	"SHOT07_Dialog_Bifur_Push07",
+				"Action88\\Type:d":	5,
+				"Action88\\Shot:d":	7,
+				"Action88\\Offset:f":	13.999999046325684,
+				"Action88\\Duration:f":	3.2872095108032227,
+				"Action88\\SyncPoint:d":	7,
+				"Action88\\FinishShot:d":	1,
+				"Action88\\DefaultLength:f":	2.76981258392334,
+				"Action88\\Speaker:g":	"0D8ADC4E_0549B801",
+				"Action88\\Sample:s":	"Bifur_07_04",
+				"Action88\\ForceEnd:d":	1,
+				"Action88\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action89",
+		"row_count":	1,
+		"rows":	[{
+				"Action89\\Name:s":	"SHOT08_Dialog_Gloin_Push08",
+				"Action89\\Type:d":	5,
+				"Action89\\Shot:d":	8,
+				"Action89\\Offset:f":	18.033332824707031,
+				"Action89\\Duration:f":	2.1678457260131836,
+				"Action89\\SyncPoint:d":	8,
+				"Action89\\FinishShot:d":	1,
+				"Action89\\DefaultLength:f":	3.0110938549041748,
+				"Action89\\Speaker:g":	"0D8ADC4E_05492401",
+				"Action89\\Sample:s":	"Galion_07_04",
+				"Action89\\ForceEnd:d":	1,
+				"Action89\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action90",
+		"row_count":	1,
+		"rows":	[{
+				"Action90\\Name:s":	"SHOT09_Dialog_Fili_Push09",
+				"Action90\\Type:d":	5,
+				"Action90\\Shot:d":	9,
+				"Action90\\Offset:f":	23.399999618530273,
+				"Action90\\Duration:f":	0.72900271415710449,
+				"Action90\\SyncPoint:d":	9,
+				"Action90\\FinishShot:d":	1,
+				"Action90\\DefaultLength:f":	2.3244688510894775,
+				"Action90\\Speaker:g":	"0D8ADC4E_05497C01",
+				"Action90\\Sample:s":	"Fili_07_03",
+				"Action90\\ForceEnd:d":	1,
+				"Action90\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action91",
+		"row_count":	1,
+		"rows":	[{
+				"Action91\\Name:s":	"SHOT10_Dialog_Dwarf_Push10===",
+				"Action91\\Type:d":	5,
+				"Action91\\Shot:d":	10,
+				"Action91\\Offset:f":	26.4333324432373,
+				"Action91\\Duration:f":	0.10000000149011612,
+				"Action91\\SyncPoint:d":	10,
+				"Action91\\FinishShot:d":	1,
+				"Action91\\DefaultLength:f":	0,
+				"Action91\\Speaker:g":	"00000000_00000000",
+				"Action91\\Sample:s":	"",
+				"Action91\\ForceEnd:d":	1,
+				"Action91\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action92",
+		"row_count":	1,
+		"rows":	[{
+				"Action92\\Name:s":	"SHOT11_Dialog_Oin_Push11",
+				"Action92\\Type:d":	5,
+				"Action92\\Shot:d":	11,
+				"Action92\\Offset:f":	30.299999237060547,
+				"Action92\\Duration:f":	4.0124263763427734,
+				"Action92\\SyncPoint:d":	11,
+				"Action92\\FinishShot:d":	1,
+				"Action92\\DefaultLength:f":	3.6143124103546143,
+				"Action92\\Speaker:g":	"0D8ADC4E_05491001",
+				"Action92\\Sample:s":	"Oin_07_04",
+				"Action92\\ForceEnd:d":	1,
+				"Action92\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action93",
+		"row_count":	1,
+		"rows":	[{
+				"Action93\\Name:s":	"SHOT12_Dialog_Dwarf_Push12===",
+				"Action93\\Type:d":	5,
+				"Action93\\Shot:d":	12,
+				"Action93\\Offset:f":	33.333332061767578,
+				"Action93\\Duration:f":	0.10000000149011612,
+				"Action93\\SyncPoint:d":	12,
+				"Action93\\FinishShot:d":	1,
+				"Action93\\DefaultLength:f":	0,
+				"Action93\\Speaker:g":	"00000000_00000000",
+				"Action93\\Sample:s":	"",
+				"Action93\\ForceEnd:d":	1,
+				"Action93\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action94",
+		"row_count":	1,
+		"rows":	[{
+				"Action94\\Name:s":	"SHOT14_Dialog_Bombur_Push14",
+				"Action94\\Type:d":	5,
+				"Action94\\Shot:d":	14,
+				"Action94\\Offset:f":	41.433334350585938,
+				"Action94\\Duration:f":	3.22558045387268,
+				"Action94\\SyncPoint:d":	14,
+				"Action94\\FinishShot:d":	1,
+				"Action94\\DefaultLength:f":	3.9535624980926514,
+				"Action94\\Speaker:g":	"0D8ADC4E_0549F403",
+				"Action94\\Sample:s":	"Bombur_07_04",
+				"Action94\\ForceEnd:d":	1,
+				"Action94\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action95",
+		"row_count":	1,
+		"rows":	[{
+				"Action95\\Name:s":	"SHOT15_Dialog_Dori_Push15",
+				"Action95\\Type:d":	5,
+				"Action95\\Shot:d":	15,
+				"Action95\\Offset:f":	48.1333351135254,
+				"Action95\\Duration:f":	1.3116550445556641,
+				"Action95\\SyncPoint:d":	15,
+				"Action95\\FinishShot:d":	1,
+				"Action95\\DefaultLength:f":	1.7652809619903564,
+				"Action95\\Speaker:g":	"0D8ADC4E_05494C01",
+				"Action95\\Sample:s":	"Dori_07_04",
+				"Action95\\ForceEnd:d":	1,
+				"Action95\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action96",
+		"row_count":	1,
+		"rows":	[{
+				"Action96\\Name:s":	"SHOT16_Dialog_Balin_Push16",
+				"Action96\\Type:d":	5,
+				"Action96\\Shot:d":	16,
+				"Action96\\Offset:f":	58.166667938232422,
+				"Action96\\Duration:f":	1.5569608211517334,
+				"Action96\\SyncPoint:d":	16,
+				"Action96\\FinishShot:d":	1,
+				"Action96\\DefaultLength:f":	1.5894687175750732,
+				"Action96\\Speaker:g":	"0D8ADC4E_0548CC01",
+				"Action96\\Sample:s":	"Balin_07_08",
+				"Action96\\ForceEnd:d":	1,
+				"Action96\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action97",
+		"row_count":	1,
+		"rows":	[{
+				"Action97\\Name:s":	"SHOT17_Dialog_Dwarf_Push17===",
+				"Action97\\Type:d":	5,
+				"Action97\\Shot:d":	17,
+				"Action97\\Offset:f":	63.466667175292969,
+				"Action97\\Duration:f":	0.10000000149011612,
+				"Action97\\SyncPoint:d":	17,
+				"Action97\\FinishShot:d":	1,
+				"Action97\\DefaultLength:f":	0,
+				"Action97\\Speaker:g":	"00000000_00000000",
+				"Action97\\Sample:s":	"",
+				"Action97\\ForceEnd:d":	1,
+				"Action97\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Participants",
+		"row_count":	14,
+		"rows":	[{
+				"PGuid:g":	"ABCABCAB_CABCABC0"
+			}, {
+				"PGuid:g":	"0D8AD38E_82E48000"
+			}, {
+				"PGuid:g":	"0D8ADC4E_05499801"
+			}, {
+				"PGuid:g":	"0D8ADC4E_0549D801"
+			}, {
+				"PGuid:g":	"0D8ADC4E_05496401"
+			}, {
+				"PGuid:g":	"0D8ADC4E_0548FC01"
+			}, {
+				"PGuid:g":	"0D8ADC4E_05493801"
+			}, {
+				"PGuid:g":	"0D8ADC4E_0549B801"
+			}, {
+				"PGuid:g":	"0D8ADC4E_05492401"
+			}, {
+				"PGuid:g":	"0D8ADC4E_05497C01"
+			}, {
+				"PGuid:g":	"0D8ADC4E_05491001"
+			}, {
+				"PGuid:g":	"0D8ADC4E_0549F403"
+			}, {
+				"PGuid:g":	"0D8ADC4E_05494C01"
+			}, {
+				"PGuid:g":	"0D8ADC4E_0548CC01"
+			}]
+	}, {
+		"name":	"Action-1",
+		"row_count":	1,
+		"rows":	[{
+				"Action-1\\Shot:d":	0,
+				"Action-1\\Offset:f":	0,
+				"Action-1\\Duration:f":	1,
+				"Action-1\\SyncPoint:d":	0,
+				"Action-1\\FinishShot:d":	0,
+				"Action-1\\DefaultLength:f":	1,
+				"Action-1\\FXType:d":	3,
+				"Action-1\\Magnitude:f":	0.15000000596046448,
+				"Action-1\\Frequency:f":	20,
+				"Action-1\\Rolling:d":	0,
+				"Action-1\\Fadeout:d":	0,
+				"Action-1\\Color:dddd":	[0, 0, 0, 255],
+				"Action-1\\Target:f":	0
+			}]
+	}, {
+		"name":	"Action-2",
+		"row_count":	1,
+		"rows":	[{
+				"Action-2\\Shot:d":	0,
+				"Action-2\\Offset:f":	0,
+				"Action-2\\Duration:f":	1,
+				"Action-2\\SyncPoint:d":	0,
+				"Action-2\\FinishShot:d":	0,
+				"Action-2\\DefaultLength:f":	1,
+				"Action-2\\FXType:d":	3,
+				"Action-2\\Magnitude:f":	0.15000000596046448,
+				"Action-2\\Frequency:f":	20,
+				"Action-2\\Rolling:d":	0,
+				"Action-2\\Fadeout:d":	0,
+				"Action-2\\Color:dddd":	[0, 0, 0, 255],
+				"Action-2\\Target:f":	0
+			}]
+	}, {
+		"name":	"Cinema",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD812_0DAAD400",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-1, -1, -1, 1, 1, 1],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Cinema_08_Escape_NEW",
+				"Repeatable:d":	0,
+				"PopAtEnd:d":	1,
+				"Cinematic:d":	1,
+				"Time:f":	0,
+				"Duration:f":	67.133338928222656,
+				"nShots:d":	17,
+				"nSyncPoints:d":	17,
+				"nActions:d":	46,
+				"nParticipants:d":	1,
+				"InitialShot:d":	0,
+				"BilboInvisible:d":	0,
+				"HasIntroTrans:d":	1,
+				"HasOutroTrans:d":	1,
+				"Skippable:d":	1,
+				"IsDeathCinema:d":	0,
+				"ForceNoWeapon:d":	1,
+				"ForceUseStick:d":	0,
+				"ForceUseSting:d":	0,
+				"Letterbox:d":	1,
+				"DisableControl:d":	0,
+				"BypassQueue:d":	0,
+				"LowPriority:d":	0,
+				"SubtitleInBox:d":	0
+			}]
+	}, {
+		"name":	"Shot0",
+		"row_count":	1,
+		"rows":	[{
+				"Shot0\\Name:s":	"Shot 0",
+				"Shot0\\NextShot:d":	1,
+				"Shot0\\SkipShot:d":	1,
+				"Shot0\\MaxTime:f":	600,
+				"Shot0\\Time:f":	0
+			}]
+	}, {
+		"name":	"Shot1",
+		"row_count":	1,
+		"rows":	[{
+				"Shot1\\Name:s":	"Shot 1",
+				"Shot1\\NextShot:d":	2,
+				"Shot1\\SkipShot:d":	2,
+				"Shot1\\MaxTime:f":	600,
+				"Shot1\\Time:f":	3.0333340167999268
+			}]
+	}, {
+		"name":	"Shot2",
+		"row_count":	1,
+		"rows":	[{
+				"Shot2\\Name:s":	"Shot 2",
+				"Shot2\\NextShot:d":	3,
+				"Shot2\\SkipShot:d":	3,
+				"Shot2\\MaxTime:f":	600,
+				"Shot2\\Time:f":	5.7333340644836426
+			}]
+	}, {
+		"name":	"Shot3",
+		"row_count":	1,
+		"rows":	[{
+				"Shot3\\Name:s":	"Shot 3",
+				"Shot3\\NextShot:d":	4,
+				"Shot3\\SkipShot:d":	4,
+				"Shot3\\MaxTime:f":	600,
+				"Shot3\\Time:f":	8.6000003814697266
+			}]
+	}, {
+		"name":	"Shot4",
+		"row_count":	1,
+		"rows":	[{
+				"Shot4\\Name:s":	"Shot 4",
+				"Shot4\\NextShot:d":	5,
+				"Shot4\\SkipShot:d":	5,
+				"Shot4\\MaxTime:f":	600,
+				"Shot4\\Time:f":	9.6000003814697266
+			}]
+	}, {
+		"name":	"Shot5",
+		"row_count":	1,
+		"rows":	[{
+				"Shot5\\Name:s":	"Shot 5",
+				"Shot5\\NextShot:d":	6,
+				"Shot5\\SkipShot:d":	6,
+				"Shot5\\MaxTime:f":	600,
+				"Shot5\\Time:f":	11.633334159851074
+			}]
+	}, {
+		"name":	"Shot6",
+		"row_count":	1,
+		"rows":	[{
+				"Shot6\\Name:s":	"Shot 6",
+				"Shot6\\NextShot:d":	7,
+				"Shot6\\SkipShot:d":	7,
+				"Shot6\\MaxTime:f":	600,
+				"Shot6\\Time:f":	12.633334159851074
+			}]
+	}, {
+		"name":	"Shot7",
+		"row_count":	1,
+		"rows":	[{
+				"Shot7\\Name:s":	"Shot 7",
+				"Shot7\\NextShot:d":	8,
+				"Shot7\\SkipShot:d":	8,
+				"Shot7\\MaxTime:f":	600,
+				"Shot7\\Time:f":	16.666667938232422
+			}]
+	}, {
+		"name":	"Shot8",
+		"row_count":	1,
+		"rows":	[{
+				"Shot8\\Name:s":	"Shot 8",
+				"Shot8\\NextShot:d":	9,
+				"Shot8\\SkipShot:d":	9,
+				"Shot8\\MaxTime:f":	600,
+				"Shot8\\Time:f":	22.033334732055664
+			}]
+	}, {
+		"name":	"Shot9",
+		"row_count":	1,
+		"rows":	[{
+				"Shot9\\Name:s":	"Shot 9",
+				"Shot9\\NextShot:d":	10,
+				"Shot9\\SkipShot:d":	10,
+				"Shot9\\MaxTime:f":	600,
+				"Shot9\\Time:f":	25.0666675567627
+			}]
+	}, {
+		"name":	"Shot10",
+		"row_count":	1,
+		"rows":	[{
+				"Shot10\\Name:s":	"Shot 10",
+				"Shot10\\NextShot:d":	11,
+				"Shot10\\SkipShot:d":	11,
+				"Shot10\\MaxTime:f":	600,
+				"Shot10\\Time:f":	28.933334350585938
+			}]
+	}, {
+		"name":	"Shot11",
+		"row_count":	1,
+		"rows":	[{
+				"Shot11\\Name:s":	"Shot 11",
+				"Shot11\\NextShot:d":	12,
+				"Shot11\\SkipShot:d":	12,
+				"Shot11\\MaxTime:f":	600,
+				"Shot11\\Time:f":	31.966667175292969
+			}]
+	}, {
+		"name":	"Shot12",
+		"row_count":	1,
+		"rows":	[{
+				"Shot12\\Name:s":	"Shot 12",
+				"Shot12\\NextShot:d":	13,
+				"Shot12\\SkipShot:d":	13,
+				"Shot12\\MaxTime:f":	600,
+				"Shot12\\Time:f":	33.366668701171875
+			}]
+	}, {
+		"name":	"Shot13",
+		"row_count":	1,
+		"rows":	[{
+				"Shot13\\Name:s":	"Shot 13",
+				"Shot13\\NextShot:d":	14,
+				"Shot13\\SkipShot:d":	14,
+				"Shot13\\MaxTime:f":	600,
+				"Shot13\\Time:f":	40.066669464111328
+			}]
+	}, {
+		"name":	"Shot14",
+		"row_count":	1,
+		"rows":	[{
+				"Shot14\\Name:s":	"Shot 14",
+				"Shot14\\NextShot:d":	15,
+				"Shot14\\SkipShot:d":	15,
+				"Shot14\\MaxTime:f":	600,
+				"Shot14\\Time:f":	46.766670227050781
+			}]
+	}, {
+		"name":	"Shot15",
+		"row_count":	1,
+		"rows":	[{
+				"Shot15\\Name:s":	"Shot 15",
+				"Shot15\\NextShot:d":	16,
+				"Shot15\\SkipShot:d":	16,
+				"Shot15\\MaxTime:f":	600,
+				"Shot15\\Time:f":	56.800003051757812
+			}]
+	}, {
+		"name":	"Shot16",
+		"row_count":	1,
+		"rows":	[{
+				"Shot16\\Name:s":	"Shot 16",
+				"Shot16\\NextShot:d":	17,
+				"Shot16\\SkipShot:d":	17,
+				"Shot16\\MaxTime:f":	600,
+				"Shot16\\Time:f":	62.100002288818359
+			}]
+	}, {
+		"name":	"SyncPoint0",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint0\\Name:s":	"Shot 0, Sync 0",
+				"SyncPoint0\\Type:d":	0,
+				"SyncPoint0\\Action:d":	0,
+				"SyncPoint0\\Offset:f":	0,
+				"SyncPoint0\\Shot:d":	0,
+				"SyncPoint0\\FromEnd:d":	1,
+				"SyncPoint0\\AbsoluteTimeStart:f":	0
+			}]
+	}, {
+		"name":	"SyncPoint1",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint1\\Name:s":	"Shot 1, Sync 1",
+				"SyncPoint1\\Type:d":	1,
+				"SyncPoint1\\Action:d":	0,
+				"SyncPoint1\\Offset:f":	0,
+				"SyncPoint1\\Shot:d":	1,
+				"SyncPoint1\\FromEnd:d":	1,
+				"SyncPoint1\\AbsoluteTimeStart:f":	3.0333340167999268
+			}]
+	}, {
+		"name":	"SyncPoint2",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint2\\Name:s":	"Shot 2, Sync 2",
+				"SyncPoint2\\Type:d":	1,
+				"SyncPoint2\\Action:d":	3,
+				"SyncPoint2\\Offset:f":	0,
+				"SyncPoint2\\Shot:d":	2,
+				"SyncPoint2\\FromEnd:d":	1,
+				"SyncPoint2\\AbsoluteTimeStart:f":	5.7333340644836426
+			}]
+	}, {
+		"name":	"SyncPoint3",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint3\\Name:s":	"Shot 3, Sync 3",
+				"SyncPoint3\\Type:d":	1,
+				"SyncPoint3\\Action:d":	6,
+				"SyncPoint3\\Offset:f":	0,
+				"SyncPoint3\\Shot:d":	3,
+				"SyncPoint3\\FromEnd:d":	1,
+				"SyncPoint3\\AbsoluteTimeStart:f":	8.6000003814697266
+			}]
+	}, {
+		"name":	"SyncPoint4",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint4\\Name:s":	"Shot 4, Sync 4",
+				"SyncPoint4\\Type:d":	1,
+				"SyncPoint4\\Action:d":	9,
+				"SyncPoint4\\Offset:f":	0,
+				"SyncPoint4\\Shot:d":	4,
+				"SyncPoint4\\FromEnd:d":	1,
+				"SyncPoint4\\AbsoluteTimeStart:f":	9.6000003814697266
+			}]
+	}, {
+		"name":	"SyncPoint5",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint5\\Name:s":	"Shot 5, Sync 5",
+				"SyncPoint5\\Type:d":	1,
+				"SyncPoint5\\Action:d":	12,
+				"SyncPoint5\\Offset:f":	0,
+				"SyncPoint5\\Shot:d":	5,
+				"SyncPoint5\\FromEnd:d":	1,
+				"SyncPoint5\\AbsoluteTimeStart:f":	11.633334159851074
+			}]
+	}, {
+		"name":	"SyncPoint6",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint6\\Name:s":	"Shot 6, Sync 6",
+				"SyncPoint6\\Type:d":	1,
+				"SyncPoint6\\Action:d":	14,
+				"SyncPoint6\\Offset:f":	0,
+				"SyncPoint6\\Shot:d":	6,
+				"SyncPoint6\\FromEnd:d":	1,
+				"SyncPoint6\\AbsoluteTimeStart:f":	12.633334159851074
+			}]
+	}, {
+		"name":	"SyncPoint7",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint7\\Name:s":	"Shot 7, Sync 7",
+				"SyncPoint7\\Type:d":	1,
+				"SyncPoint7\\Action:d":	17,
+				"SyncPoint7\\Offset:f":	0,
+				"SyncPoint7\\Shot:d":	7,
+				"SyncPoint7\\FromEnd:d":	1,
+				"SyncPoint7\\AbsoluteTimeStart:f":	16.666667938232422
+			}]
+	}, {
+		"name":	"SyncPoint8",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint8\\Name:s":	"Shot 8, Sync 8",
+				"SyncPoint8\\Type:d":	1,
+				"SyncPoint8\\Action:d":	19,
+				"SyncPoint8\\Offset:f":	0,
+				"SyncPoint8\\Shot:d":	8,
+				"SyncPoint8\\FromEnd:d":	1,
+				"SyncPoint8\\AbsoluteTimeStart:f":	22.033334732055664
+			}]
+	}, {
+		"name":	"SyncPoint9",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint9\\Name:s":	"Shot 9, Sync 9",
+				"SyncPoint9\\Type:d":	1,
+				"SyncPoint9\\Action:d":	21,
+				"SyncPoint9\\Offset:f":	0,
+				"SyncPoint9\\Shot:d":	9,
+				"SyncPoint9\\FromEnd:d":	1,
+				"SyncPoint9\\AbsoluteTimeStart:f":	25.0666675567627
+			}]
+	}, {
+		"name":	"SyncPoint10",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint10\\Name:s":	"Shot 10, Sync 10",
+				"SyncPoint10\\Type:d":	1,
+				"SyncPoint10\\Action:d":	24,
+				"SyncPoint10\\Offset:f":	0,
+				"SyncPoint10\\Shot:d":	10,
+				"SyncPoint10\\FromEnd:d":	1,
+				"SyncPoint10\\AbsoluteTimeStart:f":	28.933334350585938
+			}]
+	}, {
+		"name":	"SyncPoint11",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint11\\Name:s":	"Shot 11, Sync 11",
+				"SyncPoint11\\Type:d":	1,
+				"SyncPoint11\\Action:d":	26,
+				"SyncPoint11\\Offset:f":	0,
+				"SyncPoint11\\Shot:d":	11,
+				"SyncPoint11\\FromEnd:d":	1,
+				"SyncPoint11\\AbsoluteTimeStart:f":	31.966667175292969
+			}]
+	}, {
+		"name":	"SyncPoint12",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint12\\Name:s":	"Shot 12, Sync 12",
+				"SyncPoint12\\Type:d":	1,
+				"SyncPoint12\\Action:d":	29,
+				"SyncPoint12\\Offset:f":	0,
+				"SyncPoint12\\Shot:d":	12,
+				"SyncPoint12\\FromEnd:d":	1,
+				"SyncPoint12\\AbsoluteTimeStart:f":	33.366668701171875
+			}]
+	}, {
+		"name":	"SyncPoint13",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint13\\Name:s":	"Shot 13, Sync 13",
+				"SyncPoint13\\Type:d":	1,
+				"SyncPoint13\\Action:d":	32,
+				"SyncPoint13\\Offset:f":	0,
+				"SyncPoint13\\Shot:d":	13,
+				"SyncPoint13\\FromEnd:d":	1,
+				"SyncPoint13\\AbsoluteTimeStart:f":	40.066669464111328
+			}]
+	}, {
+		"name":	"SyncPoint14",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint14\\Name:s":	"Shot 14, Sync 14",
+				"SyncPoint14\\Type:d":	1,
+				"SyncPoint14\\Action:d":	34,
+				"SyncPoint14\\Offset:f":	0,
+				"SyncPoint14\\Shot:d":	14,
+				"SyncPoint14\\FromEnd:d":	1,
+				"SyncPoint14\\AbsoluteTimeStart:f":	46.766670227050781
+			}]
+	}, {
+		"name":	"SyncPoint15",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint15\\Name:s":	"Shot 15, Sync 15",
+				"SyncPoint15\\Type:d":	1,
+				"SyncPoint15\\Action:d":	37,
+				"SyncPoint15\\Offset:f":	0,
+				"SyncPoint15\\Shot:d":	15,
+				"SyncPoint15\\FromEnd:d":	1,
+				"SyncPoint15\\AbsoluteTimeStart:f":	56.800003051757812
+			}]
+	}, {
+		"name":	"SyncPoint16",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint16\\Name:s":	"Shot 16, Sync 16",
+				"SyncPoint16\\Type:d":	1,
+				"SyncPoint16\\Action:d":	40,
+				"SyncPoint16\\Offset:f":	0,
+				"SyncPoint16\\Shot:d":	16,
+				"SyncPoint16\\FromEnd:d":	1,
+				"SyncPoint16\\AbsoluteTimeStart:f":	62.100002288818359
+			}]
+	}, {
+		"name":	"Action0",
+		"row_count":	1,
+		"rows":	[{
+				"Action0\\Name:s":	"Push1Cam",
+				"Action0\\Type:d":	4,
+				"Action0\\Shot:d":	0,
+				"Action0\\Offset:f":	0,
+				"Action0\\Duration:f":	3.0333340167999268,
+				"Action0\\SyncPoint:d":	0,
+				"Action0\\FinishShot:d":	1,
+				"Action0\\DefaultLength:f":	3.0333340167999268,
+				"Action0\\CameraType:d":	0,
+				"Action0\\Target:g":	"C0CFA0CE_9AD74400",
+				"Action0\\Relative:d":	0,
+				"Action0\\StartOrient:fff":	[0, 0, 0],
+				"Action0\\EndOrient:fff":	[0, 0, 0],
+				"Action0\\StartOffset:fff":	[0, 0, 0],
+				"Action0\\EndOffset:fff":	[0, 0, 0],
+				"Action0\\TargetOffset:fff":	[0, 0, 0],
+				"Action0\\StartFOV:f":	1.25663697719574,
+				"Action0\\EndFOV:f":	1.25663697719574,
+				"Action0\\TransitionPop:d":	0,
+				"Action0\\Loop:d":	0,
+				"Action0\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action1",
+		"row_count":	1,
+		"rows":	[{
+				"Action1\\Name:s":	"Barrels Push 1",
+				"Action1\\Type:d":	9,
+				"Action1\\Shot:d":	0,
+				"Action1\\Offset:f":	0,
+				"Action1\\Duration:f":	0,
+				"Action1\\SyncPoint:d":	0,
+				"Action1\\FinishShot:d":	0,
+				"Action1\\DefaultLength:f":	0,
+				"Action1\\Object:g":	"C0CFA04E_9B4E1400",
+				"Action1\\AnimName:s":	"",
+				"Action1\\StartAnimating:d":	1,
+				"Action1\\Looping:d":	0,
+				"Action1\\HideWhenDone:d":	1,
+				"Action1\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action2",
+		"row_count":	1,
+		"rows":	[{
+				"Action2\\Name:s":	"Bilbo Anim 1",
+				"Action2\\Type:d":	2,
+				"Action2\\Shot:d":	0,
+				"Action2\\Offset:f":	0,
+				"Action2\\Duration:f":	3,
+				"Action2\\SyncPoint:d":	0,
+				"Action2\\FinishShot:d":	0,
+				"Action2\\DefaultLength:f":	3,
+				"Action2\\Character:g":	"ABCABCAB_CABCABC0",
+				"Action2\\AnimName:s":	"BarrelsCin_Push1",
+				"Action2\\Length:f":	3,
+				"Action2\\AnimGroup:s":	"bilbo.anim",
+				"Action2\\AnimatedInPlace:d":	1,
+				"Action2\\Loops:d":	0,
+				"Action2\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action3",
+		"row_count":	1,
+		"rows":	[{
+				"Action3\\Name:s":	"Push2Cam",
+				"Action3\\Type:d":	4,
+				"Action3\\Shot:d":	1,
+				"Action3\\Offset:f":	3.0333340167999268,
+				"Action3\\Duration:f":	2.7000000476837158,
+				"Action3\\SyncPoint:d":	1,
+				"Action3\\FinishShot:d":	1,
+				"Action3\\DefaultLength:f":	2.7000000476837158,
+				"Action3\\CameraType:d":	0,
+				"Action3\\Target:g":	"C0CFA0CE_9AD8F400",
+				"Action3\\Relative:d":	0,
+				"Action3\\StartOrient:fff":	[0, 0, 0],
+				"Action3\\EndOrient:fff":	[0, 0, 0],
+				"Action3\\StartOffset:fff":	[0, 0, 0],
+				"Action3\\EndOffset:fff":	[0, 0, 0],
+				"Action3\\TargetOffset:fff":	[0, 0, 0],
+				"Action3\\StartFOV:f":	1.25663697719574,
+				"Action3\\EndFOV:f":	1.25663697719574,
+				"Action3\\TransitionPop:d":	0,
+				"Action3\\Loop:d":	0,
+				"Action3\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action4",
+		"row_count":	1,
+		"rows":	[{
+				"Action4\\Name:s":	"Barrels Push 2",
+				"Action4\\Type:d":	9,
+				"Action4\\Shot:d":	1,
+				"Action4\\Offset:f":	3.0333340167999268,
+				"Action4\\Duration:f":	0,
+				"Action4\\SyncPoint:d":	1,
+				"Action4\\FinishShot:d":	0,
+				"Action4\\DefaultLength:f":	0,
+				"Action4\\Object:g":	"C0CFA04E_9B522C00",
+				"Action4\\AnimName:s":	"",
+				"Action4\\StartAnimating:d":	1,
+				"Action4\\Looping:d":	0,
+				"Action4\\HideWhenDone:d":	1,
+				"Action4\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action5",
+		"row_count":	1,
+		"rows":	[{
+				"Action5\\Name:s":	"Bilbo Push 2",
+				"Action5\\Type:d":	2,
+				"Action5\\Shot:d":	1,
+				"Action5\\Offset:f":	3.0333340167999268,
+				"Action5\\Duration:f":	2.6666669845581055,
+				"Action5\\SyncPoint:d":	1,
+				"Action5\\FinishShot:d":	0,
+				"Action5\\DefaultLength:f":	2.6666669845581055,
+				"Action5\\Character:g":	"ABCABCAB_CABCABC0",
+				"Action5\\AnimName:s":	"BarrelsCin_Push2",
+				"Action5\\Length:f":	2.6666669845581055,
+				"Action5\\AnimGroup:s":	"bilbo.anim",
+				"Action5\\AnimatedInPlace:d":	1,
+				"Action5\\Loops:d":	0,
+				"Action5\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action6",
+		"row_count":	1,
+		"rows":	[{
+				"Action6\\Name:s":	"Push3Cam",
+				"Action6\\Type:d":	4,
+				"Action6\\Shot:d":	2,
+				"Action6\\Offset:f":	5.7333340644836426,
+				"Action6\\Duration:f":	2.8666660785675049,
+				"Action6\\SyncPoint:d":	2,
+				"Action6\\FinishShot:d":	1,
+				"Action6\\DefaultLength:f":	2.8666670322418213,
+				"Action6\\CameraType:d":	0,
+				"Action6\\Target:g":	"C0CFA0CE_9ADD1000",
+				"Action6\\Relative:d":	0,
+				"Action6\\StartOrient:fff":	[0, 0, 0],
+				"Action6\\EndOrient:fff":	[0, 0, 0],
+				"Action6\\StartOffset:fff":	[0, 0, 0],
+				"Action6\\EndOffset:fff":	[0, 0, 0],
+				"Action6\\TargetOffset:fff":	[0, 0, 0],
+				"Action6\\StartFOV:f":	1.25663697719574,
+				"Action6\\EndFOV:f":	1.25663697719574,
+				"Action6\\TransitionPop:d":	0,
+				"Action6\\Loop:d":	0,
+				"Action6\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action7",
+		"row_count":	1,
+		"rows":	[{
+				"Action7\\Name:s":	"Bilbo Push 3",
+				"Action7\\Type:d":	2,
+				"Action7\\Shot:d":	2,
+				"Action7\\Offset:f":	5.7333340644836426,
+				"Action7\\Duration:f":	2.8333330154418945,
+				"Action7\\SyncPoint:d":	2,
+				"Action7\\FinishShot:d":	0,
+				"Action7\\DefaultLength:f":	2.8333330154418945,
+				"Action7\\Character:g":	"ABCABCAB_CABCABC0",
+				"Action7\\AnimName:s":	"BarrelsCin_Push3",
+				"Action7\\Length:f":	2.8333330154418945,
+				"Action7\\AnimGroup:s":	"bilbo.anim",
+				"Action7\\AnimatedInPlace:d":	1,
+				"Action7\\Loops:d":	0,
+				"Action7\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action8",
+		"row_count":	1,
+		"rows":	[{
+				"Action8\\Name:s":	"Barrels Push 3",
+				"Action8\\Type:d":	9,
+				"Action8\\Shot:d":	2,
+				"Action8\\Offset:f":	5.7333340644836426,
+				"Action8\\Duration:f":	0,
+				"Action8\\SyncPoint:d":	2,
+				"Action8\\FinishShot:d":	0,
+				"Action8\\DefaultLength:f":	0,
+				"Action8\\Object:g":	"C0CFA04E_9B530400",
+				"Action8\\AnimName:s":	"",
+				"Action8\\StartAnimating:d":	1,
+				"Action8\\Looping:d":	0,
+				"Action8\\HideWhenDone:d":	1,
+				"Action8\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action9",
+		"row_count":	1,
+		"rows":	[{
+				"Action9\\Name:s":	"Push4Cam",
+				"Action9\\Type:d":	4,
+				"Action9\\Shot:d":	3,
+				"Action9\\Offset:f":	8.6000003814697266,
+				"Action9\\Duration:f":	1,
+				"Action9\\SyncPoint:d":	3,
+				"Action9\\FinishShot:d":	1,
+				"Action9\\DefaultLength:f":	0.93333297967910767,
+				"Action9\\CameraType:d":	0,
+				"Action9\\Target:g":	"C0CFA0CE_9ADE0C00",
+				"Action9\\Relative:d":	0,
+				"Action9\\StartOrient:fff":	[0, 0, 0],
+				"Action9\\EndOrient:fff":	[0, 0, 0],
+				"Action9\\StartOffset:fff":	[0, 0, 0],
+				"Action9\\EndOffset:fff":	[0, 0, 0],
+				"Action9\\TargetOffset:fff":	[0, 0, 0],
+				"Action9\\StartFOV:f":	1.25663697719574,
+				"Action9\\EndFOV:f":	1.25663697719574,
+				"Action9\\TransitionPop:d":	0,
+				"Action9\\Loop:d":	0,
+				"Action9\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action10",
+		"row_count":	1,
+		"rows":	[{
+				"Action10\\Name:s":	"Bilbo Push 4",
+				"Action10\\Type:d":	2,
+				"Action10\\Shot:d":	3,
+				"Action10\\Offset:f":	8.6000003814697266,
+				"Action10\\Duration:f":	0.899999976158142,
+				"Action10\\SyncPoint:d":	3,
+				"Action10\\FinishShot:d":	0,
+				"Action10\\DefaultLength:f":	0.899999976158142,
+				"Action10\\Character:g":	"ABCABCAB_CABCABC0",
+				"Action10\\AnimName:s":	"BarrelsCin_Push4",
+				"Action10\\Length:f":	0.899999976158142,
+				"Action10\\AnimGroup:s":	"bilbo.anim",
+				"Action10\\AnimatedInPlace:d":	1,
+				"Action10\\Loops:d":	0,
+				"Action10\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action11",
+		"row_count":	1,
+		"rows":	[{
+				"Action11\\Name:s":	"Barrels Push 4",
+				"Action11\\Type:d":	9,
+				"Action11\\Shot:d":	3,
+				"Action11\\Offset:f":	8.6000003814697266,
+				"Action11\\Duration:f":	0,
+				"Action11\\SyncPoint:d":	3,
+				"Action11\\FinishShot:d":	0,
+				"Action11\\DefaultLength:f":	0,
+				"Action11\\Object:g":	"C0CFA04E_9B534C00",
+				"Action11\\AnimName:s":	"",
+				"Action11\\StartAnimating:d":	1,
+				"Action11\\Looping:d":	0,
+				"Action11\\HideWhenDone:d":	1,
+				"Action11\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action12",
+		"row_count":	1,
+		"rows":	[{
+				"Action12\\Name:s":	"Push5Cam",
+				"Action12\\Type:d":	4,
+				"Action12\\Shot:d":	4,
+				"Action12\\Offset:f":	9.6000003814697266,
+				"Action12\\Duration:f":	2.0333340167999268,
+				"Action12\\SyncPoint:d":	4,
+				"Action12\\FinishShot:d":	1,
+				"Action12\\DefaultLength:f":	2.0333340167999268,
+				"Action12\\CameraType:d":	0,
+				"Action12\\Target:g":	"C0CFA0CE_9ADEE800",
+				"Action12\\Relative:d":	0,
+				"Action12\\StartOrient:fff":	[0, 0, 0],
+				"Action12\\EndOrient:fff":	[0, 0, 0],
+				"Action12\\StartOffset:fff":	[0, 0, 0],
+				"Action12\\EndOffset:fff":	[0, 0, 0],
+				"Action12\\TargetOffset:fff":	[0, 0, 0],
+				"Action12\\StartFOV:f":	1.25663697719574,
+				"Action12\\EndFOV:f":	1.25663697719574,
+				"Action12\\TransitionPop:d":	0,
+				"Action12\\Loop:d":	0,
+				"Action12\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action13",
+		"row_count":	1,
+		"rows":	[{
+				"Action13\\Name:s":	"Barrels Push 5",
+				"Action13\\Type:d":	9,
+				"Action13\\Shot:d":	4,
+				"Action13\\Offset:f":	9.6000003814697266,
+				"Action13\\Duration:f":	0,
+				"Action13\\SyncPoint:d":	4,
+				"Action13\\FinishShot:d":	0,
+				"Action13\\DefaultLength:f":	0,
+				"Action13\\Object:g":	"C0CFA04E_9B539C00",
+				"Action13\\AnimName:s":	"",
+				"Action13\\StartAnimating:d":	1,
+				"Action13\\Looping:d":	0,
+				"Action13\\HideWhenDone:d":	1,
+				"Action13\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action14",
+		"row_count":	1,
+		"rows":	[{
+				"Action14\\Name:s":	"Push6Cam",
+				"Action14\\Type:d":	4,
+				"Action14\\Shot:d":	5,
+				"Action14\\Offset:f":	11.633334159851074,
+				"Action14\\Duration:f":	1,
+				"Action14\\SyncPoint:d":	5,
+				"Action14\\FinishShot:d":	1,
+				"Action14\\DefaultLength:f":	0.93333297967910767,
+				"Action14\\CameraType:d":	0,
+				"Action14\\Target:g":	"C0CFA0CE_9ADFA000",
+				"Action14\\Relative:d":	0,
+				"Action14\\StartOrient:fff":	[0, 0, 0],
+				"Action14\\EndOrient:fff":	[0, 0, 0],
+				"Action14\\StartOffset:fff":	[0, 0, 0],
+				"Action14\\EndOffset:fff":	[0, 0, 0],
+				"Action14\\TargetOffset:fff":	[0, 0, 0],
+				"Action14\\StartFOV:f":	1.25663697719574,
+				"Action14\\EndFOV:f":	1.25663697719574,
+				"Action14\\TransitionPop:d":	0,
+				"Action14\\Loop:d":	0,
+				"Action14\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action15",
+		"row_count":	1,
+		"rows":	[{
+				"Action15\\Name:s":	"Bilbo Push 6",
+				"Action15\\Type:d":	2,
+				"Action15\\Shot:d":	5,
+				"Action15\\Offset:f":	11.633334159851074,
+				"Action15\\Duration:f":	0.899999976158142,
+				"Action15\\SyncPoint:d":	5,
+				"Action15\\FinishShot:d":	0,
+				"Action15\\DefaultLength:f":	0.899999976158142,
+				"Action15\\Character:g":	"ABCABCAB_CABCABC0",
+				"Action15\\AnimName:s":	"BarrelsCin_Push6",
+				"Action15\\Length:f":	0.899999976158142,
+				"Action15\\AnimGroup:s":	"bilbo.anim",
+				"Action15\\AnimatedInPlace:d":	1,
+				"Action15\\Loops:d":	0,
+				"Action15\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action16",
+		"row_count":	1,
+		"rows":	[{
+				"Action16\\Name:s":	"Barrels Push 6",
+				"Action16\\Type:d":	9,
+				"Action16\\Shot:d":	5,
+				"Action16\\Offset:f":	11.633334159851074,
+				"Action16\\Duration:f":	0,
+				"Action16\\SyncPoint:d":	5,
+				"Action16\\FinishShot:d":	0,
+				"Action16\\DefaultLength:f":	0,
+				"Action16\\Object:g":	"C0CFA04E_9B541800",
+				"Action16\\AnimName:s":	"",
+				"Action16\\StartAnimating:d":	1,
+				"Action16\\Looping:d":	0,
+				"Action16\\HideWhenDone:d":	1,
+				"Action16\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action17",
+		"row_count":	1,
+		"rows":	[{
+				"Action17\\Name:s":	"Push7Cam",
+				"Action17\\Type:d":	4,
+				"Action17\\Shot:d":	6,
+				"Action17\\Offset:f":	12.633334159851074,
+				"Action17\\Duration:f":	4.0333337783813477,
+				"Action17\\SyncPoint:d":	6,
+				"Action17\\FinishShot:d":	1,
+				"Action17\\DefaultLength:f":	4.0333337783813477,
+				"Action17\\CameraType:d":	0,
+				"Action17\\Target:g":	"C0CFA0CE_9AE09000",
+				"Action17\\Relative:d":	0,
+				"Action17\\StartOrient:fff":	[0, 0, 0],
+				"Action17\\EndOrient:fff":	[0, 0, 0],
+				"Action17\\StartOffset:fff":	[0, 0, 0],
+				"Action17\\EndOffset:fff":	[0, 0, 0],
+				"Action17\\TargetOffset:fff":	[0, 0, 0],
+				"Action17\\StartFOV:f":	1.25663697719574,
+				"Action17\\EndFOV:f":	1.25663697719574,
+				"Action17\\TransitionPop:d":	0,
+				"Action17\\Loop:d":	0,
+				"Action17\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action18",
+		"row_count":	1,
+		"rows":	[{
+				"Action18\\Name:s":	"Barrels Push7",
+				"Action18\\Type:d":	9,
+				"Action18\\Shot:d":	6,
+				"Action18\\Offset:f":	12.633334159851074,
+				"Action18\\Duration:f":	0,
+				"Action18\\SyncPoint:d":	6,
+				"Action18\\FinishShot:d":	0,
+				"Action18\\DefaultLength:f":	0,
+				"Action18\\Object:g":	"C0CFA04E_9B54AC00",
+				"Action18\\AnimName:s":	"",
+				"Action18\\StartAnimating:d":	1,
+				"Action18\\Looping:d":	0,
+				"Action18\\HideWhenDone:d":	1,
+				"Action18\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action19",
+		"row_count":	1,
+		"rows":	[{
+				"Action19\\Name:s":	"Push8Cam",
+				"Action19\\Type:d":	4,
+				"Action19\\Shot:d":	7,
+				"Action19\\Offset:f":	16.666667938232422,
+				"Action19\\Duration:f":	5.3666667938232422,
+				"Action19\\SyncPoint:d":	7,
+				"Action19\\FinishShot:d":	1,
+				"Action19\\DefaultLength:f":	5.3666667938232422,
+				"Action19\\CameraType:d":	0,
+				"Action19\\Target:g":	"C0CFA0CE_9AE13C00",
+				"Action19\\Relative:d":	0,
+				"Action19\\StartOrient:fff":	[0, 0, 0],
+				"Action19\\EndOrient:fff":	[0, 0, 0],
+				"Action19\\StartOffset:fff":	[0, 0, 0],
+				"Action19\\EndOffset:fff":	[0, 0, 0],
+				"Action19\\TargetOffset:fff":	[0, 0, 0],
+				"Action19\\StartFOV:f":	1.25663697719574,
+				"Action19\\EndFOV:f":	1.25663697719574,
+				"Action19\\TransitionPop:d":	0,
+				"Action19\\Loop:d":	0,
+				"Action19\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action20",
+		"row_count":	1,
+		"rows":	[{
+				"Action20\\Name:s":	"Barrels Push 8",
+				"Action20\\Type:d":	9,
+				"Action20\\Shot:d":	7,
+				"Action20\\Offset:f":	16.666667938232422,
+				"Action20\\Duration:f":	0,
+				"Action20\\SyncPoint:d":	7,
+				"Action20\\FinishShot:d":	0,
+				"Action20\\DefaultLength:f":	0,
+				"Action20\\Object:g":	"C0CFA04E_9B551800",
+				"Action20\\AnimName:s":	"",
+				"Action20\\StartAnimating:d":	1,
+				"Action20\\Looping:d":	0,
+				"Action20\\HideWhenDone:d":	1,
+				"Action20\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action21",
+		"row_count":	1,
+		"rows":	[{
+				"Action21\\Name:s":	"Push9Cam",
+				"Action21\\Type:d":	4,
+				"Action21\\Shot:d":	8,
+				"Action21\\Offset:f":	22.033334732055664,
+				"Action21\\Duration:f":	3.03333306312561,
+				"Action21\\SyncPoint:d":	8,
+				"Action21\\FinishShot:d":	1,
+				"Action21\\DefaultLength:f":	3.0333340167999268,
+				"Action21\\CameraType:d":	0,
+				"Action21\\Target:g":	"C0CFA0CE_9AE1FC00",
+				"Action21\\Relative:d":	0,
+				"Action21\\StartOrient:fff":	[0, 0, 0],
+				"Action21\\EndOrient:fff":	[0, 0, 0],
+				"Action21\\StartOffset:fff":	[0, 0, 0],
+				"Action21\\EndOffset:fff":	[0, 0, 0],
+				"Action21\\TargetOffset:fff":	[0, 0, 0],
+				"Action21\\StartFOV:f":	1.25663697719574,
+				"Action21\\EndFOV:f":	1.25663697719574,
+				"Action21\\TransitionPop:d":	0,
+				"Action21\\Loop:d":	0,
+				"Action21\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action22",
+		"row_count":	1,
+		"rows":	[{
+				"Action22\\Name:s":	"Bilbo Push 9",
+				"Action22\\Type:d":	2,
+				"Action22\\Shot:d":	8,
+				"Action22\\Offset:f":	22.033334732055664,
+				"Action22\\Duration:f":	3,
+				"Action22\\SyncPoint:d":	8,
+				"Action22\\FinishShot:d":	0,
+				"Action22\\DefaultLength:f":	3,
+				"Action22\\Character:g":	"ABCABCAB_CABCABC0",
+				"Action22\\AnimName:s":	"BarrelsCin_Push9",
+				"Action22\\Length:f":	3,
+				"Action22\\AnimGroup:s":	"bilbo.anim",
+				"Action22\\AnimatedInPlace:d":	1,
+				"Action22\\Loops:d":	0,
+				"Action22\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action23",
+		"row_count":	1,
+		"rows":	[{
+				"Action23\\Name:s":	"Barrels Push 9",
+				"Action23\\Type:d":	9,
+				"Action23\\Shot:d":	8,
+				"Action23\\Offset:f":	22.033334732055664,
+				"Action23\\Duration:f":	0,
+				"Action23\\SyncPoint:d":	8,
+				"Action23\\FinishShot:d":	0,
+				"Action23\\DefaultLength:f":	0,
+				"Action23\\Object:g":	"C0CFA04E_9B558000",
+				"Action23\\AnimName:s":	"",
+				"Action23\\StartAnimating:d":	1,
+				"Action23\\Looping:d":	0,
+				"Action23\\HideWhenDone:d":	1,
+				"Action23\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action24",
+		"row_count":	1,
+		"rows":	[{
+				"Action24\\Name:s":	"Push10Cam",
+				"Action24\\Type:d":	4,
+				"Action24\\Shot:d":	9,
+				"Action24\\Offset:f":	25.0666675567627,
+				"Action24\\Duration:f":	3.8666670322418213,
+				"Action24\\SyncPoint:d":	9,
+				"Action24\\FinishShot:d":	1,
+				"Action24\\DefaultLength:f":	3.8666670322418213,
+				"Action24\\CameraType:d":	0,
+				"Action24\\Target:g":	"C0CFA0CE_9AE37C00",
+				"Action24\\Relative:d":	0,
+				"Action24\\StartOrient:fff":	[0, 0, 0],
+				"Action24\\EndOrient:fff":	[0, 0, 0],
+				"Action24\\StartOffset:fff":	[0, 0, 0],
+				"Action24\\EndOffset:fff":	[0, 0, 0],
+				"Action24\\TargetOffset:fff":	[0, 0, 0],
+				"Action24\\StartFOV:f":	1.25663697719574,
+				"Action24\\EndFOV:f":	1.25663697719574,
+				"Action24\\TransitionPop:d":	0,
+				"Action24\\Loop:d":	0,
+				"Action24\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action25",
+		"row_count":	1,
+		"rows":	[{
+				"Action25\\Name:s":	"Barrels Push10",
+				"Action25\\Type:d":	9,
+				"Action25\\Shot:d":	9,
+				"Action25\\Offset:f":	25.0666675567627,
+				"Action25\\Duration:f":	0,
+				"Action25\\SyncPoint:d":	9,
+				"Action25\\FinishShot:d":	0,
+				"Action25\\DefaultLength:f":	0,
+				"Action25\\Object:g":	"C0CFA04E_9B55EC00",
+				"Action25\\AnimName:s":	"",
+				"Action25\\StartAnimating:d":	1,
+				"Action25\\Looping:d":	0,
+				"Action25\\HideWhenDone:d":	1,
+				"Action25\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action26",
+		"row_count":	1,
+		"rows":	[{
+				"Action26\\Name:s":	"Push11Cam",
+				"Action26\\Type:d":	4,
+				"Action26\\Shot:d":	10,
+				"Action26\\Offset:f":	28.933334350585938,
+				"Action26\\Duration:f":	3.03333306312561,
+				"Action26\\SyncPoint:d":	10,
+				"Action26\\FinishShot:d":	1,
+				"Action26\\DefaultLength:f":	3.0333340167999268,
+				"Action26\\CameraType:d":	0,
+				"Action26\\Target:g":	"C0CFA0CE_9AE40000",
+				"Action26\\Relative:d":	0,
+				"Action26\\StartOrient:fff":	[0, 0, 0],
+				"Action26\\EndOrient:fff":	[0, 0, 0],
+				"Action26\\StartOffset:fff":	[0, 0, 0],
+				"Action26\\EndOffset:fff":	[0, 0, 0],
+				"Action26\\TargetOffset:fff":	[0, 0, 0],
+				"Action26\\StartFOV:f":	1.25663697719574,
+				"Action26\\EndFOV:f":	1.25663697719574,
+				"Action26\\TransitionPop:d":	0,
+				"Action26\\Loop:d":	0,
+				"Action26\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action27",
+		"row_count":	1,
+		"rows":	[{
+				"Action27\\Name:s":	"Bilbo Push 11",
+				"Action27\\Type:d":	2,
+				"Action27\\Shot:d":	10,
+				"Action27\\Offset:f":	28.933334350585938,
+				"Action27\\Duration:f":	3,
+				"Action27\\SyncPoint:d":	10,
+				"Action27\\FinishShot:d":	0,
+				"Action27\\DefaultLength:f":	3,
+				"Action27\\Character:g":	"ABCABCAB_CABCABC0",
+				"Action27\\AnimName:s":	"BarrelsCin_Push11",
+				"Action27\\Length:f":	3,
+				"Action27\\AnimGroup:s":	"bilbo.anim",
+				"Action27\\AnimatedInPlace:d":	1,
+				"Action27\\Loops:d":	0,
+				"Action27\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action28",
+		"row_count":	1,
+		"rows":	[{
+				"Action28\\Name:s":	"Barrels Push11",
+				"Action28\\Type:d":	9,
+				"Action28\\Shot:d":	10,
+				"Action28\\Offset:f":	28.933334350585938,
+				"Action28\\Duration:f":	0,
+				"Action28\\SyncPoint:d":	10,
+				"Action28\\FinishShot:d":	0,
+				"Action28\\DefaultLength:f":	0,
+				"Action28\\Object:g":	"C0CFA04E_9B565400",
+				"Action28\\AnimName:s":	"",
+				"Action28\\StartAnimating:d":	1,
+				"Action28\\Looping:d":	0,
+				"Action28\\HideWhenDone:d":	1,
+				"Action28\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action29",
+		"row_count":	1,
+		"rows":	[{
+				"Action29\\Name:s":	"Push12Cam",
+				"Action29\\Type:d":	4,
+				"Action29\\Shot:d":	11,
+				"Action29\\Offset:f":	31.966667175292969,
+				"Action29\\Duration:f":	1.4000020027160645,
+				"Action29\\SyncPoint:d":	11,
+				"Action29\\FinishShot:d":	1,
+				"Action29\\DefaultLength:f":	1.3999999761581421,
+				"Action29\\CameraType:d":	0,
+				"Action29\\Target:g":	"C0CFA0CE_9AE67400",
+				"Action29\\Relative:d":	0,
+				"Action29\\StartOrient:fff":	[0, 0, 0],
+				"Action29\\EndOrient:fff":	[0, 0, 0],
+				"Action29\\StartOffset:fff":	[0, 0, 0],
+				"Action29\\EndOffset:fff":	[0, 0, 0],
+				"Action29\\TargetOffset:fff":	[0, 0, 0],
+				"Action29\\StartFOV:f":	1.25663697719574,
+				"Action29\\EndFOV:f":	1.25663697719574,
+				"Action29\\TransitionPop:d":	0,
+				"Action29\\Loop:d":	0,
+				"Action29\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action30",
+		"row_count":	1,
+		"rows":	[{
+				"Action30\\Name:s":	"Bilbo Push 12",
+				"Action30\\Type:d":	2,
+				"Action30\\Shot:d":	11,
+				"Action30\\Offset:f":	31.966667175292969,
+				"Action30\\Duration:f":	1.3666670322418213,
+				"Action30\\SyncPoint:d":	11,
+				"Action30\\FinishShot:d":	0,
+				"Action30\\DefaultLength:f":	1.3666670322418213,
+				"Action30\\Character:g":	"ABCABCAB_CABCABC0",
+				"Action30\\AnimName:s":	"BarrelsCin_Push12",
+				"Action30\\Length:f":	1.3666670322418213,
+				"Action30\\AnimGroup:s":	"bilbo.anim",
+				"Action30\\AnimatedInPlace:d":	1,
+				"Action30\\Loops:d":	0,
+				"Action30\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action31",
+		"row_count":	1,
+		"rows":	[{
+				"Action31\\Name:s":	"Barrels Push 12",
+				"Action31\\Type:d":	9,
+				"Action31\\Shot:d":	11,
+				"Action31\\Offset:f":	31.966667175292969,
+				"Action31\\Duration:f":	0,
+				"Action31\\SyncPoint:d":	11,
+				"Action31\\FinishShot:d":	0,
+				"Action31\\DefaultLength:f":	0,
+				"Action31\\Object:g":	"C0CFA04E_9B56E000",
+				"Action31\\AnimName:s":	"",
+				"Action31\\StartAnimating:d":	1,
+				"Action31\\Looping:d":	0,
+				"Action31\\HideWhenDone:d":	1,
+				"Action31\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action32",
+		"row_count":	1,
+		"rows":	[{
+				"Action32\\Name:s":	"BilboJumpCam",
+				"Action32\\Type:d":	4,
+				"Action32\\Shot:d":	12,
+				"Action32\\Offset:f":	33.366668701171875,
+				"Action32\\Duration:f":	6.7000007629394531,
+				"Action32\\SyncPoint:d":	12,
+				"Action32\\FinishShot:d":	1,
+				"Action32\\DefaultLength:f":	6.6999998092651367,
+				"Action32\\CameraType:d":	0,
+				"Action32\\Target:g":	"C0CFA0CE_9AE71000",
+				"Action32\\Relative:d":	0,
+				"Action32\\StartOrient:fff":	[0, 0, 0],
+				"Action32\\EndOrient:fff":	[0, 0, 0],
+				"Action32\\StartOffset:fff":	[0, 0, 0],
+				"Action32\\EndOffset:fff":	[0, 0, 0],
+				"Action32\\TargetOffset:fff":	[0, 0, 0],
+				"Action32\\StartFOV:f":	1.25663697719574,
+				"Action32\\EndFOV:f":	1.25663697719574,
+				"Action32\\TransitionPop:d":	0,
+				"Action32\\Loop:d":	0,
+				"Action32\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action33",
+		"row_count":	1,
+		"rows":	[{
+				"Action33\\Name:s":	"BilboJump",
+				"Action33\\Type:d":	2,
+				"Action33\\Shot:d":	12,
+				"Action33\\Offset:f":	33.366668701171875,
+				"Action33\\Duration:f":	6.6666669845581055,
+				"Action33\\SyncPoint:d":	12,
+				"Action33\\FinishShot:d":	0,
+				"Action33\\DefaultLength:f":	6.6666669845581055,
+				"Action33\\Character:g":	"ABCABCAB_CABCABC0",
+				"Action33\\AnimName:s":	"BarrelsCin_BilboJump",
+				"Action33\\Length:f":	6.6666669845581055,
+				"Action33\\AnimGroup:s":	"bilbo.anim",
+				"Action33\\AnimatedInPlace:d":	1,
+				"Action33\\Loops:d":	0,
+				"Action33\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action34",
+		"row_count":	1,
+		"rows":	[{
+				"Action34\\Name:s":	"BarrelRide2Cam",
+				"Action34\\Type:d":	4,
+				"Action34\\Shot:d":	13,
+				"Action34\\Offset:f":	40.066669464111328,
+				"Action34\\Duration:f":	6.7000007629394531,
+				"Action34\\SyncPoint:d":	13,
+				"Action34\\FinishShot:d":	1,
+				"Action34\\DefaultLength:f":	6.6999998092651367,
+				"Action34\\CameraType:d":	0,
+				"Action34\\Target:g":	"C0CFABCE_9E8C7800",
+				"Action34\\Relative:d":	0,
+				"Action34\\StartOrient:fff":	[0, 0, 0],
+				"Action34\\EndOrient:fff":	[0, 0, 0],
+				"Action34\\StartOffset:fff":	[0, 0, 0],
+				"Action34\\EndOffset:fff":	[0, 0, 0],
+				"Action34\\TargetOffset:fff":	[0, 0, 0],
+				"Action34\\StartFOV:f":	1.25663697719574,
+				"Action34\\EndFOV:f":	1.25663697719574,
+				"Action34\\TransitionPop:d":	0,
+				"Action34\\Loop:d":	0,
+				"Action34\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action35",
+		"row_count":	1,
+		"rows":	[{
+				"Action35\\Name:s":	"Bilbo BarrelRide2",
+				"Action35\\Type:d":	2,
+				"Action35\\Shot:d":	13,
+				"Action35\\Offset:f":	40.066669464111328,
+				"Action35\\Duration:f":	6.6666669845581055,
+				"Action35\\SyncPoint:d":	13,
+				"Action35\\FinishShot:d":	0,
+				"Action35\\DefaultLength:f":	6.6666669845581055,
+				"Action35\\Character:g":	"ABCABCAB_CABCABC0",
+				"Action35\\AnimName:s":	"BarrelsCin_BarrelRide2",
+				"Action35\\Length:f":	6.6666669845581055,
+				"Action35\\AnimGroup:s":	"bilbo.anim",
+				"Action35\\AnimatedInPlace:d":	1,
+				"Action35\\Loops:d":	0,
+				"Action35\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action36",
+		"row_count":	1,
+		"rows":	[{
+				"Action36\\Name:s":	"Barrels BarrelsRide2",
+				"Action36\\Type:d":	9,
+				"Action36\\Shot:d":	13,
+				"Action36\\Offset:f":	40.066669464111328,
+				"Action36\\Duration:f":	0,
+				"Action36\\SyncPoint:d":	13,
+				"Action36\\FinishShot:d":	0,
+				"Action36\\DefaultLength:f":	0,
+				"Action36\\Object:g":	"C0CFA3CE_9F043C00",
+				"Action36\\AnimName:s":	"",
+				"Action36\\StartAnimating:d":	1,
+				"Action36\\Looping:d":	0,
+				"Action36\\HideWhenDone:d":	1,
+				"Action36\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action37",
+		"row_count":	1,
+		"rows":	[{
+				"Action37\\Name:s":	"BarrelRide1Cam",
+				"Action37\\Type:d":	4,
+				"Action37\\Shot:d":	14,
+				"Action37\\Offset:f":	46.766670227050781,
+				"Action37\\Duration:f":	10.033332824707031,
+				"Action37\\SyncPoint:d":	14,
+				"Action37\\FinishShot:d":	1,
+				"Action37\\DefaultLength:f":	10.033333778381348,
+				"Action37\\CameraType:d":	0,
+				"Action37\\Target:g":	"C0CFABCE_9E8DB400",
+				"Action37\\Relative:d":	0,
+				"Action37\\StartOrient:fff":	[0, 0, 0],
+				"Action37\\EndOrient:fff":	[0, 0, 0],
+				"Action37\\StartOffset:fff":	[0, 0, 0],
+				"Action37\\EndOffset:fff":	[0, 0, 0],
+				"Action37\\TargetOffset:fff":	[0, 0, 0],
+				"Action37\\StartFOV:f":	1.25663697719574,
+				"Action37\\EndFOV:f":	1.25663697719574,
+				"Action37\\TransitionPop:d":	0,
+				"Action37\\Loop:d":	0,
+				"Action37\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action38",
+		"row_count":	1,
+		"rows":	[{
+				"Action38\\Name:s":	"Bilbo BarrelRide1",
+				"Action38\\Type:d":	2,
+				"Action38\\Shot:d":	14,
+				"Action38\\Offset:f":	46.766670227050781,
+				"Action38\\Duration:f":	10.000000953674316,
+				"Action38\\SyncPoint:d":	14,
+				"Action38\\FinishShot:d":	0,
+				"Action38\\DefaultLength:f":	10.000000953674316,
+				"Action38\\Character:g":	"ABCABCAB_CABCABC0",
+				"Action38\\AnimName:s":	"BarrelsCin_BarrelRide1",
+				"Action38\\Length:f":	10.000000953674316,
+				"Action38\\AnimGroup:s":	"bilbo.anim",
+				"Action38\\AnimatedInPlace:d":	1,
+				"Action38\\Loops:d":	0,
+				"Action38\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action39",
+		"row_count":	1,
+		"rows":	[{
+				"Action39\\Name:s":	"Barrels BarrelRide1",
+				"Action39\\Type:d":	9,
+				"Action39\\Shot:d":	14,
+				"Action39\\Offset:f":	46.766670227050781,
+				"Action39\\Duration:f":	0,
+				"Action39\\SyncPoint:d":	14,
+				"Action39\\FinishShot:d":	0,
+				"Action39\\DefaultLength:f":	0,
+				"Action39\\Object:g":	"C0CFA3CE_9F025000",
+				"Action39\\AnimName:s":	"",
+				"Action39\\StartAnimating:d":	1,
+				"Action39\\Looping:d":	0,
+				"Action39\\HideWhenDone:d":	1,
+				"Action39\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action40",
+		"row_count":	1,
+		"rows":	[{
+				"Action40\\Name:s":	"BarrelRide3Cam",
+				"Action40\\Type:d":	4,
+				"Action40\\Shot:d":	15,
+				"Action40\\Offset:f":	56.800003051757812,
+				"Action40\\Duration:f":	5.2999992370605469,
+				"Action40\\SyncPoint:d":	15,
+				"Action40\\FinishShot:d":	1,
+				"Action40\\DefaultLength:f":	5.3000001907348633,
+				"Action40\\CameraType:d":	0,
+				"Action40\\Target:g":	"C0CFABCE_9E8D1000",
+				"Action40\\Relative:d":	0,
+				"Action40\\StartOrient:fff":	[0, 0, 0],
+				"Action40\\EndOrient:fff":	[0, 0, 0],
+				"Action40\\StartOffset:fff":	[0, 0, 0],
+				"Action40\\EndOffset:fff":	[0, 0, 0],
+				"Action40\\TargetOffset:fff":	[0, 0, 0],
+				"Action40\\StartFOV:f":	1.25663697719574,
+				"Action40\\EndFOV:f":	1.25663697719574,
+				"Action40\\TransitionPop:d":	0,
+				"Action40\\Loop:d":	0,
+				"Action40\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action41",
+		"row_count":	1,
+		"rows":	[{
+				"Action41\\Name:s":	"Barrels BarrelRide3",
+				"Action41\\Type:d":	9,
+				"Action41\\Shot:d":	15,
+				"Action41\\Offset:f":	56.800003051757812,
+				"Action41\\Duration:f":	0,
+				"Action41\\SyncPoint:d":	15,
+				"Action41\\FinishShot:d":	0,
+				"Action41\\DefaultLength:f":	0,
+				"Action41\\Object:g":	"C0CFA3CE_9F04C000",
+				"Action41\\AnimName:s":	"",
+				"Action41\\StartAnimating:d":	1,
+				"Action41\\Looping:d":	0,
+				"Action41\\HideWhenDone:d":	1,
+				"Action41\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action42",
+		"row_count":	1,
+		"rows":	[{
+				"Action42\\Name:s":	"BarrelRide4Cam",
+				"Action42\\Type:d":	4,
+				"Action42\\Shot:d":	16,
+				"Action42\\Offset:f":	62.100002288818359,
+				"Action42\\Duration:f":	5.0333337783813477,
+				"Action42\\SyncPoint:d":	16,
+				"Action42\\FinishShot:d":	1,
+				"Action42\\DefaultLength:f":	5.0333337783813477,
+				"Action42\\CameraType:d":	0,
+				"Action42\\Target:g":	"C0CFABCE_9E8E0C00",
+				"Action42\\Relative:d":	0,
+				"Action42\\StartOrient:fff":	[0, 0, 0],
+				"Action42\\EndOrient:fff":	[0, 0, 0],
+				"Action42\\StartOffset:fff":	[0, 0, 0],
+				"Action42\\EndOffset:fff":	[0, 0, 0],
+				"Action42\\TargetOffset:fff":	[0, 0, 0],
+				"Action42\\StartFOV:f":	1.25663697719574,
+				"Action42\\EndFOV:f":	1.25663697719574,
+				"Action42\\TransitionPop:d":	0,
+				"Action42\\Loop:d":	0,
+				"Action42\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action43",
+		"row_count":	1,
+		"rows":	[{
+				"Action43\\Name:s":	"Bilbo BarrelRide4",
+				"Action43\\Type:d":	2,
+				"Action43\\Shot:d":	16,
+				"Action43\\Offset:f":	62.100002288818359,
+				"Action43\\Duration:f":	5,
+				"Action43\\SyncPoint:d":	16,
+				"Action43\\FinishShot:d":	0,
+				"Action43\\DefaultLength:f":	5,
+				"Action43\\Character:g":	"ABCABCAB_CABCABC0",
+				"Action43\\AnimName:s":	"BarrelsCin_BarrelRide4",
+				"Action43\\Length:f":	5,
+				"Action43\\AnimGroup:s":	"bilbo.anim",
+				"Action43\\AnimatedInPlace:d":	1,
+				"Action43\\Loops:d":	0,
+				"Action43\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action44",
+		"row_count":	1,
+		"rows":	[{
+				"Action44\\Name:s":	"Barrels BarrelRide4",
+				"Action44\\Type:d":	9,
+				"Action44\\Shot:d":	16,
+				"Action44\\Offset:f":	62.100002288818359,
+				"Action44\\Duration:f":	0,
+				"Action44\\SyncPoint:d":	16,
+				"Action44\\FinishShot:d":	0,
+				"Action44\\DefaultLength:f":	0,
+				"Action44\\Object:g":	"C0CFA3CE_9F052000",
+				"Action44\\AnimName:s":	"",
+				"Action44\\StartAnimating:d":	1,
+				"Action44\\Looping:d":	0,
+				"Action44\\HideWhenDone:d":	1,
+				"Action44\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Action45",
+		"row_count":	1,
+		"rows":	[{
+				"Action45\\Name:s":	"BilboJump Barrels",
+				"Action45\\Type:d":	9,
+				"Action45\\Shot:d":	12,
+				"Action45\\Offset:f":	33.366668701171875,
+				"Action45\\Duration:f":	0,
+				"Action45\\SyncPoint:d":	12,
+				"Action45\\FinishShot:d":	0,
+				"Action45\\DefaultLength:f":	0,
+				"Action45\\Object:g":	"0D8ADCD2_0FB16400",
+				"Action45\\AnimName:s":	"",
+				"Action45\\StartAnimating:d":	1,
+				"Action45\\Looping:d":	0,
+				"Action45\\HideWhenDone:d":	1,
+				"Action45\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Participants",
+		"row_count":	1,
+		"rows":	[{
+				"PGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action-1",
+		"row_count":	1,
+		"rows":	[{
+				"Action-1\\Shot:d":	0,
+				"Action-1\\Offset:f":	0,
+				"Action-1\\Duration:f":	1,
+				"Action-1\\SyncPoint:d":	0,
+				"Action-1\\FinishShot:d":	0,
+				"Action-1\\DefaultLength:f":	1,
+				"Action-1\\FXType:d":	3,
+				"Action-1\\Magnitude:f":	0.15000000596046448,
+				"Action-1\\Frequency:f":	20,
+				"Action-1\\Rolling:d":	0,
+				"Action-1\\Fadeout:d":	0,
+				"Action-1\\Color:dddd":	[0, 0, 0, 255],
+				"Action-1\\Target:f":	0
+			}]
+	}, {
+		"name":	"Action-2",
+		"row_count":	1,
+		"rows":	[{
+				"Action-2\\Shot:d":	0,
+				"Action-2\\Offset:f":	0,
+				"Action-2\\Duration:f":	1,
+				"Action-2\\SyncPoint:d":	0,
+				"Action-2\\FinishShot:d":	0,
+				"Action-2\\DefaultLength:f":	1,
+				"Action-2\\FXType:d":	3,
+				"Action-2\\Magnitude:f":	0.15000000596046448,
+				"Action-2\\Frequency:f":	20,
+				"Action-2\\Rolling:d":	0,
+				"Action-2\\Fadeout:d":	0,
+				"Action-2\\Color:dddd":	[0, 0, 0, 255],
+				"Action-2\\Target:f":	0
+			}]
+	}]

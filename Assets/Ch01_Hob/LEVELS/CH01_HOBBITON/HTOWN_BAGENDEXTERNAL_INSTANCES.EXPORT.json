@@ -1,0 +1,140 @@
+[{
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"99118A4F_A105BC00",
+				"Name:s":	"Inst_Htown_Chimney",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_htown_chimney.rgeom",
+				"Pos:fff":	[401.11892700195312, 427.8927001953125, 2276.451416015625],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[358.11892700195312, 424.3927001953125, 2233.451416015625, 444.11892700195312, 531.3927001953125, 2319.451416015625],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	10664,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-43, -3.5, -43, 43, 103.5, 43],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Inst_Htown_Chimney",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	28,
+		"rows":	[{
+				"Color:dddd":	[90, 75, 85, 255]
+			}, {
+				"Color:dddd":	[255, 255, 255, 255]
+			}, {
+				"Color:dddd":	[104, 83, 115, 255]
+			}, {
+				"Color:dddd":	[72, 57, 79, 255]
+			}, {
+				"Color:dddd":	[255, 255, 255, 255]
+			}, {
+				"Color:dddd":	[76, 60, 84, 255]
+			}, {
+				"Color:dddd":	[46, 37, 46, 255]
+			}, {
+				"Color:dddd":	[255, 255, 245, 255]
+			}, {
+				"Color:dddd":	[38, 28, 40, 255]
+			}, {
+				"Color:dddd":	[255, 249, 221, 255]
+			}, {
+				"Color:dddd":	[47, 36, 50, 255]
+			}, {
+				"Color:dddd":	[36, 27, 38, 255]
+			}, {
+				"Color:dddd":	[37, 28, 39, 255]
+			}, {
+				"Color:dddd":	[36, 27, 38, 255]
+			}, {
+				"Color:dddd":	[45, 34, 48, 255]
+			}, {
+				"Color:dddd":	[255, 255, 245, 255]
+			}, {
+				"Color:dddd":	[243, 223, 207, 255]
+			}, {
+				"Color:dddd":	[255, 255, 255, 255]
+			}, {
+				"Color:dddd":	[146, 131, 124, 255]
+			}, {
+				"Color:dddd":	[146, 131, 124, 255]
+			}, {
+				"Color:dddd":	[255, 246, 218, 255]
+			}, {
+				"Color:dddd":	[126, 114, 108, 255]
+			}, {
+				"Color:dddd":	[206, 191, 174, 255]
+			}, {
+				"Color:dddd":	[69, 54, 75, 255]
+			}, {
+				"Color:dddd":	[104, 83, 114, 255]
+			}, {
+				"Color:dddd":	[83, 66, 89, 255]
+			}, {
+				"Color:dddd":	[69, 54, 75, 255]
+			}, {
+				"Color:dddd":	[47, 36, 50, 255]
+			}]
+	}, {
+		"name":	"FXObject",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD0CF_BB905C00",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[401.56088256835937, 540.3726806640625, 2278.88916015625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Bag_End_Smoke",
+				"Name:s":	"Bag_End_Smoke",
+				"Pos:fff":	[401.56088256835937, 540.3726806640625, 2278.88916015625],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[0.20000000298023224, 1, 1],
+				"PlaybackRate:f":	0.20000000298023224,
+				"FXResource:s":	"smoke",
+				"StartOnInit:d":	1,
+				"Color:dddd":	[255, 255, 255, 100],
+				"HostObject:g":	"00000000_00000000",
+				"HostPartName:s":	""
+			}]
+	}]

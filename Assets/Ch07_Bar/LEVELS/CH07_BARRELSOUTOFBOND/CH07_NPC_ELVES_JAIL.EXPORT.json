@@ -1,0 +1,2638 @@
+[{
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD64E_4E62D802",
+				"CreatureType:s":	"ElfGuardFemale",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"woodelf_female_guard_geom.npcgeom",
+				"Name:s":	"Elf_Guard_Female 004",
+				"Team:d":	2,
+				"Position:fff":	[-6976.69970703125, 107.703857421875, 8981.4921875],
+				"Rotation:fff":	[0, -104.85001373291016, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"NONE",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	40,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	0,
+				"Pushable:d":	0,
+				"Invulnerable:d":	1,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	0,
+				"EvadePercent:d":	0,
+				"ShovePercent:d":	0,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	8,
+				"WayPointVolume0:g":	"0D8AD30E_A2FA5801",
+				"GoalListSet0:s":	"Patrol Idle",
+				"NextWayPointName0:s":	"WayPoint 1",
+				"NextWayPointID0:d":	1,
+				"NextWayPointCount0:d":	1,
+				"NextWayPoint0-0:d":	1,
+				"WayPointVolume1:g":	"0D8AD30E_A2FA8001",
+				"GoalListSet1:s":	"Patrol Idle",
+				"NextWayPointName1:s":	"WayPoint 2",
+				"NextWayPointID1:d":	2,
+				"NextWayPointCount1:d":	1,
+				"NextWayPoint1-0:d":	2,
+				"WayPointVolume2:g":	"0D8AD30E_A2FAD401",
+				"GoalListSet2:s":	"Patrol Idle",
+				"NextWayPointName2:s":	"WayPoint 3",
+				"NextWayPointID2:d":	3,
+				"NextWayPointCount2:d":	1,
+				"NextWayPoint2-0:d":	3,
+				"WayPointVolume3:g":	"0D8AD30E_A2FB0001",
+				"GoalListSet3:s":	"Patrol Idle",
+				"NextWayPointName3:s":	"WayPoint 4",
+				"NextWayPointID3:d":	4,
+				"NextWayPointCount3:d":	1,
+				"NextWayPoint3-0:d":	4,
+				"WayPointVolume4:g":	"0D8AD30E_A2FAD401",
+				"GoalListSet4:s":	"Patrol Idle",
+				"NextWayPointName4:s":	"WayPoint 5",
+				"NextWayPointID4:d":	5,
+				"NextWayPointCount4:d":	1,
+				"NextWayPoint4-0:d":	5,
+				"WayPointVolume5:g":	"0D8AD30E_A2FA8001",
+				"GoalListSet5:s":	"Patrol Idle",
+				"NextWayPointName5:s":	"WayPoint 6",
+				"NextWayPointID5:d":	6,
+				"NextWayPointCount5:d":	1,
+				"NextWayPoint5-0:d":	6,
+				"WayPointVolume6:g":	"0D8AD30E_A2FB6801",
+				"GoalListSet6:s":	"Patrol Idle",
+				"NextWayPointName6:s":	"WayPoint 7",
+				"NextWayPointID6:d":	7,
+				"NextWayPointCount6:d":	1,
+				"NextWayPoint6-0:d":	7,
+				"WayPointVolume7:g":	"0D8AD14E_A2C35C00",
+				"GoalListSet7:s":	"Patrol Idle",
+				"NextWayPointName7:s":	"WayPoint 0",
+				"NextWayPointID7:d":	0,
+				"NextWayPointCount7:d":	1,
+				"NextWayPoint7-0:d":	0,
+				"PatrolIdleStateGoalListName:s":	"Hack Idle",
+				"AlertDuration1:f":	5,
+				"AlertDuration2:f":	5,
+				"GotoSound:d":	0,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	3,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	350,
+				"MinJumpAttackRadius:f":	200,
+				"AttackGoalListName:s":	"",
+				"GoalListCount:d":	7
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Scratch Head Idle",
+				"GoalListLooping0:d":	0,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	2,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0ActionName:s":	"AlertScratchHead",
+				"List0Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList1",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName1:s":	"IdleFidget",
+				"GoalListLooping1:d":	0,
+				"GoalListLoopStart1:d":	0,
+				"GoalListCollision1:d":	1,
+				"GoalListMustComplete1:d":	0,
+				"GoalListRestartFromBeginning1:d":	1,
+				"GoalListGoalCount1:d":	1
+			}]
+	}, {
+		"name":	"GoalList1GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList1Goal0:d":	2,
+				"List1Goal0MustSuceed:d":	0,
+				"List1Goal0ActionName:s":	"IdleFidget",
+				"List1Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList2",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName2:s":	"Fidget ",
+				"GoalListLooping2:d":	0,
+				"GoalListLoopStart2:d":	0,
+				"GoalListCollision2:d":	1,
+				"GoalListMustComplete2:d":	0,
+				"GoalListRestartFromBeginning2:d":	1,
+				"GoalListGoalCount2:d":	1
+			}]
+	}, {
+		"name":	"GoalList2GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList2Goal0:d":	2,
+				"List2Goal0MustSuceed:d":	0,
+				"List2Goal0ActionName:s":	"Idle",
+				"List2Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList3",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName3:s":	"IdleStretch",
+				"GoalListLooping3:d":	0,
+				"GoalListLoopStart3:d":	0,
+				"GoalListCollision3:d":	1,
+				"GoalListMustComplete3:d":	0,
+				"GoalListRestartFromBeginning3:d":	1,
+				"GoalListGoalCount3:d":	1
+			}]
+	}, {
+		"name":	"GoalList3GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList3Goal0:d":	2,
+				"List3Goal0MustSuceed:d":	0,
+				"List3Goal0ActionName:s":	"IdleStretch",
+				"List3Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList4",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName4:s":	"IdleLookAround",
+				"GoalListLooping4:d":	0,
+				"GoalListLoopStart4:d":	0,
+				"GoalListCollision4:d":	1,
+				"GoalListMustComplete4:d":	0,
+				"GoalListRestartFromBeginning4:d":	1,
+				"GoalListGoalCount4:d":	1
+			}]
+	}, {
+		"name":	"GoalList4GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList4Goal0:d":	2,
+				"List4Goal0MustSuceed:d":	0,
+				"List4Goal0ActionName:s":	"IdleLookAround",
+				"List4Goal0PlayTime:f":	4
+			}]
+	}, {
+		"name":	"GoalList5",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName5:s":	"Standing Idle",
+				"GoalListLooping5:d":	0,
+				"GoalListLoopStart5:d":	0,
+				"GoalListCollision5:d":	1,
+				"GoalListMustComplete5:d":	0,
+				"GoalListRestartFromBeginning5:d":	1,
+				"GoalListGoalCount5:d":	1
+			}]
+	}, {
+		"name":	"GoalList5GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList5Goal0:d":	2,
+				"List5Goal0MustSuceed:d":	0,
+				"List5Goal0ActionName:s":	"Idle",
+				"List5Goal0PlayTime:f":	4
+			}]
+	}, {
+		"name":	"GoalList6",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName6:s":	"Hack Idle",
+				"GoalListLooping6:d":	1,
+				"GoalListLoopStart6:d":	0,
+				"GoalListCollision6:d":	1,
+				"GoalListMustComplete6:d":	0,
+				"GoalListRestartFromBeginning6:d":	1,
+				"GoalListGoalCount6:d":	1
+			}]
+	}, {
+		"name":	"GoalList6GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList6Goal0:d":	2,
+				"List6Goal0MustSuceed:d":	0,
+				"List6Goal0ActionName:s":	"Idle",
+				"List6Goal0PlayTime:f":	0,
+				"GoalListSetCount:d":	1
+			}]
+	}, {
+		"name":	"GoalListSet0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListSetName0:s":	"Patrol Idle",
+				"GoalListGoalCount0:d":	7,
+				"GoalListSet0GoalListName0:s":	"Scratch Head Idle",
+				"GoalListSet0GoalListWeight0:d":	100,
+				"GoalListSet0GoalListName1:s":	"IdleFidget",
+				"GoalListSet0GoalListWeight1:d":	100,
+				"GoalListSet0GoalListName2:s":	"Fidget ",
+				"GoalListSet0GoalListWeight2:d":	0,
+				"GoalListSet0GoalListName3:s":	"IdleStretch",
+				"GoalListSet0GoalListWeight3:d":	100,
+				"GoalListSet0GoalListName4:s":	"IdleLookAround",
+				"GoalListSet0GoalListWeight4:d":	100,
+				"GoalListSet0GoalListName5:s":	"Standing Idle",
+				"GoalListSet0GoalListWeight5:d":	100,
+				"GoalListSet0GoalListName6:s":	"NONE",
+				"GoalListSet0GoalListWeight6:d":	100
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	650,
+				"HearingRange:f":	450,
+				"LoudHearingRange:f":	1,
+				"SmellRange:f":	75,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-6976.69970703125, 107.703857421875, 8981.4921875],
+				"Orientation:fff":	[0, -104.85001373291016, 0],
+				"LocalBoundingBox:ffffff":	[-50, 0, -50, 50, 175, 50],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Elf_Guard_Female 004"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD14E_A2C81C01",
+				"CreatureType:s":	"ElfGuardFemale",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"woodelf_female_guard_geom.npcgeom",
+				"Name:s":	"Elf_Guard_Female 005",
+				"Team:d":	2,
+				"Position:fff":	[-8469.546875, 669.064208984375, 6645.224609375],
+				"Rotation:fff":	[0, -108.00002288818359, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"NONE",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	40,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	0,
+				"Pushable:d":	0,
+				"Invulnerable:d":	1,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	0,
+				"EvadePercent:d":	0,
+				"ShovePercent:d":	0,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"Scratch Head Idle",
+				"AlertDuration1:f":	5,
+				"AlertDuration2:f":	5,
+				"GotoSound:d":	0,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	3,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	350,
+				"MinJumpAttackRadius:f":	200,
+				"AttackGoalListName:s":	"",
+				"GoalListCount:d":	1
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Scratch Head Idle",
+				"GoalListLooping0:d":	0,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	10
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	1,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0Target:g":	"0D8AD14E_A2C5A001",
+				"List0Goal0AnimType:d":	6,
+				"List0Goal0AnimName:s":	"",
+				"List0Goal0Lock:d":	0,
+				"List0Goal0LookAhead:d":	1,
+				"List0Goal0ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal1:d":	0,
+				"List0Goal1MustSuceed:d":	0,
+				"List0Goal1Target:g":	"0D8AD14E_A2C5C401"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal2:d":	2,
+				"List0Goal2MustSuceed:d":	0,
+				"List0Goal2ActionName:s":	"AlertScratchHead",
+				"List0Goal2PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal3:d":	2,
+				"List0Goal3MustSuceed:d":	0,
+				"List0Goal3ActionName:s":	"Idle",
+				"List0Goal3PlayTime:f":	15
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal4:d":	2,
+				"List0Goal4MustSuceed:d":	0,
+				"List0Goal4ActionName:s":	"IdleStretch",
+				"List0Goal4PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal5:d":	2,
+				"List0Goal5MustSuceed:d":	0,
+				"List0Goal5ActionName:s":	"Idle",
+				"List0Goal5PlayTime:f":	20
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal6:d":	2,
+				"List0Goal6MustSuceed:d":	0,
+				"List0Goal6ActionName:s":	"Idle",
+				"List0Goal6PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal7:d":	2,
+				"List0Goal7MustSuceed:d":	0,
+				"List0Goal7ActionName:s":	"Idle",
+				"List0Goal7PlayTime:f":	35
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal8:d":	2,
+				"List0Goal8MustSuceed:d":	0,
+				"List0Goal8ActionName:s":	"IdleFidget",
+				"List0Goal8PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal9:d":	2,
+				"List0Goal9MustSuceed:d":	0,
+				"List0Goal9ActionName:s":	"Idle",
+				"List0Goal9PlayTime:f":	28,
+				"GoalListSetCount:d":	1
+			}]
+	}, {
+		"name":	"GoalListSet0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListSetName0:s":	"Patrol Idle",
+				"GoalListGoalCount0:d":	7,
+				"GoalListSet0GoalListName0:s":	"Scratch Head Idle",
+				"GoalListSet0GoalListWeight0:d":	100,
+				"GoalListSet0GoalListName1:s":	"IdleFidget",
+				"GoalListSet0GoalListWeight1:d":	100,
+				"GoalListSet0GoalListName2:s":	"Fidget ",
+				"GoalListSet0GoalListWeight2:d":	0,
+				"GoalListSet0GoalListName3:s":	"IdleStretch",
+				"GoalListSet0GoalListWeight3:d":	100,
+				"GoalListSet0GoalListName4:s":	"IdleLookAround",
+				"GoalListSet0GoalListWeight4:d":	100,
+				"GoalListSet0GoalListName5:s":	"Standing Idle",
+				"GoalListSet0GoalListWeight5:d":	100,
+				"GoalListSet0GoalListName6:s":	"NONE",
+				"GoalListSet0GoalListWeight6:d":	100
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	650,
+				"HearingRange:f":	450,
+				"LoudHearingRange:f":	1,
+				"SmellRange:f":	75,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-8469.546875, 669.064208984375, 6645.224609375],
+				"Orientation:fff":	[0, -108.00002288818359, 0],
+				"LocalBoundingBox:ffffff":	[-50, 0, -50, 50, 175, 50],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Elf_Guard_Female 005"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD30E_A2E42001",
+				"CreatureType:s":	"ElfGuardFemale",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"woodelf_female_guard_geom.npcgeom",
+				"Name:s":	"Elf_Guard_Female 006",
+				"Team:d":	2,
+				"Position:fff":	[-9252.5732421875, 526.5672607421875, 8943.1416015625],
+				"Rotation:fff":	[0, 13.949974060058594, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"NONE",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	40,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	0,
+				"Pushable:d":	0,
+				"Invulnerable:d":	1,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	0,
+				"EvadePercent:d":	0,
+				"ShovePercent:d":	0,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"Scratch Head Idle",
+				"AlertDuration1:f":	5,
+				"AlertDuration2:f":	5,
+				"GotoSound:d":	0,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	3,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	350,
+				"MinJumpAttackRadius:f":	200,
+				"AttackGoalListName:s":	"",
+				"GoalListCount:d":	2
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Scratch Head Idle",
+				"GoalListLooping0:d":	0,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	8
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	2,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0ActionName:s":	"AlertScratchHead",
+				"List0Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal1:d":	2,
+				"List0Goal1MustSuceed:d":	0,
+				"List0Goal1ActionName:s":	"Idle",
+				"List0Goal1PlayTime:f":	15
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal2:d":	2,
+				"List0Goal2MustSuceed:d":	0,
+				"List0Goal2ActionName:s":	"IdleStretch",
+				"List0Goal2PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal3:d":	2,
+				"List0Goal3MustSuceed:d":	0,
+				"List0Goal3ActionName:s":	"Idle",
+				"List0Goal3PlayTime:f":	20
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal4:d":	2,
+				"List0Goal4MustSuceed:d":	0,
+				"List0Goal4ActionName:s":	"Idle",
+				"List0Goal4PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal5:d":	2,
+				"List0Goal5MustSuceed:d":	0,
+				"List0Goal5ActionName:s":	"Idle",
+				"List0Goal5PlayTime:f":	35
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal6:d":	2,
+				"List0Goal6MustSuceed:d":	0,
+				"List0Goal6ActionName:s":	"IdleFidget",
+				"List0Goal6PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal7:d":	2,
+				"List0Goal7MustSuceed:d":	0,
+				"List0Goal7ActionName:s":	"Idle",
+				"List0Goal7PlayTime:f":	28
+			}]
+	}, {
+		"name":	"GoalList1",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName1:s":	"Patrol Shidnit",
+				"GoalListLooping1:d":	1,
+				"GoalListLoopStart1:d":	0,
+				"GoalListCollision1:d":	1,
+				"GoalListMustComplete1:d":	0,
+				"GoalListRestartFromBeginning1:d":	1,
+				"GoalListGoalCount1:d":	8
+			}]
+	}, {
+		"name":	"GoalList1GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList1Goal0:d":	2,
+				"List1Goal0MustSuceed:d":	0,
+				"List1Goal0ActionName:s":	"Idle",
+				"List1Goal0PlayTime:f":	4
+			}]
+	}, {
+		"name":	"GoalList1GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList1Goal1:d":	1,
+				"List1Goal1MustSuceed:d":	0,
+				"List1Goal1Target:g":	"0D8ADB8E_78243801",
+				"List1Goal1AnimType:d":	6,
+				"List1Goal1AnimName:s":	"",
+				"List1Goal1Lock:d":	0,
+				"List1Goal1LookAhead:d":	1,
+				"List1Goal1ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList1GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList1Goal2:d":	1,
+				"List1Goal2MustSuceed:d":	0,
+				"List1Goal2Target:g":	"0D8AD14E_A2C6E001",
+				"List1Goal2AnimType:d":	6,
+				"List1Goal2AnimName:s":	"",
+				"List1Goal2Lock:d":	1,
+				"List1Goal2LookAhead:d":	1,
+				"List1Goal2ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList1GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList1Goal3:d":	2,
+				"List1Goal3MustSuceed:d":	0,
+				"List1Goal3ActionName:s":	"Idle",
+				"List1Goal3PlayTime:f":	6
+			}]
+	}, {
+		"name":	"GoalList1GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList1Goal4:d":	0,
+				"List1Goal4MustSuceed:d":	0,
+				"List1Goal4Target:g":	"0D8ADB8E_78243801"
+			}]
+	}, {
+		"name":	"GoalList1GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList1Goal5:d":	1,
+				"List1Goal5MustSuceed:d":	0,
+				"List1Goal5Target:g":	"0D8ADB8E_78243801",
+				"List1Goal5AnimType:d":	6,
+				"List1Goal5AnimName:s":	"",
+				"List1Goal5Lock:d":	1,
+				"List1Goal5LookAhead:d":	1,
+				"List1Goal5ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList1GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList1Goal6:d":	1,
+				"List1Goal6MustSuceed:d":	0,
+				"List1Goal6Target:g":	"0D8ADB8E_78247001",
+				"List1Goal6AnimType:d":	6,
+				"List1Goal6AnimName:s":	"",
+				"List1Goal6Lock:d":	1,
+				"List1Goal6LookAhead:d":	1,
+				"List1Goal6ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList1GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList1Goal7:d":	0,
+				"List1Goal7MustSuceed:d":	0,
+				"List1Goal7Target:g":	"0D8ADB8E_78243801",
+				"GoalListSetCount:d":	1
+			}]
+	}, {
+		"name":	"GoalListSet0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListSetName0:s":	"Patrol Idle",
+				"GoalListGoalCount0:d":	7,
+				"GoalListSet0GoalListName0:s":	"Scratch Head Idle",
+				"GoalListSet0GoalListWeight0:d":	100,
+				"GoalListSet0GoalListName1:s":	"IdleFidget",
+				"GoalListSet0GoalListWeight1:d":	100,
+				"GoalListSet0GoalListName2:s":	"Fidget ",
+				"GoalListSet0GoalListWeight2:d":	0,
+				"GoalListSet0GoalListName3:s":	"IdleStretch",
+				"GoalListSet0GoalListWeight3:d":	100,
+				"GoalListSet0GoalListName4:s":	"IdleLookAround",
+				"GoalListSet0GoalListWeight4:d":	100,
+				"GoalListSet0GoalListName5:s":	"Standing Idle",
+				"GoalListSet0GoalListWeight5:d":	100,
+				"GoalListSet0GoalListName6:s":	"NONE",
+				"GoalListSet0GoalListWeight6:d":	100
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	650,
+				"HearingRange:f":	450,
+				"LoudHearingRange:f":	1,
+				"SmellRange:f":	75,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-9252.5732421875, 526.5672607421875, 8943.1416015625],
+				"Orientation:fff":	[0, 13.949974060058594, 0],
+				"LocalBoundingBox:ffffff":	[-50, 0, -50, 50, 175, 50],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Elf_Guard_Female 006"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD850_096EE801",
+				"CreatureType:s":	"ElfGuardFemale",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"woodelf_female_guard_geom.npcgeom",
+				"Name:s":	"Elf_Guard_Female 007",
+				"Team:d":	2,
+				"Position:fff":	[-8599.3759765625, 108.68072509765625, 6900.8076171875],
+				"Rotation:fff":	[0, -28.800010681152344, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"NONE",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	40,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	0,
+				"Pushable:d":	0,
+				"Invulnerable:d":	1,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	0,
+				"EvadePercent:d":	0,
+				"ShovePercent:d":	0,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"NONE",
+				"AlertDuration1:f":	5,
+				"AlertDuration2:f":	5,
+				"GotoSound:d":	0,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	3,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	350,
+				"MinJumpAttackRadius:f":	200,
+				"AttackGoalListName:s":	"",
+				"GoalListCount:d":	7
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Scratch Head Idle",
+				"GoalListLooping0:d":	0,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	2,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0ActionName:s":	"AlertScratchHead",
+				"List0Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList1",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName1:s":	"IdleFidget",
+				"GoalListLooping1:d":	0,
+				"GoalListLoopStart1:d":	0,
+				"GoalListCollision1:d":	1,
+				"GoalListMustComplete1:d":	0,
+				"GoalListRestartFromBeginning1:d":	1,
+				"GoalListGoalCount1:d":	1
+			}]
+	}, {
+		"name":	"GoalList1GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList1Goal0:d":	2,
+				"List1Goal0MustSuceed:d":	0,
+				"List1Goal0ActionName:s":	"IdleFidget",
+				"List1Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList2",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName2:s":	"Fidget ",
+				"GoalListLooping2:d":	0,
+				"GoalListLoopStart2:d":	0,
+				"GoalListCollision2:d":	1,
+				"GoalListMustComplete2:d":	0,
+				"GoalListRestartFromBeginning2:d":	1,
+				"GoalListGoalCount2:d":	1
+			}]
+	}, {
+		"name":	"GoalList2GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList2Goal0:d":	2,
+				"List2Goal0MustSuceed:d":	0,
+				"List2Goal0ActionName:s":	"Idle",
+				"List2Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList3",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName3:s":	"IdleStretch",
+				"GoalListLooping3:d":	0,
+				"GoalListLoopStart3:d":	0,
+				"GoalListCollision3:d":	1,
+				"GoalListMustComplete3:d":	0,
+				"GoalListRestartFromBeginning3:d":	1,
+				"GoalListGoalCount3:d":	1
+			}]
+	}, {
+		"name":	"GoalList3GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList3Goal0:d":	2,
+				"List3Goal0MustSuceed:d":	0,
+				"List3Goal0ActionName:s":	"IdleStretch",
+				"List3Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList4",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName4:s":	"IdleLookAround",
+				"GoalListLooping4:d":	0,
+				"GoalListLoopStart4:d":	0,
+				"GoalListCollision4:d":	1,
+				"GoalListMustComplete4:d":	0,
+				"GoalListRestartFromBeginning4:d":	1,
+				"GoalListGoalCount4:d":	1
+			}]
+	}, {
+		"name":	"GoalList4GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList4Goal0:d":	2,
+				"List4Goal0MustSuceed:d":	0,
+				"List4Goal0ActionName:s":	"IdleLookAround",
+				"List4Goal0PlayTime:f":	4
+			}]
+	}, {
+		"name":	"GoalList5",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName5:s":	"Standing Idle",
+				"GoalListLooping5:d":	0,
+				"GoalListLoopStart5:d":	0,
+				"GoalListCollision5:d":	1,
+				"GoalListMustComplete5:d":	0,
+				"GoalListRestartFromBeginning5:d":	1,
+				"GoalListGoalCount5:d":	1
+			}]
+	}, {
+		"name":	"GoalList5GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList5Goal0:d":	2,
+				"List5Goal0MustSuceed:d":	0,
+				"List5Goal0ActionName:s":	"Idle",
+				"List5Goal0PlayTime:f":	4
+			}]
+	}, {
+		"name":	"GoalList6",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName6:s":	"Hack Idle",
+				"GoalListLooping6:d":	1,
+				"GoalListLoopStart6:d":	0,
+				"GoalListCollision6:d":	1,
+				"GoalListMustComplete6:d":	0,
+				"GoalListRestartFromBeginning6:d":	1,
+				"GoalListGoalCount6:d":	1
+			}]
+	}, {
+		"name":	"GoalList6GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList6Goal0:d":	2,
+				"List6Goal0MustSuceed:d":	0,
+				"List6Goal0ActionName:s":	"Idle",
+				"List6Goal0PlayTime:f":	0,
+				"GoalListSetCount:d":	1
+			}]
+	}, {
+		"name":	"GoalListSet0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListSetName0:s":	"Patrol Idle",
+				"GoalListGoalCount0:d":	7,
+				"GoalListSet0GoalListName0:s":	"Scratch Head Idle",
+				"GoalListSet0GoalListWeight0:d":	100,
+				"GoalListSet0GoalListName1:s":	"IdleFidget",
+				"GoalListSet0GoalListWeight1:d":	100,
+				"GoalListSet0GoalListName2:s":	"Fidget ",
+				"GoalListSet0GoalListWeight2:d":	0,
+				"GoalListSet0GoalListName3:s":	"IdleStretch",
+				"GoalListSet0GoalListWeight3:d":	100,
+				"GoalListSet0GoalListName4:s":	"IdleLookAround",
+				"GoalListSet0GoalListWeight4:d":	100,
+				"GoalListSet0GoalListName5:s":	"Standing Idle",
+				"GoalListSet0GoalListWeight5:d":	100,
+				"GoalListSet0GoalListName6:s":	"NONE",
+				"GoalListSet0GoalListWeight6:d":	100
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	650,
+				"HearingRange:f":	450,
+				"LoudHearingRange:f":	1,
+				"SmellRange:f":	75,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-8599.3759765625, 108.68072509765625, 6900.8076171875],
+				"Orientation:fff":	[0, -28.800010681152344, 0],
+				"LocalBoundingBox:ffffff":	[-50, 0, -50, 50, 175, 50],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Elf_Guard_Female 007"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD64E_4E62DC00",
+				"CreatureType:s":	"ElfGuard",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"woodelf_maleguard_geom.npcgeom",
+				"Name:s":	"Elf_Guard_Male 008",
+				"Team:d":	2,
+				"Position:fff":	[-8251.787109375, 437.24786376953125, 7664.0908203125],
+				"Rotation:fff":	[0, -5.8499560356140137, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"NONE",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	40,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	0,
+				"Pushable:d":	0,
+				"Invulnerable:d":	1,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	0,
+				"EvadePercent:d":	0,
+				"ShovePercent:d":	0,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"",
+				"AlertDuration1:f":	5,
+				"AlertDuration2:f":	5,
+				"GotoSound:d":	0,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	1,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	350,
+				"MinJumpAttackRadius:f":	200,
+				"AttackGoalListName:s":	"",
+				"GoalListCount:d":	5
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Fidget",
+				"GoalListLooping0:d":	0,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	2,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0ActionName:s":	"Idle",
+				"List0Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList1",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName1:s":	"Idle Fidget",
+				"GoalListLooping1:d":	0,
+				"GoalListLoopStart1:d":	0,
+				"GoalListCollision1:d":	1,
+				"GoalListMustComplete1:d":	0,
+				"GoalListRestartFromBeginning1:d":	1,
+				"GoalListGoalCount1:d":	1
+			}]
+	}, {
+		"name":	"GoalList1GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList1Goal0:d":	2,
+				"List1Goal0MustSuceed:d":	0,
+				"List1Goal0ActionName:s":	"IdleFidget",
+				"List1Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList2",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName2:s":	"Scratch Head",
+				"GoalListLooping2:d":	0,
+				"GoalListLoopStart2:d":	0,
+				"GoalListCollision2:d":	1,
+				"GoalListMustComplete2:d":	0,
+				"GoalListRestartFromBeginning2:d":	1,
+				"GoalListGoalCount2:d":	1
+			}]
+	}, {
+		"name":	"GoalList2GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList2Goal0:d":	2,
+				"List2Goal0MustSuceed:d":	0,
+				"List2Goal0ActionName:s":	"AlertScratchHead",
+				"List2Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList3",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName3:s":	"Standing Idle",
+				"GoalListLooping3:d":	0,
+				"GoalListLoopStart3:d":	0,
+				"GoalListCollision3:d":	1,
+				"GoalListMustComplete3:d":	0,
+				"GoalListRestartFromBeginning3:d":	1,
+				"GoalListGoalCount3:d":	1
+			}]
+	}, {
+		"name":	"GoalList3GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList3Goal0:d":	2,
+				"List3Goal0MustSuceed:d":	0,
+				"List3Goal0ActionName:s":	"Idle",
+				"List3Goal0PlayTime:f":	4
+			}]
+	}, {
+		"name":	"GoalList4",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName4:s":	"Patrol Craziness",
+				"GoalListLooping4:d":	1,
+				"GoalListLoopStart4:d":	0,
+				"GoalListCollision4:d":	1,
+				"GoalListMustComplete4:d":	0,
+				"GoalListRestartFromBeginning4:d":	1,
+				"GoalListGoalCount4:d":	9
+			}]
+	}, {
+		"name":	"GoalList4GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList4Goal0:d":	1,
+				"List4Goal0MustSuceed:d":	0,
+				"List4Goal0Target:g":	"0D8ADB8E_78241C01",
+				"List4Goal0AnimType:d":	6,
+				"List4Goal0AnimName:s":	"",
+				"List4Goal0Lock:d":	1,
+				"List4Goal0LookAhead:d":	1,
+				"List4Goal0ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList4GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList4Goal1:d":	1,
+				"List4Goal1MustSuceed:d":	0,
+				"List4Goal1Target:g":	"0D8ADB8E_7823D801",
+				"List4Goal1AnimType:d":	6,
+				"List4Goal1AnimName:s":	"",
+				"List4Goal1Lock:d":	1,
+				"List4Goal1LookAhead:d":	1,
+				"List4Goal1ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList4GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList4Goal2:d":	1,
+				"List4Goal2MustSuceed:d":	0,
+				"List4Goal2Target:g":	"0D8ADB8E_78237001",
+				"List4Goal2AnimType:d":	6,
+				"List4Goal2AnimName:s":	"",
+				"List4Goal2Lock:d":	1,
+				"List4Goal2LookAhead:d":	1,
+				"List4Goal2ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList4GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList4Goal3:d":	2,
+				"List4Goal3MustSuceed:d":	0,
+				"List4Goal3ActionName:s":	"Idle",
+				"List4Goal3PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList4GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList4Goal4:d":	0,
+				"List4Goal4MustSuceed:d":	0,
+				"List4Goal4Target:g":	"0D8ADB8E_7823D801"
+			}]
+	}, {
+		"name":	"GoalList4GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList4Goal5:d":	1,
+				"List4Goal5MustSuceed:d":	0,
+				"List4Goal5Target:g":	"0D8ADB8E_7823D801",
+				"List4Goal5AnimType:d":	6,
+				"List4Goal5AnimName:s":	"",
+				"List4Goal5Lock:d":	1,
+				"List4Goal5LookAhead:d":	1,
+				"List4Goal5ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList4GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList4Goal6:d":	1,
+				"List4Goal6MustSuceed:d":	0,
+				"List4Goal6Target:g":	"0D8ADB8E_78241C01",
+				"List4Goal6AnimType:d":	6,
+				"List4Goal6AnimName:s":	"",
+				"List4Goal6Lock:d":	1,
+				"List4Goal6LookAhead:d":	1,
+				"List4Goal6ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList4GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList4Goal7:d":	0,
+				"List4Goal7MustSuceed:d":	0,
+				"List4Goal7Target:g":	"0D8ADB8E_7823D801"
+			}]
+	}, {
+		"name":	"GoalList4GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList4Goal8:d":	2,
+				"List4Goal8MustSuceed:d":	0,
+				"List4Goal8ActionName:s":	"Idle",
+				"List4Goal8PlayTime:f":	5,
+				"GoalListSetCount:d":	1
+			}]
+	}, {
+		"name":	"GoalListSet0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListSetName0:s":	"Patrol Fidget",
+				"GoalListGoalCount0:d":	5,
+				"GoalListSet0GoalListName0:s":	"Fidget",
+				"GoalListSet0GoalListWeight0:d":	0,
+				"GoalListSet0GoalListName1:s":	"Idle Fidget",
+				"GoalListSet0GoalListWeight1:d":	100,
+				"GoalListSet0GoalListName2:s":	"Scratch Head",
+				"GoalListSet0GoalListWeight2:d":	100,
+				"GoalListSet0GoalListName3:s":	"NONE",
+				"GoalListSet0GoalListWeight3:d":	100,
+				"GoalListSet0GoalListName4:s":	"Standing Idle",
+				"GoalListSet0GoalListWeight4:d":	100
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	650,
+				"HearingRange:f":	450,
+				"LoudHearingRange:f":	1,
+				"SmellRange:f":	75,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-8251.787109375, 437.24786376953125, 7664.0908203125],
+				"Orientation:fff":	[0, -5.8499560356140137, 0],
+				"LocalBoundingBox:ffffff":	[-50, 0, -50, 50, 175, 50],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Elf_Guard_Male 008"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD64E_4E642001",
+				"CreatureType:s":	"ElfGuard",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"woodelf_maleguard_geom.npcgeom",
+				"Name:s":	"Elf_Guard_Male 009",
+				"Team:d":	2,
+				"Position:fff":	[-9276.259765625, 604.04742431640625, 7258.41748046875],
+				"Rotation:fff":	[0, 176.85000610351562, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"NONE",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	40,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	0,
+				"Pushable:d":	0,
+				"Invulnerable:d":	1,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	0,
+				"EvadePercent:d":	0,
+				"ShovePercent:d":	0,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"",
+				"AlertDuration1:f":	5,
+				"AlertDuration2:f":	5,
+				"GotoSound:d":	0,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	1,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	350,
+				"MinJumpAttackRadius:f":	200,
+				"AttackGoalListName:s":	"",
+				"GoalListCount:d":	5
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Fidget",
+				"GoalListLooping0:d":	0,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	2,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0ActionName:s":	"Idle",
+				"List0Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList1",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName1:s":	"Idle Fidget",
+				"GoalListLooping1:d":	0,
+				"GoalListLoopStart1:d":	0,
+				"GoalListCollision1:d":	1,
+				"GoalListMustComplete1:d":	0,
+				"GoalListRestartFromBeginning1:d":	1,
+				"GoalListGoalCount1:d":	1
+			}]
+	}, {
+		"name":	"GoalList1GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList1Goal0:d":	2,
+				"List1Goal0MustSuceed:d":	0,
+				"List1Goal0ActionName:s":	"IdleFidget",
+				"List1Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList2",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName2:s":	"Scratch Head",
+				"GoalListLooping2:d":	0,
+				"GoalListLoopStart2:d":	0,
+				"GoalListCollision2:d":	1,
+				"GoalListMustComplete2:d":	0,
+				"GoalListRestartFromBeginning2:d":	1,
+				"GoalListGoalCount2:d":	1
+			}]
+	}, {
+		"name":	"GoalList2GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList2Goal0:d":	2,
+				"List2Goal0MustSuceed:d":	0,
+				"List2Goal0ActionName:s":	"AlertScratchHead",
+				"List2Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList3",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName3:s":	"Standing Idle",
+				"GoalListLooping3:d":	0,
+				"GoalListLoopStart3:d":	0,
+				"GoalListCollision3:d":	1,
+				"GoalListMustComplete3:d":	0,
+				"GoalListRestartFromBeginning3:d":	1,
+				"GoalListGoalCount3:d":	1
+			}]
+	}, {
+		"name":	"GoalList3GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList3Goal0:d":	2,
+				"List3Goal0MustSuceed:d":	0,
+				"List3Goal0ActionName:s":	"Idle",
+				"List3Goal0PlayTime:f":	4
+			}]
+	}, {
+		"name":	"GoalList4",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName4:s":	"Patroleo",
+				"GoalListLooping4:d":	1,
+				"GoalListLoopStart4:d":	0,
+				"GoalListCollision4:d":	1,
+				"GoalListMustComplete4:d":	0,
+				"GoalListRestartFromBeginning4:d":	1,
+				"GoalListGoalCount4:d":	9
+			}]
+	}, {
+		"name":	"GoalList4GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList4Goal0:d":	2,
+				"List4Goal0MustSuceed:d":	0,
+				"List4Goal0ActionName:s":	"Idle",
+				"List4Goal0PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList4GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList4Goal1:d":	1,
+				"List4Goal1MustSuceed:d":	0,
+				"List4Goal1Target:g":	"0D8AD14E_A2C62C01",
+				"List4Goal1AnimType:d":	6,
+				"List4Goal1AnimName:s":	"",
+				"List4Goal1Lock:d":	1,
+				"List4Goal1LookAhead:d":	1,
+				"List4Goal1ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList4GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList4Goal2:d":	1,
+				"List4Goal2MustSuceed:d":	0,
+				"List4Goal2Target:g":	"0D8AD14E_A2C5F801",
+				"List4Goal2AnimType:d":	6,
+				"List4Goal2AnimName:s":	"",
+				"List4Goal2Lock:d":	1,
+				"List4Goal2LookAhead:d":	1,
+				"List4Goal2ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList4GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList4Goal3:d":	2,
+				"List4Goal3MustSuceed:d":	0,
+				"List4Goal3ActionName:s":	"Idle",
+				"List4Goal3PlayTime:f":	3.5
+			}]
+	}, {
+		"name":	"GoalList4GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList4Goal4:d":	0,
+				"List4Goal4MustSuceed:d":	0,
+				"List4Goal4Target:g":	"0D8AD14E_A2C62C01"
+			}]
+	}, {
+		"name":	"GoalList4GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList4Goal5:d":	1,
+				"List4Goal5MustSuceed:d":	0,
+				"List4Goal5Target:g":	"0D8AD14E_A2C62C01",
+				"List4Goal5AnimType:d":	6,
+				"List4Goal5AnimName:s":	"",
+				"List4Goal5Lock:d":	1,
+				"List4Goal5LookAhead:d":	1,
+				"List4Goal5ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList4GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList4Goal6:d":	1,
+				"List4Goal6MustSuceed:d":	0,
+				"List4Goal6Target:g":	"0D8AD14E_A2C65401",
+				"List4Goal6AnimType:d":	6,
+				"List4Goal6AnimName:s":	"",
+				"List4Goal6Lock:d":	1,
+				"List4Goal6LookAhead:d":	1,
+				"List4Goal6ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList4GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList4Goal7:d":	0,
+				"List4Goal7MustSuceed:d":	0,
+				"List4Goal7Target:g":	"0D8AD14E_A2C62C01"
+			}]
+	}, {
+		"name":	"GoalList4GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList4Goal8:d":	2,
+				"List4Goal8MustSuceed:d":	0,
+				"List4Goal8ActionName:s":	"Idle",
+				"List4Goal8PlayTime:f":	4,
+				"GoalListSetCount:d":	1
+			}]
+	}, {
+		"name":	"GoalListSet0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListSetName0:s":	"Patrol Fidget",
+				"GoalListGoalCount0:d":	5,
+				"GoalListSet0GoalListName0:s":	"Fidget",
+				"GoalListSet0GoalListWeight0:d":	0,
+				"GoalListSet0GoalListName1:s":	"Idle Fidget",
+				"GoalListSet0GoalListWeight1:d":	100,
+				"GoalListSet0GoalListName2:s":	"Scratch Head",
+				"GoalListSet0GoalListWeight2:d":	100,
+				"GoalListSet0GoalListName3:s":	"NONE",
+				"GoalListSet0GoalListWeight3:d":	100,
+				"GoalListSet0GoalListName4:s":	"Standing Idle",
+				"GoalListSet0GoalListWeight4:d":	100
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	650,
+				"HearingRange:f":	450,
+				"LoudHearingRange:f":	1,
+				"SmellRange:f":	75,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-9276.259765625, 604.04742431640625, 7258.41748046875],
+				"Orientation:fff":	[0, 176.85000610351562, 0],
+				"LocalBoundingBox:ffffff":	[-50, 0, -50, 50, 175, 50],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Elf_Guard_Male 009"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD64E_4E649001",
+				"CreatureType:s":	"ElfGuard",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"woodelf_maleguard_geom.npcgeom",
+				"Name:s":	"Elf_Guard_Male 010",
+				"Team:d":	2,
+				"Position:fff":	[-9026.7275390625, 86.9423141479492, 8096.931640625],
+				"Rotation:fff":	[0, 176.85000610351562, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"NONE",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	40,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	0,
+				"Pushable:d":	0,
+				"Invulnerable:d":	1,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	0,
+				"EvadePercent:d":	0,
+				"ShovePercent:d":	0,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	7,
+				"WayPointVolume0:g":	"0D8AD30E_A2FBEC01",
+				"GoalListSet0:s":	"Patrol Fidget",
+				"NextWayPointName0:s":	"WayPoint 1",
+				"NextWayPointID0:d":	1,
+				"NextWayPointCount0:d":	1,
+				"NextWayPoint0-0:d":	1,
+				"WayPointVolume1:g":	"0D8AD30E_A2FC3401",
+				"GoalListSet1:s":	"Patrol Fidget",
+				"NextWayPointName1:s":	"WayPoint 2",
+				"NextWayPointID1:d":	2,
+				"NextWayPointCount1:d":	1,
+				"NextWayPoint1-0:d":	2,
+				"WayPointVolume2:g":	"0D8AD30E_A2FC6800",
+				"GoalListSet2:s":	"Patrol Fidget",
+				"NextWayPointName2:s":	"WayPoint 3",
+				"NextWayPointID2:d":	3,
+				"NextWayPointCount2:d":	1,
+				"NextWayPoint2-0:d":	3,
+				"WayPointVolume3:g":	"0D8AD30E_A2FCB401",
+				"GoalListSet3:s":	"Patrol Fidget",
+				"NextWayPointName3:s":	"WayPoint 4",
+				"NextWayPointID3:d":	4,
+				"NextWayPointCount3:d":	1,
+				"NextWayPoint3-0:d":	4,
+				"WayPointVolume4:g":	"0D8AD30E_A2FCDC01",
+				"GoalListSet4:s":	"Patrol Fidget",
+				"NextWayPointName4:s":	"WayPoint 5",
+				"NextWayPointID4:d":	5,
+				"NextWayPointCount4:d":	1,
+				"NextWayPoint4-0:d":	5,
+				"WayPointVolume5:g":	"0D8AD30E_A2FD1C01",
+				"GoalListSet5:s":	"Patrol Fidget",
+				"NextWayPointName5:s":	"WayPoint 6",
+				"NextWayPointID5:d":	6,
+				"NextWayPointCount5:d":	1,
+				"NextWayPoint5-0:d":	6,
+				"WayPointVolume6:g":	"0D8AD30E_A2FD6001",
+				"GoalListSet6:s":	"Patrol Fidget",
+				"NextWayPointName6:s":	"WayPoint 0",
+				"NextWayPointID6:d":	0,
+				"NextWayPointCount6:d":	1,
+				"NextWayPoint6-0:d":	0,
+				"PatrolIdleStateGoalListName:s":	"Hack Idle",
+				"AlertDuration1:f":	5,
+				"AlertDuration2:f":	5,
+				"GotoSound:d":	0,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	1,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	350,
+				"MinJumpAttackRadius:f":	200,
+				"AttackGoalListName:s":	"",
+				"GoalListCount:d":	5
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Fidget",
+				"GoalListLooping0:d":	0,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	2,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0ActionName:s":	"Idle",
+				"List0Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList1",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName1:s":	"Idle Fidget",
+				"GoalListLooping1:d":	0,
+				"GoalListLoopStart1:d":	0,
+				"GoalListCollision1:d":	1,
+				"GoalListMustComplete1:d":	0,
+				"GoalListRestartFromBeginning1:d":	1,
+				"GoalListGoalCount1:d":	1
+			}]
+	}, {
+		"name":	"GoalList1GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList1Goal0:d":	2,
+				"List1Goal0MustSuceed:d":	0,
+				"List1Goal0ActionName:s":	"IdleFidget",
+				"List1Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList2",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName2:s":	"Scratch Head",
+				"GoalListLooping2:d":	0,
+				"GoalListLoopStart2:d":	0,
+				"GoalListCollision2:d":	1,
+				"GoalListMustComplete2:d":	0,
+				"GoalListRestartFromBeginning2:d":	1,
+				"GoalListGoalCount2:d":	1
+			}]
+	}, {
+		"name":	"GoalList2GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList2Goal0:d":	2,
+				"List2Goal0MustSuceed:d":	0,
+				"List2Goal0ActionName:s":	"AlertScratchHead",
+				"List2Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList3",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName3:s":	"Standing Idle",
+				"GoalListLooping3:d":	0,
+				"GoalListLoopStart3:d":	0,
+				"GoalListCollision3:d":	1,
+				"GoalListMustComplete3:d":	0,
+				"GoalListRestartFromBeginning3:d":	1,
+				"GoalListGoalCount3:d":	1
+			}]
+	}, {
+		"name":	"GoalList3GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList3Goal0:d":	2,
+				"List3Goal0MustSuceed:d":	0,
+				"List3Goal0ActionName:s":	"Idle",
+				"List3Goal0PlayTime:f":	4
+			}]
+	}, {
+		"name":	"GoalList4",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName4:s":	"Hack Idle",
+				"GoalListLooping4:d":	1,
+				"GoalListLoopStart4:d":	0,
+				"GoalListCollision4:d":	1,
+				"GoalListMustComplete4:d":	0,
+				"GoalListRestartFromBeginning4:d":	1,
+				"GoalListGoalCount4:d":	1
+			}]
+	}, {
+		"name":	"GoalList4GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList4Goal0:d":	2,
+				"List4Goal0MustSuceed:d":	0,
+				"List4Goal0ActionName:s":	"Idle",
+				"List4Goal0PlayTime:f":	0,
+				"GoalListSetCount:d":	1
+			}]
+	}, {
+		"name":	"GoalListSet0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListSetName0:s":	"Patrol Fidget",
+				"GoalListGoalCount0:d":	5,
+				"GoalListSet0GoalListName0:s":	"Fidget",
+				"GoalListSet0GoalListWeight0:d":	0,
+				"GoalListSet0GoalListName1:s":	"Idle Fidget",
+				"GoalListSet0GoalListWeight1:d":	100,
+				"GoalListSet0GoalListName2:s":	"Scratch Head",
+				"GoalListSet0GoalListWeight2:d":	100,
+				"GoalListSet0GoalListName3:s":	"NONE",
+				"GoalListSet0GoalListWeight3:d":	100,
+				"GoalListSet0GoalListName4:s":	"Standing Idle",
+				"GoalListSet0GoalListWeight4:d":	100
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	650,
+				"HearingRange:f":	450,
+				"LoudHearingRange:f":	1,
+				"SmellRange:f":	75,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-9026.7275390625, 86.9423141479492, 8096.931640625],
+				"Orientation:fff":	[0, 176.85000610351562, 0],
+				"LocalBoundingBox:ffffff":	[-50, 0, -50, 50, 175, 50],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Elf_Guard_Male 010"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD64E_4E64CC01",
+				"CreatureType:s":	"ElfGuard",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"woodelf_maleguard_geom.npcgeom",
+				"Name:s":	"Elf_Guard_Male 011",
+				"Team:d":	2,
+				"Position:fff":	[-10208.3369140625, -224.33224487304688, 8614.9921875],
+				"Rotation:fff":	[0, 13.050030708312988, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"NONE",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	40,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	0,
+				"Pushable:d":	0,
+				"Invulnerable:d":	1,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	0,
+				"EvadePercent:d":	0,
+				"ShovePercent:d":	0,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"Standing Patrol",
+				"AlertDuration1:f":	5,
+				"AlertDuration2:f":	5,
+				"GotoSound:d":	0,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	1,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	350,
+				"MinJumpAttackRadius:f":	200,
+				"AttackGoalListName:s":	"",
+				"GoalListCount:d":	5
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Fidget",
+				"GoalListLooping0:d":	0,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	2,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0ActionName:s":	"Idle",
+				"List0Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList1",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName1:s":	"Idle Fidget",
+				"GoalListLooping1:d":	0,
+				"GoalListLoopStart1:d":	0,
+				"GoalListCollision1:d":	1,
+				"GoalListMustComplete1:d":	0,
+				"GoalListRestartFromBeginning1:d":	1,
+				"GoalListGoalCount1:d":	1
+			}]
+	}, {
+		"name":	"GoalList1GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList1Goal0:d":	2,
+				"List1Goal0MustSuceed:d":	0,
+				"List1Goal0ActionName:s":	"IdleFidget",
+				"List1Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList2",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName2:s":	"Scratch Head",
+				"GoalListLooping2:d":	0,
+				"GoalListLoopStart2:d":	0,
+				"GoalListCollision2:d":	1,
+				"GoalListMustComplete2:d":	0,
+				"GoalListRestartFromBeginning2:d":	1,
+				"GoalListGoalCount2:d":	1
+			}]
+	}, {
+		"name":	"GoalList2GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList2Goal0:d":	2,
+				"List2Goal0MustSuceed:d":	0,
+				"List2Goal0ActionName:s":	"AlertScratchHead",
+				"List2Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList3",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName3:s":	"Standing Idle",
+				"GoalListLooping3:d":	0,
+				"GoalListLoopStart3:d":	0,
+				"GoalListCollision3:d":	1,
+				"GoalListMustComplete3:d":	0,
+				"GoalListRestartFromBeginning3:d":	1,
+				"GoalListGoalCount3:d":	1
+			}]
+	}, {
+		"name":	"GoalList3GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList3Goal0:d":	2,
+				"List3Goal0MustSuceed:d":	0,
+				"List3Goal0ActionName:s":	"Idle",
+				"List3Goal0PlayTime:f":	4
+			}]
+	}, {
+		"name":	"GoalList4",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName4:s":	"Standing Patrol",
+				"GoalListLooping4:d":	0,
+				"GoalListLoopStart4:d":	0,
+				"GoalListCollision4:d":	1,
+				"GoalListMustComplete4:d":	0,
+				"GoalListRestartFromBeginning4:d":	1,
+				"GoalListGoalCount4:d":	2
+			}]
+	}, {
+		"name":	"GoalList4GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList4Goal0:d":	1,
+				"List4Goal0MustSuceed:d":	0,
+				"List4Goal0Target:g":	"0D8ADB52_685D1401",
+				"List4Goal0AnimType:d":	6,
+				"List4Goal0AnimName:s":	"",
+				"List4Goal0Lock:d":	0,
+				"List4Goal0LookAhead:d":	1,
+				"List4Goal0ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList4GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList4Goal1:d":	0,
+				"List4Goal1MustSuceed:d":	0,
+				"List4Goal1Target:g":	"0D8ADB52_685CA001",
+				"GoalListSetCount:d":	1
+			}]
+	}, {
+		"name":	"GoalListSet0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListSetName0:s":	"Patrol Fidget",
+				"GoalListGoalCount0:d":	5,
+				"GoalListSet0GoalListName0:s":	"Fidget",
+				"GoalListSet0GoalListWeight0:d":	0,
+				"GoalListSet0GoalListName1:s":	"Idle Fidget",
+				"GoalListSet0GoalListWeight1:d":	100,
+				"GoalListSet0GoalListName2:s":	"Scratch Head",
+				"GoalListSet0GoalListWeight2:d":	100,
+				"GoalListSet0GoalListName3:s":	"NONE",
+				"GoalListSet0GoalListWeight3:d":	100,
+				"GoalListSet0GoalListName4:s":	"Standing Idle",
+				"GoalListSet0GoalListWeight4:d":	100
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	650,
+				"HearingRange:f":	450,
+				"LoudHearingRange:f":	1,
+				"SmellRange:f":	75,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-10208.3369140625, -224.33224487304688, 8614.9921875],
+				"Orientation:fff":	[0, 13.050030708312988, 0],
+				"LocalBoundingBox:ffffff":	[-50, 0, -50, 50, 175, 50],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Elf_Guard_Male 011"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD850_096DF801",
+				"CreatureType:s":	"ElfGuard",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"woodelf_maleguard_geom.npcgeom",
+				"Name:s":	"Elf_Guard_Male 013",
+				"Team:d":	2,
+				"Position:fff":	[-8697.1669921875, 115.92093658447266, 6885.8291015625],
+				"Rotation:fff":	[0, -19.3499870300293, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"NONE",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	40,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	0,
+				"Pushable:d":	0,
+				"Invulnerable:d":	1,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	0,
+				"EvadePercent:d":	0,
+				"ShovePercent:d":	0,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"NONE",
+				"AlertDuration1:f":	5,
+				"AlertDuration2:f":	5,
+				"GotoSound:d":	0,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	1,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	350,
+				"MinJumpAttackRadius:f":	200,
+				"AttackGoalListName:s":	"",
+				"GoalListCount:d":	5
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Fidget",
+				"GoalListLooping0:d":	0,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	2,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0ActionName:s":	"Idle",
+				"List0Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList1",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName1:s":	"Idle Fidget",
+				"GoalListLooping1:d":	0,
+				"GoalListLoopStart1:d":	0,
+				"GoalListCollision1:d":	1,
+				"GoalListMustComplete1:d":	0,
+				"GoalListRestartFromBeginning1:d":	1,
+				"GoalListGoalCount1:d":	1
+			}]
+	}, {
+		"name":	"GoalList1GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList1Goal0:d":	2,
+				"List1Goal0MustSuceed:d":	0,
+				"List1Goal0ActionName:s":	"IdleFidget",
+				"List1Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList2",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName2:s":	"Scratch Head",
+				"GoalListLooping2:d":	0,
+				"GoalListLoopStart2:d":	0,
+				"GoalListCollision2:d":	1,
+				"GoalListMustComplete2:d":	0,
+				"GoalListRestartFromBeginning2:d":	1,
+				"GoalListGoalCount2:d":	1
+			}]
+	}, {
+		"name":	"GoalList2GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList2Goal0:d":	2,
+				"List2Goal0MustSuceed:d":	0,
+				"List2Goal0ActionName:s":	"AlertScratchHead",
+				"List2Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList3",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName3:s":	"Standing Idle",
+				"GoalListLooping3:d":	0,
+				"GoalListLoopStart3:d":	0,
+				"GoalListCollision3:d":	1,
+				"GoalListMustComplete3:d":	0,
+				"GoalListRestartFromBeginning3:d":	1,
+				"GoalListGoalCount3:d":	1
+			}]
+	}, {
+		"name":	"GoalList3GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList3Goal0:d":	2,
+				"List3Goal0MustSuceed:d":	0,
+				"List3Goal0ActionName:s":	"Idle",
+				"List3Goal0PlayTime:f":	4
+			}]
+	}, {
+		"name":	"GoalList4",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName4:s":	"Hack Idle",
+				"GoalListLooping4:d":	1,
+				"GoalListLoopStart4:d":	0,
+				"GoalListCollision4:d":	1,
+				"GoalListMustComplete4:d":	0,
+				"GoalListRestartFromBeginning4:d":	1,
+				"GoalListGoalCount4:d":	1
+			}]
+	}, {
+		"name":	"GoalList4GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList4Goal0:d":	2,
+				"List4Goal0MustSuceed:d":	0,
+				"List4Goal0ActionName:s":	"Idle",
+				"List4Goal0PlayTime:f":	0,
+				"GoalListSetCount:d":	1
+			}]
+	}, {
+		"name":	"GoalListSet0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListSetName0:s":	"Patrol Fidget",
+				"GoalListGoalCount0:d":	5,
+				"GoalListSet0GoalListName0:s":	"Fidget",
+				"GoalListSet0GoalListWeight0:d":	0,
+				"GoalListSet0GoalListName1:s":	"Idle Fidget",
+				"GoalListSet0GoalListWeight1:d":	100,
+				"GoalListSet0GoalListName2:s":	"Scratch Head",
+				"GoalListSet0GoalListWeight2:d":	100,
+				"GoalListSet0GoalListName3:s":	"NONE",
+				"GoalListSet0GoalListWeight3:d":	100,
+				"GoalListSet0GoalListName4:s":	"Standing Idle",
+				"GoalListSet0GoalListWeight4:d":	100
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	650,
+				"HearingRange:f":	450,
+				"LoudHearingRange:f":	1,
+				"SmellRange:f":	75,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-8697.1669921875, 115.92093658447266, 6885.8291015625],
+				"Orientation:fff":	[0, -19.3499870300293, 0],
+				"LocalBoundingBox:ffffff":	[-50, 0, -50, 50, 175, 50],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Elf_Guard_Male 013"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD011_06174801",
+				"CreatureType:s":	"ElfGuard",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"woodelf_maleguard_geom.npcgeom",
+				"Name:s":	"Elf_Guard_Male 015",
+				"Team:d":	2,
+				"Position:fff":	[-10024.1181640625, -277.37457275390625, 8856.10546875],
+				"Rotation:fff":	[0, -171.44993591308594, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"NONE",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	40,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	0,
+				"Pushable:d":	0,
+				"Invulnerable:d":	1,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	0,
+				"EvadePercent:d":	0,
+				"ShovePercent:d":	0,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"Standing Patrol",
+				"AlertDuration1:f":	5,
+				"AlertDuration2:f":	5,
+				"GotoSound:d":	0,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	1,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	350,
+				"MinJumpAttackRadius:f":	200,
+				"AttackGoalListName:s":	"",
+				"GoalListCount:d":	5
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Fidget",
+				"GoalListLooping0:d":	0,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	2,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0ActionName:s":	"Idle",
+				"List0Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList1",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName1:s":	"Idle Fidget",
+				"GoalListLooping1:d":	0,
+				"GoalListLoopStart1:d":	0,
+				"GoalListCollision1:d":	1,
+				"GoalListMustComplete1:d":	0,
+				"GoalListRestartFromBeginning1:d":	1,
+				"GoalListGoalCount1:d":	1
+			}]
+	}, {
+		"name":	"GoalList1GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList1Goal0:d":	2,
+				"List1Goal0MustSuceed:d":	0,
+				"List1Goal0ActionName:s":	"IdleFidget",
+				"List1Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList2",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName2:s":	"Scratch Head",
+				"GoalListLooping2:d":	0,
+				"GoalListLoopStart2:d":	0,
+				"GoalListCollision2:d":	1,
+				"GoalListMustComplete2:d":	0,
+				"GoalListRestartFromBeginning2:d":	1,
+				"GoalListGoalCount2:d":	1
+			}]
+	}, {
+		"name":	"GoalList2GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList2Goal0:d":	2,
+				"List2Goal0MustSuceed:d":	0,
+				"List2Goal0ActionName:s":	"AlertScratchHead",
+				"List2Goal0PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList3",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName3:s":	"Standing Idle",
+				"GoalListLooping3:d":	0,
+				"GoalListLoopStart3:d":	0,
+				"GoalListCollision3:d":	1,
+				"GoalListMustComplete3:d":	0,
+				"GoalListRestartFromBeginning3:d":	1,
+				"GoalListGoalCount3:d":	1
+			}]
+	}, {
+		"name":	"GoalList3GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList3Goal0:d":	2,
+				"List3Goal0MustSuceed:d":	0,
+				"List3Goal0ActionName:s":	"Idle",
+				"List3Goal0PlayTime:f":	4
+			}]
+	}, {
+		"name":	"GoalList4",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName4:s":	"Standing Patrol",
+				"GoalListLooping4:d":	0,
+				"GoalListLoopStart4:d":	0,
+				"GoalListCollision4:d":	1,
+				"GoalListMustComplete4:d":	0,
+				"GoalListRestartFromBeginning4:d":	1,
+				"GoalListGoalCount4:d":	2
+			}]
+	}, {
+		"name":	"GoalList4GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList4Goal0:d":	1,
+				"List4Goal0MustSuceed:d":	0,
+				"List4Goal0Target:g":	"0D8ADB52_685CA001",
+				"List4Goal0AnimType:d":	6,
+				"List4Goal0AnimName:s":	"",
+				"List4Goal0Lock:d":	0,
+				"List4Goal0LookAhead:d":	1,
+				"List4Goal0ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList4GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList4Goal1:d":	0,
+				"List4Goal1MustSuceed:d":	0,
+				"List4Goal1Target:g":	"0D8ADB52_685D1401",
+				"GoalListSetCount:d":	1
+			}]
+	}, {
+		"name":	"GoalListSet0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListSetName0:s":	"Patrol Fidget",
+				"GoalListGoalCount0:d":	5,
+				"GoalListSet0GoalListName0:s":	"Fidget",
+				"GoalListSet0GoalListWeight0:d":	0,
+				"GoalListSet0GoalListName1:s":	"Idle Fidget",
+				"GoalListSet0GoalListWeight1:d":	100,
+				"GoalListSet0GoalListName2:s":	"Scratch Head",
+				"GoalListSet0GoalListWeight2:d":	100,
+				"GoalListSet0GoalListName3:s":	"NONE",
+				"GoalListSet0GoalListWeight3:d":	100,
+				"GoalListSet0GoalListName4:s":	"Standing Idle",
+				"GoalListSet0GoalListWeight4:d":	100
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	650,
+				"HearingRange:f":	450,
+				"LoudHearingRange:f":	1,
+				"SmellRange:f":	75,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-10024.1181640625, -277.37457275390625, 8856.10546875],
+				"Orientation:fff":	[0, -171.44993591308594, 0],
+				"LocalBoundingBox:ffffff":	[-50, 0, -50, 50, 175, 50],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Elf_Guard_Male 015"
+			}]
+	}]

@@ -1,0 +1,314 @@
+[{
+		"name":	"Water",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD48A_2B5CD400",
+				"bRender:d":	1,
+				"bSplash:d":	1,
+				"bDrown:d":	1,
+				"QuadSize:f":	150,
+				"MinAlpha:d":	5,
+				"MaxAlpha:d":	130,
+				"Tint:dddd":	[32, 32, 32, 255],
+				"CommonTexture:d":	1,
+				"BaseTexture:s":	"water.xbmp",
+				"CommonRef:d":	0,
+				"RefTexture:s":	"lvl_cloudburst_envmap[rgb].xbmp",
+				"CommonGloss:d":	1,
+				"GlossTexture:s":	"watergloss.xbmp",
+				"PainType:d":	0,
+				"PainFreq:f":	2,
+				"PoisonDur:f":	4,
+				"PainAmt:f":	1,
+				"Wave0Amp:f":	2,
+				"Wave0Ang:f":	0,
+				"Wave0Len:f":	300,
+				"Wave0Time:f":	2,
+				"Wave1Amp:f":	2,
+				"Wave1Ang:f":	30,
+				"Wave1Len:f":	200,
+				"Wave1Time:f":	3,
+				"Wave2Amp:f":	3,
+				"Wave2Ang:f":	52,
+				"Wave2Len:f":	1000,
+				"Wave2Time:f":	3,
+				"Wave3Amp:f":	0,
+				"Wave3Ang:f":	161,
+				"Wave3Len:f":	300,
+				"Wave3Time:f":	1,
+				"Interactive:d":	0,
+				"InteractiveAmp:f":	10,
+				"NormalEx:f":	4,
+				"FreezeDist:f":	7000,
+				"UVDensity:f":	5000,
+				"Height:ffffffffff":	[1112.7130126953125, 100, 100, 100, 100, 100, 100, 100, 100, 100],
+				"ForceDir:fff":	[0, 0, 0],
+				"GCNDListSize:d":	58368,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-17685.2265625, -1362, -14617.009765625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-5790.0205078125, -556.35650634765625, -4639.2841796875, 5790.0205078125, 556.35650634765625, 4639.2841796875],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Mug2_Water 001",
+				"Name:s":	"Mug2_Water 001",
+				"Pos:fff":	[-17685.2265625, -1362, -14617.009765625],
+				"BBox:ffffff":	[-23475.24609375, -1918.3564453125, -19256.29296875, -11895.2060546875, -805.64349365234375, -9977.7255859375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[5790.0205078125, 556.35650634765625, 4639.2841796875],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"WaterCommandBuffer",
+		"row_count":	123,
+		"rows":	[{
+				"Command:dd":	[0, 79]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 76]
+			}, {
+				"Command:dd":	[0, 79]
+			}]
+	}]

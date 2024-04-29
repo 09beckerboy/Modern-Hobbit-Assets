@@ -1,0 +1,39 @@
+[{
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADC90_3AA6F801",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	0,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	1,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	0,
+				"nActivators:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"trigger_bridgeright.xsc",
+				"InitialPos:fff":	[-22790.29296875, -343.2542724609375, -15984.0966796875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-112, -55.500003814697266, -94.499992370605469, 112, 55.500003814697266, 94.499992370605469],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Bridge Right Trig",
+				"Name:s":	"Bridge Right Trig",
+				"Pos:fff":	[-22790.29296875, -343.2542724609375, -15984.0966796875],
+				"BBox:ffffff":	[-22902.29296875, -398.7542724609375, -16078.5966796875, -22678.29296875, -287.7542724609375, -15889.5966796875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[112, 55.500003814697266, 94.499992370605469],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}]

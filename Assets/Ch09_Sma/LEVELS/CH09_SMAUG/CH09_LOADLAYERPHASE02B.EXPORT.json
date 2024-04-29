@@ -1,0 +1,84 @@
+[{
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD7B4E_95902C01",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-1399.89599609375, 103.93894958496094, -5852.9521484375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-303.52508544921875, -308.5350341796875, -50, 303.52508544921875, 308.5350341796875, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Move Bilbo to Ph02b Start",
+				"Name:s":	"Move Bilbo to Ph02b Start",
+				"Pos:fff":	[-1399.89599609375, 103.93894958496094, -5852.9521484375],
+				"BBox:ffffff":	[-1703.421142578125, -204.59608459472656, -5902.9521484375, -1096.370849609375, 412.4739990234375, -5802.9521484375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[303.52508544921875, 308.5350341796875, 50],
+				"Pain:s":	""
+			}]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD7D0E_4962BC04",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-504.09576416015625, 19.4287109375, -5286.45751953125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -548.4749755859375, -398.18014526367187, 50, 548.4749755859375, 398.18014526367187],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"CH09 Int to Ext Ph02b 001",
+				"Name:s":	"CH09 Int to Ext Ph02b 001",
+				"Pos:fff":	[-504.09576416015625, 19.4287109375, -5286.45751953125],
+				"BBox:ffffff":	[-554.09576416015625, -529.0462646484375, -5684.6376953125, -454.09576416015625, 567.9036865234375, -4888.27734375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 548.4749755859375, 398.18014526367187],
+				"Pain:s":	""
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	11,
+		"rows":	[{
+				"UnloadLayer:s":	"CH09_Playsurfaces"
+			}, {
+				"UnloadLayer:s":	"CH09_Instances_Base"
+			}, {
+				"UnloadLayer:s":	"CH09_Instances_Area02"
+			}, {
+				"UnloadLayer:s":	"CH09_Pickups"
+			}, {
+				"UnloadLayer:s":	"CH09_Treasures"
+			}, {
+				"UnloadLayer:s":	"CH09_Instances_Area02b-03"
+			}, {
+				"UnloadLayer:s":	"CH09_InvisWalls"
+			}, {
+				"UnloadLayer:s":	""
+			}, {
+				"UnloadLayer:s":	"CH09_Smaug_Phase02b"
+			}, {
+				"UnloadLayer:s":	"CH09_Playsurfaces_2B"
+			}, {
+				"UnloadLayer:s":	"CH09_Smaug_Phase02b_Cam1"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}]

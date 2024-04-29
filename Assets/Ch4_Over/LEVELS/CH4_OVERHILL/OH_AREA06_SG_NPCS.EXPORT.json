@@ -1,0 +1,3582 @@
+[{
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD75D1_EE6BC401",
+				"CreatureType:s":	"Imp Purple",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"char_imp_bind.npcgeom",
+				"Name:s":	"Imp, Purple Area06 001",
+				"Team:d":	2,
+				"Position:fff":	[-2441.840087890625, -1079.869873046875, 7505.732421875],
+				"Rotation:fff":	[0, -52.200008392333984, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"gobpickax",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	20,
+				"MaxHitPoints:f":	15,
+				"CouragePts:d":	3,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	0,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"Waiting",
+				"AlertDuration1:f":	5,
+				"AlertDuration2:f":	5,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	3,
+				"AttackRadius:f":	75,
+				"AttackIdleRadius:f":	400,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	172.43473815917969,
+				"MinJumpAttackRadius:f":	137.94779968261719,
+				"AttackGoalListName:s":	"",
+				"GoalListCount:d":	1
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Waiting",
+				"GoalListLooping0:d":	1,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	32
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	0,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal1:d":	2,
+				"List0Goal1MustSuceed:d":	0,
+				"List0Goal1ActionName:s":	"roar",
+				"List0Goal1PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal2:d":	0,
+				"List0Goal2MustSuceed:d":	0,
+				"List0Goal2Target:g":	"C4CD75D1_EE5F6801"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal3:d":	1,
+				"List0Goal3MustSuceed:d":	0,
+				"List0Goal3Target:g":	"C4CD75D1_EE5F6801",
+				"List0Goal3AnimType:d":	8,
+				"List0Goal3AnimName:s":	"run",
+				"List0Goal3Lock:d":	0,
+				"List0Goal3LookAhead:d":	1,
+				"List0Goal3ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal4:d":	0,
+				"List0Goal4MustSuceed:d":	0,
+				"List0Goal4Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal5:d":	2,
+				"List0Goal5MustSuceed:d":	0,
+				"List0Goal5ActionName:s":	"roar",
+				"List0Goal5PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal6:d":	0,
+				"List0Goal6MustSuceed:d":	0,
+				"List0Goal6Target:g":	"C4CD75D1_EE5F8001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal7:d":	1,
+				"List0Goal7MustSuceed:d":	0,
+				"List0Goal7Target:g":	"C4CD75D1_EE5F8001",
+				"List0Goal7AnimType:d":	8,
+				"List0Goal7AnimName:s":	"run",
+				"List0Goal7Lock:d":	0,
+				"List0Goal7LookAhead:d":	1,
+				"List0Goal7ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal8:d":	0,
+				"List0Goal8MustSuceed:d":	0,
+				"List0Goal8Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal9:d":	2,
+				"List0Goal9MustSuceed:d":	0,
+				"List0Goal9ActionName:s":	"ImpIdle",
+				"List0Goal9PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal10:d":	0,
+				"List0Goal10MustSuceed:d":	0,
+				"List0Goal10Target:g":	"C4CD75D1_EE5F9801"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal11:d":	1,
+				"List0Goal11MustSuceed:d":	0,
+				"List0Goal11Target:g":	"C4CD75D1_EE5F9801",
+				"List0Goal11AnimType:d":	8,
+				"List0Goal11AnimName:s":	"run",
+				"List0Goal11Lock:d":	0,
+				"List0Goal11LookAhead:d":	1,
+				"List0Goal11ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal12:d":	0,
+				"List0Goal12MustSuceed:d":	0,
+				"List0Goal12Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal13:d":	2,
+				"List0Goal13MustSuceed:d":	0,
+				"List0Goal13ActionName:s":	"ImpIdle",
+				"List0Goal13PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal14:d":	0,
+				"List0Goal14MustSuceed:d":	0,
+				"List0Goal14Target:g":	"C4CD75D1_EE5FB404"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal15:d":	1,
+				"List0Goal15MustSuceed:d":	0,
+				"List0Goal15Target:g":	"C4CD75D1_EE5FB404",
+				"List0Goal15AnimType:d":	8,
+				"List0Goal15AnimName:s":	"run",
+				"List0Goal15Lock:d":	0,
+				"List0Goal15LookAhead:d":	1,
+				"List0Goal15ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal16:d":	0,
+				"List0Goal16MustSuceed:d":	0,
+				"List0Goal16Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal17:d":	2,
+				"List0Goal17MustSuceed:d":	0,
+				"List0Goal17ActionName:s":	"roar",
+				"List0Goal17PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal18:d":	0,
+				"List0Goal18MustSuceed:d":	0,
+				"List0Goal18Target:g":	"C4CD75D1_EE615001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal19:d":	1,
+				"List0Goal19MustSuceed:d":	0,
+				"List0Goal19Target:g":	"C4CD75D1_EE615001",
+				"List0Goal19AnimType:d":	8,
+				"List0Goal19AnimName:s":	"run",
+				"List0Goal19Lock:d":	0,
+				"List0Goal19LookAhead:d":	1,
+				"List0Goal19ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal20:d":	0,
+				"List0Goal20MustSuceed:d":	0,
+				"List0Goal20Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal21:d":	2,
+				"List0Goal21MustSuceed:d":	0,
+				"List0Goal21ActionName:s":	"ImpIdle",
+				"List0Goal21PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal22:d":	0,
+				"List0Goal22MustSuceed:d":	0,
+				"List0Goal22Target:g":	"C4CD75D1_EE61D001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal23:d":	1,
+				"List0Goal23MustSuceed:d":	0,
+				"List0Goal23Target:g":	"C4CD75D1_EE61D001",
+				"List0Goal23AnimType:d":	8,
+				"List0Goal23AnimName:s":	"run",
+				"List0Goal23Lock:d":	0,
+				"List0Goal23LookAhead:d":	1,
+				"List0Goal23ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal24:d":	0,
+				"List0Goal24MustSuceed:d":	0,
+				"List0Goal24Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal25:d":	2,
+				"List0Goal25MustSuceed:d":	0,
+				"List0Goal25ActionName:s":	"ImpIdle",
+				"List0Goal25PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal26:d":	0,
+				"List0Goal26MustSuceed:d":	0,
+				"List0Goal26Target:g":	"C4CD75D1_EE623001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal27:d":	1,
+				"List0Goal27MustSuceed:d":	0,
+				"List0Goal27Target:g":	"C4CD75D1_EE623001",
+				"List0Goal27AnimType:d":	8,
+				"List0Goal27AnimName:s":	"run",
+				"List0Goal27Lock:d":	0,
+				"List0Goal27LookAhead:d":	1,
+				"List0Goal27ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal28:d":	0,
+				"List0Goal28MustSuceed:d":	0,
+				"List0Goal28Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal29:d":	2,
+				"List0Goal29MustSuceed:d":	0,
+				"List0Goal29ActionName:s":	"roar",
+				"List0Goal29PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal30:d":	0,
+				"List0Goal30MustSuceed:d":	0,
+				"List0Goal30Target:g":	"C4CD75D1_EE5EF400"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal31:d":	1,
+				"List0Goal31MustSuceed:d":	0,
+				"List0Goal31Target:g":	"C4CD75D1_EE5EF400",
+				"List0Goal31AnimType:d":	8,
+				"List0Goal31AnimName:s":	"run",
+				"List0Goal31Lock:d":	0,
+				"List0Goal31LookAhead:d":	1,
+				"List0Goal31ActionName:s":	"run",
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	1000,
+				"HearingRange:f":	1000,
+				"LoudHearingRange:f":	1000,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2441.840087890625, -1079.869873046875, 7505.732421875],
+				"Orientation:fff":	[0, -52.200008392333984, 0],
+				"LocalBoundingBox:ffffff":	[-25, 0, -25, 25, 75, 25],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Imp, Purple Area06 001"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD75D1_EE709001",
+				"CreatureType:s":	"Imp Purple",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"char_imp_bind.npcgeom",
+				"Name:s":	"Imp, Purple Area06 002",
+				"Team:d":	2,
+				"Position:fff":	[-2572.85302734375, -1066.065673828125, 7306.19921875],
+				"Rotation:fff":	[0, -31.950016021728516, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"gobpickax",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	20,
+				"MaxHitPoints:f":	15,
+				"CouragePts:d":	3,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	0,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"Waiting",
+				"AlertDuration1:f":	5,
+				"AlertDuration2:f":	5,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	3,
+				"AttackRadius:f":	75,
+				"AttackIdleRadius:f":	400,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	172.43473815917969,
+				"MinJumpAttackRadius:f":	137.94779968261719,
+				"AttackGoalListName:s":	"",
+				"GoalListCount:d":	1
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Waiting",
+				"GoalListLooping0:d":	1,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	32
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	0,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal1:d":	2,
+				"List0Goal1MustSuceed:d":	0,
+				"List0Goal1ActionName:s":	"roar",
+				"List0Goal1PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal2:d":	0,
+				"List0Goal2MustSuceed:d":	0,
+				"List0Goal2Target:g":	"C4CD75D1_EE5F8001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal3:d":	1,
+				"List0Goal3MustSuceed:d":	0,
+				"List0Goal3Target:g":	"C4CD75D1_EE5F8001",
+				"List0Goal3AnimType:d":	8,
+				"List0Goal3AnimName:s":	"run",
+				"List0Goal3Lock:d":	0,
+				"List0Goal3LookAhead:d":	1,
+				"List0Goal3ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal4:d":	0,
+				"List0Goal4MustSuceed:d":	0,
+				"List0Goal4Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal5:d":	2,
+				"List0Goal5MustSuceed:d":	0,
+				"List0Goal5ActionName:s":	"ImpIdle",
+				"List0Goal5PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal6:d":	0,
+				"List0Goal6MustSuceed:d":	0,
+				"List0Goal6Target:g":	"C4CD75D1_EE5F9801"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal7:d":	1,
+				"List0Goal7MustSuceed:d":	0,
+				"List0Goal7Target:g":	"C4CD75D1_EE5F9801",
+				"List0Goal7AnimType:d":	8,
+				"List0Goal7AnimName:s":	"run",
+				"List0Goal7Lock:d":	0,
+				"List0Goal7LookAhead:d":	1,
+				"List0Goal7ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal8:d":	0,
+				"List0Goal8MustSuceed:d":	0,
+				"List0Goal8Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal9:d":	2,
+				"List0Goal9MustSuceed:d":	0,
+				"List0Goal9ActionName:s":	"ImpIdle",
+				"List0Goal9PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal10:d":	0,
+				"List0Goal10MustSuceed:d":	0,
+				"List0Goal10Target:g":	"C4CD75D1_EE5FB404"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal11:d":	1,
+				"List0Goal11MustSuceed:d":	0,
+				"List0Goal11Target:g":	"C4CD75D1_EE5FB404",
+				"List0Goal11AnimType:d":	8,
+				"List0Goal11AnimName:s":	"run",
+				"List0Goal11Lock:d":	0,
+				"List0Goal11LookAhead:d":	1,
+				"List0Goal11ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal12:d":	0,
+				"List0Goal12MustSuceed:d":	0,
+				"List0Goal12Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal13:d":	2,
+				"List0Goal13MustSuceed:d":	0,
+				"List0Goal13ActionName:s":	"roar",
+				"List0Goal13PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal14:d":	0,
+				"List0Goal14MustSuceed:d":	0,
+				"List0Goal14Target:g":	"C4CD75D1_EE615001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal15:d":	1,
+				"List0Goal15MustSuceed:d":	0,
+				"List0Goal15Target:g":	"C4CD75D1_EE615001",
+				"List0Goal15AnimType:d":	8,
+				"List0Goal15AnimName:s":	"run",
+				"List0Goal15Lock:d":	0,
+				"List0Goal15LookAhead:d":	1,
+				"List0Goal15ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal16:d":	0,
+				"List0Goal16MustSuceed:d":	0,
+				"List0Goal16Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal17:d":	2,
+				"List0Goal17MustSuceed:d":	0,
+				"List0Goal17ActionName:s":	"roar",
+				"List0Goal17PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal18:d":	0,
+				"List0Goal18MustSuceed:d":	0,
+				"List0Goal18Target:g":	"C4CD75D1_EE61D001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal19:d":	1,
+				"List0Goal19MustSuceed:d":	0,
+				"List0Goal19Target:g":	"C4CD75D1_EE61D001",
+				"List0Goal19AnimType:d":	8,
+				"List0Goal19AnimName:s":	"run",
+				"List0Goal19Lock:d":	0,
+				"List0Goal19LookAhead:d":	1,
+				"List0Goal19ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal20:d":	0,
+				"List0Goal20MustSuceed:d":	0,
+				"List0Goal20Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal21:d":	2,
+				"List0Goal21MustSuceed:d":	0,
+				"List0Goal21ActionName:s":	"ImpIdle",
+				"List0Goal21PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal22:d":	0,
+				"List0Goal22MustSuceed:d":	0,
+				"List0Goal22Target:g":	"C4CD75D1_EE623001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal23:d":	1,
+				"List0Goal23MustSuceed:d":	0,
+				"List0Goal23Target:g":	"C4CD75D1_EE623001",
+				"List0Goal23AnimType:d":	8,
+				"List0Goal23AnimName:s":	"run",
+				"List0Goal23Lock:d":	0,
+				"List0Goal23LookAhead:d":	1,
+				"List0Goal23ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal24:d":	0,
+				"List0Goal24MustSuceed:d":	0,
+				"List0Goal24Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal25:d":	2,
+				"List0Goal25MustSuceed:d":	0,
+				"List0Goal25ActionName:s":	"roar",
+				"List0Goal25PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal26:d":	0,
+				"List0Goal26MustSuceed:d":	0,
+				"List0Goal26Target:g":	"C4CD75D1_EE5EF400"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal27:d":	1,
+				"List0Goal27MustSuceed:d":	0,
+				"List0Goal27Target:g":	"C4CD75D1_EE5EF400",
+				"List0Goal27AnimType:d":	8,
+				"List0Goal27AnimName:s":	"run",
+				"List0Goal27Lock:d":	0,
+				"List0Goal27LookAhead:d":	1,
+				"List0Goal27ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal28:d":	0,
+				"List0Goal28MustSuceed:d":	0,
+				"List0Goal28Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal29:d":	2,
+				"List0Goal29MustSuceed:d":	0,
+				"List0Goal29ActionName:s":	"ImpIdle",
+				"List0Goal29PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal30:d":	0,
+				"List0Goal30MustSuceed:d":	0,
+				"List0Goal30Target:g":	"C4CD75D1_EE5F6801"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal31:d":	1,
+				"List0Goal31MustSuceed:d":	0,
+				"List0Goal31Target:g":	"C4CD75D1_EE5F6801",
+				"List0Goal31AnimType:d":	8,
+				"List0Goal31AnimName:s":	"run",
+				"List0Goal31Lock:d":	0,
+				"List0Goal31LookAhead:d":	1,
+				"List0Goal31ActionName:s":	"run",
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	1000,
+				"HearingRange:f":	1000,
+				"LoudHearingRange:f":	1000,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2572.85302734375, -1066.065673828125, 7306.19921875],
+				"Orientation:fff":	[0, -31.950016021728516, 0],
+				"LocalBoundingBox:ffffff":	[-25, 0, -25, 25, 75, 25],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Imp, Purple Area06 002"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD78D1_18717001",
+				"CreatureType:s":	"Imp Purple",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"char_imp_bind.npcgeom",
+				"Name:s":	"Imp, Purple Area06 003",
+				"Team:d":	2,
+				"Position:fff":	[-2787.986572265625, -1061.3330078125, 7352.42236328125],
+				"Rotation:fff":	[0, 44.099983215332031, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"gobpickax",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	20,
+				"MaxHitPoints:f":	15,
+				"CouragePts:d":	3,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	0,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"Waiting",
+				"AlertDuration1:f":	5,
+				"AlertDuration2:f":	5,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	3,
+				"AttackRadius:f":	75,
+				"AttackIdleRadius:f":	400,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	172.43473815917969,
+				"MinJumpAttackRadius:f":	137.94779968261719,
+				"AttackGoalListName:s":	"",
+				"GoalListCount:d":	1
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Waiting",
+				"GoalListLooping0:d":	1,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	32
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	0,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal1:d":	2,
+				"List0Goal1MustSuceed:d":	0,
+				"List0Goal1ActionName:s":	"roar",
+				"List0Goal1PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal2:d":	0,
+				"List0Goal2MustSuceed:d":	0,
+				"List0Goal2Target:g":	"C4CD75D1_EE5F9801"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal3:d":	1,
+				"List0Goal3MustSuceed:d":	0,
+				"List0Goal3Target:g":	"C4CD75D1_EE5F9801",
+				"List0Goal3AnimType:d":	8,
+				"List0Goal3AnimName:s":	"run",
+				"List0Goal3Lock:d":	0,
+				"List0Goal3LookAhead:d":	1,
+				"List0Goal3ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal4:d":	0,
+				"List0Goal4MustSuceed:d":	0,
+				"List0Goal4Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal5:d":	2,
+				"List0Goal5MustSuceed:d":	0,
+				"List0Goal5ActionName:s":	"ImpIdle",
+				"List0Goal5PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal6:d":	0,
+				"List0Goal6MustSuceed:d":	0,
+				"List0Goal6Target:g":	"C4CD75D1_EE5FB404"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal7:d":	1,
+				"List0Goal7MustSuceed:d":	0,
+				"List0Goal7Target:g":	"C4CD75D1_EE5FB404",
+				"List0Goal7AnimType:d":	8,
+				"List0Goal7AnimName:s":	"run",
+				"List0Goal7Lock:d":	0,
+				"List0Goal7LookAhead:d":	1,
+				"List0Goal7ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal8:d":	0,
+				"List0Goal8MustSuceed:d":	0,
+				"List0Goal8Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal9:d":	2,
+				"List0Goal9MustSuceed:d":	0,
+				"List0Goal9ActionName:s":	"roar",
+				"List0Goal9PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal10:d":	0,
+				"List0Goal10MustSuceed:d":	0,
+				"List0Goal10Target:g":	"C4CD75D1_EE615001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal11:d":	1,
+				"List0Goal11MustSuceed:d":	0,
+				"List0Goal11Target:g":	"C4CD75D1_EE615001",
+				"List0Goal11AnimType:d":	8,
+				"List0Goal11AnimName:s":	"run",
+				"List0Goal11Lock:d":	0,
+				"List0Goal11LookAhead:d":	1,
+				"List0Goal11ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal12:d":	0,
+				"List0Goal12MustSuceed:d":	0,
+				"List0Goal12Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal13:d":	2,
+				"List0Goal13MustSuceed:d":	0,
+				"List0Goal13ActionName:s":	"ImpIdle",
+				"List0Goal13PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal14:d":	0,
+				"List0Goal14MustSuceed:d":	0,
+				"List0Goal14Target:g":	"C4CD75D1_EE61D001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal15:d":	1,
+				"List0Goal15MustSuceed:d":	0,
+				"List0Goal15Target:g":	"C4CD75D1_EE61D001",
+				"List0Goal15AnimType:d":	8,
+				"List0Goal15AnimName:s":	"run",
+				"List0Goal15Lock:d":	0,
+				"List0Goal15LookAhead:d":	1,
+				"List0Goal15ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal16:d":	0,
+				"List0Goal16MustSuceed:d":	0,
+				"List0Goal16Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal17:d":	2,
+				"List0Goal17MustSuceed:d":	0,
+				"List0Goal17ActionName:s":	"roar",
+				"List0Goal17PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal18:d":	0,
+				"List0Goal18MustSuceed:d":	0,
+				"List0Goal18Target:g":	"C4CD75D1_EE623001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal19:d":	1,
+				"List0Goal19MustSuceed:d":	0,
+				"List0Goal19Target:g":	"C4CD75D1_EE623001",
+				"List0Goal19AnimType:d":	8,
+				"List0Goal19AnimName:s":	"run",
+				"List0Goal19Lock:d":	0,
+				"List0Goal19LookAhead:d":	1,
+				"List0Goal19ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal20:d":	0,
+				"List0Goal20MustSuceed:d":	0,
+				"List0Goal20Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal21:d":	2,
+				"List0Goal21MustSuceed:d":	0,
+				"List0Goal21ActionName:s":	"roar",
+				"List0Goal21PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal22:d":	0,
+				"List0Goal22MustSuceed:d":	0,
+				"List0Goal22Target:g":	"C4CD75D1_EE5EF400"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal23:d":	1,
+				"List0Goal23MustSuceed:d":	0,
+				"List0Goal23Target:g":	"C4CD75D1_EE5EF400",
+				"List0Goal23AnimType:d":	8,
+				"List0Goal23AnimName:s":	"run",
+				"List0Goal23Lock:d":	0,
+				"List0Goal23LookAhead:d":	1,
+				"List0Goal23ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal24:d":	0,
+				"List0Goal24MustSuceed:d":	0,
+				"List0Goal24Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal25:d":	2,
+				"List0Goal25MustSuceed:d":	0,
+				"List0Goal25ActionName:s":	"ImpIdle",
+				"List0Goal25PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal26:d":	0,
+				"List0Goal26MustSuceed:d":	0,
+				"List0Goal26Target:g":	"C4CD75D1_EE5F6801"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal27:d":	1,
+				"List0Goal27MustSuceed:d":	0,
+				"List0Goal27Target:g":	"C4CD75D1_EE5F6801",
+				"List0Goal27AnimType:d":	8,
+				"List0Goal27AnimName:s":	"run",
+				"List0Goal27Lock:d":	0,
+				"List0Goal27LookAhead:d":	1,
+				"List0Goal27ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal28:d":	0,
+				"List0Goal28MustSuceed:d":	0,
+				"List0Goal28Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal29:d":	2,
+				"List0Goal29MustSuceed:d":	0,
+				"List0Goal29ActionName:s":	"roar",
+				"List0Goal29PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal30:d":	0,
+				"List0Goal30MustSuceed:d":	0,
+				"List0Goal30Target:g":	"C4CD75D1_EE5F8001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal31:d":	1,
+				"List0Goal31MustSuceed:d":	0,
+				"List0Goal31Target:g":	"C4CD75D1_EE5F8001",
+				"List0Goal31AnimType:d":	8,
+				"List0Goal31AnimName:s":	"run",
+				"List0Goal31Lock:d":	0,
+				"List0Goal31LookAhead:d":	1,
+				"List0Goal31ActionName:s":	"run",
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	1000,
+				"HearingRange:f":	1000,
+				"LoudHearingRange:f":	1000,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2787.986572265625, -1061.3330078125, 7352.42236328125],
+				"Orientation:fff":	[0, 44.099983215332031, 0],
+				"LocalBoundingBox:ffffff":	[-25, 0, -25, 25, 75, 25],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Imp, Purple Area06 003"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD75D1_EE750000",
+				"CreatureType:s":	"Imp Purple",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"char_imp_bind.npcgeom",
+				"Name:s":	"Imp, Purple Area06 004",
+				"Team:d":	2,
+				"Position:fff":	[-2929.899169921875, -1061.3330078125, 7521.15185546875],
+				"Rotation:fff":	[0, 69.2999801635742, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"gobpickax",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	20,
+				"MaxHitPoints:f":	15,
+				"CouragePts:d":	3,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	0,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"Waiting",
+				"AlertDuration1:f":	5,
+				"AlertDuration2:f":	5,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	3,
+				"AttackRadius:f":	75,
+				"AttackIdleRadius:f":	400,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	172.43473815917969,
+				"MinJumpAttackRadius:f":	137.94779968261719,
+				"AttackGoalListName:s":	"",
+				"GoalListCount:d":	1
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Waiting",
+				"GoalListLooping0:d":	1,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	32
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	0,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal1:d":	2,
+				"List0Goal1MustSuceed:d":	0,
+				"List0Goal1ActionName:s":	"roar",
+				"List0Goal1PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal2:d":	0,
+				"List0Goal2MustSuceed:d":	0,
+				"List0Goal2Target:g":	"C4CD75D1_EE5FB404"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal3:d":	1,
+				"List0Goal3MustSuceed:d":	0,
+				"List0Goal3Target:g":	"C4CD75D1_EE5FB404",
+				"List0Goal3AnimType:d":	8,
+				"List0Goal3AnimName:s":	"run",
+				"List0Goal3Lock:d":	0,
+				"List0Goal3LookAhead:d":	1,
+				"List0Goal3ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal4:d":	0,
+				"List0Goal4MustSuceed:d":	0,
+				"List0Goal4Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal5:d":	2,
+				"List0Goal5MustSuceed:d":	0,
+				"List0Goal5ActionName:s":	"ImpIdle",
+				"List0Goal5PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal6:d":	0,
+				"List0Goal6MustSuceed:d":	0,
+				"List0Goal6Target:g":	"C4CD75D1_EE615001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal7:d":	1,
+				"List0Goal7MustSuceed:d":	0,
+				"List0Goal7Target:g":	"C4CD75D1_EE615001",
+				"List0Goal7AnimType:d":	8,
+				"List0Goal7AnimName:s":	"run",
+				"List0Goal7Lock:d":	0,
+				"List0Goal7LookAhead:d":	1,
+				"List0Goal7ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal8:d":	0,
+				"List0Goal8MustSuceed:d":	0,
+				"List0Goal8Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal9:d":	2,
+				"List0Goal9MustSuceed:d":	0,
+				"List0Goal9ActionName:s":	"ImpIdle",
+				"List0Goal9PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal10:d":	0,
+				"List0Goal10MustSuceed:d":	0,
+				"List0Goal10Target:g":	"C4CD75D1_EE61D001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal11:d":	1,
+				"List0Goal11MustSuceed:d":	0,
+				"List0Goal11Target:g":	"C4CD75D1_EE61D001",
+				"List0Goal11AnimType:d":	8,
+				"List0Goal11AnimName:s":	"run",
+				"List0Goal11Lock:d":	0,
+				"List0Goal11LookAhead:d":	1,
+				"List0Goal11ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal12:d":	0,
+				"List0Goal12MustSuceed:d":	0,
+				"List0Goal12Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal13:d":	2,
+				"List0Goal13MustSuceed:d":	0,
+				"List0Goal13ActionName:s":	"ImpIdle",
+				"List0Goal13PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal14:d":	0,
+				"List0Goal14MustSuceed:d":	0,
+				"List0Goal14Target:g":	"C4CD75D1_EE623001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal15:d":	1,
+				"List0Goal15MustSuceed:d":	0,
+				"List0Goal15Target:g":	"C4CD75D1_EE623001",
+				"List0Goal15AnimType:d":	8,
+				"List0Goal15AnimName:s":	"run",
+				"List0Goal15Lock:d":	0,
+				"List0Goal15LookAhead:d":	1,
+				"List0Goal15ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal16:d":	0,
+				"List0Goal16MustSuceed:d":	0,
+				"List0Goal16Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal17:d":	2,
+				"List0Goal17MustSuceed:d":	0,
+				"List0Goal17ActionName:s":	"ImpIdle",
+				"List0Goal17PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal18:d":	0,
+				"List0Goal18MustSuceed:d":	0,
+				"List0Goal18Target:g":	"C4CD75D1_EE5EF400"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal19:d":	1,
+				"List0Goal19MustSuceed:d":	0,
+				"List0Goal19Target:g":	"C4CD75D1_EE5EF400",
+				"List0Goal19AnimType:d":	8,
+				"List0Goal19AnimName:s":	"run",
+				"List0Goal19Lock:d":	0,
+				"List0Goal19LookAhead:d":	1,
+				"List0Goal19ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal20:d":	0,
+				"List0Goal20MustSuceed:d":	0,
+				"List0Goal20Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal21:d":	2,
+				"List0Goal21MustSuceed:d":	0,
+				"List0Goal21ActionName:s":	"roar",
+				"List0Goal21PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal22:d":	0,
+				"List0Goal22MustSuceed:d":	0,
+				"List0Goal22Target:g":	"C4CD75D1_EE5F6801"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal23:d":	1,
+				"List0Goal23MustSuceed:d":	0,
+				"List0Goal23Target:g":	"C4CD75D1_EE5F6801",
+				"List0Goal23AnimType:d":	8,
+				"List0Goal23AnimName:s":	"run",
+				"List0Goal23Lock:d":	0,
+				"List0Goal23LookAhead:d":	1,
+				"List0Goal23ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal24:d":	0,
+				"List0Goal24MustSuceed:d":	0,
+				"List0Goal24Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal25:d":	2,
+				"List0Goal25MustSuceed:d":	0,
+				"List0Goal25ActionName:s":	"roar",
+				"List0Goal25PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal26:d":	0,
+				"List0Goal26MustSuceed:d":	0,
+				"List0Goal26Target:g":	"C4CD75D1_EE5F8001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal27:d":	1,
+				"List0Goal27MustSuceed:d":	0,
+				"List0Goal27Target:g":	"C4CD75D1_EE5F8001",
+				"List0Goal27AnimType:d":	8,
+				"List0Goal27AnimName:s":	"run",
+				"List0Goal27Lock:d":	0,
+				"List0Goal27LookAhead:d":	1,
+				"List0Goal27ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal28:d":	0,
+				"List0Goal28MustSuceed:d":	0,
+				"List0Goal28Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal29:d":	2,
+				"List0Goal29MustSuceed:d":	0,
+				"List0Goal29ActionName:s":	"ImpIdle",
+				"List0Goal29PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal30:d":	0,
+				"List0Goal30MustSuceed:d":	0,
+				"List0Goal30Target:g":	"C4CD75D1_EE5F9801"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal31:d":	1,
+				"List0Goal31MustSuceed:d":	0,
+				"List0Goal31Target:g":	"C4CD75D1_EE5F9801",
+				"List0Goal31AnimType:d":	8,
+				"List0Goal31AnimName:s":	"run",
+				"List0Goal31Lock:d":	0,
+				"List0Goal31LookAhead:d":	1,
+				"List0Goal31ActionName:s":	"run",
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	1000,
+				"HearingRange:f":	1000,
+				"LoudHearingRange:f":	1000,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2929.899169921875, -1061.3330078125, 7521.15185546875],
+				"Orientation:fff":	[0, 69.2999801635742, 0],
+				"LocalBoundingBox:ffffff":	[-25, 0, -25, 25, 75, 25],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Imp, Purple Area06 004"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD75D1_EE76E001",
+				"CreatureType:s":	"Imp Purple",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"char_imp_bind.npcgeom",
+				"Name:s":	"Imp, Purple Area06 005",
+				"Team:d":	2,
+				"Position:fff":	[-2934.462890625, -1061.3330078125, 7722.96826171875],
+				"Rotation:fff":	[0, 98.5499954223633, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"gobpickax",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	20,
+				"MaxHitPoints:f":	15,
+				"CouragePts:d":	3,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	0,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"Waiting",
+				"AlertDuration1:f":	5,
+				"AlertDuration2:f":	5,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	3,
+				"AttackRadius:f":	75,
+				"AttackIdleRadius:f":	400,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	172.43473815917969,
+				"MinJumpAttackRadius:f":	137.94779968261719,
+				"AttackGoalListName:s":	"",
+				"GoalListCount:d":	1
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Waiting",
+				"GoalListLooping0:d":	1,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	32
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	0,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal1:d":	2,
+				"List0Goal1MustSuceed:d":	0,
+				"List0Goal1ActionName:s":	"roar",
+				"List0Goal1PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal2:d":	0,
+				"List0Goal2MustSuceed:d":	0,
+				"List0Goal2Target:g":	"C4CD75D1_EE615001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal3:d":	1,
+				"List0Goal3MustSuceed:d":	0,
+				"List0Goal3Target:g":	"C4CD75D1_EE615001",
+				"List0Goal3AnimType:d":	8,
+				"List0Goal3AnimName:s":	"run",
+				"List0Goal3Lock:d":	0,
+				"List0Goal3LookAhead:d":	1,
+				"List0Goal3ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal4:d":	0,
+				"List0Goal4MustSuceed:d":	0,
+				"List0Goal4Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal5:d":	2,
+				"List0Goal5MustSuceed:d":	0,
+				"List0Goal5ActionName:s":	"roar",
+				"List0Goal5PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal6:d":	0,
+				"List0Goal6MustSuceed:d":	0,
+				"List0Goal6Target:g":	"C4CD75D1_EE61D001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal7:d":	1,
+				"List0Goal7MustSuceed:d":	0,
+				"List0Goal7Target:g":	"C4CD75D1_EE61D001",
+				"List0Goal7AnimType:d":	8,
+				"List0Goal7AnimName:s":	"run",
+				"List0Goal7Lock:d":	0,
+				"List0Goal7LookAhead:d":	1,
+				"List0Goal7ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal8:d":	0,
+				"List0Goal8MustSuceed:d":	0,
+				"List0Goal8Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal9:d":	2,
+				"List0Goal9MustSuceed:d":	0,
+				"List0Goal9ActionName:s":	"roar",
+				"List0Goal9PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal10:d":	0,
+				"List0Goal10MustSuceed:d":	0,
+				"List0Goal10Target:g":	"C4CD75D1_EE623001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal11:d":	1,
+				"List0Goal11MustSuceed:d":	0,
+				"List0Goal11Target:g":	"C4CD75D1_EE623001",
+				"List0Goal11AnimType:d":	8,
+				"List0Goal11AnimName:s":	"run",
+				"List0Goal11Lock:d":	0,
+				"List0Goal11LookAhead:d":	1,
+				"List0Goal11ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal12:d":	0,
+				"List0Goal12MustSuceed:d":	0,
+				"List0Goal12Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal13:d":	2,
+				"List0Goal13MustSuceed:d":	0,
+				"List0Goal13ActionName:s":	"roar",
+				"List0Goal13PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal14:d":	0,
+				"List0Goal14MustSuceed:d":	0,
+				"List0Goal14Target:g":	"C4CD75D1_EE5EF400"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal15:d":	1,
+				"List0Goal15MustSuceed:d":	0,
+				"List0Goal15Target:g":	"C4CD75D1_EE5EF400",
+				"List0Goal15AnimType:d":	8,
+				"List0Goal15AnimName:s":	"run",
+				"List0Goal15Lock:d":	0,
+				"List0Goal15LookAhead:d":	1,
+				"List0Goal15ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal16:d":	0,
+				"List0Goal16MustSuceed:d":	0,
+				"List0Goal16Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal17:d":	2,
+				"List0Goal17MustSuceed:d":	0,
+				"List0Goal17ActionName:s":	"ImpIdle",
+				"List0Goal17PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal18:d":	0,
+				"List0Goal18MustSuceed:d":	0,
+				"List0Goal18Target:g":	"C4CD75D1_EE5F6801"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal19:d":	1,
+				"List0Goal19MustSuceed:d":	0,
+				"List0Goal19Target:g":	"C4CD75D1_EE5F6801",
+				"List0Goal19AnimType:d":	8,
+				"List0Goal19AnimName:s":	"run",
+				"List0Goal19Lock:d":	0,
+				"List0Goal19LookAhead:d":	1,
+				"List0Goal19ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal20:d":	0,
+				"List0Goal20MustSuceed:d":	0,
+				"List0Goal20Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal21:d":	2,
+				"List0Goal21MustSuceed:d":	0,
+				"List0Goal21ActionName:s":	"ImpIdle",
+				"List0Goal21PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal22:d":	0,
+				"List0Goal22MustSuceed:d":	0,
+				"List0Goal22Target:g":	"C4CD75D1_EE5F8001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal23:d":	1,
+				"List0Goal23MustSuceed:d":	0,
+				"List0Goal23Target:g":	"C4CD75D1_EE5F8001",
+				"List0Goal23AnimType:d":	8,
+				"List0Goal23AnimName:s":	"run",
+				"List0Goal23Lock:d":	0,
+				"List0Goal23LookAhead:d":	1,
+				"List0Goal23ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal24:d":	0,
+				"List0Goal24MustSuceed:d":	0,
+				"List0Goal24Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal25:d":	2,
+				"List0Goal25MustSuceed:d":	0,
+				"List0Goal25ActionName:s":	"ImpIdle",
+				"List0Goal25PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal26:d":	0,
+				"List0Goal26MustSuceed:d":	0,
+				"List0Goal26Target:g":	"C4CD75D1_EE5F9801"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal27:d":	1,
+				"List0Goal27MustSuceed:d":	0,
+				"List0Goal27Target:g":	"C4CD75D1_EE5F9801",
+				"List0Goal27AnimType:d":	8,
+				"List0Goal27AnimName:s":	"run",
+				"List0Goal27Lock:d":	0,
+				"List0Goal27LookAhead:d":	1,
+				"List0Goal27ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal28:d":	0,
+				"List0Goal28MustSuceed:d":	0,
+				"List0Goal28Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal29:d":	2,
+				"List0Goal29MustSuceed:d":	0,
+				"List0Goal29ActionName:s":	"ImpIdle",
+				"List0Goal29PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal30:d":	0,
+				"List0Goal30MustSuceed:d":	0,
+				"List0Goal30Target:g":	"C4CD75D1_EE5FB404"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal31:d":	1,
+				"List0Goal31MustSuceed:d":	0,
+				"List0Goal31Target:g":	"C4CD75D1_EE5FB404",
+				"List0Goal31AnimType:d":	8,
+				"List0Goal31AnimName:s":	"run",
+				"List0Goal31Lock:d":	0,
+				"List0Goal31LookAhead:d":	1,
+				"List0Goal31ActionName:s":	"run",
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	1000,
+				"HearingRange:f":	1000,
+				"LoudHearingRange:f":	1000,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2934.462890625, -1061.3330078125, 7722.96826171875],
+				"Orientation:fff":	[0, 98.5499954223633, 0],
+				"LocalBoundingBox:ffffff":	[-25, 0, -25, 25, 75, 25],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Imp, Purple Area06 005"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD75D1_EE78C401",
+				"CreatureType:s":	"Imp Purple",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"char_imp_bind.npcgeom",
+				"Name:s":	"Imp, Purple Area06 006",
+				"Team:d":	2,
+				"Position:fff":	[-2802.351318359375, -1061.3330078125, 7906.05322265625],
+				"Rotation:fff":	[0, 116.99998474121094, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"gobpickax",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	20,
+				"MaxHitPoints:f":	15,
+				"CouragePts:d":	3,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	0,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"Waiting",
+				"AlertDuration1:f":	5,
+				"AlertDuration2:f":	5,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	3,
+				"AttackRadius:f":	75,
+				"AttackIdleRadius:f":	400,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	172.43473815917969,
+				"MinJumpAttackRadius:f":	137.94779968261719,
+				"AttackGoalListName:s":	"",
+				"GoalListCount:d":	1
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Waiting",
+				"GoalListLooping0:d":	1,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	32
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	0,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal1:d":	2,
+				"List0Goal1MustSuceed:d":	0,
+				"List0Goal1ActionName:s":	"roar",
+				"List0Goal1PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal2:d":	0,
+				"List0Goal2MustSuceed:d":	0,
+				"List0Goal2Target:g":	"C4CD75D1_EE61D001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal3:d":	1,
+				"List0Goal3MustSuceed:d":	0,
+				"List0Goal3Target:g":	"C4CD75D1_EE61D001",
+				"List0Goal3AnimType:d":	8,
+				"List0Goal3AnimName:s":	"run",
+				"List0Goal3Lock:d":	0,
+				"List0Goal3LookAhead:d":	1,
+				"List0Goal3ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal4:d":	0,
+				"List0Goal4MustSuceed:d":	0,
+				"List0Goal4Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal5:d":	2,
+				"List0Goal5MustSuceed:d":	0,
+				"List0Goal5ActionName:s":	"ImpIdle",
+				"List0Goal5PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal6:d":	0,
+				"List0Goal6MustSuceed:d":	0,
+				"List0Goal6Target:g":	"C4CD75D1_EE623001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal7:d":	1,
+				"List0Goal7MustSuceed:d":	0,
+				"List0Goal7Target:g":	"C4CD75D1_EE623001",
+				"List0Goal7AnimType:d":	8,
+				"List0Goal7AnimName:s":	"run",
+				"List0Goal7Lock:d":	0,
+				"List0Goal7LookAhead:d":	1,
+				"List0Goal7ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal8:d":	0,
+				"List0Goal8MustSuceed:d":	0,
+				"List0Goal8Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal9:d":	2,
+				"List0Goal9MustSuceed:d":	0,
+				"List0Goal9ActionName:s":	"ImpIdle",
+				"List0Goal9PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal10:d":	0,
+				"List0Goal10MustSuceed:d":	0,
+				"List0Goal10Target:g":	"C4CD75D1_EE5EF400"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal11:d":	1,
+				"List0Goal11MustSuceed:d":	0,
+				"List0Goal11Target:g":	"C4CD75D1_EE5EF400",
+				"List0Goal11AnimType:d":	8,
+				"List0Goal11AnimName:s":	"run",
+				"List0Goal11Lock:d":	0,
+				"List0Goal11LookAhead:d":	1,
+				"List0Goal11ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal12:d":	0,
+				"List0Goal12MustSuceed:d":	0,
+				"List0Goal12Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal13:d":	2,
+				"List0Goal13MustSuceed:d":	0,
+				"List0Goal13ActionName:s":	"ImpIdle",
+				"List0Goal13PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal14:d":	0,
+				"List0Goal14MustSuceed:d":	0,
+				"List0Goal14Target:g":	"C4CD75D1_EE5F6801"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal15:d":	1,
+				"List0Goal15MustSuceed:d":	0,
+				"List0Goal15Target:g":	"C4CD75D1_EE5F6801",
+				"List0Goal15AnimType:d":	8,
+				"List0Goal15AnimName:s":	"run",
+				"List0Goal15Lock:d":	0,
+				"List0Goal15LookAhead:d":	1,
+				"List0Goal15ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal16:d":	0,
+				"List0Goal16MustSuceed:d":	0,
+				"List0Goal16Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal17:d":	2,
+				"List0Goal17MustSuceed:d":	0,
+				"List0Goal17ActionName:s":	"ImpIdle",
+				"List0Goal17PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal18:d":	0,
+				"List0Goal18MustSuceed:d":	0,
+				"List0Goal18Target:g":	"C4CD75D1_EE5F8001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal19:d":	1,
+				"List0Goal19MustSuceed:d":	0,
+				"List0Goal19Target:g":	"C4CD75D1_EE5F8001",
+				"List0Goal19AnimType:d":	8,
+				"List0Goal19AnimName:s":	"run",
+				"List0Goal19Lock:d":	0,
+				"List0Goal19LookAhead:d":	1,
+				"List0Goal19ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal20:d":	0,
+				"List0Goal20MustSuceed:d":	0,
+				"List0Goal20Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal21:d":	2,
+				"List0Goal21MustSuceed:d":	0,
+				"List0Goal21ActionName:s":	"ImpIdle",
+				"List0Goal21PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal22:d":	0,
+				"List0Goal22MustSuceed:d":	0,
+				"List0Goal22Target:g":	"C4CD75D1_EE5F9801"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal23:d":	1,
+				"List0Goal23MustSuceed:d":	0,
+				"List0Goal23Target:g":	"C4CD75D1_EE5F9801",
+				"List0Goal23AnimType:d":	8,
+				"List0Goal23AnimName:s":	"run",
+				"List0Goal23Lock:d":	0,
+				"List0Goal23LookAhead:d":	1,
+				"List0Goal23ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal24:d":	0,
+				"List0Goal24MustSuceed:d":	0,
+				"List0Goal24Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal25:d":	2,
+				"List0Goal25MustSuceed:d":	0,
+				"List0Goal25ActionName:s":	"roar",
+				"List0Goal25PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal26:d":	0,
+				"List0Goal26MustSuceed:d":	0,
+				"List0Goal26Target:g":	"C4CD75D1_EE5FB404"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal27:d":	1,
+				"List0Goal27MustSuceed:d":	0,
+				"List0Goal27Target:g":	"C4CD75D1_EE5FB404",
+				"List0Goal27AnimType:d":	8,
+				"List0Goal27AnimName:s":	"run",
+				"List0Goal27Lock:d":	0,
+				"List0Goal27LookAhead:d":	1,
+				"List0Goal27ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal28:d":	0,
+				"List0Goal28MustSuceed:d":	0,
+				"List0Goal28Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal29:d":	2,
+				"List0Goal29MustSuceed:d":	0,
+				"List0Goal29ActionName:s":	"roar",
+				"List0Goal29PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal30:d":	0,
+				"List0Goal30MustSuceed:d":	0,
+				"List0Goal30Target:g":	"C4CD75D1_EE615001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal31:d":	1,
+				"List0Goal31MustSuceed:d":	0,
+				"List0Goal31Target:g":	"C4CD75D1_EE615001",
+				"List0Goal31AnimType:d":	8,
+				"List0Goal31AnimName:s":	"run",
+				"List0Goal31Lock:d":	0,
+				"List0Goal31LookAhead:d":	1,
+				"List0Goal31ActionName:s":	"run",
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	1000,
+				"HearingRange:f":	1000,
+				"LoudHearingRange:f":	1000,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2802.351318359375, -1061.3330078125, 7906.05322265625],
+				"Orientation:fff":	[0, 116.99998474121094, 0],
+				"LocalBoundingBox:ffffff":	[-25, 0, -25, 25, 75, 25],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Imp, Purple Area06 006"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD75D1_EE7A9001",
+				"CreatureType:s":	"Imp Purple",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"char_imp_bind.npcgeom",
+				"Name:s":	"Imp, Purple Area06 007",
+				"Team:d":	2,
+				"Position:fff":	[-2595.9677734375, -1063.051513671875, 7888.724609375],
+				"Rotation:fff":	[0, -163.80003356933594, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"gobpickax",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	20,
+				"MaxHitPoints:f":	15,
+				"CouragePts:d":	3,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	0,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"Waiting",
+				"AlertDuration1:f":	5,
+				"AlertDuration2:f":	5,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	3,
+				"AttackRadius:f":	75,
+				"AttackIdleRadius:f":	400,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	172.43473815917969,
+				"MinJumpAttackRadius:f":	137.94779968261719,
+				"AttackGoalListName:s":	"",
+				"GoalListCount:d":	1
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Waiting",
+				"GoalListLooping0:d":	1,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	32
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	0,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal1:d":	2,
+				"List0Goal1MustSuceed:d":	0,
+				"List0Goal1ActionName:s":	"roar",
+				"List0Goal1PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal2:d":	0,
+				"List0Goal2MustSuceed:d":	0,
+				"List0Goal2Target:g":	"C4CD75D1_EE623001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal3:d":	1,
+				"List0Goal3MustSuceed:d":	0,
+				"List0Goal3Target:g":	"C4CD75D1_EE623001",
+				"List0Goal3AnimType:d":	8,
+				"List0Goal3AnimName:s":	"run",
+				"List0Goal3Lock:d":	0,
+				"List0Goal3LookAhead:d":	1,
+				"List0Goal3ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal4:d":	0,
+				"List0Goal4MustSuceed:d":	0,
+				"List0Goal4Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal5:d":	2,
+				"List0Goal5MustSuceed:d":	0,
+				"List0Goal5ActionName:s":	"roar",
+				"List0Goal5PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal6:d":	0,
+				"List0Goal6MustSuceed:d":	0,
+				"List0Goal6Target:g":	"C4CD75D1_EE5EF400"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal7:d":	1,
+				"List0Goal7MustSuceed:d":	0,
+				"List0Goal7Target:g":	"C4CD75D1_EE5EF400",
+				"List0Goal7AnimType:d":	8,
+				"List0Goal7AnimName:s":	"run",
+				"List0Goal7Lock:d":	0,
+				"List0Goal7LookAhead:d":	1,
+				"List0Goal7ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal8:d":	0,
+				"List0Goal8MustSuceed:d":	0,
+				"List0Goal8Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal9:d":	2,
+				"List0Goal9MustSuceed:d":	0,
+				"List0Goal9ActionName:s":	"ImpIdle",
+				"List0Goal9PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal10:d":	0,
+				"List0Goal10MustSuceed:d":	0,
+				"List0Goal10Target:g":	"C4CD75D1_EE5F6801"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal11:d":	1,
+				"List0Goal11MustSuceed:d":	0,
+				"List0Goal11Target:g":	"C4CD75D1_EE5F6801",
+				"List0Goal11AnimType:d":	8,
+				"List0Goal11AnimName:s":	"run",
+				"List0Goal11Lock:d":	0,
+				"List0Goal11LookAhead:d":	1,
+				"List0Goal11ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal12:d":	0,
+				"List0Goal12MustSuceed:d":	0,
+				"List0Goal12Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal13:d":	2,
+				"List0Goal13MustSuceed:d":	0,
+				"List0Goal13ActionName:s":	"roar",
+				"List0Goal13PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal14:d":	0,
+				"List0Goal14MustSuceed:d":	0,
+				"List0Goal14Target:g":	"C4CD75D1_EE5F8001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal15:d":	1,
+				"List0Goal15MustSuceed:d":	0,
+				"List0Goal15Target:g":	"C4CD75D1_EE5F8001",
+				"List0Goal15AnimType:d":	8,
+				"List0Goal15AnimName:s":	"run",
+				"List0Goal15Lock:d":	0,
+				"List0Goal15LookAhead:d":	1,
+				"List0Goal15ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal16:d":	0,
+				"List0Goal16MustSuceed:d":	0,
+				"List0Goal16Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal17:d":	2,
+				"List0Goal17MustSuceed:d":	0,
+				"List0Goal17ActionName:s":	"roar",
+				"List0Goal17PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal18:d":	0,
+				"List0Goal18MustSuceed:d":	0,
+				"List0Goal18Target:g":	"C4CD75D1_EE5F9801"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal19:d":	1,
+				"List0Goal19MustSuceed:d":	0,
+				"List0Goal19Target:g":	"C4CD75D1_EE5F9801",
+				"List0Goal19AnimType:d":	8,
+				"List0Goal19AnimName:s":	"run",
+				"List0Goal19Lock:d":	0,
+				"List0Goal19LookAhead:d":	1,
+				"List0Goal19ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal20:d":	0,
+				"List0Goal20MustSuceed:d":	0,
+				"List0Goal20Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal21:d":	2,
+				"List0Goal21MustSuceed:d":	0,
+				"List0Goal21ActionName:s":	"ImpIdle",
+				"List0Goal21PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal22:d":	0,
+				"List0Goal22MustSuceed:d":	0,
+				"List0Goal22Target:g":	"C4CD75D1_EE5FB404"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal23:d":	1,
+				"List0Goal23MustSuceed:d":	0,
+				"List0Goal23Target:g":	"C4CD75D1_EE5FB404",
+				"List0Goal23AnimType:d":	8,
+				"List0Goal23AnimName:s":	"run",
+				"List0Goal23Lock:d":	0,
+				"List0Goal23LookAhead:d":	1,
+				"List0Goal23ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal24:d":	0,
+				"List0Goal24MustSuceed:d":	0,
+				"List0Goal24Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal25:d":	2,
+				"List0Goal25MustSuceed:d":	0,
+				"List0Goal25ActionName:s":	"roar",
+				"List0Goal25PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal26:d":	0,
+				"List0Goal26MustSuceed:d":	0,
+				"List0Goal26Target:g":	"C4CD75D1_EE615001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal27:d":	1,
+				"List0Goal27MustSuceed:d":	0,
+				"List0Goal27Target:g":	"C4CD75D1_EE615001",
+				"List0Goal27AnimType:d":	8,
+				"List0Goal27AnimName:s":	"run",
+				"List0Goal27Lock:d":	0,
+				"List0Goal27LookAhead:d":	1,
+				"List0Goal27ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal28:d":	0,
+				"List0Goal28MustSuceed:d":	0,
+				"List0Goal28Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal29:d":	2,
+				"List0Goal29MustSuceed:d":	0,
+				"List0Goal29ActionName:s":	"ImpIdle",
+				"List0Goal29PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal30:d":	0,
+				"List0Goal30MustSuceed:d":	0,
+				"List0Goal30Target:g":	"C4CD75D1_EE61D001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal31:d":	1,
+				"List0Goal31MustSuceed:d":	0,
+				"List0Goal31Target:g":	"C4CD75D1_EE61D001",
+				"List0Goal31AnimType:d":	8,
+				"List0Goal31AnimName:s":	"run",
+				"List0Goal31Lock:d":	0,
+				"List0Goal31LookAhead:d":	1,
+				"List0Goal31ActionName:s":	"run",
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	1000,
+				"HearingRange:f":	1000,
+				"LoudHearingRange:f":	1000,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2595.9677734375, -1063.051513671875, 7888.724609375],
+				"Orientation:fff":	[0, -163.80003356933594, 0],
+				"LocalBoundingBox:ffffff":	[-25, 0, -25, 25, 75, 25],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Imp, Purple Area06 007"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD75D1_EE7C9001",
+				"CreatureType:s":	"Imp Purple",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"char_imp_bind.npcgeom",
+				"Name:s":	"Imp, Purple Area06 008",
+				"Team:d":	2,
+				"Position:fff":	[-2441.2607421875, -1078.2857666015625, 7721.318359375],
+				"Rotation:fff":	[0, -126.45000457763672, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"gobpickax",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	20,
+				"MaxHitPoints:f":	15,
+				"CouragePts:d":	3,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	0,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"Waiting",
+				"AlertDuration1:f":	5,
+				"AlertDuration2:f":	5,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	3,
+				"AttackRadius:f":	75,
+				"AttackIdleRadius:f":	400,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	172.43473815917969,
+				"MinJumpAttackRadius:f":	137.94779968261719,
+				"AttackGoalListName:s":	"",
+				"GoalListCount:d":	1
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Waiting",
+				"GoalListLooping0:d":	1,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	32
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	0,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal1:d":	2,
+				"List0Goal1MustSuceed:d":	0,
+				"List0Goal1ActionName:s":	"roar",
+				"List0Goal1PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal2:d":	0,
+				"List0Goal2MustSuceed:d":	0,
+				"List0Goal2Target:g":	"C4CD75D1_EE5EF400"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal3:d":	1,
+				"List0Goal3MustSuceed:d":	0,
+				"List0Goal3Target:g":	"C4CD75D1_EE5EF400",
+				"List0Goal3AnimType:d":	8,
+				"List0Goal3AnimName:s":	"run",
+				"List0Goal3Lock:d":	0,
+				"List0Goal3LookAhead:d":	1,
+				"List0Goal3ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal4:d":	0,
+				"List0Goal4MustSuceed:d":	0,
+				"List0Goal4Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal5:d":	2,
+				"List0Goal5MustSuceed:d":	0,
+				"List0Goal5ActionName:s":	"roar",
+				"List0Goal5PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal6:d":	0,
+				"List0Goal6MustSuceed:d":	0,
+				"List0Goal6Target:g":	"C4CD75D1_EE5F6801"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal7:d":	1,
+				"List0Goal7MustSuceed:d":	0,
+				"List0Goal7Target:g":	"C4CD75D1_EE5F6801",
+				"List0Goal7AnimType:d":	8,
+				"List0Goal7AnimName:s":	"run",
+				"List0Goal7Lock:d":	0,
+				"List0Goal7LookAhead:d":	1,
+				"List0Goal7ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal8:d":	0,
+				"List0Goal8MustSuceed:d":	0,
+				"List0Goal8Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal9:d":	2,
+				"List0Goal9MustSuceed:d":	0,
+				"List0Goal9ActionName:s":	"roar",
+				"List0Goal9PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal10:d":	0,
+				"List0Goal10MustSuceed:d":	0,
+				"List0Goal10Target:g":	"C4CD75D1_EE5F8001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal11:d":	1,
+				"List0Goal11MustSuceed:d":	0,
+				"List0Goal11Target:g":	"C4CD75D1_EE5F8001",
+				"List0Goal11AnimType:d":	8,
+				"List0Goal11AnimName:s":	"run",
+				"List0Goal11Lock:d":	0,
+				"List0Goal11LookAhead:d":	1,
+				"List0Goal11ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal12:d":	0,
+				"List0Goal12MustSuceed:d":	0,
+				"List0Goal12Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal13:d":	2,
+				"List0Goal13MustSuceed:d":	0,
+				"List0Goal13ActionName:s":	"ImpIdle",
+				"List0Goal13PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal14:d":	0,
+				"List0Goal14MustSuceed:d":	0,
+				"List0Goal14Target:g":	"C4CD75D1_EE5F9801"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal15:d":	1,
+				"List0Goal15MustSuceed:d":	0,
+				"List0Goal15Target:g":	"C4CD75D1_EE5F9801",
+				"List0Goal15AnimType:d":	8,
+				"List0Goal15AnimName:s":	"run",
+				"List0Goal15Lock:d":	0,
+				"List0Goal15LookAhead:d":	1,
+				"List0Goal15ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal16:d":	0,
+				"List0Goal16MustSuceed:d":	0,
+				"List0Goal16Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal17:d":	2,
+				"List0Goal17MustSuceed:d":	0,
+				"List0Goal17ActionName:s":	"roar",
+				"List0Goal17PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal18:d":	0,
+				"List0Goal18MustSuceed:d":	0,
+				"List0Goal18Target:g":	"C4CD75D1_EE5FB404"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal19:d":	1,
+				"List0Goal19MustSuceed:d":	0,
+				"List0Goal19Target:g":	"C4CD75D1_EE5FB404",
+				"List0Goal19AnimType:d":	8,
+				"List0Goal19AnimName:s":	"run",
+				"List0Goal19Lock:d":	0,
+				"List0Goal19LookAhead:d":	1,
+				"List0Goal19ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal20:d":	0,
+				"List0Goal20MustSuceed:d":	0,
+				"List0Goal20Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal21:d":	2,
+				"List0Goal21MustSuceed:d":	0,
+				"List0Goal21ActionName:s":	"ImpIdle",
+				"List0Goal21PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal22:d":	0,
+				"List0Goal22MustSuceed:d":	0,
+				"List0Goal22Target:g":	"C4CD75D1_EE615001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal23:d":	1,
+				"List0Goal23MustSuceed:d":	0,
+				"List0Goal23Target:g":	"C4CD75D1_EE615001",
+				"List0Goal23AnimType:d":	8,
+				"List0Goal23AnimName:s":	"run",
+				"List0Goal23Lock:d":	0,
+				"List0Goal23LookAhead:d":	1,
+				"List0Goal23ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal24:d":	0,
+				"List0Goal24MustSuceed:d":	0,
+				"List0Goal24Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal25:d":	2,
+				"List0Goal25MustSuceed:d":	0,
+				"List0Goal25ActionName:s":	"ImpIdle",
+				"List0Goal25PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal26:d":	0,
+				"List0Goal26MustSuceed:d":	0,
+				"List0Goal26Target:g":	"C4CD75D1_EE61D001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal27:d":	1,
+				"List0Goal27MustSuceed:d":	0,
+				"List0Goal27Target:g":	"C4CD75D1_EE61D001",
+				"List0Goal27AnimType:d":	8,
+				"List0Goal27AnimName:s":	"run",
+				"List0Goal27Lock:d":	0,
+				"List0Goal27LookAhead:d":	1,
+				"List0Goal27ActionName:s":	"run"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal28:d":	0,
+				"List0Goal28MustSuceed:d":	0,
+				"List0Goal28Target:g":	"C4CD75D1_EE648C01"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal29:d":	2,
+				"List0Goal29MustSuceed:d":	0,
+				"List0Goal29ActionName:s":	"ImpIdle",
+				"List0Goal29PlayTime:f":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal30:d":	0,
+				"List0Goal30MustSuceed:d":	0,
+				"List0Goal30Target:g":	"C4CD75D1_EE623001"
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal31:d":	1,
+				"List0Goal31MustSuceed:d":	0,
+				"List0Goal31Target:g":	"C4CD75D1_EE623001",
+				"List0Goal31AnimType:d":	8,
+				"List0Goal31AnimName:s":	"run",
+				"List0Goal31Lock:d":	0,
+				"List0Goal31LookAhead:d":	1,
+				"List0Goal31ActionName:s":	"run",
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	1000,
+				"HearingRange:f":	1000,
+				"LoudHearingRange:f":	1000,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2441.2607421875, -1078.2857666015625, 7721.318359375],
+				"Orientation:fff":	[0, -126.45000457763672, 0],
+				"LocalBoundingBox:ffffff":	[-25, 0, -25, 25, 75, 25],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Imp, Purple Area06 008"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD7A11_1AC5C00E",
+				"CreatureType:s":	"Imp Purple",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"char_imp_bind.npcgeom",
+				"Name:s":	"Imp, Purple Area06 009",
+				"Team:d":	2,
+				"Position:fff":	[-2623.656005859375, -1064.334228515625, 8141.73974609375],
+				"Rotation:fff":	[0, 44.099983215332031, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"gobpickax",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	20,
+				"MaxHitPoints:f":	15,
+				"CouragePts:d":	3,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	0,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"",
+				"AlertDuration1:f":	5,
+				"AlertDuration2:f":	5,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	3,
+				"AttackRadius:f":	75,
+				"AttackIdleRadius:f":	400,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	172.43473815917969,
+				"MinJumpAttackRadius:f":	137.94779968261719,
+				"AttackGoalListName:s":	"",
+				"GoalListCount:d":	0,
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	1000,
+				"HearingRange:f":	1000,
+				"LoudHearingRange:f":	1000,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2623.656005859375, -1064.334228515625, 8141.73974609375],
+				"Orientation:fff":	[0, 44.099983215332031, 0],
+				"LocalBoundingBox:ffffff":	[-25, 0, -25, 25, 75, 25],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Imp, Purple Area06 009"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD75D1_EE5EF400",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2445.764404296875, -1054.69873046875, 7510.95703125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-25, -25, -25, 25, 25, 25],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Area06 Imp 001",
+				"Name:s":	"Area06 Imp 001",
+				"Pos:fff":	[-2445.764404296875, -1054.69873046875, 7510.95703125],
+				"BBox:ffffff":	[-2470.764404296875, -1079.69873046875, 7485.95703125, -2420.764404296875, -1029.69873046875, 7535.95703125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[25, 25, 25],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD75D1_EE5F6801",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2576.627197265625, -1041.057373046875, 7312.12890625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-25, -25, -25, 25, 25, 25],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Area06 Imp 002",
+				"Name:s":	"Area06 Imp 002",
+				"Pos:fff":	[-2576.627197265625, -1041.057373046875, 7312.12890625],
+				"BBox:ffffff":	[-2601.627197265625, -1066.057373046875, 7287.12890625, -2551.627197265625, -1016.057373046875, 7337.12890625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[25, 25, 25],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD75D1_EE5F8001",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2775.357421875, -1036.3330078125, 7357.89892578125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-25, -25, -25, 25, 25, 25],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Area06 Imp 003",
+				"Name:s":	"Area06 Imp 003",
+				"Pos:fff":	[-2775.357421875, -1036.3330078125, 7357.89892578125],
+				"BBox:ffffff":	[-2800.357421875, -1061.3330078125, 7332.89892578125, -2750.357421875, -1011.3330078125, 7382.89892578125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[25, 25, 25],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD75D1_EE5F9801",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2918.4716796875, -1036.3330078125, 7517.98583984375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-25, -25, -25, 25, 25, 25],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Area06 Imp 004",
+				"Name:s":	"Area06 Imp 004",
+				"Pos:fff":	[-2918.4716796875, -1036.3330078125, 7517.98583984375],
+				"BBox:ffffff":	[-2943.4716796875, -1061.3330078125, 7492.98583984375, -2893.4716796875, -1011.3330078125, 7542.98583984375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[25, 25, 25],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD75D1_EE5FB404",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2920.746337890625, -1036.3330078125, 7722.123046875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-25, -25, -25, 25, 25, 25],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Area06 Imp 005",
+				"Name:s":	"Area06 Imp 005",
+				"Pos:fff":	[-2920.746337890625, -1036.3330078125, 7722.123046875],
+				"BBox:ffffff":	[-2945.746337890625, -1061.3330078125, 7697.123046875, -2895.746337890625, -1011.3330078125, 7747.123046875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[25, 25, 25],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD75D1_EE615001",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2798.20458984375, -1036.3330078125, 7898.64404296875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-25, -25, -25, 25, 25, 25],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Area06 Imp 006",
+				"Name:s":	"Area06 Imp 006",
+				"Pos:fff":	[-2798.20458984375, -1036.3330078125, 7898.64404296875],
+				"BBox:ffffff":	[-2823.20458984375, -1061.3330078125, 7873.64404296875, -2773.20458984375, -1011.3330078125, 7923.64404296875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[25, 25, 25],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD75D1_EE61D001",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2593.233154296875, -1038.69970703125, 7879.6552734375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-25, -25, -25, 25, 25, 25],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Area06 Imp 007",
+				"Name:s":	"Area06 Imp 007",
+				"Pos:fff":	[-2593.233154296875, -1038.69970703125, 7879.6552734375],
+				"BBox:ffffff":	[-2618.233154296875, -1063.69970703125, 7854.6552734375, -2568.233154296875, -1013.69970703125, 7904.6552734375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[25, 25, 25],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD75D1_EE623001",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2447.609130859375, -1053.549560546875, 7713.87060546875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-25, -25, -25, 25, 25, 25],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Area06 Imp 008",
+				"Name:s":	"Area06 Imp 008",
+				"Pos:fff":	[-2447.609130859375, -1053.549560546875, 7713.87060546875],
+				"BBox:ffffff":	[-2472.609130859375, -1078.549560546875, 7688.87060546875, -2422.609130859375, -1028.549560546875, 7738.87060546875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[25, 25, 25],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD75D1_EE648C01",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2651.00830078125, -1043.336669921875, 7619.00537109375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-25, -25, -25, 25, 25, 25],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Area06 Imp 009",
+				"Name:s":	"Area06 Imp 009",
+				"Pos:fff":	[-2651.00830078125, -1043.336669921875, 7619.00537109375],
+				"BBox:ffffff":	[-2676.00830078125, -1068.336669921875, 7594.00537109375, -2626.00830078125, -1018.336669921875, 7644.00537109375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[25, 25, 25],
+				"Pain:s":	"none"
+			}]
+	}]

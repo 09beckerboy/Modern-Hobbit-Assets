@@ -1,0 +1,467 @@
+[{
+		"name":	"AudioEmitter",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDF91_3FDB2000",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	436,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-3059.35888671875, -1292.75634765625, -22528.392578125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-1550, -1550, -1550, 1550, 1550, 1550],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"CampFire",
+				"Pos:fff":	[-3059.35888671875, -1292.75634765625, -22528.392578125],
+				"TriggerRadius:f":	1550,
+				"FarRadius:f":	1500,
+				"NearRadius:f":	300,
+				"OffsetRadius:f":	0,
+				"MinDelay:f":	0,
+				"MaxDelay:f":	0,
+				"AudioFlags:d":	12,
+				"Playback:d":	1,
+				"FadeTime:f":	0,
+				"FadeVolume:f":	0,
+				"AttachedGuid:g":	"00000000_00000000",
+				"AttachedOffset:fff":	[0, 0, 0]
+			}]
+	}, {
+		"name":	"SoundList",
+		"row_count":	1,
+		"rows":	[{
+				"DescriptorName:s":	"TROLLCAMPFIRE_LOOP"
+			}]
+	}, {
+		"name":	"AudioEmitter",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"9D1535CB_881F6C01",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	436,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-4626.61181640625, -1360.119140625, -19194.287109375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-5847.99951171875, -5848, -5848, 5848, 5848, 5848],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"MuttonBirds",
+				"Pos:fff":	[-4626.61181640625, -1360.119140625, -19194.287109375],
+				"TriggerRadius:f":	5848,
+				"FarRadius:f":	2500,
+				"NearRadius:f":	250,
+				"OffsetRadius:f":	3348,
+				"MinDelay:f":	7.5,
+				"MaxDelay:f":	15,
+				"AudioFlags:d":	4,
+				"Playback:d":	0,
+				"FadeTime:f":	0,
+				"FadeVolume:f":	0,
+				"AttachedGuid:g":	"00000000_00000000",
+				"AttachedOffset:fff":	[0, 0, 0]
+			}]
+	}, {
+		"name":	"SoundList",
+		"row_count":	1,
+		"rows":	[{
+				"DescriptorName:s":	"CH02_BIRDS"
+			}]
+	}, {
+		"name":	"AudioEmitter",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"9D153292_19A1DC01",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	436,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-3444.340576171875, -659.9322509765625, -19609.189453125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-1000.000244140625, -1000, -1000, 1000, 1000, 1000],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Owls",
+				"Pos:fff":	[-3444.340576171875, -659.9322509765625, -19609.189453125],
+				"TriggerRadius:f":	1000,
+				"FarRadius:f":	600,
+				"NearRadius:f":	150,
+				"OffsetRadius:f":	500,
+				"MinDelay:f":	7.5,
+				"MaxDelay:f":	15,
+				"AudioFlags:d":	4,
+				"Playback:d":	0,
+				"FadeTime:f":	0,
+				"FadeVolume:f":	0,
+				"AttachedGuid:g":	"00000000_00000000",
+				"AttachedOffset:fff":	[0, 0, 0]
+			}]
+	}, {
+		"name":	"SoundList",
+		"row_count":	1,
+		"rows":	[{
+				"DescriptorName:s":	"CH02_OWLS"
+			}]
+	}, {
+		"name":	"AudioEmitter",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"9D153292_19A3FC01",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	436,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2187.814697265625, -585.375732421875, -20416.388671875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-1000, -1000, -1000, 1000, 1000, 1000],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Owls000",
+				"Pos:fff":	[-2187.814697265625, -585.375732421875, -20416.388671875],
+				"TriggerRadius:f":	1000,
+				"FarRadius:f":	600,
+				"NearRadius:f":	150,
+				"OffsetRadius:f":	500,
+				"MinDelay:f":	7.5,
+				"MaxDelay:f":	15,
+				"AudioFlags:d":	4,
+				"Playback:d":	0,
+				"FadeTime:f":	0,
+				"FadeVolume:f":	0,
+				"AttachedGuid:g":	"00000000_00000000",
+				"AttachedOffset:fff":	[0, 0, 0]
+			}]
+	}, {
+		"name":	"SoundList",
+		"row_count":	1,
+		"rows":	[{
+				"DescriptorName:s":	"CH02_OWLS"
+			}]
+	}, {
+		"name":	"AudioEmitter",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"9D153292_19A46801",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	436,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-1056.19921875, -582.4964599609375, -22402.84375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-1000, -1000, -1000, 1000, 1000, 1000],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Owls001",
+				"Pos:fff":	[-1056.19921875, -582.4964599609375, -22402.84375],
+				"TriggerRadius:f":	1000,
+				"FarRadius:f":	600,
+				"NearRadius:f":	150,
+				"OffsetRadius:f":	500,
+				"MinDelay:f":	10,
+				"MaxDelay:f":	20,
+				"AudioFlags:d":	4,
+				"Playback:d":	0,
+				"FadeTime:f":	0,
+				"FadeVolume:f":	0,
+				"AttachedGuid:g":	"00000000_00000000",
+				"AttachedOffset:fff":	[0, 0, 0]
+			}]
+	}, {
+		"name":	"SoundList",
+		"row_count":	1,
+		"rows":	[{
+				"DescriptorName:s":	"CH02_OWLS"
+			}]
+	}, {
+		"name":	"AudioEmitter",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"9D153292_19A4F001",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	436,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-3537.09228515625, -779.78271484375, -23497.626953125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-1000, -1000, -1000, 1000, 1000, 1000],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Owls002",
+				"Pos:fff":	[-3537.09228515625, -779.78271484375, -23497.626953125],
+				"TriggerRadius:f":	1000,
+				"FarRadius:f":	600,
+				"NearRadius:f":	150,
+				"OffsetRadius:f":	500,
+				"MinDelay:f":	7.5,
+				"MaxDelay:f":	15,
+				"AudioFlags:d":	4,
+				"Playback:d":	0,
+				"FadeTime:f":	0,
+				"FadeVolume:f":	0,
+				"AttachedGuid:g":	"00000000_00000000",
+				"AttachedOffset:fff":	[0, 0, 0]
+			}]
+	}, {
+		"name":	"SoundList",
+		"row_count":	1,
+		"rows":	[{
+				"DescriptorName:s":	"CH02_OWLS"
+			}]
+	}, {
+		"name":	"AudioEmitter",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"9D15374B_832FE801",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	436,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[2394.772705078125, -1533.1455078125, -26486.515625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-4000, -4000, -4000, 3999.999755859375, 4000, 4000],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"RainDrops03",
+				"Pos:fff":	[2394.772705078125, -1533.1455078125, -26486.515625],
+				"TriggerRadius:f":	4000,
+				"FarRadius:f":	2500,
+				"NearRadius:f":	250,
+				"OffsetRadius:f":	1500,
+				"MinDelay:f":	3,
+				"MaxDelay:f":	15,
+				"AudioFlags:d":	4,
+				"Playback:d":	0,
+				"FadeTime:f":	0,
+				"FadeVolume:f":	0,
+				"AttachedGuid:g":	"00000000_00000000",
+				"AttachedOffset:fff":	[0, 0, 0]
+			}]
+	}, {
+		"name":	"SoundList",
+		"row_count":	1,
+		"rows":	[{
+				"DescriptorName:s":	"WATERDRIPOUTDOOR"
+			}]
+	}, {
+		"name":	"AudioEmitter",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"9D15378B_8797A000",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	436,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-3061.54248046875, -1723.599609375, -22612.279296875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-10250, -10250, -10250.001953125, 10250, 10250, 10250],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"ThunderRumble",
+				"Pos:fff":	[-3061.54248046875, -1723.599609375, -22612.279296875],
+				"TriggerRadius:f":	10250,
+				"FarRadius:f":	8000,
+				"NearRadius:f":	2500,
+				"OffsetRadius:f":	250,
+				"MinDelay:f":	5,
+				"MaxDelay:f":	30,
+				"AudioFlags:d":	12,
+				"Playback:d":	0,
+				"FadeTime:f":	0,
+				"FadeVolume:f":	0,
+				"AttachedGuid:g":	"00000000_00000000",
+				"AttachedOffset:fff":	[0, 0, 0]
+			}]
+	}, {
+		"name":	"SoundList",
+		"row_count":	1,
+		"rows":	[{
+				"DescriptorName:s":	"THUNDERRUMBLE"
+			}]
+	}, {
+		"name":	"AudioEmitter",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDF91_3FDDB800",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	436,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[1129.3519287109375, -1896.0943603515625, -18386.0546875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-4058.09033203125, -4058.09033203125, -4058.08984375, 4058.09033203125, 4058.09033203125, 4058.08984375],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Whirl_Pool",
+				"Pos:fff":	[1129.3519287109375, -1896.0943603515625, -18386.0546875],
+				"TriggerRadius:f":	4058.09033203125,
+				"FarRadius:f":	4000,
+				"NearRadius:f":	500,
+				"OffsetRadius:f":	0,
+				"MinDelay:f":	0,
+				"MaxDelay:f":	0,
+				"AudioFlags:d":	12,
+				"Playback:d":	1,
+				"FadeTime:f":	0,
+				"FadeVolume:f":	0,
+				"AttachedGuid:g":	"00000000_00000000",
+				"AttachedOffset:fff":	[0, 0, 0]
+			}]
+	}, {
+		"name":	"SoundList",
+		"row_count":	1,
+		"rows":	[{
+				"DescriptorName:s":	"Whirlpool_Loop"
+			}]
+	}, {
+		"name":	"AudioEmitter",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"9D1530CB_87D65001",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	436,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-3061.54248046875, -1723.595703125, -22728.880859375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-10250, -10250, -10250.001953125, 10250, 10250, 10250],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Wind_Outdoor",
+				"Pos:fff":	[-3061.54248046875, -1723.595703125, -22728.880859375],
+				"TriggerRadius:f":	10250,
+				"FarRadius:f":	5000,
+				"NearRadius:f":	250,
+				"OffsetRadius:f":	10000,
+				"MinDelay:f":	10,
+				"MaxDelay:f":	60,
+				"AudioFlags:d":	12,
+				"Playback:d":	0,
+				"FadeTime:f":	0,
+				"FadeVolume:f":	0,
+				"AttachedGuid:g":	"00000000_00000000",
+				"AttachedOffset:fff":	[0, 0, 0]
+			}]
+	}, {
+		"name":	"SoundList",
+		"row_count":	4,
+		"rows":	[{
+				"DescriptorName:s":	"Wind_MediumHowl"
+			}, {
+				"DescriptorName:s":	"Wind_MediumHowl"
+			}, {
+				"DescriptorName:s":	"WindLowRumble"
+			}, {
+				"DescriptorName:s":	"WindLowRumble"
+			}]
+	}, {
+		"name":	"AmbientAudioTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"9D153A52_19653000",
+				"SingleShot:d":	0,
+				"TriggerActionTypeRedToGreen:d":	0,
+				"SwitchTypeRedToGreen:d":	2,
+				"SuiteRedToGreen:s":	"Choose a Suite",
+				"TrackRedToGreen:s":	"CH02_OUTDOORNIGHT_LOOP",
+				"UseAsDefaultRedToGreen:d":	1,
+				"DesiredIntensityRedToGreen:d":	1,
+				"FadeOutTimeRedToGreen:f":	20,
+				"FadeInTimeRedToGreen:f":	20,
+				"MaxLoopCountRedToGreen:d":	0,
+				"RedToGreenDefaultState:s":	"NONE SELECTED",
+				"RedToGreenTargetVolume:f":	1,
+				"TriggerActionTypeGreenToRed:d":	0,
+				"SwitchTypeGreenToRed:d":	2,
+				"SuiteGreenToRed:s":	"Choose a Suite",
+				"TrackGreenToRed:s":	"CH02_OUTDOORNIGHT_LOOP",
+				"UseAsDefaultGreenToRed:d":	0,
+				"DesiredIntensityGreenToRed:d":	1,
+				"FadeOutTimeGreenToRed:f":	1.5,
+				"FadeInTimeGreenToRed:f":	1.5,
+				"MaxLoopCountGreenToRed:d":	0,
+				"GreenToRedTargetVolume:f":	1,
+				"GreenToRedDefaultState:s":	"NONE SELECTED",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[253.09454345703125, -718.2987060546875, -24051.98046875],
+				"Orientation:fff":	[0, 26.100061416625977, 0],
+				"LocalBoundingBox:ffffff":	[-807.770751953125, -500, -429.84896850585937, 807.770751953125, 500, 429.84896850585937],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Insects/Rain",
+				"Name:s":	"Insects/Rain",
+				"Pos:fff":	[253.09454345703125, -718.2987060546875, -24051.98046875],
+				"BBox:ffffff":	[-554.67620849609375, -1218.2987060546875, -24481.830078125, 1060.865234375, -218.2987060546875, -23622.130859375],
+				"Orient:fff":	[0, 26.100061416625977, 0],
+				"HalfDimensions:fff":	[875, 500, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"AmbientAudioTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"9D153292_19832401",
+				"SingleShot:d":	0,
+				"TriggerActionTypeRedToGreen:d":	0,
+				"SwitchTypeRedToGreen:d":	2,
+				"SuiteRedToGreen:s":	"Choose a Suite",
+				"TrackRedToGreen:s":	"CH02_RAIN_LOOP",
+				"UseAsDefaultRedToGreen:d":	1,
+				"DesiredIntensityRedToGreen:d":	1,
+				"FadeOutTimeRedToGreen:f":	0,
+				"FadeInTimeRedToGreen:f":	0.25,
+				"MaxLoopCountRedToGreen:d":	0,
+				"RedToGreenDefaultState:s":	"NONE SELECTED",
+				"RedToGreenTargetVolume:f":	1,
+				"TriggerActionTypeGreenToRed:d":	0,
+				"SwitchTypeGreenToRed:d":	0,
+				"SuiteGreenToRed:s":	"Choose a Suite",
+				"TrackGreenToRed:s":	"Choose a Track",
+				"UseAsDefaultGreenToRed:d":	0,
+				"DesiredIntensityGreenToRed:d":	1,
+				"FadeOutTimeGreenToRed:f":	0,
+				"FadeInTimeGreenToRed:f":	0,
+				"MaxLoopCountGreenToRed:d":	0,
+				"GreenToRedTargetVolume:f":	1,
+				"GreenToRedDefaultState:s":	"NONE SELECTED",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[9358.966796875, -1793.18994140625, -19724.232421875],
+				"Orientation:fff":	[0, 115.65004730224609, 0],
+				"LocalBoundingBox:ffffff":	[-261.5093994140625, -250, -472.37106323242187, 261.5093994140625, 250, 472.37106323242187],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"RainStart",
+				"Name:s":	"RainStart",
+				"Pos:fff":	[9358.966796875, -1793.18994140625, -19724.232421875],
+				"BBox:ffffff":	[9097.45703125, -2043.18994140625, -20196.603515625, 9620.4765625, -1543.18994140625, -19251.861328125],
+				"Orient:fff":	[0, 115.65004730224609, 0],
+				"HalfDimensions:fff":	[500, 250, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"AmbientAudioMgr",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"9D153A52_19648400",
+				"MinSilenceTime:f":	15,
+				"MaxSilenceTime:f":	30,
+				"VolumeFadeTime:f":	1.5,
+				"AudioPackageName:s":	"SFX_AMB_Chapter02.audiopkg",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-628.90411376953125, 75.7042999267578, -24147.9140625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-1, -1, -1, 1, 1, 1],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"AmbientLogic"
+			}]
+	}]

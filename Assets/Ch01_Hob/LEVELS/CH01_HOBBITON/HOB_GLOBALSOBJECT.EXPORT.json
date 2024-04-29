@@ -1,0 +1,6726 @@
+[{
+		"name":	"Globals",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD58888E_10013C06",
+				"BilboStartYaw:f":	0.062831997871398926,
+				"BilboStartPos:fff":	[76, -1689, -522],
+				"FogColor:dddd":	[231, 250, 249, 255],
+				"FogStart:f":	4000,
+				"FogEnd:f":	70000,
+				"FogEnabled:d":	1,
+				"LevelName:s":	"Ch01_Hobbiton",
+				"Number of Quests:d":	23,
+				"OpeningCinema:g":	"CA3DDF12_32749400",
+				"Ambient0:dddd":	[36, 27, 38, 255],
+				"Ambient1:dddd":	[24, 19, 25, 255],
+				"Ambient2:dddd":	[0, 0, 0, 255],
+				"Ambient3:dddd":	[0, 0, 0, 255],
+				"Ambient4:dddd":	[0, 0, 0, 255],
+				"Ambient5:dddd":	[60, 45, 45, 255],
+				"Ambient6:dddd":	[0, 0, 0, 255],
+				"Ambient7:dddd":	[0, 0, 0, 255]
+			}]
+	}, {
+		"name":	"AIManager",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerCount:d":	153,
+				"ActionCount:d":	273,
+				"LinkCount:d":	126
+			}]
+	}, {
+		"name":	"Trigger0",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType0:d":	18,
+				"TriggerName0:s":	"WORLD TRIGGER: Bombur",
+				"Trigger0:g":	"CA3DD310_54610C00",
+				"TriggerToggle0:d":	1,
+				"StaysTrue0:d":	0,
+				"TriggeredOnTrue0:d":	1
+			}]
+	}, {
+		"name":	"Trigger1",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType1:d":	3,
+				"TriggerName1:s":	"VOLUME: Turtle Trig Vol",
+				"Volume1:g":	"CA3DD291_3101F400",
+				"Character1:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce1:d":	0,
+				"AllNPCs1:d":	0,
+				"StaysTrue1:d":	0,
+				"TriggeredOnTrue1:d":	1
+			}]
+	}, {
+		"name":	"Trigger2",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType2:d":	18,
+				"TriggerName2:s":	"Teleport: Take Me 2 BagEnd",
+				"Trigger2:g":	"CA3DDF12_B1857C01",
+				"TriggerToggle2:d":	1,
+				"StaysTrue2:d":	0,
+				"TriggeredOnTrue2:d":	1
+			}]
+	}, {
+		"name":	"Trigger3",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType3:d":	0,
+				"TriggerName3:s":	""
+			}]
+	}, {
+		"name":	"Trigger4",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType4:d":	3,
+				"TriggerName4:s":	"Sneak Overlay 1",
+				"Volume4:g":	"CA3DD38F_52B9B000",
+				"Character4:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce4:d":	1,
+				"AllNPCs4:d":	0,
+				"StaysTrue4:d":	0,
+				"TriggeredOnTrue4:d":	1
+			}]
+	}, {
+		"name":	"Trigger5",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType5:d":	19,
+				"TriggerName5:s":	"Sadoc Finish Found",
+				"Cinema5:g":	"CA3DDF4F_5C96F800",
+				"TriggerOnce5:d":	0,
+				"StaysTrue5:d":	0,
+				"TriggeredOnTrue5:d":	1
+			}]
+	}, {
+		"name":	"Trigger6",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType6:d":	3,
+				"TriggerName6:s":	"Sadoc Enters Vol",
+				"Volume6:g":	"CA3DD2CF_5C284400",
+				"Character6:g":	"CA3DD58F_5BD6DC00",
+				"TriggersOnce6:d":	1,
+				"AllNPCs6:d":	0,
+				"StaysTrue6:d":	0,
+				"TriggeredOnTrue6:d":	1
+			}]
+	}, {
+		"name":	"Trigger7",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType7:d":	18,
+				"TriggerName7:s":	"Raise Well Bucket",
+				"Trigger7:g":	"CA3DD2CF_AB759C00",
+				"TriggerToggle7:d":	1,
+				"StaysTrue7:d":	0,
+				"TriggeredOnTrue7:d":	1
+			}]
+	}, {
+		"name":	"Trigger8",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType8:d":	24,
+				"TriggerName8:s":	"Quest: Wheat Complete",
+				"QuestName8:s":	"K_ID_WHEAT_CH01",
+				"StaysTrue8:d":	1,
+				"TriggeredOnTrue8:d":	1
+			}]
+	}, {
+		"name":	"Trigger9",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType9:d":	24,
+				"TriggerName9:s":	"Quest: Tea Cakes Complete",
+				"QuestName9:s":	"P_ID_TEACAKES_CH01",
+				"StaysTrue9:d":	1,
+				"TriggeredOnTrue9:d":	1
+			}]
+	}, {
+		"name":	"Trigger10",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType10:d":	24,
+				"TriggerName10:s":	"Quest: Sugar Complete",
+				"QuestName10:s":	"I_ID_SUGAR_CH01",
+				"StaysTrue10:d":	1,
+				"TriggeredOnTrue10:d":	1
+			}]
+	}, {
+		"name":	"Trigger11",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType11:d":	24,
+				"TriggerName11:s":	"Quest: Spice Complete",
+				"QuestName11:s":	"J_ID_SPICE_CH01",
+				"StaysTrue11:d":	1,
+				"TriggeredOnTrue11:d":	1
+			}]
+	}, {
+		"name":	"Trigger12",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType12:d":	24,
+				"TriggerName12:s":	"Quest: Scarecrow Complete",
+				"QuestName12:s":	"R_ID_SCARECROWS_CH01",
+				"StaysTrue12:d":	1,
+				"TriggeredOnTrue12:d":	1
+			}]
+	}, {
+		"name":	"Trigger13",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType13:d":	24,
+				"TriggerName13:s":	"Quest: Flour Complete",
+				"QuestName13:s":	"O_ID_FLOUR_CH01",
+				"StaysTrue13:d":	1,
+				"TriggeredOnTrue13:d":	1
+			}]
+	}, {
+		"name":	"Trigger14",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType14:d":	24,
+				"TriggerName14:s":	"Quest: Eggs Complete",
+				"QuestName14:s":	"M_ID_EGGS_CH01",
+				"StaysTrue14:d":	1,
+				"TriggeredOnTrue14:d":	1
+			}]
+	}, {
+		"name":	"Trigger15",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType15:d":	24,
+				"TriggerName15:s":	"Quest: Berries Complete",
+				"QuestName15:s":	"L_ID_BERRIES_CH01",
+				"StaysTrue15:d":	1,
+				"TriggeredOnTrue15:d":	1
+			}]
+	}, {
+		"name":	"Trigger16",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType16:d":	3,
+				"TriggerName16:s":	"Overlay: Silver Penny",
+				"Volume16:g":	"CA3DD38F_5280E000",
+				"Character16:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce16:d":	1,
+				"AllNPCs16:d":	0,
+				"StaysTrue16:d":	0,
+				"TriggeredOnTrue16:d":	1
+			}]
+	}, {
+		"name":	"Trigger17",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType17:d":	3,
+				"TriggerName17:s":	"Overlay: Push Block Trig",
+				"Volume17:g":	"CA3DD38F_5296E000",
+				"Character17:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce17:d":	1,
+				"AllNPCs17:d":	0,
+				"StaysTrue17:d":	0,
+				"TriggeredOnTrue17:d":	1
+			}]
+	}, {
+		"name":	"Trigger18",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType18:d":	3,
+				"TriggerName18:s":	"Overlay: Hoistable Trig",
+				"Volume18:g":	"CA3DD38F_528F4400",
+				"Character18:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce18:d":	1,
+				"AllNPCs18:d":	0,
+				"StaysTrue18:d":	0,
+				"TriggeredOnTrue18:d":	1
+			}]
+	}, {
+		"name":	"Trigger19",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType19:d":	3,
+				"TriggerName19:s":	"Noisy Surface Overlay Trig",
+				"Volume19:g":	"CA3DD38F_52C31C00",
+				"Character19:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce19:d":	1,
+				"AllNPCs19:d":	0,
+				"StaysTrue19:d":	0,
+				"TriggeredOnTrue19:d":	1
+			}]
+	}, {
+		"name":	"Trigger20",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType20:d":	9,
+				"TriggerName20:s":	"Music_VigorFound",
+				"Item20:s":	"Vigor Health",
+				"Amount20:d":	1,
+				"StaysTrue20:d":	0,
+				"TriggeredOnTrue20:d":	1
+			}]
+	}, {
+		"name":	"Trigger21",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType21:d":	24,
+				"TriggerName21:s":	"Music_NeedleQuestComplete",
+				"QuestName21:s":	"ID_NEEDLE_QUEST_CH01",
+				"StaysTrue21:d":	0,
+				"TriggeredOnTrue21:d":	1
+			}]
+	}, {
+		"name":	"Trigger22",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType22:d":	22,
+				"TriggerName22:s":	"KiddiesRunTrig",
+				"StaysTrue22:d":	0,
+				"TriggeredOnTrue22:d":	1
+			}]
+	}, {
+		"name":	"Trigger23",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType23:d":	9,
+				"TriggerName23:s":	"Inventory:Bilbo Has Egg",
+				"Item23:s":	"Egg",
+				"Amount23:d":	3,
+				"StaysTrue23:d":	1,
+				"TriggeredOnTrue23:d":	1
+			}]
+	}, {
+		"name":	"Trigger24",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType24:d":	9,
+				"TriggerName24:s":	"Inventory: Has Tea Cakes",
+				"Item24:s":	"Tea_Cakes",
+				"Amount24:d":	1,
+				"StaysTrue24:d":	1,
+				"TriggeredOnTrue24:d":	1
+			}]
+	}, {
+		"name":	"Trigger25",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType25:d":	9,
+				"TriggerName25:s":	"Inventory: Bilbo Has3 Apples",
+				"Item25:s":	"Apple",
+				"Amount25:d":	3,
+				"StaysTrue25:d":	1,
+				"TriggeredOnTrue25:d":	1
+			}]
+	}, {
+		"name":	"Trigger26",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType26:d":	9,
+				"TriggerName26:s":	"Inventory: Bilbo Has Wheat",
+				"Item26:s":	"Wheat_Sack",
+				"Amount26:d":	1,
+				"StaysTrue26:d":	1,
+				"TriggeredOnTrue26:d":	1
+			}]
+	}, {
+		"name":	"Trigger27",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType27:d":	9,
+				"TriggerName27:s":	"Inventory: Bilbo Has Walking Stick",
+				"Item27:s":	"Walking_Stick",
+				"Amount27:d":	1,
+				"StaysTrue27:d":	1,
+				"TriggeredOnTrue27:d":	1
+			}]
+	}, {
+		"name":	"Trigger28",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType28:d":	9,
+				"TriggerName28:s":	"Inventory: Bilbo Has Sugar",
+				"Item28:s":	"Sugar",
+				"Amount28:d":	1,
+				"StaysTrue28:d":	1,
+				"TriggeredOnTrue28:d":	1
+			}]
+	}, {
+		"name":	"Trigger29",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType29:d":	9,
+				"TriggerName29:s":	"Inventory: Bilbo Has Spice",
+				"Item29:s":	"Spice",
+				"Amount29:d":	1,
+				"StaysTrue29:d":	1,
+				"TriggeredOnTrue29:d":	1
+			}]
+	}, {
+		"name":	"Trigger30",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType30:d":	9,
+				"TriggerName30:s":	"Inventory: Bilbo Has Sausages",
+				"Item30:s":	"Flour",
+				"Amount30:d":	1,
+				"StaysTrue30:d":	1,
+				"TriggeredOnTrue30:d":	1
+			}]
+	}, {
+		"name":	"Trigger31",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType31:d":	9,
+				"TriggerName31:s":	"Inventory: Bilbo Has Needle",
+				"Item31:s":	"Sewing Needle",
+				"Amount31:d":	1,
+				"StaysTrue31:d":	0,
+				"TriggeredOnTrue31:d":	1
+			}]
+	}, {
+		"name":	"Trigger32",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType32:d":	9,
+				"TriggerName32:s":	"Inventory: Bilbo Has Hammer",
+				"Item32:s":	"Hammer",
+				"Amount32:d":	1,
+				"StaysTrue32:d":	1,
+				"TriggeredOnTrue32:d":	1
+			}]
+	}, {
+		"name":	"Trigger33",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType33:d":	9,
+				"TriggerName33:s":	"Inventory: Bilbo Has 3 Nails",
+				"Item33:s":	"Nails",
+				"Amount33:d":	3,
+				"StaysTrue33:d":	1,
+				"TriggeredOnTrue33:d":	1
+			}]
+	}, {
+		"name":	"Trigger34",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType34:d":	9,
+				"TriggerName34:s":	"Inventory: Bilbo Has 3 Berries",
+				"Item34:s":	"Berry",
+				"Amount34:d":	3,
+				"StaysTrue34:d":	1,
+				"TriggeredOnTrue34:d":	1
+			}]
+	}, {
+		"name":	"Trigger35",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType35:d":	9,
+				"TriggerName35:s":	"INVENTORY: Throwing Stones",
+				"Item35:s":	"Stones",
+				"Amount35:d":	1,
+				"StaysTrue35:d":	0,
+				"TriggeredOnTrue35:d":	1
+			}]
+	}, {
+		"name":	"Trigger36",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType36:d":	31,
+				"TriggerName36:s":	"INVENTORY: Berry 3",
+				"Item36:g":	"CA3DD38F_52766000",
+				"StaysTrue36:d":	0,
+				"TriggeredOnTrue36:d":	1
+			}]
+	}, {
+		"name":	"Trigger37",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType37:d":	31,
+				"TriggerName37:s":	"INVENTORY: Berry 2",
+				"Item37:g":	"CA3DDA8F_52740400",
+				"StaysTrue37:d":	0,
+				"TriggeredOnTrue37:d":	1
+			}]
+	}, {
+		"name":	"Trigger38",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType38:d":	31,
+				"TriggerName38:s":	"INVENTORY: Berry 1",
+				"Item38:g":	"CA3DD44E_78C0E801",
+				"StaysTrue38:d":	0,
+				"TriggeredOnTrue38:d":	1
+			}]
+	}, {
+		"name":	"Trigger39",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType39:d":	31,
+				"TriggerName39:s":	"INVENTORY: Apple 3",
+				"Item39:g":	"CA3DDF8F_60646C01",
+				"StaysTrue39:d":	0,
+				"TriggeredOnTrue39:d":	1
+			}]
+	}, {
+		"name":	"Trigger40",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType40:d":	31,
+				"TriggerName40:s":	"INVENTORY: Apple 2",
+				"Item40:g":	"CA3DDF8F_6063C401",
+				"StaysTrue40:d":	0,
+				"TriggeredOnTrue40:d":	1
+			}]
+	}, {
+		"name":	"Trigger41",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType41:d":	31,
+				"TriggerName41:s":	"INVENTORY: Apple 1",
+				"Item41:g":	"CA3DD44E_78BEC801",
+				"StaysTrue41:d":	0,
+				"TriggeredOnTrue41:d":	1
+			}]
+	}, {
+		"name":	"Trigger42",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType42:d":	9,
+				"TriggerName42:s":	"INVENTORY: 1 Nail Bundle",
+				"Item42:s":	"Nails",
+				"Amount42:d":	1,
+				"StaysTrue42:d":	0,
+				"TriggeredOnTrue42:d":	1
+			}]
+	}, {
+		"name":	"Trigger43",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType43:d":	9,
+				"TriggerName43:s":	"INVENTORY: 1 Egg ",
+				"Item43:s":	"Egg",
+				"Amount43:d":	1,
+				"StaysTrue43:d":	0,
+				"TriggeredOnTrue43:d":	1
+			}]
+	}, {
+		"name":	"Trigger44",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType44:d":	7,
+				"TriggerName44:s":	"Holman Alert",
+				"NPCCount44:d":	1,
+				"Trigger44NPC0:g":	"CA3DDD8E_6F198C01",
+				"ExitState44:d":	0,
+				"EnterState44:d":	2,
+				"StaysTrue44:d":	0,
+				"TriggeredOnTrue44:d":	1
+			}]
+	}, {
+		"name":	"Trigger45",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType45:d":	3,
+				"TriggerName45:s":	"Hobbiton Overlay Vol",
+				"Volume45:g":	"CA3DD50F_6199C400",
+				"Character45:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce45:d":	1,
+				"AllNPCs45:d":	0,
+				"StaysTrue45:d":	0,
+				"TriggeredOnTrue45:d":	1
+			}]
+	}, {
+		"name":	"Trigger46",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType46:d":	19,
+				"TriggerName46:s":	"Hilda Finish Found",
+				"Cinema46:g":	"CA3DD6CF_5CA2C800",
+				"TriggerOnce46:d":	0,
+				"StaysTrue46:d":	0,
+				"TriggeredOnTrue46:d":	1
+			}]
+	}, {
+		"name":	"Trigger47",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType47:d":	3,
+				"TriggerName47:s":	"Hilda Enters Vol",
+				"Volume47:g":	"63CA7F8F_62A12C01",
+				"Character47:g":	"CA3DD58F_5BD28001",
+				"TriggersOnce47:d":	1,
+				"AllNPCs47:d":	0,
+				"StaysTrue47:d":	0,
+				"TriggeredOnTrue47:d":	1
+			}]
+	}, {
+		"name":	"Trigger48",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType48:d":	19,
+				"TriggerName48:s":	"Hamfast Finish Found",
+				"Cinema48:g":	"CA3DDF4F_5C892000",
+				"TriggerOnce48:d":	0,
+				"StaysTrue48:d":	0,
+				"TriggeredOnTrue48:d":	1
+			}]
+	}, {
+		"name":	"Trigger49",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType49:d":	3,
+				"TriggerName49:s":	"Hamfast Enters Vol",
+				"Volume49:g":	"CA3DD2CF_5C23DC00",
+				"Character49:g":	"CA3DD58F_5BD13800",
+				"TriggersOnce49:d":	1,
+				"AllNPCs49:d":	0,
+				"StaysTrue49:d":	0,
+				"TriggeredOnTrue49:d":	1
+			}]
+	}, {
+		"name":	"Trigger50",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType50:d":	19,
+				"TriggerName50:s":	"Green Drag Cin Ends",
+				"Cinema50:g":	"0D8ADB12_3EA5E400",
+				"TriggerOnce50:d":	0,
+				"StaysTrue50:d":	0,
+				"TriggeredOnTrue50:d":	1
+			}]
+	}, {
+		"name":	"Trigger51",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType51:d":	19,
+				"TriggerName51:s":	"Gammer 3 Finish",
+				"Cinema51:g":	"CA3DD9CF_60C14400",
+				"TriggerOnce51:d":	0,
+				"StaysTrue51:d":	0,
+				"TriggeredOnTrue51:d":	1
+			}]
+	}, {
+		"name":	"Trigger52",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType52:d":	23,
+				"TriggerName52:s":	"EOL Switch Hit",
+				"Switch52:g":	"0D8AD9D1_5033A000",
+				"StaysTrue52:d":	0,
+				"TriggeredOnTrue52:d":	1
+			}]
+	}, {
+		"name":	"Trigger53",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType53:d":	18,
+				"TriggerName53:s":	"Door 2 Htown trig",
+				"Trigger53:g":	"CA3DDC4F_E3C7A400",
+				"TriggerToggle53:d":	1,
+				"StaysTrue53:d":	0,
+				"TriggeredOnTrue53:d":	1
+			}]
+	}, {
+		"name":	"Trigger54",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType54:d":	3,
+				"TriggerName54:s":	"Dog Maggot Trig",
+				"Volume54:g":	"CA3DD9CF_4D1A4800",
+				"Character54:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce54:d":	1,
+				"AllNPCs54:d":	0,
+				"StaysTrue54:d":	0,
+				"TriggeredOnTrue54:d":	1
+			}]
+	}, {
+		"name":	"Trigger55",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType55:d":	8,
+				"TriggerName55:s":	"Dog 5 Howl",
+				"NPC55:g":	"63CA720F_67036001",
+				"ActionName55:s":	"howl",
+				"StaysTrue55:d":	0,
+				"TriggeredOnTrue55:d":	1
+			}]
+	}, {
+		"name":	"Trigger56",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType56:d":	8,
+				"TriggerName56:s":	"Dog 4 Howl",
+				"NPC56:g":	"63CA720F_67034001",
+				"ActionName56:s":	"howl",
+				"StaysTrue56:d":	0,
+				"TriggeredOnTrue56:d":	1
+			}]
+	}, {
+		"name":	"Trigger57",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType57:d":	8,
+				"TriggerName57:s":	"Dog 3 Howl",
+				"NPC57:g":	"63CA720F_67032001",
+				"ActionName57:s":	"howl",
+				"StaysTrue57:d":	0,
+				"TriggeredOnTrue57:d":	1
+			}]
+	}, {
+		"name":	"Trigger58",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType58:d":	8,
+				"TriggerName58:s":	"Dog 2 howl",
+				"NPC58:g":	"63CA720F_6702F801",
+				"ActionName58:s":	"howl",
+				"StaysTrue58:d":	0,
+				"TriggeredOnTrue58:d":	1
+			}]
+	}, {
+		"name":	"Trigger59",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType59:d":	8,
+				"TriggerName59:s":	"Dog 1 Howl",
+				"NPC59:g":	"CA3DDCCF_56312C01",
+				"ActionName59:s":	"howl",
+				"StaysTrue59:d":	0,
+				"TriggeredOnTrue59:d":	1
+			}]
+	}, {
+		"name":	"Trigger60",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType60:d":	3,
+				"TriggerName60:s":	"Dialog: Start Trigger",
+				"Volume60:g":	"CA3DD60F_31533400",
+				"Character60:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce60:d":	1,
+				"AllNPCs60:d":	0,
+				"StaysTrue60:d":	1,
+				"TriggeredOnTrue60:d":	1
+			}]
+	}, {
+		"name":	"Trigger61",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType61:d":	19,
+				"TriggerName61:s":	"Dialog: Sandyman 5 Complete",
+				"Cinema61:g":	"CA3DD50F_2D986000",
+				"TriggerOnce61:d":	0,
+				"StaysTrue61:d":	1,
+				"TriggeredOnTrue61:d":	1
+			}]
+	}, {
+		"name":	"Trigger62",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType62:d":	19,
+				"TriggerName62:s":	"Dialog: Sandyman 3 Finish",
+				"Cinema62:g":	"CA3DD50F_2D92E800",
+				"TriggerOnce62:d":	0,
+				"StaysTrue62:d":	1,
+				"TriggeredOnTrue62:d":	1
+			}]
+	}, {
+		"name":	"Trigger63",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType63:d":	19,
+				"TriggerName63:s":	"Dialog: Otho 1 Complete",
+				"Cinema63:g":	"CA3DD50F_2DB54800",
+				"TriggerOnce63:d":	0,
+				"StaysTrue63:d":	1,
+				"TriggeredOnTrue63:d":	1
+			}]
+	}, {
+		"name":	"Trigger64",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType64:d":	19,
+				"TriggerName64:s":	"Dialog: Lorella 1 Done",
+				"Cinema64:g":	"CA3DDA0F_30C70800",
+				"TriggerOnce64:d":	0,
+				"StaysTrue64:d":	1,
+				"TriggeredOnTrue64:d":	1
+			}]
+	}, {
+		"name":	"Trigger65",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType65:d":	19,
+				"TriggerName65:s":	"Dialog: Holbert 3 Done",
+				"Cinema65:g":	"CA3DD60F_2CA0C400",
+				"TriggerOnce65:d":	0,
+				"StaysTrue65:d":	1,
+				"TriggeredOnTrue65:d":	1
+			}]
+	}, {
+		"name":	"Trigger66",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType66:d":	19,
+				"TriggerName66:s":	"Dialog: Holbert 1 Done",
+				"Cinema66:g":	"CA3DDA4F_2BDCF800",
+				"TriggerOnce66:d":	0,
+				"StaysTrue66:d":	1,
+				"TriggeredOnTrue66:d":	1
+			}]
+	}, {
+		"name":	"Trigger67",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType67:d":	19,
+				"TriggerName67:s":	"Dialog: Hanna 4 Finished",
+				"Cinema67:g":	"CA3DDF8E_98F14000",
+				"TriggerOnce67:d":	0,
+				"StaysTrue67:d":	0,
+				"TriggeredOnTrue67:d":	1
+			}]
+	}, {
+		"name":	"Trigger68",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType68:d":	19,
+				"TriggerName68:s":	"Dialog: Hanna 3 Finished",
+				"Cinema68:g":	"CA3DDF8E_98F13800",
+				"TriggerOnce68:d":	0,
+				"StaysTrue68:d":	0,
+				"TriggeredOnTrue68:d":	1
+			}]
+	}, {
+		"name":	"Trigger69",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType69:d":	19,
+				"TriggerName69:s":	"Dialog: Hanna 1 Finished",
+				"Cinema69:g":	"CA3DDF0E_931B5400",
+				"TriggerOnce69:d":	0,
+				"StaysTrue69:d":	1,
+				"TriggeredOnTrue69:d":	1
+			}]
+	}, {
+		"name":	"Trigger70",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType70:d":	19,
+				"TriggerName70:s":	"Dialog: Gammer 4 Finished",
+				"Cinema70:g":	"CA3DDD0F_612D0400",
+				"TriggerOnce70:d":	0,
+				"StaysTrue70:d":	0,
+				"TriggeredOnTrue70:d":	1
+			}]
+	}, {
+		"name":	"Trigger71",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType71:d":	19,
+				"TriggerName71:s":	"Dialog: Gammer 1 Finished",
+				"Cinema71:g":	"CA3DDE8E_9965C400",
+				"TriggerOnce71:d":	0,
+				"StaysTrue71:d":	1,
+				"TriggeredOnTrue71:d":	1
+			}]
+	}, {
+		"name":	"Trigger72",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType72:d":	19,
+				"TriggerName72:s":	"Dialog: Bombur 3 Finished",
+				"Cinema72:g":	"CA3DD890_04C42000",
+				"TriggerOnce72:d":	0,
+				"StaysTrue72:d":	0,
+				"TriggeredOnTrue72:d":	1
+			}]
+	}, {
+		"name":	"Trigger73",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType73:d":	19,
+				"TriggerName73:s":	"Dialog:  Gammer 2 Finished",
+				"Cinema73:g":	"CA3DD3CF_41DB0800",
+				"TriggerOnce73:d":	0,
+				"StaysTrue73:d":	0,
+				"TriggeredOnTrue73:d":	1
+			}]
+	}, {
+		"name":	"Trigger74",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType74:d":	19,
+				"TriggerName74:s":	"Dialog:  Bombur 1 Finished",
+				"Cinema74:g":	"CA3DD890_04554800",
+				"TriggerOnce74:d":	0,
+				"StaysTrue74:d":	0,
+				"TriggeredOnTrue74:d":	1
+			}]
+	}, {
+		"name":	"Trigger75",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType75:d":	18,
+				"TriggerName75:s":	"Dialog:  Bilbo Needs Walking Stick",
+				"Trigger75:g":	"CA3DDC4F_E3C7A400",
+				"TriggerToggle75:d":	1,
+				"StaysTrue75:d":	0,
+				"TriggeredOnTrue75:d":	1
+			}]
+	}, {
+		"name":	"Trigger76",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType76:d":	3,
+				"TriggerName76:s":	"Dialog:  Bilbo Front Door Dialog",
+				"Volume76:g":	"CA3DDACF_36330800",
+				"Character76:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce76:d":	1,
+				"AllNPCs76:d":	0,
+				"StaysTrue76:d":	0,
+				"TriggeredOnTrue76:d":	1
+			}]
+	}, {
+		"name":	"Trigger77",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType77:d":	18,
+				"TriggerName77:s":	"DIALOG: Parents Pic",
+				"Trigger77:g":	"CA3DDD11_C43A9400",
+				"TriggerToggle77:d":	1,
+				"StaysTrue77:d":	0,
+				"TriggeredOnTrue77:d":	1
+			}]
+	}, {
+		"name":	"Trigger78",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType78:d":	3,
+				"TriggerName78:s":	"DIALOG: Green Dragon Inn",
+				"Volume78:g":	"CA3DD211_520B7800",
+				"Character78:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce78:d":	0,
+				"AllNPCs78:d":	0,
+				"StaysTrue78:d":	0,
+				"TriggeredOnTrue78:d":	1
+			}]
+	}, {
+		"name":	"Trigger79",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType79:d":	18,
+				"TriggerName79:s":	"DIALOG: Family Pic Switch",
+				"Trigger79:g":	"CA3DDD11_C437D400",
+				"TriggerToggle79:d":	1,
+				"StaysTrue79:d":	0,
+				"TriggeredOnTrue79:d":	1
+			}]
+	}, {
+		"name":	"Trigger80",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType80:d":	26,
+				"TriggerName80:s":	"Chicken7 Alert 2 Bilbo",
+				"NPCSensing80:g":	"CA3DD48F_520ED401",
+				"CharacterSensed80:g":	"ABCABCAB_CABCABC0",
+				"Senses80:d":	12,
+				"StaysTrue80:d":	0,
+				"TriggeredOnTrue80:d":	1
+			}]
+	}, {
+		"name":	"Trigger81",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType81:d":	26,
+				"TriggerName81:s":	"Chicken6 Alert 2 Bilbo",
+				"NPCSensing81:g":	"CA3DD48F_520EC001",
+				"CharacterSensed81:g":	"ABCABCAB_CABCABC0",
+				"Senses81:d":	12,
+				"StaysTrue81:d":	0,
+				"TriggeredOnTrue81:d":	1
+			}]
+	}, {
+		"name":	"Trigger82",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType82:d":	26,
+				"TriggerName82:s":	"Chicken5 Alert 2 Bilbo",
+				"NPCSensing82:g":	"CA3DD48F_520E7001",
+				"CharacterSensed82:g":	"ABCABCAB_CABCABC0",
+				"Senses82:d":	12,
+				"StaysTrue82:d":	0,
+				"TriggeredOnTrue82:d":	1
+			}]
+	}, {
+		"name":	"Trigger83",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType83:d":	26,
+				"TriggerName83:s":	"Chicken4 Alert 2 Bilbo",
+				"NPCSensing83:g":	"CA3DD48F_520D8801",
+				"CharacterSensed83:g":	"ABCABCAB_CABCABC0",
+				"Senses83:d":	12,
+				"StaysTrue83:d":	0,
+				"TriggeredOnTrue83:d":	1
+			}]
+	}, {
+		"name":	"Trigger84",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType84:d":	26,
+				"TriggerName84:s":	"Chicken3 Alert 2 Bilbo",
+				"NPCSensing84:g":	"CA3DD48F_520D1801",
+				"CharacterSensed84:g":	"ABCABCAB_CABCABC0",
+				"Senses84:d":	12,
+				"StaysTrue84:d":	0,
+				"TriggeredOnTrue84:d":	1
+			}]
+	}, {
+		"name":	"Trigger85",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType85:d":	26,
+				"TriggerName85:s":	"Chicken2 Alert 2 Bilbo",
+				"NPCSensing85:g":	"CA3DD48F_520CF001",
+				"CharacterSensed85:g":	"ABCABCAB_CABCABC0",
+				"Senses85:d":	12,
+				"StaysTrue85:d":	0,
+				"TriggeredOnTrue85:d":	1
+			}]
+	}, {
+		"name":	"Trigger86",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType86:d":	26,
+				"TriggerName86:s":	"Chicken1 Alert 2 Bilbo",
+				"NPCSensing86:g":	"CA3DD48F_52031800",
+				"CharacterSensed86:g":	"ABCABCAB_CABCABC0",
+				"Senses86:d":	12,
+				"StaysTrue86:d":	0,
+				"TriggeredOnTrue86:d":	1
+			}]
+	}, {
+		"name":	"Trigger87",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType87:d":	19,
+				"TriggerName87:s":	"CINEMA: Sandyman 1 Done",
+				"Cinema87:g":	"CA3DD50F_2D866C00",
+				"TriggerOnce87:d":	0,
+				"StaysTrue87:d":	1,
+				"TriggeredOnTrue87:d":	1
+			}]
+	}, {
+		"name":	"Trigger88",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType88:d":	19,
+				"TriggerName88:s":	"CINEMA: Sandyman 04 Finished",
+				"Cinema88:g":	"CA3DD952_338A4800",
+				"TriggerOnce88:d":	0,
+				"StaysTrue88:d":	0,
+				"TriggeredOnTrue88:d":	1
+			}]
+	}, {
+		"name":	"Trigger89",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType89:d":	19,
+				"TriggerName89:s":	"CINEMA: Level Start",
+				"Cinema89:g":	"CA3DDF12_32749400",
+				"TriggerOnce89:d":	0,
+				"StaysTrue89:d":	0,
+				"TriggeredOnTrue89:d":	1
+			}]
+	}, {
+		"name":	"Trigger90",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType90:d":	21,
+				"TriggerName90:s":	"CINEMA: Intro Cin Begins",
+				"Cinema90:g":	"CA3DDF12_32749400",
+				"StaysTrue90:d":	0,
+				"TriggeredOnTrue90:d":	1
+			}]
+	}, {
+		"name":	"Trigger91",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType91:d":	19,
+				"TriggerName91:s":	"CINEMA: Holman Cine Finish",
+				"Cinema91:g":	"C0CFA5CF_70759C00",
+				"TriggerOnce91:d":	0,
+				"StaysTrue91:d":	0,
+				"TriggeredOnTrue91:d":	1
+			}]
+	}, {
+		"name":	"Trigger92",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType92:d":	19,
+				"TriggerName92:s":	"CINEMA: Holman Cine 004 Finish",
+				"Cinema92:g":	"CA3DD091_E81B4401",
+				"TriggerOnce92:d":	0,
+				"StaysTrue92:d":	0,
+				"TriggeredOnTrue92:d":	1
+			}]
+	}, {
+		"name":	"Trigger93",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType93:d":	19,
+				"TriggerName93:s":	"CINEMA: Holman Cine 003 Finish",
+				"Cinema93:g":	"CA3DD091_E81B3401",
+				"TriggerOnce93:d":	0,
+				"StaysTrue93:d":	0,
+				"TriggeredOnTrue93:d":	1
+			}]
+	}, {
+		"name":	"Trigger94",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType94:d":	19,
+				"TriggerName94:s":	"CINEMA: Holman Cine 002 Finish",
+				"Cinema94:g":	"CA3DD091_E81B2401",
+				"TriggerOnce94:d":	0,
+				"StaysTrue94:d":	0,
+				"TriggeredOnTrue94:d":	1
+			}]
+	}, {
+		"name":	"Trigger95",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType95:d":	19,
+				"TriggerName95:s":	"CINEMA: Holman Cine 001 Finish",
+				"Cinema95:g":	"CA3DD091_E81B1001",
+				"TriggerOnce95:d":	0,
+				"StaysTrue95:d":	0,
+				"TriggeredOnTrue95:d":	1
+			}]
+	}, {
+		"name":	"Trigger96",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType96:d":	19,
+				"TriggerName96:s":	"CINEMA: Holman Cine 000 Finish",
+				"Cinema96:g":	"CA3DD091_E81AF401",
+				"TriggerOnce96:d":	0,
+				"StaysTrue96:d":	0,
+				"TriggeredOnTrue96:d":	1
+			}]
+	}, {
+		"name":	"Trigger97",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType97:d":	19,
+				"TriggerName97:s":	"CINEMA: Hide Seek Ends",
+				"Cinema97:g":	"15A467D1_1B7A8800",
+				"TriggerOnce97:d":	0,
+				"StaysTrue97:d":	0,
+				"TriggeredOnTrue97:d":	1
+			}]
+	}, {
+		"name":	"Trigger98",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType98:d":	19,
+				"TriggerName98:s":	"CINEMA: Chicken Cine Ends",
+				"Cinema98:g":	"CA3DD6D1_E9113000",
+				"TriggerOnce98:d":	0,
+				"StaysTrue98:d":	0,
+				"TriggeredOnTrue98:d":	1
+			}]
+	}, {
+		"name":	"Trigger99",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType99:d":	3,
+				"TriggerName99:s":	"CINEMA: Bombur Dialog force",
+				"Volume99:g":	"CA3DD551_FA176400",
+				"Character99:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce99:d":	0,
+				"AllNPCs99:d":	0,
+				"StaysTrue99:d":	0,
+				"TriggeredOnTrue99:d":	1
+			}]
+	}, {
+		"name":	"Trigger100",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType100:d":	3,
+				"TriggerName100:s":	"Bilbo Lily Pad Success",
+				"Volume100:g":	"CA3DD50F_C4C5B000",
+				"Character100:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce100:d":	0,
+				"AllNPCs100:d":	0,
+				"StaysTrue100:d":	0,
+				"TriggeredOnTrue100:d":	1
+			}]
+	}, {
+		"name":	"Trigger101",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType101:d":	3,
+				"TriggerName101:s":	"Bilbo Lily Pad Restart",
+				"Volume101:g":	"CA3DD50F_C4BE6C00",
+				"Character101:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce101:d":	0,
+				"AllNPCs101:d":	0,
+				"StaysTrue101:d":	0,
+				"TriggeredOnTrue101:d":	1
+			}]
+	}, {
+		"name":	"Trigger102",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType102:d":	3,
+				"TriggerName102:s":	"Bilbo Lily Pad Failure",
+				"Volume102:g":	"CA3DD50F_C4B3F400",
+				"Character102:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce102:d":	0,
+				"AllNPCs102:d":	0,
+				"StaysTrue102:d":	0,
+				"TriggeredOnTrue102:d":	1
+			}]
+	}, {
+		"name":	"Trigger103",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType103:d":	9,
+				"TriggerName103:s":	"Bilbo Has Tea Cakes",
+				"Item103:s":	"Tea_Cakes",
+				"Amount103:d":	1,
+				"StaysTrue103:d":	0,
+				"TriggeredOnTrue103:d":	1
+			}]
+	}, {
+		"name":	"Trigger104",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType104:d":	3,
+				"TriggerName104:s":	"Bilbo Enters Well Zone",
+				"Volume104:g":	"CA3DD60F_31329800",
+				"Character104:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce104:d":	1,
+				"AllNPCs104:d":	0,
+				"StaysTrue104:d":	0,
+				"TriggeredOnTrue104:d":	1
+			}]
+	}, {
+		"name":	"Trigger105",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType105:d":	3,
+				"TriggerName105:s":	"Bilbo Enters Holman Tele",
+				"Volume105:g":	"CA3DD3CF_51255800",
+				"Character105:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce105:d":	1,
+				"AllNPCs105:d":	0,
+				"StaysTrue105:d":	0,
+				"TriggeredOnTrue105:d":	1
+			}]
+	}, {
+		"name":	"Trigger106",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType106:d":	3,
+				"TriggerName106:s":	"Bilbo Enters Hide and seek Vol",
+				"Volume106:g":	"CA3DD8CF_C5E6EC00",
+				"Character106:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce106:d":	0,
+				"AllNPCs106:d":	0,
+				"StaysTrue106:d":	0,
+				"TriggeredOnTrue106:d":	1
+			}]
+	}, {
+		"name":	"Trigger107",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType107:d":	3,
+				"TriggerName107:s":	"Bilbo Enters Chicken Tele",
+				"Volume107:g":	"CA3DD7CF_5137B000",
+				"Character107:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce107:d":	1,
+				"AllNPCs107:d":	0,
+				"StaysTrue107:d":	0,
+				"TriggeredOnTrue107:d":	1
+			}]
+	}, {
+		"name":	"Trigger108",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType108:d":	3,
+				"TriggerName108:s":	"Bilbo Enters Bridge Vol",
+				"Volume108:g":	"CA3DD64F_E5E4B000",
+				"Character108:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce108:d":	0,
+				"AllNPCs108:d":	0,
+				"StaysTrue108:d":	0,
+				"TriggeredOnTrue108:d":	1
+			}]
+	}, {
+		"name":	"Trigger109",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType109:d":	19,
+				"TriggerName109:s":	"Bell Finish Found",
+				"Cinema109:g":	"CA3DDD8F_5C783000",
+				"TriggerOnce109:d":	0,
+				"StaysTrue109:d":	0,
+				"TriggeredOnTrue109:d":	1
+			}]
+	}, {
+		"name":	"Trigger110",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType110:d":	3,
+				"TriggerName110:s":	"Bell Enters Vol",
+				"Volume110:g":	"CA3DD2CF_5C254800",
+				"Character110:g":	"CA3DD48F_5BA30400",
+				"TriggersOnce110:d":	1,
+				"AllNPCs110:d":	0,
+				"StaysTrue110:d":	0,
+				"TriggeredOnTrue110:d":	1
+			}]
+	}, {
+		"name":	"Trigger111",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType111:d":	3,
+				"TriggerName111:s":	"Bag End Overlay Vol",
+				"Volume111:g":	"CA3DD50F_61965400",
+				"Character111:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce111:d":	1,
+				"AllNPCs111:d":	0,
+				"StaysTrue111:d":	0,
+				"TriggeredOnTrue111:d":	1
+			}]
+	}, {
+		"name":	"Trigger112",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType112:d":	8,
+				"TriggerName112:s":	"Action: Scarecrow Hit",
+				"NPC112:g":	"CA3DDF4F_3627C000",
+				"ActionName112:s":	"StrongFlinch",
+				"StaysTrue112:d":	1,
+				"TriggeredOnTrue112:d":	1
+			}]
+	}, {
+		"name":	"Trigger113",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType113:d":	25,
+				"TriggerName113:s":	"Action: Butter Churn In Vol",
+				"Volume113:g":	"CA3DD20F_41F8D400",
+				"Object113:g":	"CA3DD20F_41F77800",
+				"StaysTrue113:d":	1,
+				"TriggeredOnTrue113:d":	1
+			}]
+	}, {
+		"name":	"Trigger114",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType114:d":	3,
+				"TriggerName114:s":	"Action: Bilbo Enter Apple Conv Vol",
+				"Volume114:g":	"CA3DDF0F_2BBA8000",
+				"Character114:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce114:d":	1,
+				"AllNPCs114:d":	0,
+				"StaysTrue114:d":	0,
+				"TriggeredOnTrue114:d":	1
+			}]
+	}, {
+		"name":	"Trigger115",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType115:d":	26,
+				"TriggerName115:s":	"Act: Holman Is Attacking",
+				"NPCSensing115:g":	"CA3DDD8E_6F198C01",
+				"CharacterSensed115:g":	"ABCABCAB_CABCABC0",
+				"Senses115:d":	2,
+				"StaysTrue115:d":	0,
+				"TriggeredOnTrue115:d":	1
+			}]
+	}, {
+		"name":	"Trigger116",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType116:d":	3,
+				"TriggerName116:s":	"Act: Bilbo Exits Chicken Coop",
+				"Volume116:g":	"CA3DD7CF_5135CC01",
+				"Character116:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce116:d":	1,
+				"AllNPCs116:d":	0,
+				"StaysTrue116:d":	0,
+				"TriggeredOnTrue116:d":	1
+			}]
+	}, {
+		"name":	"Trigger117",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType117:d":	3,
+				"TriggerName117:s":	"Act: Bilbo Enters Good Holman Vol",
+				"Volume117:g":	"CA3DD60F_31E0E401",
+				"Character117:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce117:d":	1,
+				"AllNPCs117:d":	0,
+				"StaysTrue117:d":	0,
+				"TriggeredOnTrue117:d":	1
+			}]
+	}, {
+		"name":	"Trigger118",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType118:d":	3,
+				"TriggerName118:s":	"Act: Bilbo Enters Evil Holman Vol",
+				"Volume118:g":	"CA3DD60F_31DE1400",
+				"Character118:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce118:d":	1,
+				"AllNPCs118:d":	0,
+				"StaysTrue118:d":	0,
+				"TriggeredOnTrue118:d":	1
+			}]
+	}, {
+		"name":	"Trigger119",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType119:d":	3,
+				"TriggerName119:s":	"Act: Bilbo Enters Chicken Coop",
+				"Volume119:g":	"CA3DD7CF_5134B800",
+				"Character119:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce119:d":	1,
+				"AllNPCs119:d":	0,
+				"StaysTrue119:d":	0,
+				"TriggeredOnTrue119:d":	1
+			}]
+	}, {
+		"name":	"Trigger120",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType120:d":	23,
+				"TriggerName120:s":	"ACTION: Well Trig Hit",
+				"Switch120:g":	"CA3DD611_519E9000",
+				"StaysTrue120:d":	0,
+				"TriggeredOnTrue120:d":	1
+			}]
+	}, {
+		"name":	"Trigger121",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType121:d":	30,
+				"TriggerName121:s":	"ACTION: Well Anim Finish",
+				"RigidInstance121:g":	"991186CF_A099C800",
+				"Animation121:d":	0,
+				"StaysTrue121:d":	0,
+				"TriggeredOnTrue121:d":	1
+			}]
+	}, {
+		"name":	"Trigger122",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType122:d":	3,
+				"TriggerName122:s":	"ACTION: UV Stop Vol",
+				"Volume122:g":	"CA3DDD12_37DEF800",
+				"Character122:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce122:d":	0,
+				"AllNPCs122:d":	0,
+				"StaysTrue122:d":	1,
+				"TriggeredOnTrue122:d":	1
+			}]
+	}, {
+		"name":	"Trigger123",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType123:d":	8,
+				"TriggerName123:s":	"ACTION: Scarecrow 001 hit",
+				"NPC123:g":	"CA3DD191_C98F040A",
+				"ActionName123:s":	"StrongFlinch",
+				"StaysTrue123:d":	1,
+				"TriggeredOnTrue123:d":	1
+			}]
+	}, {
+		"name":	"Trigger124",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType124:d":	8,
+				"TriggerName124:s":	"ACTION: Scarecrow 000 hit",
+				"NPC124:g":	"CA3DD191_C98EA40A",
+				"ActionName124:s":	"StrongFlinch",
+				"StaysTrue124:d":	1,
+				"TriggeredOnTrue124:d":	1
+			}]
+	}, {
+		"name":	"Trigger125",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType125:d":	18,
+				"TriggerName125:s":	"ACTION: H Door 6",
+				"Trigger125:g":	"CA3DD4D1_E31A3C01",
+				"TriggerToggle125:d":	1,
+				"StaysTrue125:d":	0,
+				"TriggeredOnTrue125:d":	1
+			}]
+	}, {
+		"name":	"Trigger126",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType126:d":	18,
+				"TriggerName126:s":	"ACTION: H Door 5",
+				"Trigger126:g":	"CA3DD4D1_E319A401",
+				"TriggerToggle126:d":	1,
+				"StaysTrue126:d":	0,
+				"TriggeredOnTrue126:d":	1
+			}]
+	}, {
+		"name":	"Trigger127",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType127:d":	18,
+				"TriggerName127:s":	"ACTION: H Door 4",
+				"Trigger127:g":	"CA3DD4D1_E3195801",
+				"TriggerToggle127:d":	1,
+				"StaysTrue127:d":	0,
+				"TriggeredOnTrue127:d":	1
+			}]
+	}, {
+		"name":	"Trigger128",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType128:d":	18,
+				"TriggerName128:s":	"ACTION: H Door 3",
+				"Trigger128:g":	"CA3DD4D1_E318E801",
+				"TriggerToggle128:d":	1,
+				"StaysTrue128:d":	0,
+				"TriggeredOnTrue128:d":	1
+			}]
+	}, {
+		"name":	"Trigger129",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType129:d":	18,
+				"TriggerName129:s":	"ACTION: H Door 2",
+				"Trigger129:g":	"CA3DD4D1_E3189C01",
+				"TriggerToggle129:d":	1,
+				"StaysTrue129:d":	0,
+				"TriggeredOnTrue129:d":	1
+			}]
+	}, {
+		"name":	"Trigger130",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType130:d":	18,
+				"TriggerName130:s":	"ACTION: H Door",
+				"Trigger130:g":	"CA3DD4D1_E316C800",
+				"TriggerToggle130:d":	1,
+				"StaysTrue130:d":	0,
+				"TriggeredOnTrue130:d":	1
+			}]
+	}, {
+		"name":	"Trigger131",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType131:d":	18,
+				"TriggerName131:s":	"ACTION: Gandolf B Trig Hit",
+				"Trigger131:g":	"CA3DDB92_5D198001",
+				"TriggerToggle131:d":	1,
+				"StaysTrue131:d":	0,
+				"TriggeredOnTrue131:d":	1
+			}]
+	}, {
+		"name":	"Trigger132",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType132:d":	3,
+				"TriggerName132:s":	"ACTION: Frank in Vol 5",
+				"Volume132:g":	"63CA774F_7038F801",
+				"Character132:g":	"63CA720F_67034001",
+				"TriggersOnce132:d":	0,
+				"AllNPCs132:d":	0,
+				"StaysTrue132:d":	0,
+				"TriggeredOnTrue132:d":	1
+			}]
+	}, {
+		"name":	"Trigger133",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType133:d":	3,
+				"TriggerName133:s":	"ACTION: Frank in Vol 4",
+				"Volume133:g":	"63CA774F_7038E001",
+				"Character133:g":	"63CA720F_67034001",
+				"TriggersOnce133:d":	0,
+				"AllNPCs133:d":	0,
+				"StaysTrue133:d":	0,
+				"TriggeredOnTrue133:d":	1
+			}]
+	}, {
+		"name":	"Trigger134",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType134:d":	3,
+				"TriggerName134:s":	"ACTION: Frank in Vol 3",
+				"Volume134:g":	"63CA774F_7037C800",
+				"Character134:g":	"63CA720F_67034001",
+				"TriggersOnce134:d":	0,
+				"AllNPCs134:d":	0,
+				"StaysTrue134:d":	0,
+				"TriggeredOnTrue134:d":	1
+			}]
+	}, {
+		"name":	"Trigger135",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType135:d":	3,
+				"TriggerName135:s":	"ACTION: Frank in Vol 2",
+				"Volume135:g":	"63CA774F_7038B001",
+				"Character135:g":	"63CA720F_67034001",
+				"TriggersOnce135:d":	0,
+				"AllNPCs135:d":	0,
+				"StaysTrue135:d":	0,
+				"TriggeredOnTrue135:d":	1
+			}]
+	}, {
+		"name":	"Trigger136",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType136:d":	3,
+				"TriggerName136:s":	"ACTION: Frank in Vol 1",
+				"Volume136:g":	"63CA774F_70390C01",
+				"Character136:g":	"63CA720F_67034001",
+				"TriggersOnce136:d":	0,
+				"AllNPCs136:d":	0,
+				"StaysTrue136:d":	0,
+				"TriggeredOnTrue136:d":	1
+			}]
+	}, {
+		"name":	"Trigger137",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType137:d":	31,
+				"TriggerName137:s":	"ACTION: First CP Explained",
+				"Item137:g":	"CA3DD5D0_094F6401",
+				"StaysTrue137:d":	0,
+				"TriggeredOnTrue137:d":	1
+			}]
+	}, {
+		"name":	"Trigger138",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType138:d":	3,
+				"TriggerName138:s":	"ACTION: Bilbo Save Vol 4",
+				"Volume138:g":	"CA3DD3D2_6846D801",
+				"Character138:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce138:d":	0,
+				"AllNPCs138:d":	0,
+				"StaysTrue138:d":	0,
+				"TriggeredOnTrue138:d":	1
+			}]
+	}, {
+		"name":	"Trigger139",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType139:d":	3,
+				"TriggerName139:s":	"ACTION: Bilbo Save Vol 3",
+				"Volume139:g":	"CA3DD3D2_68464C01",
+				"Character139:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce139:d":	0,
+				"AllNPCs139:d":	0,
+				"StaysTrue139:d":	0,
+				"TriggeredOnTrue139:d":	1
+			}]
+	}, {
+		"name":	"Trigger140",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType140:d":	3,
+				"TriggerName140:s":	"ACTION: Bilbo Save Vol 2",
+				"Volume140:g":	"CA3DD3D2_68449001",
+				"Character140:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce140:d":	0,
+				"AllNPCs140:d":	0,
+				"StaysTrue140:d":	0,
+				"TriggeredOnTrue140:d":	1
+			}]
+	}, {
+		"name":	"Trigger141",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType141:d":	3,
+				"TriggerName141:s":	"ACTION: Bilbo Save Vol 1",
+				"Volume141:g":	"CA3DD3D2_68430800",
+				"Character141:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce141:d":	0,
+				"AllNPCs141:d":	0,
+				"StaysTrue141:d":	0,
+				"TriggeredOnTrue141:d":	1
+			}]
+	}, {
+		"name":	"Trigger142",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType142:d":	3,
+				"TriggerName142:s":	"ACTION: Bilbo Sav Vol 6",
+				"Volume142:g":	"CA3DD3D2_6847F801",
+				"Character142:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce142:d":	0,
+				"AllNPCs142:d":	0,
+				"StaysTrue142:d":	0,
+				"TriggeredOnTrue142:d":	1
+			}]
+	}, {
+		"name":	"Trigger143",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType143:d":	3,
+				"TriggerName143:s":	"ACTION: Bilbo Sav Vol 5",
+				"Volume143:g":	"CA3DD3D2_68476401",
+				"Character143:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce143:d":	0,
+				"AllNPCs143:d":	0,
+				"StaysTrue143:d":	0,
+				"TriggeredOnTrue143:d":	1
+			}]
+	}, {
+		"name":	"Trigger144",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType144:d":	3,
+				"TriggerName144:s":	"ACTION: Bilbo Dog Vol 5",
+				"Volume144:g":	"CA3DDB92_68675001",
+				"Character144:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce144:d":	0,
+				"AllNPCs144:d":	0,
+				"StaysTrue144:d":	0,
+				"TriggeredOnTrue144:d":	1
+			}]
+	}, {
+		"name":	"Trigger145",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType145:d":	3,
+				"TriggerName145:s":	"ACTION: Bilbo Dog Vol 4",
+				"Volume145:g":	"CA3DDB92_68673C01",
+				"Character145:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce145:d":	0,
+				"AllNPCs145:d":	0,
+				"StaysTrue145:d":	0,
+				"TriggeredOnTrue145:d":	1
+			}]
+	}, {
+		"name":	"Trigger146",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType146:d":	3,
+				"TriggerName146:s":	"ACTION: Bilbo Dog Vol 3",
+				"Volume146:g":	"CA3DDB92_68670C01",
+				"Character146:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce146:d":	0,
+				"AllNPCs146:d":	0,
+				"StaysTrue146:d":	0,
+				"TriggeredOnTrue146:d":	1
+			}]
+	}, {
+		"name":	"Trigger147",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType147:d":	3,
+				"TriggerName147:s":	"ACTION: Bilbo Dog Vol 2",
+				"Volume147:g":	"CA3DDB92_6866F001",
+				"Character147:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce147:d":	0,
+				"AllNPCs147:d":	0,
+				"StaysTrue147:d":	0,
+				"TriggeredOnTrue147:d":	1
+			}]
+	}, {
+		"name":	"Trigger148",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType148:d":	3,
+				"TriggerName148:s":	"ACTION: Bilbo Dog Vol 1",
+				"Volume148:g":	"CA3DDB92_6865D801",
+				"Character148:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce148:d":	0,
+				"AllNPCs148:d":	0,
+				"StaysTrue148:d":	0,
+				"TriggeredOnTrue148:d":	1
+			}]
+	}, {
+		"name":	"Trigger149",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType149:d":	18,
+				"TriggerName149:s":	"ACTION: Bag End Door",
+				"Trigger149:g":	"CA3DD4D1_E3254001",
+				"TriggerToggle149:d":	1,
+				"StaysTrue149:d":	0,
+				"TriggeredOnTrue149:d":	1
+			}]
+	}, {
+		"name":	"Trigger150",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType150:d":	24,
+				"TriggerName150:s":	"A Quest: Apple Complete",
+				"QuestName150:s":	"N_ID_APPLES_CH01",
+				"StaysTrue150:d":	1,
+				"TriggeredOnTrue150:d":	1
+			}]
+	}, {
+		"name":	"Trigger151",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType151:d":	21,
+				"TriggerName151:s":	"Cinema : Intro Starts for real!",
+				"Cinema151:g":	"CA3DDF12_32749400",
+				"StaysTrue151:d":	0,
+				"TriggeredOnTrue151:d":	1
+			}]
+	}, {
+		"name":	"Trigger152",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType152:d":	19,
+				"TriggerName152:s":	"Cinema : Intro Cinema Ends",
+				"Cinema152:g":	"CA3DDF12_32749400",
+				"TriggerOnce152:d":	0,
+				"StaysTrue152:d":	0,
+				"TriggeredOnTrue152:d":	1
+			}]
+	}, {
+		"name":	"Action0",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType0:d":	10,
+				"ActionName0:s":	"Unload Doggy Layer",
+				"Action0ExecuteDelay:f":	0,
+				"Action0ExecuteImmediately:d":	0,
+				"Action0LoadLayerGuid:g":	"CA3DD7CF_713DDC00"
+			}]
+	}, {
+		"name":	"Action1",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType1:d":	10,
+				"ActionName1:s":	"Unload Doggy Block",
+				"Action1ExecuteDelay:f":	0,
+				"Action1ExecuteImmediately:d":	0,
+				"Action1LoadLayerGuid:g":	"CA3DD5CF_65E3F800"
+			}]
+	}, {
+		"name":	"Action2",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType2:d":	12,
+				"ActionName2:s":	"Toggle Link: H-Town Teleport",
+				"Action2ExecuteDelay:f":	0,
+				"Action2ExecuteImmediately:d":	0,
+				"Action2Link:s":	"TRIGGERS: Door 2 Htown trig/  ACTIONS: Teleport: H-Town/ Load: H-Town/ Load: Resourse HTown / ",
+				"Action2LinkState:d":	0
+			}]
+	}, {
+		"name":	"Action3",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType3:d":	12,
+				"ActionName3:s":	"Toggle Link: Dialog Turn off Cant Leave",
+				"Action3ExecuteDelay:f":	0,
+				"Action3ExecuteImmediately:d":	0,
+				"Action3Link:s":	"TRIGGERS: Dialog:  Bilbo Needs Walking Stick/  ACTIONS: DIALOG: Can't Leave Yet/ ",
+				"Action3LinkState:d":	1
+			}]
+	}, {
+		"name":	"Action4",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType4:d":	15,
+				"ActionName4:s":	"Teleport: H-Town",
+				"Action4ExecuteDelay:f":	0,
+				"Action4ExecuteImmediately:d":	0,
+				"Action4Object:g":	"ABCABCAB_CABCABC0",
+				"Action4Volume:g":	"CA3DDACF_36330800",
+				"Action4Facing:g":	"CA3DDACF_36340801"
+			}]
+	}, {
+		"name":	"Action5",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType5:d":	15,
+				"ActionName5:s":	"Teleport: Bilbo Bag End",
+				"Action5ExecuteDelay:f":	0,
+				"Action5ExecuteImmediately:d":	0,
+				"Action5Object:g":	"ABCABCAB_CABCABC0",
+				"Action5Volume:g":	"CA3DDACF_36368401",
+				"Action5Facing:g":	"CA3DDACF_36373C01"
+			}]
+	}, {
+		"name":	"Action6",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType6:d":	15,
+				"ActionName6:s":	"Tele: dialog vol for Gadling",
+				"Action6ExecuteDelay:f":	0,
+				"Action6ExecuteImmediately:d":	0,
+				"Action6Object:g":	"CA3DD60F_31329800",
+				"Action6Volume:g":	"CA3DD60F_31257000",
+				"Action6Facing:g":	"00000000_00000000"
+			}]
+	}, {
+		"name":	"Action7",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType7:d":	15,
+				"ActionName7:s":	"Tele: Move Gaddling away from well",
+				"Action7ExecuteDelay:f":	0,
+				"Action7ExecuteImmediately:d":	0,
+				"Action7Object:g":	"CA3DDD8E_6EB33800",
+				"Action7Volume:g":	"C0CFA98F_62103800",
+				"Action7Facing:g":	"CA3DD60F_31257000"
+			}]
+	}, {
+		"name":	"Action8",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType8:d":	15,
+				"ActionName8:s":	"Tele: Holman to start Position",
+				"Action8ExecuteDelay:f":	2,
+				"Action8ExecuteImmediately:d":	0,
+				"Action8Object:g":	"CA3DDD8E_6F198C01",
+				"Action8Volume:g":	"CA3DD04E_7D835401",
+				"Action8Facing:g":	"CA3DD04E_7D837401"
+			}]
+	}, {
+		"name":	"Action9",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType9:d":	15,
+				"ActionName9:s":	"Tele: Holman Tele Bilbo",
+				"Action9ExecuteDelay:f":	2,
+				"Action9ExecuteImmediately:d":	0,
+				"Action9Object:g":	"ABCABCAB_CABCABC0",
+				"Action9Volume:g":	"CA3DD3CF_51255800",
+				"Action9Facing:g":	"CA3DD3CF_51261401"
+			}]
+	}, {
+		"name":	"Action10",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType10:d":	15,
+				"ActionName10:s":	"Tele: Hamfast ",
+				"Action10ExecuteDelay:f":	0,
+				"Action10ExecuteImmediately:d":	1,
+				"Action10Object:g":	"CA3DD58F_5BD13800",
+				"Action10Volume:g":	"CA3DDD8F_5C6D2C00",
+				"Action10Facing:g":	"CA3DDD8F_5C6F0801"
+			}]
+	}, {
+		"name":	"Action11",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType11:d":	15,
+				"ActionName11:s":	"Tele: Chickens Chase Bilbo",
+				"Action11ExecuteDelay:f":	2,
+				"Action11ExecuteImmediately:d":	0,
+				"Action11Object:g":	"ABCABCAB_CABCABC0",
+				"Action11Volume:g":	"CA3DD7CF_5137B000",
+				"Action11Facing:g":	"CA3DD7CF_51385C01"
+			}]
+	}, {
+		"name":	"Action12",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType12:d":	15,
+				"ActionName12:s":	"Tele a Doggy",
+				"Action12ExecuteDelay:f":	0,
+				"Action12ExecuteImmediately:d":	0,
+				"Action12Object:g":	"CA3DDCCF_56312C01",
+				"Action12Volume:g":	"CA3DDD8F_61F41C00",
+				"Action12Facing:g":	"CA3DDD8F_61F4E401"
+			}]
+	}, {
+		"name":	"Action13",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType13:d":	2,
+				"ActionName13:s":	"Team: Set Holman GOOD",
+				"Action13ExecuteDelay:f":	0,
+				"Action13ExecuteImmediately:d":	0,
+				"Action13CharacterGuid:g":	"CA3DDD8E_6F198C01",
+				"Action13Team:d":	1
+			}]
+	}, {
+		"name":	"Action14",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType14:d":	2,
+				"ActionName14:s":	"Team: Set Holman EVIL",
+				"Action14ExecuteDelay:f":	0,
+				"Action14ExecuteImmediately:d":	0,
+				"Action14CharacterGuid:g":	"CA3DDD8E_6F198C01",
+				"Action14Team:d":	2
+			}]
+	}, {
+		"name":	"Action15",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType15:d":	2,
+				"ActionName15:s":	"Team: Holman Reset 2 Team 1",
+				"Action15ExecuteDelay:f":	0,
+				"Action15ExecuteImmediately:d":	0,
+				"Action15CharacterGuid:g":	"CA3DDD8E_6F198C01",
+				"Action15Team:d":	1
+			}]
+	}, {
+		"name":	"Action16",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType16:d":	15,
+				"ActionName16:s":	"TELE: Move Waters of vigour",
+				"Action16ExecuteDelay:f":	3,
+				"Action16ExecuteImmediately:d":	0,
+				"Action16Object:g":	"CA3DD2CF_AB86E000",
+				"Action16Volume:g":	"CA3DD2CF_AB8BC000",
+				"Action16Facing:g":	"00000000_00000000"
+			}]
+	}, {
+		"name":	"Action17",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType17:d":	20,
+				"ActionName17:s":	"Start Sandyman Bridge Dialog",
+				"Action17ExecuteDelay:f":	0,
+				"Action17ExecuteImmediately:d":	0,
+				"Action17cinemaCount:d":	1,
+				"Action17cinemaSelect:d":	0,
+				"Action17cinema0Guid:g":	"CA3DD50F_2D866C00"
+			}]
+	}, {
+		"name":	"Action18",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType18:d":	20,
+				"ActionName18:s":	"Start Green Drag Cin",
+				"Action18ExecuteDelay:f":	0,
+				"Action18ExecuteImmediately:d":	0,
+				"Action18cinemaCount:d":	1,
+				"Action18cinemaSelect:d":	0,
+				"Action18cinema0Guid:g":	"0D8ADB12_3EA5E400"
+			}]
+	}, {
+		"name":	"Action19",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType19:d":	20,
+				"ActionName19:s":	"Sandy man Fade In",
+				"Action19ExecuteDelay:f":	0,
+				"Action19ExecuteImmediately:d":	0,
+				"Action19cinemaCount:d":	1,
+				"Action19cinemaSelect:d":	0,
+				"Action19cinema0Guid:g":	"CA3DD3CF_5CE0A400"
+			}]
+	}, {
+		"name":	"Action20",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType20:d":	15,
+				"ActionName20:s":	"Sadoc Tele",
+				"Action20ExecuteDelay:f":	0,
+				"Action20ExecuteImmediately:d":	1,
+				"Action20Object:g":	"CA3DD58F_5BD6DC00",
+				"Action20Volume:g":	"CA3DDD8F_5C708000",
+				"Action20Facing:g":	"CA3DDD8F_5C712C01"
+			}]
+	}, {
+		"name":	"Action21",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType21:d":	21,
+				"ActionName21:s":	"Sadoc Set Trig Cinema",
+				"Action21ExecuteDelay:f":	0,
+				"Action21ExecuteImmediately:d":	0,
+				"Action21NPCGuid:g":	"CA3DD58F_5BD6DC00",
+				"Action21CinemaCount:d":	1,
+				"Action21SelectionMethod:d":	0,
+				"Action21Cinema0:g":	"CA3DDF4F_5C96F800"
+			}]
+	}, {
+		"name":	"Action22",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType22:d":	21,
+				"ActionName22:s":	"Sadoc Set After Found",
+				"Action22ExecuteDelay:f":	0,
+				"Action22ExecuteImmediately:d":	0,
+				"Action22NPCGuid:g":	"CA3DD58F_5BD6DC00",
+				"Action22CinemaCount:d":	1,
+				"Action22SelectionMethod:d":	0,
+				"Action22Cinema0:g":	"CA3DDF4F_5C9BA000"
+			}]
+	}, {
+		"name":	"Action23",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType23:d":	4,
+				"ActionName23:s":	"Sadoc Goal List",
+				"Action23ExecuteDelay:f":	0,
+				"Action23ExecuteImmediately:d":	0,
+				"Action23CharacterGuid:g":	"CA3DD58F_5BD6DC00",
+				"Action23AIStateName:s":	"Idle",
+				"Action23GoalListName:s":	"Sadoc Hide",
+				"Action23OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action24",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType24:d":	12,
+				"ActionName24:s":	"Restart Lily Pad Puzzle",
+				"Action24ExecuteDelay:f":	0,
+				"Action24ExecuteImmediately:d":	0,
+				"Action24Link:s":	"TRIGGERS: Bilbo Lily Pad Success/  ACTIONS: CP: Spawn 100/ Music_QuestItemFound/ ",
+				"Action24LinkState:d":	0
+			}]
+	}, {
+		"name":	"Action25",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType25:d":	22,
+				"ActionName25:s":	"Quest: Wheat",
+				"Action25ExecuteDelay:f":	0,
+				"Action25ExecuteImmediately:d":	0,
+				"Action25QuestID:s":	"K_ID_WHEAT_CH01",
+				"Action25Required:d":	0
+			}]
+	}, {
+		"name":	"Action26",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType26:d":	29,
+				"ActionName26:s":	"Quest: Walking Stick Completed",
+				"Action26ExecuteDelay:f":	0,
+				"Action26ExecuteImmediately:d":	0,
+				"Action26QuestID:s":	"B_ID_WALKING_STICK_CH01"
+			}]
+	}, {
+		"name":	"Action27",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType27:d":	22,
+				"ActionName27:s":	"Quest: Walking Stick",
+				"Action27ExecuteDelay:f":	0,
+				"Action27ExecuteImmediately:d":	0,
+				"Action27QuestID:s":	"B_ID_WALKING_STICK_CH01",
+				"Action27Required:d":	1
+			}]
+	}, {
+		"name":	"Action28",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType28:d":	22,
+				"ActionName28:s":	"Quest: Tea Cakes",
+				"Action28ExecuteDelay:f":	0,
+				"Action28ExecuteImmediately:d":	0,
+				"Action28QuestID:s":	"P_ID_TEACAKES_CH01",
+				"Action28Required:d":	0
+			}]
+	}, {
+		"name":	"Action29",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType29:d":	22,
+				"ActionName29:s":	"Quest: Sugar",
+				"Action29ExecuteDelay:f":	0,
+				"Action29ExecuteImmediately:d":	0,
+				"Action29QuestID:s":	"I_ID_SUGAR_CH01",
+				"Action29Required:d":	0
+			}]
+	}, {
+		"name":	"Action30",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType30:d":	22,
+				"ActionName30:s":	"Quest: Spice",
+				"Action30ExecuteDelay:f":	0,
+				"Action30ExecuteImmediately:d":	0,
+				"Action30QuestID:s":	"J_ID_SPICE_CH01",
+				"Action30Required:d":	0
+			}]
+	}, {
+		"name":	"Action31",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType31:d":	22,
+				"ActionName31:s":	"Quest: Scarecrow",
+				"Action31ExecuteDelay:f":	0,
+				"Action31ExecuteImmediately:d":	0,
+				"Action31QuestID:s":	"R_ID_SCARECROWS_CH01",
+				"Action31Required:d":	0
+			}]
+	}, {
+		"name":	"Action32",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType32:d":	22,
+				"ActionName32:s":	"Quest: Provisions",
+				"Action32ExecuteDelay:f":	0,
+				"Action32ExecuteImmediately:d":	0,
+				"Action32QuestID:s":	"H_ID_PROVISIONS_CH01",
+				"Action32Required:d":	0
+			}]
+	}, {
+		"name":	"Action33",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType33:d":	29,
+				"ActionName33:s":	"Quest: Needle Quest Done",
+				"Action33ExecuteDelay:f":	0,
+				"Action33ExecuteImmediately:d":	0,
+				"Action33QuestID:s":	"F_ID_NEEDLE_QUEST_CH01"
+			}]
+	}, {
+		"name":	"Action34",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType34:d":	22,
+				"ActionName34:s":	"Quest: Lorella's Chests",
+				"Action34ExecuteDelay:f":	0,
+				"Action34ExecuteImmediately:d":	0,
+				"Action34QuestID:s":	"Q_ID_CHESTS_CH01",
+				"Action34Required:d":	0
+			}]
+	}, {
+		"name":	"Action35",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType35:d":	22,
+				"ActionName35:s":	"Quest: Hide Go Seek",
+				"Action35ExecuteDelay:f":	0,
+				"Action35ExecuteImmediately:d":	0,
+				"Action35QuestID:s":	"S_ID_HIDEGOSEEK_CH01",
+				"Action35Required:d":	0
+			}]
+	}, {
+		"name":	"Action36",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType36:d":	22,
+				"ActionName36:s":	"Quest: Give Bilbo Needle Quest",
+				"Action36ExecuteDelay:f":	0,
+				"Action36ExecuteImmediately:d":	0,
+				"Action36QuestID:s":	"F_ID_NEEDLE_QUEST_CH01",
+				"Action36Required:d":	0
+			}]
+	}, {
+		"name":	"Action37",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType37:d":	22,
+				"ActionName37:s":	"Quest: Flour",
+				"Action37ExecuteDelay:f":	0,
+				"Action37ExecuteImmediately:d":	0,
+				"Action37QuestID:s":	"O_ID_FLOUR_CH01",
+				"Action37Required:d":	0
+			}]
+	}, {
+		"name":	"Action38",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType38:d":	22,
+				"ActionName38:s":	"Quest: Fix Bridge",
+				"Action38ExecuteDelay:f":	0,
+				"Action38ExecuteImmediately:d":	0,
+				"Action38QuestID:s":	"C_ID_FIX_BRIDGE_CH01",
+				"Action38Required:d":	1
+			}]
+	}, {
+		"name":	"Action39",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType39:d":	22,
+				"ActionName39:s":	"Quest: Find Sadoc",
+				"Action39ExecuteDelay:f":	0,
+				"Action39ExecuteImmediately:d":	0,
+				"Action39QuestID:s":	"W_ID_FIND_SADOC_CH01",
+				"Action39Required:d":	0
+			}]
+	}, {
+		"name":	"Action40",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType40:d":	22,
+				"ActionName40:s":	"Quest: Find Nails",
+				"Action40ExecuteDelay:f":	0,
+				"Action40ExecuteImmediately:d":	0,
+				"Action40QuestID:s":	"E_ID_NAILS_CH01",
+				"Action40Required:d":	1
+			}]
+	}, {
+		"name":	"Action41",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType41:d":	22,
+				"ActionName41:s":	"Quest: Find Hilda",
+				"Action41ExecuteDelay:f":	0,
+				"Action41ExecuteImmediately:d":	0,
+				"Action41QuestID:s":	"U_ID_FIND_HILDA_CH01",
+				"Action41Required:d":	0
+			}]
+	}, {
+		"name":	"Action42",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType42:d":	22,
+				"ActionName42:s":	"Quest: Find Hammer",
+				"Action42ExecuteDelay:f":	0,
+				"Action42ExecuteImmediately:d":	0,
+				"Action42QuestID:s":	"D_ID_HAMMER_CH01",
+				"Action42Required:d":	1
+			}]
+	}, {
+		"name":	"Action43",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType43:d":	22,
+				"ActionName43:s":	"Quest: Find Hamfast",
+				"Action43ExecuteDelay:f":	0,
+				"Action43ExecuteImmediately:d":	0,
+				"Action43QuestID:s":	"T_ID_FIND_HAMFAST_CH01",
+				"Action43Required:d":	0
+			}]
+	}, {
+		"name":	"Action44",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType44:d":	22,
+				"ActionName44:s":	"Quest: Find Bell",
+				"Action44ExecuteDelay:f":	0,
+				"Action44ExecuteImmediately:d":	0,
+				"Action44QuestID:s":	"V_ID_FIND_BELL_CH01",
+				"Action44Required:d":	0
+			}]
+	}, {
+		"name":	"Action45",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType45:d":	22,
+				"ActionName45:s":	"Quest: Eggs",
+				"Action45ExecuteDelay:f":	0,
+				"Action45ExecuteImmediately:d":	0,
+				"Action45QuestID:s":	"M_ID_EGGS_CH01",
+				"Action45Required:d":	0
+			}]
+	}, {
+		"name":	"Action46",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType46:d":	29,
+				"ActionName46:s":	"Quest: Complete Wheat",
+				"Action46ExecuteDelay:f":	0,
+				"Action46ExecuteImmediately:d":	1,
+				"Action46QuestID:s":	"K_ID_WHEAT_CH01"
+			}]
+	}, {
+		"name":	"Action47",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType47:d":	29,
+				"ActionName47:s":	"Quest: Complete Tea Cakes",
+				"Action47ExecuteDelay:f":	0,
+				"Action47ExecuteImmediately:d":	1,
+				"Action47QuestID:s":	"P_ID_TEACAKES_CH01"
+			}]
+	}, {
+		"name":	"Action48",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType48:d":	29,
+				"ActionName48:s":	"Quest: Complete Sugar",
+				"Action48ExecuteDelay:f":	0,
+				"Action48ExecuteImmediately:d":	1,
+				"Action48QuestID:s":	"I_ID_SUGAR_CH01"
+			}]
+	}, {
+		"name":	"Action49",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType49:d":	29,
+				"ActionName49:s":	"Quest: Complete Spice",
+				"Action49ExecuteDelay:f":	0,
+				"Action49ExecuteImmediately:d":	1,
+				"Action49QuestID:s":	"J_ID_SPICE_CH01"
+			}]
+	}, {
+		"name":	"Action50",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType50:d":	34,
+				"ActionName50:s":	"Quest: Complete Scarecrow",
+				"Action50ExecuteDelay:f":	0,
+				"Action50ExecuteImmediately:d":	0,
+				"Action50QuestID:s":	"R_ID_SCARECROWS_CH01"
+			}]
+	}, {
+		"name":	"Action51",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType51:d":	29,
+				"ActionName51:s":	"Quest: Complete Sadoc",
+				"Action51ExecuteDelay:f":	0,
+				"Action51ExecuteImmediately:d":	0,
+				"Action51QuestID:s":	"W_ID_FIND_SADOC_CH01"
+			}]
+	}, {
+		"name":	"Action52",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType52:d":	34,
+				"ActionName52:s":	"Quest: Complete Provisions",
+				"Action52ExecuteDelay:f":	0,
+				"Action52ExecuteImmediately:d":	1,
+				"Action52QuestID:s":	"H_ID_PROVISIONS_CH01"
+			}]
+	}, {
+		"name":	"Action53",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType53:d":	29,
+				"ActionName53:s":	"Quest: Complete Nails",
+				"Action53ExecuteDelay:f":	0,
+				"Action53ExecuteImmediately:d":	0,
+				"Action53QuestID:s":	"E_ID_NAILS_CH01"
+			}]
+	}, {
+		"name":	"Action54",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType54:d":	34,
+				"ActionName54:s":	"Quest: Complete Lorella's Chests",
+				"Action54ExecuteDelay:f":	0,
+				"Action54ExecuteImmediately:d":	0,
+				"Action54QuestID:s":	"Q_ID_CHESTS_CH01"
+			}]
+	}, {
+		"name":	"Action55",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType55:d":	29,
+				"ActionName55:s":	"Quest: Complete Hilda",
+				"Action55ExecuteDelay:f":	0,
+				"Action55ExecuteImmediately:d":	0,
+				"Action55QuestID:s":	"U_ID_FIND_HILDA_CH01"
+			}]
+	}, {
+		"name":	"Action56",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType56:d":	34,
+				"ActionName56:s":	"Quest: Complete Hide Go Seek",
+				"Action56ExecuteDelay:f":	0,
+				"Action56ExecuteImmediately:d":	0,
+				"Action56QuestID:s":	"S_ID_HIDEGOSEEK_CH01"
+			}]
+	}, {
+		"name":	"Action57",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType57:d":	29,
+				"ActionName57:s":	"Quest: Complete Hammer",
+				"Action57ExecuteDelay:f":	0,
+				"Action57ExecuteImmediately:d":	0,
+				"Action57QuestID:s":	"D_ID_HAMMER_CH01"
+			}]
+	}, {
+		"name":	"Action58",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType58:d":	29,
+				"ActionName58:s":	"Quest: Complete Hamfast",
+				"Action58ExecuteDelay:f":	0,
+				"Action58ExecuteImmediately:d":	0,
+				"Action58QuestID:s":	"T_ID_FIND_HAMFAST_CH01"
+			}]
+	}, {
+		"name":	"Action59",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType59:d":	29,
+				"ActionName59:s":	"Quest: Complete Flour",
+				"Action59ExecuteDelay:f":	0,
+				"Action59ExecuteImmediately:d":	1,
+				"Action59QuestID:s":	"O_ID_FLOUR_CH01"
+			}]
+	}, {
+		"name":	"Action60",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType60:d":	34,
+				"ActionName60:s":	"Quest: Complete Fix Bridge",
+				"Action60ExecuteDelay:f":	0,
+				"Action60ExecuteImmediately:d":	0,
+				"Action60QuestID:s":	"C_ID_FIX_BRIDGE_CH01"
+			}]
+	}, {
+		"name":	"Action61",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType61:d":	29,
+				"ActionName61:s":	"Quest: Complete Eggs",
+				"Action61ExecuteDelay:f":	0,
+				"Action61ExecuteImmediately:d":	1,
+				"Action61QuestID:s":	"M_ID_EGGS_CH01"
+			}]
+	}, {
+		"name":	"Action62",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType62:d":	29,
+				"ActionName62:s":	"Quest: Complete Berries",
+				"Action62ExecuteDelay:f":	0,
+				"Action62ExecuteImmediately:d":	1,
+				"Action62QuestID:s":	"L_ID_BERRIES_CH01"
+			}]
+	}, {
+		"name":	"Action63",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType63:d":	29,
+				"ActionName63:s":	"Quest: Complete Bell",
+				"Action63ExecuteDelay:f":	0,
+				"Action63ExecuteImmediately:d":	0,
+				"Action63QuestID:s":	"V_ID_FIND_BELL_CH01"
+			}]
+	}, {
+		"name":	"Action64",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType64:d":	29,
+				"ActionName64:s":	"Quest: Complete Apples",
+				"Action64ExecuteDelay:f":	0,
+				"Action64ExecuteImmediately:d":	1,
+				"Action64QuestID:s":	"N_ID_APPLES_CH01"
+			}]
+	}, {
+		"name":	"Action65",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType65:d":	22,
+				"ActionName65:s":	"Quest: Butter Churn quest",
+				"Action65ExecuteDelay:f":	0,
+				"Action65ExecuteImmediately:d":	0,
+				"Action65QuestID:s":	"G_ID_BUTTERCHURN_CH01",
+				"Action65Required:d":	0
+			}]
+	}, {
+		"name":	"Action66",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType66:d":	29,
+				"ActionName66:s":	"Quest: Butter Churn done",
+				"Action66ExecuteDelay:f":	0,
+				"Action66ExecuteImmediately:d":	0,
+				"Action66QuestID:s":	"G_ID_BUTTERCHURN_CH01"
+			}]
+	}, {
+		"name":	"Action67",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType67:d":	22,
+				"ActionName67:s":	"Quest: Berries",
+				"Action67ExecuteDelay:f":	0,
+				"Action67ExecuteImmediately:d":	0,
+				"Action67QuestID:s":	"L_ID_BERRIES_CH01",
+				"Action67Required:d":	0
+			}]
+	}, {
+		"name":	"Action68",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType68:d":	22,
+				"ActionName68:s":	"Quest: Apples",
+				"Action68ExecuteDelay:f":	0,
+				"Action68ExecuteImmediately:d":	0,
+				"Action68QuestID:s":	"N_ID_APPLES_CH01",
+				"Action68Required:d":	0
+			}]
+	}, {
+		"name":	"Action69",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType69:d":	22,
+				"ActionName69:s":	"QUEST:  Green Dragon Inn",
+				"Action69ExecuteDelay:f":	0,
+				"Action69ExecuteImmediately:d":	0,
+				"Action69QuestID:s":	"A_ID_GOTO_INN_CH01",
+				"Action69Required:d":	1
+			}]
+	}, {
+		"name":	"Action70",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType70:d":	18,
+				"ActionName70:s":	"Overlay: Wheat Sack",
+				"Action70ExecuteDelay:f":	0,
+				"Action70ExecuteImmediately:d":	0,
+				"Action70StringID:s":	"INFO_WHEATSACK_AQUIRED",
+				"Action70Scroll:d":	0,
+				"Action70DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action71",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType71:d":	18,
+				"ActionName71:s":	"Overlay: Walking Stick",
+				"Action71ExecuteDelay:f":	0,
+				"Action71ExecuteImmediately:d":	0,
+				"Action71StringID:s":	"INFO_WALKINGSTICK_AQUIRED",
+				"Action71Scroll:d":	0,
+				"Action71DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action72",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType72:d":	18,
+				"ActionName72:s":	"Overlay: Throwing Stones",
+				"Action72ExecuteDelay:f":	0,
+				"Action72ExecuteImmediately:d":	0,
+				"Action72StringID:s":	"INFO_THROWING_STONES",
+				"Action72Scroll:d":	1,
+				"Action72DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action73",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType73:d":	18,
+				"ActionName73:s":	"Overlay: Tea Cakes",
+				"Action73ExecuteDelay:f":	0,
+				"Action73ExecuteImmediately:d":	0,
+				"Action73StringID:s":	"INFO_TEACAKES_AQUIRED",
+				"Action73Scroll:d":	0,
+				"Action73DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action74",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType74:d":	18,
+				"ActionName74:s":	"Overlay: Sugar",
+				"Action74ExecuteDelay:f":	0,
+				"Action74ExecuteImmediately:d":	0,
+				"Action74StringID:s":	"INFO_SUGAR_AQUIRED",
+				"Action74Scroll:d":	0,
+				"Action74DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action75",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType75:d":	18,
+				"ActionName75:s":	"Overlay: Spice",
+				"Action75ExecuteDelay:f":	0,
+				"Action75ExecuteImmediately:d":	0,
+				"Action75StringID:s":	"INFO_SPICE_AQUIRED",
+				"Action75Scroll:d":	0,
+				"Action75DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action76",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType76:d":	18,
+				"ActionName76:s":	"Overlay: Sneak 1",
+				"Action76ExecuteDelay:f":	0,
+				"Action76ExecuteImmediately:d":	0,
+				"Action76StringID:s":	"INFO_SNEAK_HOLMAN",
+				"Action76Scroll:d":	0,
+				"Action76DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action77",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType77:d":	18,
+				"ActionName77:s":	"Overlay: Rock Throwing",
+				"Action77ExecuteDelay:f":	0,
+				"Action77ExecuteImmediately:d":	0,
+				"Action77StringID:s":	"INFO_ROCK_THROWING",
+				"Action77Scroll:d":	1,
+				"Action77DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action78",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType78:d":	18,
+				"ActionName78:s":	"Overlay: Quest Log Reminder",
+				"Action78ExecuteDelay:f":	0,
+				"Action78ExecuteImmediately:d":	0,
+				"Action78StringID:s":	"INFO_QUEST_LOG_REMINDER",
+				"Action78Scroll:d":	0,
+				"Action78DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action79",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType79:d":	18,
+				"ActionName79:s":	"Overlay: Quest Log",
+				"Action79ExecuteDelay:f":	1,
+				"Action79ExecuteImmediately:d":	0,
+				"Action79StringID:s":	"INFO_QUEST_LOG",
+				"Action79Scroll:d":	1,
+				"Action79DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action80",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType80:d":	18,
+				"ActionName80:s":	"Overlay: Push Block",
+				"Action80ExecuteDelay:f":	0,
+				"Action80ExecuteImmediately:d":	0,
+				"Action80StringID:s":	"INFO_PUSH_BLOCK",
+				"Action80Scroll:d":	0,
+				"Action80DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action81",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType81:d":	18,
+				"ActionName81:s":	"Overlay: Play Silver Penny",
+				"Action81ExecuteDelay:f":	0,
+				"Action81ExecuteImmediately:d":	0,
+				"Action81StringID:s":	"INFO_SILVER_PENNIES",
+				"Action81Scroll:d":	0,
+				"Action81DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action82",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType82:d":	18,
+				"ActionName82:s":	"Overlay: Noisy Surface",
+				"Action82ExecuteDelay:f":	0,
+				"Action82ExecuteImmediately:d":	0,
+				"Action82StringID:s":	"INFO_NOISY_SURFACE",
+				"Action82Scroll:d":	0,
+				"Action82DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action83",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType83:d":	18,
+				"ActionName83:s":	"Overlay: Nails",
+				"Action83ExecuteDelay:f":	0,
+				"Action83ExecuteImmediately:d":	0,
+				"Action83StringID:s":	"INFO_NAILS_AQUIRED",
+				"Action83Scroll:d":	0,
+				"Action83DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action84",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType84:d":	18,
+				"ActionName84:s":	"Overlay: Hoistable",
+				"Action84ExecuteDelay:f":	0,
+				"Action84ExecuteImmediately:d":	0,
+				"Action84StringID:s":	"INFO_HOISTABLES",
+				"Action84Scroll:d":	0,
+				"Action84DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action85",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType85:d":	18,
+				"ActionName85:s":	"Overlay: Hammer",
+				"Action85ExecuteDelay:f":	0,
+				"Action85ExecuteImmediately:d":	0,
+				"Action85StringID:s":	"INFO_HAMMER_AQUIRED",
+				"Action85Scroll:d":	0,
+				"Action85DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action86",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType86:d":	18,
+				"ActionName86:s":	"Overlay: Flour",
+				"Action86ExecuteDelay:f":	0,
+				"Action86ExecuteImmediately:d":	0,
+				"Action86StringID:s":	"INFO_FLOUR_AQUIRED",
+				"Action86Scroll:d":	0,
+				"Action86DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action87",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType87:d":	18,
+				"ActionName87:s":	"Overlay: Egg",
+				"Action87ExecuteDelay:f":	0,
+				"Action87ExecuteImmediately:d":	0,
+				"Action87StringID:s":	"INFO_EGGS_AQUIRED",
+				"Action87Scroll:d":	0,
+				"Action87DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action88",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType88:d":	18,
+				"ActionName88:s":	"Overlay: CP ",
+				"Action88ExecuteDelay:f":	0,
+				"Action88ExecuteImmediately:d":	0,
+				"Action88StringID:s":	"INFO_CP",
+				"Action88Scroll:d":	0,
+				"Action88DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action89",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType89:d":	18,
+				"ActionName89:s":	"Overlay: Berry",
+				"Action89ExecuteDelay:f":	0,
+				"Action89ExecuteImmediately:d":	0,
+				"Action89StringID:s":	"INFO_BERRIES_AQUIRED",
+				"Action89Scroll:d":	0,
+				"Action89DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action90",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType90:d":	18,
+				"ActionName90:s":	"Overlay: Apple",
+				"Action90ExecuteDelay:f":	0,
+				"Action90ExecuteImmediately:d":	0,
+				"Action90StringID:s":	"INFO_APPLE_AQUIRED",
+				"Action90Scroll:d":	0,
+				"Action90DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action91",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType91:d":	18,
+				"ActionName91:s":	"OVERLAY: Save Ped Tut",
+				"Action91ExecuteDelay:f":	0,
+				"Action91ExecuteImmediately:d":	0,
+				"Action91StringID:s":	"INFO_SAVE_PED",
+				"Action91Scroll:d":	0,
+				"Action91DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action92",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType92:d":	18,
+				"ActionName92:s":	"OVERLAY: Needle acquired",
+				"Action92ExecuteDelay:f":	0,
+				"Action92ExecuteImmediately:d":	0,
+				"Action92StringID:s":	"INFO_NEEDLE_AQUIRED",
+				"Action92Scroll:d":	0,
+				"Action92DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action93",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType93:d":	18,
+				"ActionName93:s":	"OVERLAY: CP Tut",
+				"Action93ExecuteDelay:f":	0,
+				"Action93ExecuteImmediately:d":	0,
+				"Action93StringID:s":	"INFO_CP_TUTORIAL",
+				"Action93Scroll:d":	1,
+				"Action93DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action94",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType94:d":	33,
+				"ActionName94:s":	"NPC: Turtle Flee",
+				"Action94ExecuteDelay:f":	0,
+				"Action94ExecuteImmediately:d":	0,
+				"Action94InstanceCount:d":	1,
+				"Action94RigidInstance0:g":	"CA3DD291_309FD400",
+				"Action94AnimIndex:d":	0,
+				"Action94Loops:d":	1
+			}]
+	}, {
+		"name":	"Action95",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType95:d":	41,
+				"ActionName95:s":	"NPC: Root Sadoc",
+				"Action95ExecuteDelay:f":	0,
+				"Action95ExecuteImmediately:d":	0,
+				"Action95DoRootToPosition:d":	1,
+				"Action95ResetRootPosition:d":	1,
+				"Action95NPC:g":	"CA3DD58F_5BD6DC00"
+			}]
+	}, {
+		"name":	"Action96",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType96:d":	41,
+				"ActionName96:s":	"NPC: Root Hilda",
+				"Action96ExecuteDelay:f":	0,
+				"Action96ExecuteImmediately:d":	0,
+				"Action96DoRootToPosition:d":	1,
+				"Action96ResetRootPosition:d":	1,
+				"Action96NPC:g":	"CA3DD58F_5BD28001"
+			}]
+	}, {
+		"name":	"Action97",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType97:d":	41,
+				"ActionName97:s":	"NPC: Root Hamfast",
+				"Action97ExecuteDelay:f":	0,
+				"Action97ExecuteImmediately:d":	0,
+				"Action97DoRootToPosition:d":	1,
+				"Action97ResetRootPosition:d":	1,
+				"Action97NPC:g":	"CA3DD58F_5BD13800"
+			}]
+	}, {
+		"name":	"Action98",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType98:d":	41,
+				"ActionName98:s":	"NPC: Root Bell",
+				"Action98ExecuteDelay:f":	0,
+				"Action98ExecuteImmediately:d":	0,
+				"Action98DoRootToPosition:d":	1,
+				"Action98ResetRootPosition:d":	1,
+				"Action98NPC:g":	"CA3DD48F_5BA30400"
+			}]
+	}, {
+		"name":	"Action99",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType99:d":	13,
+				"ActionName99:s":	"NPC State: Set Holman Back to Idle",
+				"Action99ExecuteDelay:f":	0,
+				"Action99ExecuteImmediately:d":	0,
+				"Action99State:s":	"PatrolIdleState",
+				"Action99NPC:g":	"CA3DDD8E_6F198C01"
+			}]
+	}, {
+		"name":	"Action100",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType100:d":	40,
+				"ActionName100:s":	"Music_QuestItemFound",
+				"Action100ExecuteDelay:f":	0,
+				"Action100ExecuteImmediately:d":	0,
+				"Action100MusicTrigger:g":	"9D153751_21DE5801"
+			}]
+	}, {
+		"name":	"Action101",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType101:d":	40,
+				"ActionName101:s":	"Music_QuestItemDelivered_Norm",
+				"Action101ExecuteDelay:f":	0,
+				"Action101ExecuteImmediately:d":	0,
+				"Action101MusicTrigger:g":	"9D153AD1_21F03801"
+			}]
+	}, {
+		"name":	"Action102",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType102:d":	40,
+				"ActionName102:s":	"Music_QuestItemDelivered_Gammer",
+				"Action102ExecuteDelay:f":	0,
+				"Action102ExecuteImmediately:d":	0,
+				"Action102MusicTrigger:g":	"9D153AD1_21F0F401"
+			}]
+	}, {
+		"name":	"Action103",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType103:d":	40,
+				"ActionName103:s":	"Music_OpeningCinema",
+				"Action103ExecuteDelay:f":	0,
+				"Action103ExecuteImmediately:d":	0,
+				"Action103MusicTrigger:g":	"9D153C92_0A67C401"
+			}]
+	}, {
+		"name":	"Action104",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType104:d":	40,
+				"ActionName104:s":	"Music_ExitBagEnd",
+				"Action104ExecuteDelay:f":	0,
+				"Action104ExecuteImmediately:d":	0,
+				"Action104MusicTrigger:g":	"9D153B90_98B04C00"
+			}]
+	}, {
+		"name":	"Action105",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType105:d":	2,
+				"ActionName105:s":	"Make Chicken7 Good",
+				"Action105ExecuteDelay:f":	2,
+				"Action105ExecuteImmediately:d":	0,
+				"Action105CharacterGuid:g":	"CA3DD48F_520ED401",
+				"Action105Team:d":	0
+			}]
+	}, {
+		"name":	"Action106",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType106:d":	13,
+				"ActionName106:s":	"Make Chicken7 Alert",
+				"Action106ExecuteDelay:f":	0,
+				"Action106ExecuteImmediately:d":	0,
+				"Action106State:s":	"SleepingChickenAlert",
+				"Action106NPC:g":	"CA3DD48F_520ED401"
+			}]
+	}, {
+		"name":	"Action107",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType107:d":	2,
+				"ActionName107:s":	"Make Chicken6 Good",
+				"Action107ExecuteDelay:f":	2,
+				"Action107ExecuteImmediately:d":	0,
+				"Action107CharacterGuid:g":	"CA3DD48F_520EC001",
+				"Action107Team:d":	0
+			}]
+	}, {
+		"name":	"Action108",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType108:d":	13,
+				"ActionName108:s":	"Make Chicken6 Alert",
+				"Action108ExecuteDelay:f":	0,
+				"Action108ExecuteImmediately:d":	0,
+				"Action108State:s":	"SleepingChickenAlert",
+				"Action108NPC:g":	"CA3DD48F_520EC001"
+			}]
+	}, {
+		"name":	"Action109",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType109:d":	2,
+				"ActionName109:s":	"Make Chicken5 Good",
+				"Action109ExecuteDelay:f":	2,
+				"Action109ExecuteImmediately:d":	0,
+				"Action109CharacterGuid:g":	"CA3DD48F_520E7001",
+				"Action109Team:d":	0
+			}]
+	}, {
+		"name":	"Action110",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType110:d":	13,
+				"ActionName110:s":	"Make Chicken5 Alert",
+				"Action110ExecuteDelay:f":	0,
+				"Action110ExecuteImmediately:d":	0,
+				"Action110State:s":	"SleepingChickenAlert",
+				"Action110NPC:g":	"CA3DD48F_520E7001"
+			}]
+	}, {
+		"name":	"Action111",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType111:d":	2,
+				"ActionName111:s":	"Make Chicken3 Good",
+				"Action111ExecuteDelay:f":	2,
+				"Action111ExecuteImmediately:d":	0,
+				"Action111CharacterGuid:g":	"CA3DD48F_520D1801",
+				"Action111Team:d":	0
+			}]
+	}, {
+		"name":	"Action112",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType112:d":	13,
+				"ActionName112:s":	"Make Chicken3 Alert",
+				"Action112ExecuteDelay:f":	0,
+				"Action112ExecuteImmediately:d":	0,
+				"Action112State:s":	"SleepingChickenAlert",
+				"Action112NPC:g":	"CA3DD48F_520D1801"
+			}]
+	}, {
+		"name":	"Action113",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType113:d":	2,
+				"ActionName113:s":	"Make Chicken2 Good",
+				"Action113ExecuteDelay:f":	2,
+				"Action113ExecuteImmediately:d":	0,
+				"Action113CharacterGuid:g":	"CA3DD48F_520CF001",
+				"Action113Team:d":	0
+			}]
+	}, {
+		"name":	"Action114",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType114:d":	2,
+				"ActionName114:s":	"Make Chicken1 Good",
+				"Action114ExecuteDelay:f":	2,
+				"Action114ExecuteImmediately:d":	0,
+				"Action114CharacterGuid:g":	"CA3DD48F_52031800",
+				"Action114Team:d":	0
+			}]
+	}, {
+		"name":	"Action115",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType115:d":	13,
+				"ActionName115:s":	"Make Chicken1 Alert",
+				"Action115ExecuteDelay:f":	0,
+				"Action115ExecuteImmediately:d":	0,
+				"Action115State:s":	"SleepingChickenAlert",
+				"Action115NPC:g":	"CA3DD48F_52031800"
+			}]
+	}, {
+		"name":	"Action116",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType116:d":	13,
+				"ActionName116:s":	"Make Chicken 2 Alert",
+				"Action116ExecuteDelay:f":	0,
+				"Action116ExecuteImmediately:d":	0,
+				"Action116State:s":	"SleepingChickenAlert",
+				"Action116NPC:g":	"CA3DD48F_520CF001"
+			}]
+	}, {
+		"name":	"Action117",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType117:d":	30,
+				"ActionName117:s":	"Maggot Doggy Fade Out",
+				"Action117ExecuteDelay:f":	0,
+				"Action117ExecuteImmediately:d":	0,
+				"Action117Fadeout:d":	1,
+				"Action117Color:dddd":	[0, 0, 0, 255],
+				"Action117Duration:f":	1.5
+			}]
+	}, {
+		"name":	"Action118",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType118:d":	30,
+				"ActionName118:s":	"Maggot Doggy Fade In",
+				"Action118ExecuteDelay:f":	4,
+				"Action118ExecuteImmediately:d":	0,
+				"Action118Fadeout:d":	0,
+				"Action118Color:dddd":	[0, 0, 0, 255],
+				"Action118Duration:f":	1.5
+			}]
+	}, {
+		"name":	"Action119",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType119:d":	40,
+				"ActionName119:s":	"MUSIC_EndIntroCinema",
+				"Action119ExecuteDelay:f":	0,
+				"Action119ExecuteImmediately:d":	0,
+				"Action119MusicTrigger:g":	"97B768D2_12C85401"
+			}]
+	}, {
+		"name":	"Action120",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType120:d":	15,
+				"ActionName120:s":	"MOVE: Bombur Conv Trig",
+				"Action120ExecuteDelay:f":	0,
+				"Action120ExecuteImmediately:d":	0,
+				"Action120Object:g":	"CA3DD310_54610C00",
+				"Action120Volume:g":	"CA3DD890_548AD400",
+				"Action120Facing:g":	"00000000_00000000"
+			}]
+	}, {
+		"name":	"Action121",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType121:d":	10,
+				"ActionName121:s":	"Load: Shed Crumbs",
+				"Action121ExecuteDelay:f":	0,
+				"Action121ExecuteImmediately:d":	0,
+				"Action121LoadLayerGuid:g":	"CA3DD5D0_09595800"
+			}]
+	}, {
+		"name":	"Action122",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType122:d":	10,
+				"ActionName122:s":	"Load: Sandyman Fix Bridge",
+				"Action122ExecuteDelay:f":	0,
+				"Action122ExecuteImmediately:d":	0,
+				"Action122LoadLayerGuid:g":	"CA3DD98F_37BA8400"
+			}]
+	}, {
+		"name":	"Action123",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType123:d":	10,
+				"ActionName123:s":	"Load: Resourse HTown ",
+				"Action123ExecuteDelay:f":	0,
+				"Action123ExecuteImmediately:d":	0,
+				"Action123LoadLayerGuid:g":	"CA3DD7D0_14E38800"
+			}]
+	}, {
+		"name":	"Action124",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType124:d":	10,
+				"ActionName124:s":	"Load: Resourse Bag End",
+				"Action124ExecuteDelay:f":	0,
+				"Action124ExecuteImmediately:d":	0,
+				"Action124LoadLayerGuid:g":	"CA3DD7D0_14E3E000"
+			}]
+	}, {
+		"name":	"Action125",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType125:d":	10,
+				"ActionName125:s":	"Load: H-Town",
+				"Action125ExecuteDelay:f":	0,
+				"Action125ExecuteImmediately:d":	0,
+				"Action125LoadLayerGuid:g":	"CA3DD04F_3728C000"
+			}]
+	}, {
+		"name":	"Action126",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType126:d":	10,
+				"ActionName126:s":	"Load: Gaddling Gone",
+				"Action126ExecuteDelay:f":	0,
+				"Action126ExecuteImmediately:d":	0,
+				"Action126LoadLayerGuid:g":	"CA3DD2CF_AB6C1000"
+			}]
+	}, {
+		"name":	"Action127",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType127:d":	10,
+				"ActionName127:s":	"Load: Bag End",
+				"Action127ExecuteDelay:f":	0,
+				"Action127ExecuteImmediately:d":	0,
+				"Action127LoadLayerGuid:g":	"CA3DD04F_37295000"
+			}]
+	}, {
+		"name":	"Action128",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType128:d":	10,
+				"ActionName128:s":	"Load End Of Level Trig",
+				"Action128ExecuteDelay:f":	0,
+				"Action128ExecuteImmediately:d":	0,
+				"Action128LoadLayerGuid:g":	"CA3DD8CF_67C60800"
+			}]
+	}, {
+		"name":	"Action129",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType129:d":	12,
+				"ActionName129:s":	"Link: Disable Bombur Dialogue 2",
+				"Action129ExecuteDelay:f":	0,
+				"Action129ExecuteImmediately:d":	1,
+				"Action129Link:s":	"TRIGGERS: WORLD TRIGGER: Bombur/  ACTIONS: Dialog: Start Bombur 2/ ",
+				"Action129LinkState:d":	1
+			}]
+	}, {
+		"name":	"Action130",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType130:d":	12,
+				"ActionName130:s":	"Link: Deactivate Chicken Catch ",
+				"Action130ExecuteDelay:f":	0,
+				"Action130ExecuteImmediately:d":	0,
+				"Action130Link:s":	"TRIGGERS: Chicken1 Alert 2 Bilbo/ Chicken2 Alert 2 Bilbo/ Chicken3 Alert 2 Bilbo/ Chicken4 Alert 2 Bilbo/ Chicken5 Alert 2 Bilbo/ Chicken6 Alert 2 Bilbo/ Chicken7 Alert 2 Bilbo/  ACTIONS: CINEMA: Chicken chase/ ",
+				"Action130LinkState:d":	1
+			}]
+	}, {
+		"name":	"Action131",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType131:d":	12,
+				"ActionName131:s":	"Link: Activate Chicken Catch",
+				"Action131ExecuteDelay:f":	0,
+				"Action131ExecuteImmediately:d":	0,
+				"Action131Link:s":	"TRIGGERS: Chicken1 Alert 2 Bilbo/ Chicken2 Alert 2 Bilbo/ Chicken3 Alert 2 Bilbo/ Chicken4 Alert 2 Bilbo/ Chicken5 Alert 2 Bilbo/ Chicken6 Alert 2 Bilbo/ Chicken7 Alert 2 Bilbo/  ACTIONS: CINEMA: Chicken chase/ ",
+				"Action131LinkState:d":	0
+			}]
+	}, {
+		"name":	"Action132",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType132:d":	10,
+				"ActionName132:s":	"LOAD: Well Trigger",
+				"Action132ExecuteDelay:f":	0,
+				"Action132ExecuteImmediately:d":	0,
+				"Action132LoadLayerGuid:g":	"CA3DDF0F_E5CC8000"
+			}]
+	}, {
+		"name":	"Action133",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType133:d":	10,
+				"ActionName133:s":	"LOAD: Pond Unload",
+				"Action133ExecuteDelay:f":	0,
+				"Action133ExecuteImmediately:d":	0,
+				"Action133LoadLayerGuid:g":	"CA3DD912_1838C001"
+			}]
+	}, {
+		"name":	"Action134",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType134:d":	10,
+				"ActionName134:s":	"LOAD: Pond",
+				"Action134ExecuteDelay:f":	0,
+				"Action134ExecuteImmediately:d":	0,
+				"Action134LoadLayerGuid:g":	"CA3DD912_18321000"
+			}]
+	}, {
+		"name":	"Action135",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType135:d":	10,
+				"ActionName135:s":	"LOAD: Playground Unload",
+				"Action135ExecuteDelay:f":	0,
+				"Action135ExecuteImmediately:d":	0,
+				"Action135LoadLayerGuid:g":	"CA3DD912_18525401"
+			}]
+	}, {
+		"name":	"Action136",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType136:d":	10,
+				"ActionName136:s":	"LOAD: Playground",
+				"Action136ExecuteDelay:f":	0,
+				"Action136ExecuteImmediately:d":	0,
+				"Action136LoadLayerGuid:g":	"CA3DD912_18483C00"
+			}]
+	}, {
+		"name":	"Action137",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType137:d":	12,
+				"ActionName137:s":	"LINK: Gandolf Stick Cin Disable",
+				"Action137ExecuteDelay:f":	0,
+				"Action137ExecuteImmediately:d":	0,
+				"Action137Link:s":	"TRIGGERS: ACTION: Gandolf B Trig Hit/  ACTIONS: CINEMA: Gandolf Stick Cin/ ",
+				"Action137LinkState:d":	1
+			}]
+	}, {
+		"name":	"Action138",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType138:d":	12,
+				"ActionName138:s":	"LINK: Gandolf Inn Cin Enable",
+				"Action138ExecuteDelay:f":	0,
+				"Action138ExecuteImmediately:d":	0,
+				"Action138Link:s":	"TRIGGERS: ACTION: Gandolf B Trig Hit/  ACTIONS: CINEMA: Gandolf Inn Cin/ ",
+				"Action138LinkState:d":	0
+			}]
+	}, {
+		"name":	"Action139",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType139:d":	12,
+				"ActionName139:s":	"LINK: Disable initial Sand ",
+				"Action139ExecuteDelay:f":	0,
+				"Action139ExecuteImmediately:d":	0,
+				"Action139Link:s":	"TRIGGERS: Bilbo Enters Bridge Vol/  ACTIONS: Start Sandyman Bridge Dialog/ LINK:  Disable Set Sand Cine04 -2/ LOAD: Playground/ LOAD: Pond/ ",
+				"Action139LinkState:d":	1
+			}]
+	}, {
+		"name":	"Action140",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType140:d":	12,
+				"ActionName140:s":	"LINK: Disable Set Sandyman 3",
+				"Action140ExecuteDelay:f":	0,
+				"Action140ExecuteImmediately:d":	0,
+				"Action140Link:s":	"TRIGGERS: Inventory: Bilbo Has Hammer/ Inventory: Bilbo Has 3 Nails/  ACTIONS: Dialog: Set Sandyman 3/ ",
+				"Action140LinkState:d":	1
+			}]
+	}, {
+		"name":	"Action141",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType141:d":	12,
+				"ActionName141:s":	"LINK: Disable Gaddling dialog",
+				"Action141ExecuteDelay:f":	0,
+				"Action141ExecuteImmediately:d":	0,
+				"Action141Link:s":	"TRIGGERS: Bilbo Enters Well Zone/  ACTIONS: Gadling Yells at Bilbo/ ",
+				"Action141LinkState:d":	1
+			}]
+	}, {
+		"name":	"Action142",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType142:d":	12,
+				"ActionName142:s":	"LINK:  Disable Set Sand Cine04 -2",
+				"Action142ExecuteDelay:f":	0,
+				"Action142ExecuteImmediately:d":	0,
+				"Action142Link:s":	"TRIGGERS: Inventory: Bilbo Has Hammer/ Inventory: Bilbo Has 3 Nails/  ACTIONS: CINEMA: Set Sand Cine04 -2/ LINK: Disable initial Sand / ",
+				"Action142LinkState:d":	1
+			}]
+	}, {
+		"name":	"Action143",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType143:d":	9,
+				"ActionName143:s":	"Inventory: Tea Cakes TAKE",
+				"Action143ExecuteDelay:f":	0,
+				"Action143ExecuteImmediately:d":	0,
+				"Action143Item:s":	"TEA_CAKES",
+				"Action143Add:d":	0,
+				"Action143Amount:d":	1,
+				"Action143SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action144",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType144:d":	9,
+				"ActionName144:s":	"Inventory: Take Wheat Sack",
+				"Action144ExecuteDelay:f":	0,
+				"Action144ExecuteImmediately:d":	0,
+				"Action144Item:s":	"WHEAT_SACK",
+				"Action144Add:d":	0,
+				"Action144Amount:d":	1,
+				"Action144SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action145",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType145:d":	9,
+				"ActionName145:s":	"Inventory: Take Tea Cakes",
+				"Action145ExecuteDelay:f":	0,
+				"Action145ExecuteImmediately:d":	0,
+				"Action145Item:s":	"TEA_CAKES",
+				"Action145Add:d":	0,
+				"Action145Amount:d":	1,
+				"Action145SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action146",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType146:d":	9,
+				"ActionName146:s":	"Inventory: Take Sugar",
+				"Action146ExecuteDelay:f":	0,
+				"Action146ExecuteImmediately:d":	0,
+				"Action146Item:s":	"SUGAR",
+				"Action146Add:d":	0,
+				"Action146Amount:d":	1,
+				"Action146SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action147",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType147:d":	9,
+				"ActionName147:s":	"Inventory: Take Spice",
+				"Action147ExecuteDelay:f":	0,
+				"Action147ExecuteImmediately:d":	0,
+				"Action147Item:s":	"SPICE",
+				"Action147Add:d":	0,
+				"Action147Amount:d":	1,
+				"Action147SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action148",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType148:d":	9,
+				"ActionName148:s":	"Inventory: Take Needle",
+				"Action148ExecuteDelay:f":	0,
+				"Action148ExecuteImmediately:d":	0,
+				"Action148Item:s":	"SEWING NEEDLE",
+				"Action148Add:d":	0,
+				"Action148Amount:d":	1,
+				"Action148SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action149",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType149:d":	9,
+				"ActionName149:s":	"Inventory: Take Nails",
+				"Action149ExecuteDelay:f":	0,
+				"Action149ExecuteImmediately:d":	0,
+				"Action149Item:s":	"NAILS",
+				"Action149Add:d":	0,
+				"Action149Amount:d":	3,
+				"Action149SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action150",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType150:d":	9,
+				"ActionName150:s":	"Inventory: Take Hammer",
+				"Action150ExecuteDelay:f":	0,
+				"Action150ExecuteImmediately:d":	0,
+				"Action150Item:s":	"HAMMER",
+				"Action150Add:d":	0,
+				"Action150Amount:d":	1,
+				"Action150SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action151",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType151:d":	9,
+				"ActionName151:s":	"Inventory: Take Flour",
+				"Action151ExecuteDelay:f":	0,
+				"Action151ExecuteImmediately:d":	0,
+				"Action151Item:s":	"FLOUR",
+				"Action151Add:d":	0,
+				"Action151Amount:d":	1,
+				"Action151SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action152",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType152:d":	9,
+				"ActionName152:s":	"Inventory: Take Egg",
+				"Action152ExecuteDelay:f":	0,
+				"Action152ExecuteImmediately:d":	0,
+				"Action152Item:s":	"EGG",
+				"Action152Add:d":	0,
+				"Action152Amount:d":	3,
+				"Action152SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action153",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType153:d":	9,
+				"ActionName153:s":	"Inventory: Take Berry",
+				"Action153ExecuteDelay:f":	0,
+				"Action153ExecuteImmediately:d":	0,
+				"Action153Item:s":	"BERRY",
+				"Action153Add:d":	0,
+				"Action153Amount:d":	3,
+				"Action153SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action154",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType154:d":	9,
+				"ActionName154:s":	"Inventory: Take Apple",
+				"Action154ExecuteDelay:f":	0,
+				"Action154ExecuteImmediately:d":	0,
+				"Action154Item:s":	"APPLE",
+				"Action154Add:d":	0,
+				"Action154Amount:d":	3,
+				"Action154SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action155",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType155:d":	9,
+				"ActionName155:s":	"Inventory: Give Wheat Sack",
+				"Action155ExecuteDelay:f":	0,
+				"Action155ExecuteImmediately:d":	0,
+				"Action155Item:s":	"WHEAT_SACK",
+				"Action155Add:d":	1,
+				"Action155Amount:d":	1,
+				"Action155SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action156",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType156:d":	9,
+				"ActionName156:s":	"Inventory: Give Tea Cakes",
+				"Action156ExecuteDelay:f":	0,
+				"Action156ExecuteImmediately:d":	0,
+				"Action156Item:s":	"TEA_CAKES",
+				"Action156Add:d":	1,
+				"Action156Amount:d":	1,
+				"Action156SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action157",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType157:d":	9,
+				"ActionName157:s":	"Inventory: Give Flour",
+				"Action157ExecuteDelay:f":	0,
+				"Action157ExecuteImmediately:d":	0,
+				"Action157Item:s":	"FLOUR",
+				"Action157Add:d":	1,
+				"Action157Amount:d":	1,
+				"Action157SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action158",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType158:d":	9,
+				"ActionName158:s":	"Inventory: Give Bilbo Hammer",
+				"Action158ExecuteDelay:f":	0,
+				"Action158ExecuteImmediately:d":	0,
+				"Action158Item:s":	"HAMMER",
+				"Action158Add:d":	1,
+				"Action158Amount:d":	1,
+				"Action158SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action159",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType159:d":	30,
+				"ActionName159:s":	"Holman Fade Out",
+				"Action159ExecuteDelay:f":	0,
+				"Action159ExecuteImmediately:d":	0,
+				"Action159Fadeout:d":	1,
+				"Action159Color:dddd":	[0, 0, 0, 255],
+				"Action159Duration:f":	1.5
+			}]
+	}, {
+		"name":	"Action160",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType160:d":	30,
+				"ActionName160:s":	"Holman Fade In",
+				"Action160ExecuteDelay:f":	4,
+				"Action160ExecuteImmediately:d":	0,
+				"Action160Fadeout:d":	0,
+				"Action160Color:dddd":	[0, 0, 0, 255],
+				"Action160Duration:f":	1.5
+			}]
+	}, {
+		"name":	"Action161",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType161:d":	20,
+				"ActionName161:s":	"Holman Bores Bilbo",
+				"Action161ExecuteDelay:f":	0,
+				"Action161ExecuteImmediately:d":	0,
+				"Action161cinemaCount:d":	6,
+				"Action161cinemaSelect:d":	0,
+				"Action161cinema0Guid:g":	"C0CFA5CF_70759C00",
+				"Action161cinema1Guid:g":	"CA3DD091_E81AF401",
+				"Action161cinema2Guid:g":	"CA3DD091_E81B1001",
+				"Action161cinema3Guid:g":	"CA3DD091_E81B2401",
+				"Action161cinema4Guid:g":	"CA3DD091_E81B3401",
+				"Action161cinema5Guid:g":	"CA3DD091_E81B4401"
+			}]
+	}, {
+		"name":	"Action162",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType162:d":	8,
+				"ActionName162:s":	"Holman Alert Dialog",
+				"Action162ExecuteDelay:f":	0,
+				"Action162ExecuteImmediately:d":	0,
+				"Action162DialogSelectionMethod:d":	0,
+				"Action162DialogCount:d":	6,
+				"Action162DialogName0:s":	"HOBART_01_07",
+				"Action162DialogName1:s":	"HOBART_01_08",
+				"Action162DialogName2:s":	"HOBART_01_09",
+				"Action162DialogName3:s":	"HOBART_01_10",
+				"Action162DialogName4:s":	"HOBART_01_11",
+				"Action162DialogName5:s":	"HOBART_01_12",
+				"Action162Speaker:g":	"CA3DDD8E_6F161002",
+				"Action162AtLocation:d":	0,
+				"Action162BilboDialog:d":	0
+			}]
+	}, {
+		"name":	"Action163",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType163:d":	18,
+				"ActionName163:s":	"Hobbiton Info Overlay",
+				"Action163ExecuteDelay:f":	0,
+				"Action163ExecuteImmediately:d":	0,
+				"Action163StringID:s":	"INFO_HOBBITON",
+				"Action163Scroll:d":	0,
+				"Action163DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action164",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType164:d":	15,
+				"ActionName164:s":	"Hilda Tele",
+				"Action164ExecuteDelay:f":	0,
+				"Action164ExecuteImmediately:d":	1,
+				"Action164Object:g":	"CA3DD58F_5BD28001",
+				"Action164Volume:g":	"CA3DDD8F_5C72EC00",
+				"Action164Facing:g":	"CA3DDD8F_5C738C01"
+			}]
+	}, {
+		"name":	"Action165",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType165:d":	21,
+				"ActionName165:s":	"Hilda Set Trig Cinema",
+				"Action165ExecuteDelay:f":	0,
+				"Action165ExecuteImmediately:d":	0,
+				"Action165NPCGuid:g":	"CA3DD58F_5BD28001",
+				"Action165CinemaCount:d":	1,
+				"Action165SelectionMethod:d":	0,
+				"Action165Cinema0:g":	"CA3DD6CF_5CA2C800"
+			}]
+	}, {
+		"name":	"Action166",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType166:d":	21,
+				"ActionName166:s":	"Hilda Set After Found",
+				"Action166ExecuteDelay:f":	0,
+				"Action166ExecuteImmediately:d":	0,
+				"Action166NPCGuid:g":	"CA3DD58F_5BD28001",
+				"Action166CinemaCount:d":	1,
+				"Action166SelectionMethod:d":	0,
+				"Action166Cinema0:g":	"CA3DD6CF_5CA3F000"
+			}]
+	}, {
+		"name":	"Action167",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType167:d":	4,
+				"ActionName167:s":	"Hilda Goal List",
+				"Action167ExecuteDelay:f":	0,
+				"Action167ExecuteImmediately:d":	0,
+				"Action167CharacterGuid:g":	"CA3DD58F_5BD28001",
+				"Action167AIStateName:s":	"Idle",
+				"Action167GoalListName:s":	"Hilda Hide",
+				"Action167OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action168",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType168:d":	21,
+				"ActionName168:s":	"Hanna Still Needs Butter Churn Dialog 4",
+				"Action168ExecuteDelay:f":	0,
+				"Action168ExecuteImmediately:d":	0,
+				"Action168NPCGuid:g":	"CA3DDD8E_6EB85001",
+				"Action168CinemaCount:d":	1,
+				"Action168SelectionMethod:d":	0,
+				"Action168Cinema0:g":	"CA3DDF8E_98F14000"
+			}]
+	}, {
+		"name":	"Action169",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType169:d":	21,
+				"ActionName169:s":	"Hamfast set After Found",
+				"Action169ExecuteDelay:f":	0,
+				"Action169ExecuteImmediately:d":	0,
+				"Action169NPCGuid:g":	"CA3DD58F_5BD13800",
+				"Action169CinemaCount:d":	1,
+				"Action169SelectionMethod:d":	0,
+				"Action169Cinema0:g":	"CA3DDF4F_5C902C00"
+			}]
+	}, {
+		"name":	"Action170",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType170:d":	21,
+				"ActionName170:s":	"Hamfast Set Trig Cinema",
+				"Action170ExecuteDelay:f":	0,
+				"Action170ExecuteImmediately:d":	0,
+				"Action170NPCGuid:g":	"CA3DD58F_5BD13800",
+				"Action170CinemaCount:d":	1,
+				"Action170SelectionMethod:d":	0,
+				"Action170Cinema0:g":	"CA3DDF4F_5C892000"
+			}]
+	}, {
+		"name":	"Action171",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType171:d":	4,
+				"ActionName171:s":	"Hamfast Face Bilbo",
+				"Action171ExecuteDelay:f":	0,
+				"Action171ExecuteImmediately:d":	0,
+				"Action171CharacterGuid:g":	"CA3DD58F_5BD13800",
+				"Action171AIStateName:s":	"Idle",
+				"Action171GoalListName:s":	"Face Bilbo",
+				"Action171OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action172",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType172:d":	20,
+				"ActionName172:s":	"Hamfast Cinema Start",
+				"Action172ExecuteDelay:f":	0.5,
+				"Action172ExecuteImmediately:d":	0,
+				"Action172cinemaCount:d":	1,
+				"Action172cinemaSelect:d":	0,
+				"Action172cinema0Guid:g":	"15A467D1_1B7A8800"
+			}]
+	}, {
+		"name":	"Action173",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType173:d":	4,
+				"ActionName173:s":	"Goal List: Sadoc Runs Trig",
+				"Action173ExecuteDelay:f":	0,
+				"Action173ExecuteImmediately:d":	0,
+				"Action173CharacterGuid:g":	"CA3DD58F_5BD6DC00",
+				"Action173AIStateName:s":	"Idle",
+				"Action173GoalListName:s":	"Sadoc Run",
+				"Action173OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action174",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType174:d":	4,
+				"ActionName174:s":	"Goal List: Hilda Runs Trig",
+				"Action174ExecuteDelay:f":	0,
+				"Action174ExecuteImmediately:d":	0,
+				"Action174CharacterGuid:g":	"CA3DD58F_5BD28001",
+				"Action174AIStateName:s":	"Idle",
+				"Action174GoalListName:s":	"Hilda Run",
+				"Action174OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action175",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType175:d":	4,
+				"ActionName175:s":	"Goal List: Hamfast Runs",
+				"Action175ExecuteDelay:f":	0,
+				"Action175ExecuteImmediately:d":	0,
+				"Action175CharacterGuid:g":	"CA3DD58F_5BD13800",
+				"Action175AIStateName:s":	"Idle",
+				"Action175GoalListName:s":	"Hamfast Run",
+				"Action175OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action176",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType176:d":	4,
+				"ActionName176:s":	"Goal List: Hamfast Hide",
+				"Action176ExecuteDelay:f":	0,
+				"Action176ExecuteImmediately:d":	0,
+				"Action176CharacterGuid:g":	"CA3DD58F_5BD13800",
+				"Action176AIStateName:s":	"Idle",
+				"Action176GoalListName:s":	"Hamfast Hide",
+				"Action176OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action177",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType177:d":	4,
+				"ActionName177:s":	"Goal List: Bell Runs Trig",
+				"Action177ExecuteDelay:f":	0,
+				"Action177ExecuteImmediately:d":	0,
+				"Action177CharacterGuid:g":	"CA3DD48F_5BA30400",
+				"Action177AIStateName:s":	"Idle",
+				"Action177GoalListName:s":	"Bell Run",
+				"Action177OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action178",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType178:d":	7,
+				"ActionName178:s":	"Gadling Yells at Bilbo",
+				"Action178ExecuteDelay:f":	0,
+				"Action178ExecuteImmediately:d":	0,
+				"Action178DialogName:s":	"Gadling_01_01",
+				"Action178Speaker:g":	"CA3DDD8E_6EB33800",
+				"Action178AtLocation:d":	0,
+				"Action178BilboDialog:d":	0
+			}]
+	}, {
+		"name":	"Action179",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType179:d":	19,
+				"ActionName179:s":	"END LEVEL",
+				"Action179ExecuteDelay:f":	0,
+				"Action179ExecuteImmediately:d":	0
+			}]
+	}, {
+		"name":	"Action180",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType180:d":	15,
+				"ActionName180:s":	"Doggy Block Tele Bilbo",
+				"Action180ExecuteDelay:f":	4,
+				"Action180ExecuteImmediately:d":	0,
+				"Action180Object:g":	"ABCABCAB_CABCABC0",
+				"Action180Volume:g":	"CA3DDE0F_65C24800",
+				"Action180Facing:g":	"CA3DDE0F_65C2D001"
+			}]
+	}, {
+		"name":	"Action181",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType181:d":	30,
+				"ActionName181:s":	"Doggy Block Fade In",
+				"Action181ExecuteDelay:f":	4,
+				"Action181ExecuteImmediately:d":	0,
+				"Action181Fadeout:d":	0,
+				"Action181Color:dddd":	[0, 0, 0, 255],
+				"Action181Duration:f":	1.5
+			}]
+	}, {
+		"name":	"Action182",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType182:d":	30,
+				"ActionName182:s":	"Doggy Block Fade Cam",
+				"Action182ExecuteDelay:f":	0,
+				"Action182ExecuteImmediately:d":	0,
+				"Action182Fadeout:d":	1,
+				"Action182Color:dddd":	[0, 0, 0, 255],
+				"Action182Duration:f":	1.5
+			}]
+	}, {
+		"name":	"Action183",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType183:d":	7,
+				"ActionName183:s":	"Dog Bark",
+				"Action183ExecuteDelay:f":	0,
+				"Action183ExecuteImmediately:d":	0,
+				"Action183DialogName:s":	"DogBark",
+				"Action183Speaker:g":	"00000000_00000000",
+				"Action183AtLocation:d":	0,
+				"Action183BilboDialog:d":	0
+			}]
+	}, {
+		"name":	"Action184",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType184:d":	7,
+				"ActionName184:s":	"Dog 5 Howl",
+				"Action184ExecuteDelay:f":	0,
+				"Action184ExecuteImmediately:d":	0,
+				"Action184DialogName:s":	"DogHowl",
+				"Action184Speaker:g":	"63CA720F_67036001",
+				"Action184AtLocation:d":	0,
+				"Action184BilboDialog:d":	0
+			}]
+	}, {
+		"name":	"Action185",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType185:d":	7,
+				"ActionName185:s":	"Dog 4 Howl",
+				"Action185ExecuteDelay:f":	0,
+				"Action185ExecuteImmediately:d":	0,
+				"Action185DialogName:s":	"DogHowl",
+				"Action185Speaker:g":	"63CA720F_67034001",
+				"Action185AtLocation:d":	0,
+				"Action185BilboDialog:d":	0
+			}]
+	}, {
+		"name":	"Action186",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType186:d":	7,
+				"ActionName186:s":	"Dog 3 Howl",
+				"Action186ExecuteDelay:f":	0,
+				"Action186ExecuteImmediately:d":	0,
+				"Action186DialogName:s":	"DogHowl",
+				"Action186Speaker:g":	"63CA720F_67032001",
+				"Action186AtLocation:d":	0,
+				"Action186BilboDialog:d":	0
+			}]
+	}, {
+		"name":	"Action187",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType187:d":	7,
+				"ActionName187:s":	"Dog 2 Howl",
+				"Action187ExecuteDelay:f":	0,
+				"Action187ExecuteImmediately:d":	0,
+				"Action187DialogName:s":	"DogHowl",
+				"Action187Speaker:g":	"63CA720F_6702F801",
+				"Action187AtLocation:d":	0,
+				"Action187BilboDialog:d":	0
+			}]
+	}, {
+		"name":	"Action188",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType188:d":	7,
+				"ActionName188:s":	"Dog 1 Howl",
+				"Action188ExecuteDelay:f":	0,
+				"Action188ExecuteImmediately:d":	0,
+				"Action188DialogName:s":	"DogHowl",
+				"Action188Speaker:g":	"CA3DDCCF_56312C01",
+				"Action188AtLocation:d":	0,
+				"Action188BilboDialog:d":	0
+			}]
+	}, {
+		"name":	"Action189",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType189:d":	12,
+				"ActionName189:s":	"Disable Lily Pad Success",
+				"Action189ExecuteDelay:f":	0,
+				"Action189ExecuteImmediately:d":	0,
+				"Action189Link:s":	"TRIGGERS: Bilbo Lily Pad Success/  ACTIONS: CP: Spawn 100/ Music_QuestItemFound/ ",
+				"Action189LinkState:d":	1
+			}]
+	}, {
+		"name":	"Action190",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType190:d":	0,
+				"ActionName190:s":	""
+			}]
+	}, {
+		"name":	"Action191",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType191:d":	0,
+				"ActionName191:s":	""
+			}]
+	}, {
+		"name":	"Action192",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType192:d":	20,
+				"ActionName192:s":	"Dialog: Start Bombur 3",
+				"Action192ExecuteDelay:f":	0,
+				"Action192ExecuteImmediately:d":	0,
+				"Action192cinemaCount:d":	1,
+				"Action192cinemaSelect:d":	0,
+				"Action192cinema0Guid:g":	"CA3DD890_04C42000"
+			}]
+	}, {
+		"name":	"Action193",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType193:d":	20,
+				"ActionName193:s":	"Dialog: Start Bombur 2",
+				"Action193ExecuteDelay:f":	0,
+				"Action193ExecuteImmediately:d":	0,
+				"Action193cinemaCount:d":	1,
+				"Action193cinemaSelect:d":	0,
+				"Action193cinema0Guid:g":	"CA3DD890_04C07400"
+			}]
+	}, {
+		"name":	"Action194",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType194:d":	21,
+				"ActionName194:s":	"Dialog: Set Sandyman 4",
+				"Action194ExecuteDelay:f":	0,
+				"Action194ExecuteImmediately:d":	0,
+				"Action194NPCGuid:g":	"CA3DDD8E_6ED56801",
+				"Action194CinemaCount:d":	1,
+				"Action194SelectionMethod:d":	0,
+				"Action194Cinema0:g":	"CA3DD50F_2D967400"
+			}]
+	}, {
+		"name":	"Action195",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType195:d":	21,
+				"ActionName195:s":	"Dialog: Set Sandyman 3",
+				"Action195ExecuteDelay:f":	5,
+				"Action195ExecuteImmediately:d":	0,
+				"Action195NPCGuid:g":	"CA3DDD8E_6ED56801",
+				"Action195CinemaCount:d":	1,
+				"Action195SelectionMethod:d":	0,
+				"Action195Cinema0:g":	"CA3DD50F_2D92E800"
+			}]
+	}, {
+		"name":	"Action196",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType196:d":	21,
+				"ActionName196:s":	"Dialog: Set Sandyman 2",
+				"Action196ExecuteDelay:f":	0,
+				"Action196ExecuteImmediately:d":	0,
+				"Action196NPCGuid:g":	"CA3DDD8E_6ED56801",
+				"Action196CinemaCount:d":	1,
+				"Action196SelectionMethod:d":	0,
+				"Action196Cinema0:g":	"CA3DD50F_2D8F0800"
+			}]
+	}, {
+		"name":	"Action197",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType197:d":	21,
+				"ActionName197:s":	"Dialog: Set Otho 2",
+				"Action197ExecuteDelay:f":	0,
+				"Action197ExecuteImmediately:d":	0,
+				"Action197NPCGuid:g":	"CA3DDD8E_6ED94C01",
+				"Action197CinemaCount:d":	1,
+				"Action197SelectionMethod:d":	0,
+				"Action197Cinema0:g":	"CA3DD291_CB081400"
+			}]
+	}, {
+		"name":	"Action198",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType198:d":	21,
+				"ActionName198:s":	"Dialog: Set Lorella 3",
+				"Action198ExecuteDelay:f":	0,
+				"Action198ExecuteImmediately:d":	0,
+				"Action198NPCGuid:g":	"CA3DDD8E_6F151801",
+				"Action198CinemaCount:d":	1,
+				"Action198SelectionMethod:d":	0,
+				"Action198Cinema0:g":	"CA3DDA0F_30C81400"
+			}]
+	}, {
+		"name":	"Action199",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType199:d":	21,
+				"ActionName199:s":	"Dialog: Set Lorella 2",
+				"Action199ExecuteDelay:f":	0,
+				"Action199ExecuteImmediately:d":	0,
+				"Action199NPCGuid:g":	"CA3DDD8E_6F151801",
+				"Action199CinemaCount:d":	1,
+				"Action199SelectionMethod:d":	0,
+				"Action199Cinema0:g":	"CA3DDA0F_30C7C400"
+			}]
+	}, {
+		"name":	"Action200",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType200:d":	21,
+				"ActionName200:s":	"Dialog: Set Holbert 4",
+				"Action200ExecuteDelay:f":	0,
+				"Action200ExecuteImmediately:d":	0,
+				"Action200NPCGuid:g":	"CA3DDD8E_6F1AC001",
+				"Action200CinemaCount:d":	1,
+				"Action200SelectionMethod:d":	0,
+				"Action200Cinema0:g":	"CA3DD60F_2CA8B400"
+			}]
+	}, {
+		"name":	"Action201",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType201:d":	21,
+				"ActionName201:s":	"Dialog: Set Holbert 3",
+				"Action201ExecuteDelay:f":	0,
+				"Action201ExecuteImmediately:d":	0,
+				"Action201NPCGuid:g":	"CA3DDD8E_6F1AC001",
+				"Action201CinemaCount:d":	1,
+				"Action201SelectionMethod:d":	0,
+				"Action201Cinema0:g":	"CA3DD60F_2CA0C400"
+			}]
+	}, {
+		"name":	"Action202",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType202:d":	21,
+				"ActionName202:s":	"Dialog: Set Holbert 2",
+				"Action202ExecuteDelay:f":	0,
+				"Action202ExecuteImmediately:d":	0,
+				"Action202NPCGuid:g":	"CA3DDD8E_6F1AC001",
+				"Action202CinemaCount:d":	1,
+				"Action202SelectionMethod:d":	0,
+				"Action202Cinema0:g":	"CA3DD60F_2C872800"
+			}]
+	}, {
+		"name":	"Action203",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType203:d":	21,
+				"ActionName203:s":	"Dialog: Set Hanna to 3 ",
+				"Action203ExecuteDelay:f":	0,
+				"Action203ExecuteImmediately:d":	0,
+				"Action203NPCGuid:g":	"CA3DDD8E_6EB85001",
+				"Action203CinemaCount:d":	1,
+				"Action203SelectionMethod:d":	0,
+				"Action203Cinema0:g":	"CA3DDF8E_98F13800"
+			}]
+	}, {
+		"name":	"Action204",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType204:d":	21,
+				"ActionName204:s":	"Dialog: Set Hanna 2",
+				"Action204ExecuteDelay:f":	0,
+				"Action204ExecuteImmediately:d":	0,
+				"Action204NPCGuid:g":	"CA3DDD8E_6EB85001",
+				"Action204CinemaCount:d":	1,
+				"Action204SelectionMethod:d":	0,
+				"Action204Cinema0:g":	"CA3DDF8E_98D25000"
+			}]
+	}, {
+		"name":	"Action205",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType205:d":	21,
+				"ActionName205:s":	"Dialog: Set Gammer to 5",
+				"Action205ExecuteDelay:f":	0,
+				"Action205ExecuteImmediately:d":	0,
+				"Action205NPCGuid:g":	"CA3DDD8E_6EC92401",
+				"Action205CinemaCount:d":	1,
+				"Action205SelectionMethod:d":	0,
+				"Action205Cinema0:g":	"CA3DDD0F_612DE400"
+			}]
+	}, {
+		"name":	"Action206",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType206:d":	21,
+				"ActionName206:s":	"Dialog: Set Gammer to 4",
+				"Action206ExecuteDelay:f":	0,
+				"Action206ExecuteImmediately:d":	0,
+				"Action206NPCGuid:g":	"CA3DDD8E_6EC92401",
+				"Action206CinemaCount:d":	1,
+				"Action206SelectionMethod:d":	0,
+				"Action206Cinema0:g":	"CA3DDD0F_612D0400"
+			}]
+	}, {
+		"name":	"Action207",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType207:d":	21,
+				"ActionName207:s":	"Dialog: Set Gammer to 3",
+				"Action207ExecuteDelay:f":	0,
+				"Action207ExecuteImmediately:d":	0,
+				"Action207NPCGuid:g":	"CA3DDD8E_6EC92401",
+				"Action207CinemaCount:d":	1,
+				"Action207SelectionMethod:d":	0,
+				"Action207Cinema0:g":	"CA3DD9CF_60C14400"
+			}]
+	}, {
+		"name":	"Action208",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType208:d":	21,
+				"ActionName208:s":	"Dialog: Set Gammer to 2",
+				"Action208ExecuteDelay:f":	0,
+				"Action208ExecuteImmediately:d":	0,
+				"Action208NPCGuid:g":	"CA3DDD8E_6EC92401",
+				"Action208CinemaCount:d":	1,
+				"Action208SelectionMethod:d":	0,
+				"Action208Cinema0:g":	"CA3DD3CF_41DB0800"
+			}]
+	}, {
+		"name":	"Action209",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType209:d":	21,
+				"ActionName209:s":	"Dialog: Set Bombur NONE",
+				"Action209ExecuteDelay:f":	0,
+				"Action209ExecuteImmediately:d":	0,
+				"Action209NPCGuid:g":	"CA3DDD90_04216C00",
+				"Action209CinemaCount:d":	1,
+				"Action209SelectionMethod:d":	1,
+				"Action209Cinema0:g":	"00000000_00000000"
+			}]
+	}, {
+		"name":	"Action210",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType210:d":	7,
+				"ActionName210:s":	"Dialog: Bilbo hates Chickens",
+				"Action210ExecuteDelay:f":	0,
+				"Action210ExecuteImmediately:d":	0,
+				"Action210DialogName:s":	"Bilbo_01_91",
+				"Action210Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action210AtLocation:d":	0,
+				"Action210BilboDialog:d":	0
+			}]
+	}, {
+		"name":	"Action211",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType211:d":	20,
+				"ActionName211:s":	"Dialog: Bilbo Dog Maggot",
+				"Action211ExecuteDelay:f":	0,
+				"Action211ExecuteImmediately:d":	0,
+				"Action211cinemaCount:d":	1,
+				"Action211cinemaSelect:d":	0,
+				"Action211cinema0Guid:g":	"CA3DD9CF_4D1BD800"
+			}]
+	}, {
+		"name":	"Action212",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType212:d":	20,
+				"ActionName212:s":	"Dialog: Bilbo Apple Cinema",
+				"Action212ExecuteDelay:f":	0,
+				"Action212ExecuteImmediately:d":	0,
+				"Action212cinemaCount:d":	1,
+				"Action212cinemaSelect:d":	0,
+				"Action212cinema0Guid:g":	"CA3DDF0F_2BBC7C00"
+			}]
+	}, {
+		"name":	"Action213",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType213:d":	21,
+				"ActionName213:s":	"Dialog:  Set Gammer 5 After Needle",
+				"Action213ExecuteDelay:f":	0,
+				"Action213ExecuteImmediately:d":	0,
+				"Action213NPCGuid:g":	"CA3DDD8E_6EC92401",
+				"Action213CinemaCount:d":	1,
+				"Action213SelectionMethod:d":	0,
+				"Action213Cinema0:g":	"CA3DDD0F_612DE400"
+			}]
+	}, {
+		"name":	"Action214",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType214:d":	21,
+				"ActionName214:s":	"Dialog:  Set Gammer 4 Gets Needle",
+				"Action214ExecuteDelay:f":	0,
+				"Action214ExecuteImmediately:d":	0,
+				"Action214NPCGuid:g":	"CA3DDD8E_6EC92401",
+				"Action214CinemaCount:d":	1,
+				"Action214SelectionMethod:d":	0,
+				"Action214Cinema0:g":	"CA3DDD0F_612D0400"
+			}]
+	}, {
+		"name":	"Action215",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType215:d":	7,
+				"ActionName215:s":	"DIALOG: Sees Green Dragon Inn",
+				"Action215ExecuteDelay:f":	0,
+				"Action215ExecuteImmediately:d":	0,
+				"Action215DialogName:s":	"Bilbo_01_17",
+				"Action215Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action215AtLocation:d":	0,
+				"Action215BilboDialog:d":	0
+			}]
+	}, {
+		"name":	"Action216",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType216:d":	7,
+				"ActionName216:s":	"DIALOG: Plenty Food",
+				"Action216ExecuteDelay:f":	0,
+				"Action216ExecuteImmediately:d":	0,
+				"Action216DialogName:s":	"BILBO_01_19",
+				"Action216Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action216AtLocation:d":	0,
+				"Action216BilboDialog:d":	1
+			}]
+	}, {
+		"name":	"Action217",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType217:d":	7,
+				"ActionName217:s":	"DIALOG: Please Dwarf",
+				"Action217ExecuteDelay:f":	0,
+				"Action217ExecuteImmediately:d":	0,
+				"Action217DialogName:s":	"Bilbo_01_18",
+				"Action217Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action217AtLocation:d":	0,
+				"Action217BilboDialog:d":	0
+			}]
+	}, {
+		"name":	"Action218",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType218:d":	20,
+				"ActionName218:s":	"DIALOG: Parents Pic voice",
+				"Action218ExecuteDelay:f":	0,
+				"Action218ExecuteImmediately:d":	0,
+				"Action218cinemaCount:d":	1,
+				"Action218cinemaSelect:d":	1,
+				"Action218cinema0Guid:g":	"CA3DDC12_5923F000"
+			}]
+	}, {
+		"name":	"Action219",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType219:d":	20,
+				"ActionName219:s":	"DIALOG: H Town Door",
+				"Action219ExecuteDelay:f":	0,
+				"Action219ExecuteImmediately:d":	0,
+				"Action219cinemaCount:d":	1,
+				"Action219cinemaSelect:d":	0,
+				"Action219cinema0Guid:g":	"CA3DD4D1_E31B5000"
+			}]
+	}, {
+		"name":	"Action220",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType220:d":	7,
+				"ActionName220:s":	"DIALOG: First Provision Collected",
+				"Action220ExecuteDelay:f":	0,
+				"Action220ExecuteImmediately:d":	0,
+				"Action220DialogName:s":	"BILBO_01_16",
+				"Action220Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action220AtLocation:d":	0,
+				"Action220BilboDialog:d":	1
+			}]
+	}, {
+		"name":	"Action221",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType221:d":	20,
+				"ActionName221:s":	"DIALOG: Family: portraits",
+				"Action221ExecuteDelay:f":	0,
+				"Action221ExecuteImmediately:d":	0,
+				"Action221cinemaCount:d":	5,
+				"Action221cinemaSelect:d":	0,
+				"Action221cinema0Guid:g":	"CA3DDC12_5928F000",
+				"Action221cinema1Guid:g":	"CA3DDC12_59290400",
+				"Action221cinema2Guid:g":	"CA3DDC12_59292000",
+				"Action221cinema3Guid:g":	"CA3DDC12_59291000",
+				"Action221cinema4Guid:g":	"CA3DDC12_59292C00"
+			}]
+	}, {
+		"name":	"Action222",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType222:d":	20,
+				"ActionName222:s":	"DIALOG: Can't Leave Yet",
+				"Action222ExecuteDelay:f":	0,
+				"Action222ExecuteImmediately:d":	0,
+				"Action222cinemaCount:d":	1,
+				"Action222cinemaSelect:d":	0,
+				"Action222cinema0Guid:g":	"CA3DD2CF_4198F800"
+			}]
+	}, {
+		"name":	"Action223",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType223:d":	20,
+				"ActionName223:s":	"Cinema: Front Door Conv",
+				"Action223ExecuteDelay:f":	0,
+				"Action223ExecuteImmediately:d":	0,
+				"Action223cinemaCount:d":	1,
+				"Action223cinemaSelect:d":	0,
+				"Action223cinema0Guid:g":	"C0CFA98F_62016000"
+			}]
+	}, {
+		"name":	"Action224",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType224:d":	13,
+				"ActionName224:s":	"Chicken7 Idle",
+				"Action224ExecuteDelay:f":	2,
+				"Action224ExecuteImmediately:d":	0,
+				"Action224State:s":	"Idle",
+				"Action224NPC:g":	"CA3DD48F_520ED401"
+			}]
+	}, {
+		"name":	"Action225",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType225:d":	13,
+				"ActionName225:s":	"Chicken6 Idle",
+				"Action225ExecuteDelay:f":	2,
+				"Action225ExecuteImmediately:d":	0,
+				"Action225State:s":	"Idle",
+				"Action225NPC:g":	"CA3DD48F_520EC001"
+			}]
+	}, {
+		"name":	"Action226",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType226:d":	13,
+				"ActionName226:s":	"Chicken5 Idle",
+				"Action226ExecuteDelay:f":	2,
+				"Action226ExecuteImmediately:d":	0,
+				"Action226State:s":	"Idle",
+				"Action226NPC:g":	"CA3DD48F_520E7001"
+			}]
+	}, {
+		"name":	"Action227",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType227:d":	13,
+				"ActionName227:s":	"Chicken4 Idle",
+				"Action227ExecuteDelay:f":	2,
+				"Action227ExecuteImmediately:d":	0,
+				"Action227State:s":	"Idle",
+				"Action227NPC:g":	"CA3DD48F_520D8801"
+			}]
+	}, {
+		"name":	"Action228",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType228:d":	13,
+				"ActionName228:s":	"Chicken3 Idle",
+				"Action228ExecuteDelay:f":	2,
+				"Action228ExecuteImmediately:d":	0,
+				"Action228State:s":	"Idle",
+				"Action228NPC:g":	"CA3DD48F_520D1801"
+			}]
+	}, {
+		"name":	"Action229",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType229:d":	13,
+				"ActionName229:s":	"Chicken2 Idle",
+				"Action229ExecuteDelay:f":	2,
+				"Action229ExecuteImmediately:d":	0,
+				"Action229State:s":	"Idle",
+				"Action229NPC:g":	"CA3DD48F_520CF001"
+			}]
+	}, {
+		"name":	"Action230",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType230:d":	13,
+				"ActionName230:s":	"Chicken1 Idle",
+				"Action230ExecuteDelay:f":	2,
+				"Action230ExecuteImmediately:d":	0,
+				"Action230State:s":	"Idle",
+				"Action230NPC:g":	"CA3DD48F_52031800"
+			}]
+	}, {
+		"name":	"Action231",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType231:d":	30,
+				"ActionName231:s":	"Chicken Fade out",
+				"Action231ExecuteDelay:f":	0,
+				"Action231ExecuteImmediately:d":	0,
+				"Action231Fadeout:d":	1,
+				"Action231Color:dddd":	[0, 0, 0, 255],
+				"Action231Duration:f":	1.5
+			}]
+	}, {
+		"name":	"Action232",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType232:d":	30,
+				"ActionName232:s":	"Chicken Fade In",
+				"Action232ExecuteDelay:f":	4,
+				"Action232ExecuteImmediately:d":	0,
+				"Action232Fadeout:d":	0,
+				"Action232Color:dddd":	[0, 0, 0, 255],
+				"Action232Duration:f":	1.5
+			}]
+	}, {
+		"name":	"Action233",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType233:d":	7,
+				"ActionName233:s":	"Chicken Cluck",
+				"Action233ExecuteDelay:f":	0,
+				"Action233ExecuteImmediately:d":	0,
+				"Action233DialogName:s":	"ChickenSquak",
+				"Action233Speaker:g":	"00000000_00000000",
+				"Action233AtLocation:d":	0,
+				"Action233BilboDialog:d":	0
+			}]
+	}, {
+		"name":	"Action234",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType234:d":	9,
+				"ActionName234:s":	"CP: Spawn 50",
+				"Action234ExecuteDelay:f":	0,
+				"Action234ExecuteImmediately:d":	0,
+				"Action234Item:s":	"COURAGE",
+				"Action234Add:d":	1,
+				"Action234Amount:d":	50,
+				"Action234SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action235",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType235:d":	9,
+				"ActionName235:s":	"CP: Spawn 25",
+				"Action235ExecuteDelay:f":	0,
+				"Action235ExecuteImmediately:d":	0,
+				"Action235Item:s":	"COURAGE",
+				"Action235Add:d":	1,
+				"Action235Amount:d":	25,
+				"Action235SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action236",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType236:d":	9,
+				"ActionName236:s":	"CP: Spawn 100",
+				"Action236ExecuteDelay:f":	0,
+				"Action236ExecuteImmediately:d":	0,
+				"Action236Item:s":	"COURAGE",
+				"Action236Add:d":	1,
+				"Action236Amount:d":	100,
+				"Action236SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action237",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType237:d":	9,
+				"ActionName237:s":	"CP: Sandyman Gives 75",
+				"Action237ExecuteDelay:f":	0,
+				"Action237ExecuteImmediately:d":	0,
+				"Action237Item:s":	"COURAGE",
+				"Action237Add:d":	1,
+				"Action237Amount:d":	75,
+				"Action237SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action238",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType238:d":	17,
+				"ActionName238:s":	"CP: Frank Spawn 5",
+				"Action238ExecuteDelay:f":	0,
+				"Action238ExecuteImmediately:d":	0,
+				"Action238Object:g":	"63CA720F_67034001",
+				"Action238Amount:d":	5
+			}]
+	}, {
+		"name":	"Action239",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType239:d":	9,
+				"ActionName239:s":	"CP: Bombur Gives 50",
+				"Action239ExecuteDelay:f":	0,
+				"Action239ExecuteImmediately:d":	0,
+				"Action239Item:s":	"COURAGE",
+				"Action239Add:d":	1,
+				"Action239Amount:d":	50,
+				"Action239SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action240",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType240:d":	9,
+				"ActionName240:s":	"CP: Bombur Gives 25",
+				"Action240ExecuteDelay:f":	0,
+				"Action240ExecuteImmediately:d":	0,
+				"Action240Item:s":	"COURAGE",
+				"Action240Add:d":	1,
+				"Action240Amount:d":	25,
+				"Action240SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action241",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType241:d":	9,
+				"ActionName241:s":	"CP: Bombur Gives 100",
+				"Action241ExecuteDelay:f":	0,
+				"Action241ExecuteImmediately:d":	0,
+				"Action241Item:s":	"COURAGE",
+				"Action241Add:d":	1,
+				"Action241Amount:d":	100,
+				"Action241SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action242",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType242:d":	9,
+				"ActionName242:s":	"CP: All Kids Found 10",
+				"Action242ExecuteDelay:f":	0,
+				"Action242ExecuteImmediately:d":	0,
+				"Action242Item:s":	"COURAGE",
+				"Action242Add:d":	1,
+				"Action242Amount:d":	10,
+				"Action242SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action243",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType243:d":	9,
+				"ActionName243:s":	"CP: A Child is Found 10",
+				"Action243ExecuteDelay:f":	0,
+				"Action243ExecuteImmediately:d":	0,
+				"Action243Item:s":	"COURAGE",
+				"Action243Add:d":	1,
+				"Action243Amount:d":	10,
+				"Action243SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action244",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType244:d":	20,
+				"ActionName244:s":	"CINEMA: Start bombur dialog",
+				"Action244ExecuteDelay:f":	0,
+				"Action244ExecuteImmediately:d":	0,
+				"Action244cinemaCount:d":	1,
+				"Action244cinemaSelect:d":	1,
+				"Action244cinema0Guid:g":	"CA3DD890_04554800"
+			}]
+	}, {
+		"name":	"Action245",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType245:d":	20,
+				"ActionName245:s":	"CINEMA: Start Sandyman Fix Bridge",
+				"Action245ExecuteDelay:f":	0,
+				"Action245ExecuteImmediately:d":	0,
+				"Action245cinemaCount:d":	1,
+				"Action245cinemaSelect:d":	1,
+				"Action245cinema0Guid:g":	"CA3DD50F_2D92E800"
+			}]
+	}, {
+		"name":	"Action246",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType246:d":	21,
+				"ActionName246:s":	"CINEMA: Set Sand Cine04 -2",
+				"Action246ExecuteDelay:f":	0,
+				"Action246ExecuteImmediately:d":	0,
+				"Action246NPCGuid:g":	"CA3DDD8E_6ED56801",
+				"Action246CinemaCount:d":	1,
+				"Action246SelectionMethod:d":	1,
+				"Action246Cinema0:g":	"CA3DD952_338A4800"
+			}]
+	}, {
+		"name":	"Action247",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType247:d":	21,
+				"ActionName247:s":	"CINEMA: Set Gandolf Inn Cin",
+				"Action247ExecuteDelay:f":	0,
+				"Action247ExecuteImmediately:d":	0,
+				"Action247NPCGuid:g":	"CA3DD190_7D9EA000",
+				"Action247CinemaCount:d":	1,
+				"Action247SelectionMethod:d":	0,
+				"Action247Cinema0:g":	"CA3DDE51_20A1B800"
+			}]
+	}, {
+		"name":	"Action248",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType248:d":	20,
+				"ActionName248:s":	"CINEMA: Level Start",
+				"Action248ExecuteDelay:f":	0.5,
+				"Action248ExecuteImmediately:d":	0,
+				"Action248cinemaCount:d":	1,
+				"Action248cinemaSelect:d":	1,
+				"Action248cinema0Guid:g":	"CA3DDF12_32749400"
+			}]
+	}, {
+		"name":	"Action249",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType249:d":	20,
+				"ActionName249:s":	"CINEMA: Gandolf Stick Cin",
+				"Action249ExecuteDelay:f":	0,
+				"Action249ExecuteImmediately:d":	0,
+				"Action249cinemaCount:d":	1,
+				"Action249cinemaSelect:d":	1,
+				"Action249cinema0Guid:g":	"CA3DDE51_209F4000"
+			}]
+	}, {
+		"name":	"Action250",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType250:d":	20,
+				"ActionName250:s":	"CINEMA: Gandolf Inn Cin",
+				"Action250ExecuteDelay:f":	0,
+				"Action250ExecuteImmediately:d":	0,
+				"Action250cinemaCount:d":	1,
+				"Action250cinemaSelect:d":	1,
+				"Action250cinema0Guid:g":	"CA3DDE51_20A1B800"
+			}]
+	}, {
+		"name":	"Action251",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType251:d":	20,
+				"ActionName251:s":	"CINEMA: Chicken chase",
+				"Action251ExecuteDelay:f":	0,
+				"Action251ExecuteImmediately:d":	0,
+				"Action251cinemaCount:d":	1,
+				"Action251cinemaSelect:d":	1,
+				"Action251cinema0Guid:g":	"CA3DD6D1_E9113000"
+			}]
+	}, {
+		"name":	"Action252",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType252:d":	7,
+				"ActionName252:s":	"Bilbo says he's got the Motts",
+				"Action252ExecuteDelay:f":	0,
+				"Action252ExecuteImmediately:d":	0,
+				"Action252DialogName:s":	"Bilbo_01_104",
+				"Action252Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action252AtLocation:d":	0,
+				"Action252BilboDialog:d":	0
+			}]
+	}, {
+		"name":	"Action253",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType253:d":	15,
+				"ActionName253:s":	"Bell Tele",
+				"Action253ExecuteDelay:f":	0,
+				"Action253ExecuteImmediately:d":	1,
+				"Action253Object:g":	"CA3DD48F_5BA30400",
+				"Action253Volume:g":	"CA3DDD8F_5C74DC00",
+				"Action253Facing:g":	"CA3DDD8F_5C755C01"
+			}]
+	}, {
+		"name":	"Action254",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType254:d":	21,
+				"ActionName254:s":	"Bell Set Trig Cinema",
+				"Action254ExecuteDelay:f":	0,
+				"Action254ExecuteImmediately:d":	0,
+				"Action254NPCGuid:g":	"CA3DD48F_5BA30400",
+				"Action254CinemaCount:d":	1,
+				"Action254SelectionMethod:d":	0,
+				"Action254Cinema0:g":	"CA3DDD8F_5C783000"
+			}]
+	}, {
+		"name":	"Action255",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType255:d":	21,
+				"ActionName255:s":	"Bell Set After Found",
+				"Action255ExecuteDelay:f":	0,
+				"Action255ExecuteImmediately:d":	0,
+				"Action255NPCGuid:g":	"CA3DD48F_5BA30400",
+				"Action255CinemaCount:d":	1,
+				"Action255SelectionMethod:d":	0,
+				"Action255Cinema0:g":	"CA3DDD8F_5C7A0800"
+			}]
+	}, {
+		"name":	"Action256",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType256:d":	4,
+				"ActionName256:s":	"Bell Goal List",
+				"Action256ExecuteDelay:f":	0,
+				"Action256ExecuteImmediately:d":	0,
+				"Action256CharacterGuid:g":	"CA3DD48F_5BA30400",
+				"Action256AIStateName:s":	"Idle",
+				"Action256GoalListName:s":	"Bell Hide",
+				"Action256OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action257",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType257:d":	18,
+				"ActionName257:s":	"Bag End Info Overlay",
+				"Action257ExecuteDelay:f":	0,
+				"Action257ExecuteImmediately:d":	0,
+				"Action257StringID:s":	"INFO_BAG_END",
+				"Action257Scroll:d":	0,
+				"Action257DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action258",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType258:d":	44,
+				"ActionName258:s":	"BILBO: Die Bilbo Die!",
+				"Action258ExecuteDelay:f":	0,
+				"Action258ExecuteImmediately:d":	0
+			}]
+	}, {
+		"name":	"Action259",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType259:d":	45,
+				"ActionName259:s":	"Ambience_Hobbiton_Ext",
+				"Action259ExecuteDelay:f":	0,
+				"Action259ExecuteImmediately:d":	0,
+				"Action259AmbientAudioTrigger:g":	"9D153912_09796801"
+			}]
+	}, {
+		"name":	"Action260",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType260:d":	45,
+				"ActionName260:s":	"Ambience_BagEnd",
+				"Action260ExecuteDelay:f":	0,
+				"Action260ExecuteImmediately:d":	0,
+				"Action260AmbientAudioTrigger:g":	"9D153912_09752800"
+			}]
+	}, {
+		"name":	"Action261",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType261:d":	15,
+				"ActionName261:s":	"Activate Well",
+				"Action261ExecuteDelay:f":	1,
+				"Action261ExecuteImmediately:d":	0,
+				"Action261Object:g":	"CA3DD2CF_AB86E000",
+				"Action261Volume:g":	"CA3DD2CF_AB8BC000",
+				"Action261Facing:g":	"00000000_00000000"
+			}]
+	}, {
+		"name":	"Action262",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType262:d":	43,
+				"ActionName262:s":	"ACTION: Stop UV Well 2",
+				"Action262ExecuteDelay:f":	0,
+				"Action262ExecuteImmediately:d":	0,
+				"Action262Enable:d":	0,
+				"Action262MaterialName:s":	"PaulRopes"
+			}]
+	}, {
+		"name":	"Action263",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType263:d":	43,
+				"ActionName263:s":	"ACTION: Stop UV Well 1",
+				"Action263ExecuteDelay:f":	0,
+				"Action263ExecuteImmediately:d":	0,
+				"Action263Enable:d":	0,
+				"Action263MaterialName:s":	"PaulRopesOpa"
+			}]
+	}, {
+		"name":	"Action264",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType264:d":	33,
+				"ActionName264:s":	"ACTION: Start Well Anim",
+				"Action264ExecuteDelay:f":	0,
+				"Action264ExecuteImmediately:d":	0,
+				"Action264InstanceCount:d":	1,
+				"Action264RigidInstance0:g":	"991186CF_A099C800",
+				"Action264AnimIndex:d":	0,
+				"Action264Loops:d":	0
+			}]
+	}, {
+		"name":	"Action265",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType265:d":	43,
+				"ActionName265:s":	"ACTION: Start UV Well 2",
+				"Action265ExecuteDelay:f":	0,
+				"Action265ExecuteImmediately:d":	0,
+				"Action265Enable:d":	1,
+				"Action265MaterialName:s":	"PaulRopes"
+			}]
+	}, {
+		"name":	"Action266",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType266:d":	43,
+				"ActionName266:s":	"ACTION: Start UV Well 1",
+				"Action266ExecuteDelay:f":	0,
+				"Action266ExecuteImmediately:d":	0,
+				"Action266Enable:d":	1,
+				"Action266MaterialName:s":	"PaulRopesOpa"
+			}]
+	}, {
+		"name":	"Action267",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType267:d":	33,
+				"ActionName267:s":	"ACT: Animate Fence",
+				"Action267ExecuteDelay:f":	0,
+				"Action267ExecuteImmediately:d":	0,
+				"Action267InstanceCount:d":	1,
+				"Action267RigidInstance0:g":	"CA3DD2CF_E9EEE401",
+				"Action267AnimIndex:d":	0,
+				"Action267Loops:d":	0
+			}]
+	}, {
+		"name":	"Action268",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType268:d":	34,
+				"ActionName268:s":	"QUEST: Green Dragon Inn Complete",
+				"Action268ExecuteDelay:f":	0,
+				"Action268ExecuteImmediately:d":	0,
+				"Action268QuestID:s":	"A_ID_GOTO_INN_CH01"
+			}]
+	}, {
+		"name":	"Action269",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType269:d":	52,
+				"ActionName269:s":	"ACTION: Set Butter Churn non Hoist",
+				"Action269ExecuteDelay:f":	0,
+				"Action269ExecuteImmediately:d":	0,
+				"Action269RigidInstance:g":	"CA3DD20F_41F77800",
+				"Action269Hoistable:d":	0
+			}]
+	}, {
+		"name":	"Action270",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType270:d":	40,
+				"ActionName270:s":	"Music - Set Int 4",
+				"Action270ExecuteDelay:f":	3,
+				"Action270ExecuteImmediately:d":	0,
+				"Action270MusicTrigger:g":	"9D1531D2_B79AB001"
+			}]
+	}, {
+		"name":	"Action271",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType271:d":	40,
+				"ActionName271:s":	"Music - Cine10 Start",
+				"Action271ExecuteDelay:f":	0,
+				"Action271ExecuteImmediately:d":	0,
+				"Action271MusicTrigger:g":	"9D153490_9912B801"
+			}]
+	}, {
+		"name":	"Action272",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType272:d":	40,
+				"ActionName272:s":	"Music - Cine10 End",
+				"Action272ExecuteDelay:f":	7,
+				"Action272ExecuteImmediately:d":	0,
+				"Action272MusicTrigger:g":	"9D153713_0B76E801"
+			}]
+	}, {
+		"name":	"Link0",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats0:d":	0,
+				"LinkState0:d":	0,
+				"LogicType0:d":	0,
+				"LinkTriggerCount0:d":	2,
+				"LinkTriggerIndex0-0:d":	0,
+				"LinkTriggerIndex0-1:d":	23,
+				"LinkActionCount0:d":	3,
+				"LinkActionIndex0-0:d":	239,
+				"LinkActionIndex0-1:d":	61,
+				"LinkActionIndex0-2:d":	152
+			}]
+	}, {
+		"name":	"Link1",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats1:d":	0,
+				"LinkState1:d":	0,
+				"LogicType1:d":	0,
+				"LinkTriggerCount1:d":	2,
+				"LinkTriggerIndex1-0:d":	0,
+				"LinkTriggerIndex1-1:d":	24,
+				"LinkActionCount1:d":	3,
+				"LinkActionIndex1-0:d":	235,
+				"LinkActionIndex1-1:d":	47,
+				"LinkActionIndex1-2:d":	143
+			}]
+	}, {
+		"name":	"Link2",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats2:d":	0,
+				"LinkState2:d":	0,
+				"LogicType2:d":	0,
+				"LinkTriggerCount2:d":	2,
+				"LinkTriggerIndex2-0:d":	0,
+				"LinkTriggerIndex2-1:d":	25,
+				"LinkActionCount2:d":	3,
+				"LinkActionIndex2-0:d":	240,
+				"LinkActionIndex2-1:d":	64,
+				"LinkActionIndex2-2:d":	154
+			}]
+	}, {
+		"name":	"Link3",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats3:d":	0,
+				"LinkState3:d":	0,
+				"LogicType3:d":	0,
+				"LinkTriggerCount3:d":	2,
+				"LinkTriggerIndex3-0:d":	0,
+				"LinkTriggerIndex3-1:d":	26,
+				"LinkActionCount3:d":	3,
+				"LinkActionIndex3-0:d":	240,
+				"LinkActionIndex3-1:d":	46,
+				"LinkActionIndex3-2:d":	144
+			}]
+	}, {
+		"name":	"Link4",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats4:d":	0,
+				"LinkState4:d":	0,
+				"LogicType4:d":	0,
+				"LinkTriggerCount4:d":	2,
+				"LinkTriggerIndex4-0:d":	0,
+				"LinkTriggerIndex4-1:d":	28,
+				"LinkActionCount4:d":	3,
+				"LinkActionIndex4-0:d":	235,
+				"LinkActionIndex4-1:d":	48,
+				"LinkActionIndex4-2:d":	146
+			}]
+	}, {
+		"name":	"Link5",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats5:d":	0,
+				"LinkState5:d":	0,
+				"LogicType5:d":	0,
+				"LinkTriggerCount5:d":	2,
+				"LinkTriggerIndex5-0:d":	0,
+				"LinkTriggerIndex5-1:d":	29,
+				"LinkActionCount5:d":	3,
+				"LinkActionIndex5-0:d":	235,
+				"LinkActionIndex5-1:d":	49,
+				"LinkActionIndex5-2:d":	147
+			}]
+	}, {
+		"name":	"Link6",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats6:d":	0,
+				"LinkState6:d":	0,
+				"LogicType6:d":	0,
+				"LinkTriggerCount6:d":	2,
+				"LinkTriggerIndex6-0:d":	0,
+				"LinkTriggerIndex6-1:d":	30,
+				"LinkActionCount6:d":	3,
+				"LinkActionIndex6-0:d":	241,
+				"LinkActionIndex6-1:d":	59,
+				"LinkActionIndex6-2:d":	151
+			}]
+	}, {
+		"name":	"Link7",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats7:d":	0,
+				"LinkState7:d":	0,
+				"LogicType7:d":	0,
+				"LinkTriggerCount7:d":	2,
+				"LinkTriggerIndex7-0:d":	0,
+				"LinkTriggerIndex7-1:d":	34,
+				"LinkActionCount7:d":	3,
+				"LinkActionIndex7-0:d":	239,
+				"LinkActionIndex7-1:d":	62,
+				"LinkActionIndex7-2:d":	153
+			}]
+	}, {
+		"name":	"Link8",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats8:d":	1,
+				"LinkState8:d":	0,
+				"LogicType8:d":	0,
+				"LinkTriggerCount8:d":	9,
+				"LinkTriggerIndex8-0:d":	0,
+				"LinkTriggerIndex8-1:d":	150,
+				"LinkTriggerIndex8-2:d":	14,
+				"LinkTriggerIndex8-3:d":	15,
+				"LinkTriggerIndex8-4:d":	13,
+				"LinkTriggerIndex8-5:d":	8,
+				"LinkTriggerIndex8-6:d":	9,
+				"LinkTriggerIndex8-7:d":	10,
+				"LinkTriggerIndex8-8:d":	11,
+				"LinkActionCount8:d":	2,
+				"LinkActionIndex8-0:d":	192,
+				"LinkActionIndex8-1:d":	129
+			}]
+	}, {
+		"name":	"Link9",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats9:d":	1,
+				"LinkState9:d":	0,
+				"LogicType9:d":	0,
+				"LinkTriggerCount9:d":	1,
+				"LinkTriggerIndex9-0:d":	0,
+				"LinkActionCount9:d":	1,
+				"LinkActionIndex9-0:d":	193
+			}]
+	}, {
+		"name":	"Link10",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats10:d":	1,
+				"LinkState10:d":	0,
+				"LogicType10:d":	0,
+				"LinkTriggerCount10:d":	1,
+				"LinkTriggerIndex10-0:d":	1,
+				"LinkActionCount10:d":	1,
+				"LinkActionIndex10-0:d":	94
+			}]
+	}, {
+		"name":	"Link11",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats11:d":	1,
+				"LinkState11:d":	0,
+				"LogicType11:d":	0,
+				"LinkTriggerCount11:d":	1,
+				"LinkTriggerIndex11-0:d":	2,
+				"LinkActionCount11:d":	2,
+				"LinkActionIndex11-0:d":	5,
+				"LinkActionIndex11-1:d":	127
+			}]
+	}, {
+		"name":	"Link12",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats12:d":	1,
+				"LinkState12:d":	0,
+				"LogicType12:d":	0,
+				"LinkTriggerCount12:d":	0,
+				"LinkActionCount12:d":	0
+			}]
+	}, {
+		"name":	"Link13",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats13:d":	0,
+				"LinkState13:d":	0,
+				"LogicType13:d":	0,
+				"LinkTriggerCount13:d":	1,
+				"LinkTriggerIndex13-0:d":	4,
+				"LinkActionCount13:d":	1,
+				"LinkActionIndex13-0:d":	76
+			}]
+	}, {
+		"name":	"Link14",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats14:d":	0,
+				"LinkState14:d":	0,
+				"LogicType14:d":	0,
+				"LinkTriggerCount14:d":	1,
+				"LinkTriggerIndex14-0:d":	5,
+				"LinkActionCount14:d":	3,
+				"LinkActionIndex14-0:d":	22,
+				"LinkActionIndex14-1:d":	243,
+				"LinkActionIndex14-2:d":	51
+			}]
+	}, {
+		"name":	"Link15",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats15:d":	0,
+				"LinkState15:d":	0,
+				"LogicType15:d":	0,
+				"LinkTriggerCount15:d":	1,
+				"LinkTriggerIndex15-0:d":	6,
+				"LinkActionCount15:d":	4,
+				"LinkActionIndex15-0:d":	20,
+				"LinkActionIndex15-1:d":	23,
+				"LinkActionIndex15-2:d":	21,
+				"LinkActionIndex15-3:d":	95
+			}]
+	}, {
+		"name":	"Link16",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats16:d":	0,
+				"LinkState16:d":	1,
+				"LogicType16:d":	0,
+				"LinkTriggerCount16:d":	1,
+				"LinkTriggerIndex16-0:d":	7,
+				"LinkActionCount16:d":	1,
+				"LinkActionIndex16-0:d":	261
+			}]
+	}, {
+		"name":	"Link17",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats17:d":	0,
+				"LinkState17:d":	0,
+				"LogicType17:d":	0,
+				"LinkTriggerCount17:d":	1,
+				"LinkTriggerIndex17-0:d":	16,
+				"LinkActionCount17:d":	1,
+				"LinkActionIndex17-0:d":	81
+			}]
+	}, {
+		"name":	"Link18",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats18:d":	0,
+				"LinkState18:d":	0,
+				"LogicType18:d":	0,
+				"LinkTriggerCount18:d":	1,
+				"LinkTriggerIndex18-0:d":	17,
+				"LinkActionCount18:d":	1,
+				"LinkActionIndex18-0:d":	80
+			}]
+	}, {
+		"name":	"Link19",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats19:d":	0,
+				"LinkState19:d":	0,
+				"LogicType19:d":	0,
+				"LinkTriggerCount19:d":	1,
+				"LinkTriggerIndex19-0:d":	18,
+				"LinkActionCount19:d":	1,
+				"LinkActionIndex19-0:d":	84
+			}]
+	}, {
+		"name":	"Link20",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats20:d":	0,
+				"LinkState20:d":	0,
+				"LogicType20:d":	0,
+				"LinkTriggerCount20:d":	1,
+				"LinkTriggerIndex20-0:d":	19,
+				"LinkActionCount20:d":	1,
+				"LinkActionIndex20-0:d":	82
+			}]
+	}, {
+		"name":	"Link21",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats21:d":	0,
+				"LinkState21:d":	0,
+				"LogicType21:d":	0,
+				"LinkTriggerCount21:d":	1,
+				"LinkTriggerIndex21-0:d":	20,
+				"LinkActionCount21:d":	1,
+				"LinkActionIndex21-0:d":	100
+			}]
+	}, {
+		"name":	"Link22",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats22:d":	0,
+				"LinkState22:d":	0,
+				"LogicType22:d":	0,
+				"LinkTriggerCount22:d":	1,
+				"LinkTriggerIndex22-0:d":	21,
+				"LinkActionCount22:d":	1,
+				"LinkActionIndex22-0:d":	102
+			}]
+	}, {
+		"name":	"Link23",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats23:d":	0,
+				"LinkState23:d":	0,
+				"LogicType23:d":	0,
+				"LinkTriggerCount23:d":	1,
+				"LinkTriggerIndex23-0:d":	22,
+				"LinkActionCount23:d":	17,
+				"LinkActionIndex23-0:d":	253,
+				"LinkActionIndex23-1:d":	164,
+				"LinkActionIndex23-2:d":	10,
+				"LinkActionIndex23-3:d":	20,
+				"LinkActionIndex23-4:d":	254,
+				"LinkActionIndex23-5:d":	256,
+				"LinkActionIndex23-6:d":	170,
+				"LinkActionIndex23-7:d":	167,
+				"LinkActionIndex23-8:d":	165,
+				"LinkActionIndex23-9:d":	23,
+				"LinkActionIndex23-10:d":	21,
+				"LinkActionIndex23-11:d":	267,
+				"LinkActionIndex23-12:d":	44,
+				"LinkActionIndex23-13:d":	43,
+				"LinkActionIndex23-14:d":	41,
+				"LinkActionIndex23-15:d":	39,
+				"LinkActionIndex23-16:d":	35
+			}]
+	}, {
+		"name":	"Link24",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats24:d":	0,
+				"LinkState24:d":	0,
+				"LogicType24:d":	0,
+				"LinkTriggerCount24:d":	1,
+				"LinkTriggerIndex24-0:d":	23,
+				"LinkActionCount24:d":	3,
+				"LinkActionIndex24-0:d":	87,
+				"LinkActionIndex24-1:d":	100,
+				"LinkActionIndex24-2:d":	234
+			}]
+	}, {
+		"name":	"Link25",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats25:d":	0,
+				"LinkState25:d":	0,
+				"LogicType25:d":	0,
+				"LinkTriggerCount25:d":	1,
+				"LinkTriggerIndex25-0:d":	24,
+				"LinkActionCount25:d":	1,
+				"LinkActionIndex25-0:d":	73
+			}]
+	}, {
+		"name":	"Link26",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats26:d":	0,
+				"LinkState26:d":	0,
+				"LogicType26:d":	0,
+				"LinkTriggerCount26:d":	8,
+				"LinkTriggerIndex26-0:d":	25,
+				"LinkTriggerIndex26-1:d":	34,
+				"LinkTriggerIndex26-2:d":	30,
+				"LinkTriggerIndex26-3:d":	29,
+				"LinkTriggerIndex26-4:d":	28,
+				"LinkTriggerIndex26-5:d":	26,
+				"LinkTriggerIndex26-6:d":	24,
+				"LinkTriggerIndex26-7:d":	23,
+				"LinkActionCount26:d":	1,
+				"LinkActionIndex26-0:d":	216
+			}]
+	}, {
+		"name":	"Link27",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats27:d":	0,
+				"LinkState27:d":	0,
+				"LogicType27:d":	1,
+				"LinkTriggerCount27:d":	8,
+				"LinkTriggerIndex27-0:d":	25,
+				"LinkTriggerIndex27-1:d":	34,
+				"LinkTriggerIndex27-2:d":	30,
+				"LinkTriggerIndex27-3:d":	29,
+				"LinkTriggerIndex27-4:d":	28,
+				"LinkTriggerIndex27-5:d":	26,
+				"LinkTriggerIndex27-6:d":	24,
+				"LinkTriggerIndex27-7:d":	23,
+				"LinkActionCount27:d":	1,
+				"LinkActionIndex27-0:d":	220
+			}]
+	}, {
+		"name":	"Link28",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats28:d":	0,
+				"LinkState28:d":	0,
+				"LogicType28:d":	0,
+				"LinkTriggerCount28:d":	1,
+				"LinkTriggerIndex28-0:d":	25,
+				"LinkActionCount28:d":	2,
+				"LinkActionIndex28-0:d":	234,
+				"LinkActionIndex28-1:d":	100
+			}]
+	}, {
+		"name":	"Link29",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats29:d":	0,
+				"LinkState29:d":	0,
+				"LogicType29:d":	0,
+				"LinkTriggerCount29:d":	1,
+				"LinkTriggerIndex29-0:d":	26,
+				"LinkActionCount29:d":	1,
+				"LinkActionIndex29-0:d":	70
+			}]
+	}, {
+		"name":	"Link30",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats30:d":	0,
+				"LinkState30:d":	0,
+				"LogicType30:d":	0,
+				"LinkTriggerCount30:d":	1,
+				"LinkTriggerIndex30-0:d":	27,
+				"LinkActionCount30:d":	8,
+				"LinkActionIndex30-0:d":	2,
+				"LinkActionIndex30-1:d":	3,
+				"LinkActionIndex30-2:d":	71,
+				"LinkActionIndex30-3:d":	26,
+				"LinkActionIndex30-4:d":	137,
+				"LinkActionIndex30-5:d":	100,
+				"LinkActionIndex30-6:d":	138,
+				"LinkActionIndex30-7:d":	270
+			}]
+	}, {
+		"name":	"Link31",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats31:d":	0,
+				"LinkState31:d":	0,
+				"LogicType31:d":	0,
+				"LinkTriggerCount31:d":	2,
+				"LinkTriggerIndex31-0:d":	28,
+				"LinkTriggerIndex31-1:d":	29,
+				"LinkActionCount31:d":	4,
+				"LinkActionIndex31-0:d":	198,
+				"LinkActionIndex31-1:d":	54,
+				"LinkActionIndex31-2:d":	234,
+				"LinkActionIndex31-3:d":	34
+			}]
+	}, {
+		"name":	"Link32",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats32:d":	0,
+				"LinkState32:d":	0,
+				"LogicType32:d":	0,
+				"LinkTriggerCount32:d":	1,
+				"LinkTriggerIndex32-0:d":	28,
+				"LinkActionCount32:d":	2,
+				"LinkActionIndex32-0:d":	74,
+				"LinkActionIndex32-1:d":	100
+			}]
+	}, {
+		"name":	"Link33",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats33:d":	0,
+				"LinkState33:d":	0,
+				"LogicType33:d":	0,
+				"LinkTriggerCount33:d":	1,
+				"LinkTriggerIndex33-0:d":	29,
+				"LinkActionCount33:d":	2,
+				"LinkActionIndex33-0:d":	75,
+				"LinkActionIndex33-1:d":	100
+			}]
+	}, {
+		"name":	"Link34",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats34:d":	0,
+				"LinkState34:d":	0,
+				"LogicType34:d":	0,
+				"LinkTriggerCount34:d":	1,
+				"LinkTriggerIndex34-0:d":	30,
+				"LinkActionCount34:d":	1,
+				"LinkActionIndex34-0:d":	86
+			}]
+	}, {
+		"name":	"Link35",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats35:d":	0,
+				"LinkState35:d":	0,
+				"LogicType35:d":	0,
+				"LinkTriggerCount35:d":	1,
+				"LinkTriggerIndex35-0:d":	31,
+				"LinkActionCount35:d":	4,
+				"LinkActionIndex35-0:d":	214,
+				"LinkActionIndex35-1:d":	100,
+				"LinkActionIndex35-2:d":	92,
+				"LinkActionIndex35-3:d":	236
+			}]
+	}, {
+		"name":	"Link36",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats36:d":	0,
+				"LinkState36:d":	0,
+				"LogicType36:d":	0,
+				"LinkTriggerCount36:d":	2,
+				"LinkTriggerIndex36-0:d":	32,
+				"LinkTriggerIndex36-1:d":	33,
+				"LinkActionCount36:d":	1,
+				"LinkActionIndex36-0:d":	195
+			}]
+	}, {
+		"name":	"Link37",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats37:d":	0,
+				"LinkState37:d":	0,
+				"LogicType37:d":	0,
+				"LinkTriggerCount37:d":	2,
+				"LinkTriggerIndex37-0:d":	32,
+				"LinkTriggerIndex37-1:d":	33,
+				"LinkActionCount37:d":	2,
+				"LinkActionIndex37-0:d":	246,
+				"LinkActionIndex37-1:d":	139
+			}]
+	}, {
+		"name":	"Link38",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats38:d":	0,
+				"LinkState38:d":	0,
+				"LogicType38:d":	0,
+				"LinkTriggerCount38:d":	1,
+				"LinkTriggerIndex38-0:d":	32,
+				"LinkActionCount38:d":	1,
+				"LinkActionIndex38-0:d":	57
+			}]
+	}, {
+		"name":	"Link39",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats39:d":	0,
+				"LinkState39:d":	0,
+				"LogicType39:d":	0,
+				"LinkTriggerCount39:d":	1,
+				"LinkTriggerIndex39-0:d":	33,
+				"LinkActionCount39:d":	1,
+				"LinkActionIndex39-0:d":	53
+			}]
+	}, {
+		"name":	"Link40",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats40:d":	0,
+				"LinkState40:d":	0,
+				"LogicType40:d":	0,
+				"LinkTriggerCount40:d":	1,
+				"LinkTriggerIndex40-0:d":	33,
+				"LinkActionCount40:d":	1,
+				"LinkActionIndex40-0:d":	83
+			}]
+	}, {
+		"name":	"Link41",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats41:d":	0,
+				"LinkState41:d":	0,
+				"LogicType41:d":	0,
+				"LinkTriggerCount41:d":	1,
+				"LinkTriggerIndex41-0:d":	34,
+				"LinkActionCount41:d":	2,
+				"LinkActionIndex41-0:d":	234,
+				"LinkActionIndex41-1:d":	100
+			}]
+	}, {
+		"name":	"Link42",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats42:d":	0,
+				"LinkState42:d":	0,
+				"LogicType42:d":	0,
+				"LinkTriggerCount42:d":	1,
+				"LinkTriggerIndex42-0:d":	35,
+				"LinkActionCount42:d":	1,
+				"LinkActionIndex42-0:d":	72
+			}]
+	}, {
+		"name":	"Link43",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats43:d":	1,
+				"LinkState43:d":	0,
+				"LogicType43:d":	1,
+				"LinkTriggerCount43:d":	3,
+				"LinkTriggerIndex43-0:d":	38,
+				"LinkTriggerIndex43-1:d":	37,
+				"LinkTriggerIndex43-2:d":	36,
+				"LinkActionCount43:d":	1,
+				"LinkActionIndex43-0:d":	89
+			}]
+	}, {
+		"name":	"Link44",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats44:d":	1,
+				"LinkState44:d":	0,
+				"LogicType44:d":	1,
+				"LinkTriggerCount44:d":	3,
+				"LinkTriggerIndex44-0:d":	41,
+				"LinkTriggerIndex44-1:d":	40,
+				"LinkTriggerIndex44-2:d":	39,
+				"LinkActionCount44:d":	1,
+				"LinkActionIndex44-0:d":	90
+			}]
+	}, {
+		"name":	"Link45",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats45:d":	0,
+				"LinkState45:d":	0,
+				"LogicType45:d":	0,
+				"LinkTriggerCount45:d":	1,
+				"LinkTriggerIndex45-0:d":	42,
+				"LinkActionCount45:d":	1,
+				"LinkActionIndex45-0:d":	83
+			}]
+	}, {
+		"name":	"Link46",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats46:d":	0,
+				"LinkState46:d":	0,
+				"LogicType46:d":	0,
+				"LinkTriggerCount46:d":	1,
+				"LinkTriggerIndex46-0:d":	43,
+				"LinkActionCount46:d":	1,
+				"LinkActionIndex46-0:d":	87
+			}]
+	}, {
+		"name":	"Link47",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats47:d":	1,
+				"LinkState47:d":	0,
+				"LogicType47:d":	0,
+				"LinkTriggerCount47:d":	1,
+				"LinkTriggerIndex47-0:d":	44,
+				"LinkActionCount47:d":	1,
+				"LinkActionIndex47-0:d":	162
+			}]
+	}, {
+		"name":	"Link48",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats48:d":	1,
+				"LinkState48:d":	0,
+				"LogicType48:d":	0,
+				"LinkTriggerCount48:d":	1,
+				"LinkTriggerIndex48-0:d":	45,
+				"LinkActionCount48:d":	1,
+				"LinkActionIndex48-0:d":	163
+			}]
+	}, {
+		"name":	"Link49",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats49:d":	0,
+				"LinkState49:d":	0,
+				"LogicType49:d":	0,
+				"LinkTriggerCount49:d":	1,
+				"LinkTriggerIndex49-0:d":	46,
+				"LinkActionCount49:d":	3,
+				"LinkActionIndex49-0:d":	166,
+				"LinkActionIndex49-1:d":	243,
+				"LinkActionIndex49-2:d":	55
+			}]
+	}, {
+		"name":	"Link50",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats50:d":	0,
+				"LinkState50:d":	0,
+				"LogicType50:d":	0,
+				"LinkTriggerCount50:d":	1,
+				"LinkTriggerIndex50-0:d":	47,
+				"LinkActionCount50:d":	4,
+				"LinkActionIndex50-0:d":	164,
+				"LinkActionIndex50-1:d":	167,
+				"LinkActionIndex50-2:d":	165,
+				"LinkActionIndex50-3:d":	96
+			}]
+	}, {
+		"name":	"Link51",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats51:d":	0,
+				"LinkState51:d":	0,
+				"LogicType51:d":	0,
+				"LinkTriggerCount51:d":	4,
+				"LinkTriggerIndex51-0:d":	48,
+				"LinkTriggerIndex51-1:d":	46,
+				"LinkTriggerIndex51-2:d":	5,
+				"LinkTriggerIndex51-3:d":	109,
+				"LinkActionCount51:d":	6,
+				"LinkActionIndex51-0:d":	242,
+				"LinkActionIndex51-1:d":	7,
+				"LinkActionIndex51-2:d":	56,
+				"LinkActionIndex51-3:d":	132,
+				"LinkActionIndex51-4:d":	141,
+				"LinkActionIndex51-5:d":	126
+			}]
+	}, {
+		"name":	"Link52",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats52:d":	0,
+				"LinkState52:d":	0,
+				"LogicType52:d":	0,
+				"LinkTriggerCount52:d":	1,
+				"LinkTriggerIndex52-0:d":	48,
+				"LinkActionCount52:d":	3,
+				"LinkActionIndex52-0:d":	169,
+				"LinkActionIndex52-1:d":	243,
+				"LinkActionIndex52-2:d":	58
+			}]
+	}, {
+		"name":	"Link53",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats53:d":	0,
+				"LinkState53:d":	0,
+				"LogicType53:d":	0,
+				"LinkTriggerCount53:d":	1,
+				"LinkTriggerIndex53-0:d":	49,
+				"LinkActionCount53:d":	4,
+				"LinkActionIndex53-0:d":	10,
+				"LinkActionIndex53-1:d":	176,
+				"LinkActionIndex53-2:d":	170,
+				"LinkActionIndex53-3:d":	97
+			}]
+	}, {
+		"name":	"Link54",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats54:d":	0,
+				"LinkState54:d":	0,
+				"LogicType54:d":	0,
+				"LinkTriggerCount54:d":	1,
+				"LinkTriggerIndex54-0:d":	50,
+				"LinkActionCount54:d":	1,
+				"LinkActionIndex54-0:d":	179
+			}]
+	}, {
+		"name":	"Link55",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats55:d":	0,
+				"LinkState55:d":	0,
+				"LogicType55:d":	0,
+				"LinkTriggerCount55:d":	1,
+				"LinkTriggerIndex55-0:d":	52,
+				"LinkActionCount55:d":	4,
+				"LinkActionIndex55-0:d":	18,
+				"LinkActionIndex55-1:d":	268,
+				"LinkActionIndex55-2:d":	271,
+				"LinkActionIndex55-3:d":	272
+			}]
+	}, {
+		"name":	"Link56",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats56:d":	1,
+				"LinkState56:d":	1,
+				"LogicType56:d":	0,
+				"LinkTriggerCount56:d":	1,
+				"LinkTriggerIndex56-0:d":	53,
+				"LinkActionCount56:d":	3,
+				"LinkActionIndex56-0:d":	4,
+				"LinkActionIndex56-1:d":	125,
+				"LinkActionIndex56-2:d":	123
+			}]
+	}, {
+		"name":	"Link57",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats57:d":	0,
+				"LinkState57:d":	0,
+				"LogicType57:d":	0,
+				"LinkTriggerCount57:d":	1,
+				"LinkTriggerIndex57-0:d":	55,
+				"LinkActionCount57:d":	1,
+				"LinkActionIndex57-0:d":	184
+			}]
+	}, {
+		"name":	"Link58",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats58:d":	0,
+				"LinkState58:d":	0,
+				"LogicType58:d":	0,
+				"LinkTriggerCount58:d":	1,
+				"LinkTriggerIndex58-0:d":	56,
+				"LinkActionCount58:d":	1,
+				"LinkActionIndex58-0:d":	185
+			}]
+	}, {
+		"name":	"Link59",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats59:d":	1,
+				"LinkState59:d":	0,
+				"LogicType59:d":	0,
+				"LinkTriggerCount59:d":	1,
+				"LinkTriggerIndex59-0:d":	57,
+				"LinkActionCount59:d":	1,
+				"LinkActionIndex59-0:d":	186
+			}]
+	}, {
+		"name":	"Link60",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats60:d":	1,
+				"LinkState60:d":	0,
+				"LogicType60:d":	0,
+				"LinkTriggerCount60:d":	1,
+				"LinkTriggerIndex60-0:d":	58,
+				"LinkActionCount60:d":	1,
+				"LinkActionIndex60-0:d":	187
+			}]
+	}, {
+		"name":	"Link61",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats61:d":	1,
+				"LinkState61:d":	0,
+				"LogicType61:d":	0,
+				"LinkTriggerCount61:d":	1,
+				"LinkTriggerIndex61-0:d":	59,
+				"LinkActionCount61:d":	1,
+				"LinkActionIndex61-0:d":	188
+			}]
+	}, {
+		"name":	"Link62",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats62:d":	0,
+				"LinkState62:d":	3,
+				"LogicType62:d":	0,
+				"LinkTriggerCount62:d":	1,
+				"LinkTriggerIndex62-0:d":	60,
+				"LinkActionCount62:d":	3,
+				"LinkActionIndex62-0:d":	248,
+				"LinkActionIndex62-1:d":	260,
+				"LinkActionIndex62-2:d":	103
+			}]
+	}, {
+		"name":	"Link63",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats63:d":	0,
+				"LinkState63:d":	0,
+				"LogicType63:d":	0,
+				"LinkTriggerCount63:d":	1,
+				"LinkTriggerIndex63-0:d":	62,
+				"LinkActionCount63:d":	7,
+				"LinkActionIndex63-0:d":	150,
+				"LinkActionIndex63-1:d":	149,
+				"LinkActionIndex63-2:d":	122,
+				"LinkActionIndex63-3:d":	194,
+				"LinkActionIndex63-4:d":	60,
+				"LinkActionIndex63-5:d":	19,
+				"LinkActionIndex63-6:d":	237
+			}]
+	}, {
+		"name":	"Link64",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats64:d":	0,
+				"LinkState64:d":	0,
+				"LogicType64:d":	0,
+				"LinkTriggerCount64:d":	1,
+				"LinkTriggerIndex64-0:d":	63,
+				"LinkActionCount64:d":	3,
+				"LinkActionIndex64-0:d":	197,
+				"LinkActionIndex64-1:d":	158,
+				"LinkActionIndex64-2:d":	85
+			}]
+	}, {
+		"name":	"Link65",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats65:d":	0,
+				"LinkState65:d":	0,
+				"LogicType65:d":	0,
+				"LinkTriggerCount65:d":	1,
+				"LinkTriggerIndex65-0:d":	64,
+				"LinkActionCount65:d":	2,
+				"LinkActionIndex65-0:d":	199,
+				"LinkActionIndex65-1:d":	34
+			}]
+	}, {
+		"name":	"Link66",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats66:d":	0,
+				"LinkState66:d":	0,
+				"LogicType66:d":	0,
+				"LinkTriggerCount66:d":	1,
+				"LinkTriggerIndex66-0:d":	65,
+				"LinkActionCount66:d":	4,
+				"LinkActionIndex66-0:d":	155,
+				"LinkActionIndex66-1:d":	200,
+				"LinkActionIndex66-2:d":	31,
+				"LinkActionIndex66-3:d":	50
+			}]
+	}, {
+		"name":	"Link67",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats67:d":	0,
+				"LinkState67:d":	0,
+				"LogicType67:d":	0,
+				"LinkTriggerCount67:d":	1,
+				"LinkTriggerIndex67-0:d":	66,
+				"LinkActionCount67:d":	2,
+				"LinkActionIndex67-0:d":	202,
+				"LinkActionIndex67-1:d":	31
+			}]
+	}, {
+		"name":	"Link68",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats68:d":	0,
+				"LinkState68:d":	0,
+				"LogicType68:d":	0,
+				"LinkTriggerCount68:d":	1,
+				"LinkTriggerIndex68-0:d":	68,
+				"LinkActionCount68:d":	4,
+				"LinkActionIndex68-0:d":	156,
+				"LinkActionIndex68-1:d":	168,
+				"LinkActionIndex68-2:d":	66,
+				"LinkActionIndex68-3:d":	235
+			}]
+	}, {
+		"name":	"Link69",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats69:d":	0,
+				"LinkState69:d":	0,
+				"LogicType69:d":	1,
+				"LinkTriggerCount69:d":	2,
+				"LinkTriggerIndex69-0:d":	69,
+				"LinkTriggerIndex69-1:d":	113,
+				"LinkActionCount69:d":	1,
+				"LinkActionIndex69-0:d":	65
+			}]
+	}, {
+		"name":	"Link70",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats70:d":	0,
+				"LinkState70:d":	0,
+				"LogicType70:d":	0,
+				"LinkTriggerCount70:d":	1,
+				"LinkTriggerIndex70-0:d":	69,
+				"LinkActionCount70:d":	1,
+				"LinkActionIndex70-0:d":	204
+			}]
+	}, {
+		"name":	"Link71",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats71:d":	0,
+				"LinkState71:d":	0,
+				"LogicType71:d":	0,
+				"LinkTriggerCount71:d":	1,
+				"LinkTriggerIndex71-0:d":	70,
+				"LinkActionCount71:d":	5,
+				"LinkActionIndex71-0:d":	205,
+				"LinkActionIndex71-1:d":	36,
+				"LinkActionIndex71-2:d":	148,
+				"LinkActionIndex71-3:d":	157,
+				"LinkActionIndex71-4:d":	33
+			}]
+	}, {
+		"name":	"Link72",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats72:d":	0,
+				"LinkState72:d":	0,
+				"LogicType72:d":	0,
+				"LinkTriggerCount72:d":	1,
+				"LinkTriggerIndex72-0:d":	71,
+				"LinkActionCount72:d":	2,
+				"LinkActionIndex72-0:d":	207,
+				"LinkActionIndex72-1:d":	36
+			}]
+	}, {
+		"name":	"Link73",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats73:d":	0,
+				"LinkState73:d":	0,
+				"LogicType73:d":	0,
+				"LinkTriggerCount73:d":	1,
+				"LinkTriggerIndex73-0:d":	72,
+				"LinkActionCount73:d":	9,
+				"LinkActionIndex73-0:d":	154,
+				"LinkActionIndex73-1:d":	152,
+				"LinkActionIndex73-2:d":	151,
+				"LinkActionIndex73-3:d":	146,
+				"LinkActionIndex73-4:d":	147,
+				"LinkActionIndex73-5:d":	144,
+				"LinkActionIndex73-6:d":	145,
+				"LinkActionIndex73-7:d":	153,
+				"LinkActionIndex73-8:d":	52
+			}]
+	}, {
+		"name":	"Link74",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats74:d":	0,
+				"LinkState74:d":	0,
+				"LogicType74:d":	0,
+				"LinkTriggerCount74:d":	1,
+				"LinkTriggerIndex74-0:d":	73,
+				"LinkActionCount74:d":	1,
+				"LinkActionIndex74-0:d":	207
+			}]
+	}, {
+		"name":	"Link75",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats75:d":	0,
+				"LinkState75:d":	0,
+				"LogicType75:d":	0,
+				"LinkTriggerCount75:d":	1,
+				"LinkTriggerIndex75-0:d":	74,
+				"LinkActionCount75:d":	11,
+				"LinkActionIndex75-0:d":	120,
+				"LinkActionIndex75-1:d":	32,
+				"LinkActionIndex75-2:d":	29,
+				"LinkActionIndex75-3:d":	30,
+				"LinkActionIndex75-4:d":	25,
+				"LinkActionIndex75-5:d":	67,
+				"LinkActionIndex75-6:d":	45,
+				"LinkActionIndex75-7:d":	68,
+				"LinkActionIndex75-8:d":	28,
+				"LinkActionIndex75-9:d":	37,
+				"LinkActionIndex75-10:d":	209
+			}]
+	}, {
+		"name":	"Link76",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats76:d":	1,
+				"LinkState76:d":	0,
+				"LogicType76:d":	0,
+				"LinkTriggerCount76:d":	1,
+				"LinkTriggerIndex76-0:d":	75,
+				"LinkActionCount76:d":	1,
+				"LinkActionIndex76-0:d":	222
+			}]
+	}, {
+		"name":	"Link77",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats77:d":	0,
+				"LinkState77:d":	0,
+				"LogicType77:d":	0,
+				"LinkTriggerCount77:d":	1,
+				"LinkTriggerIndex77-0:d":	76,
+				"LinkActionCount77:d":	3,
+				"LinkActionIndex77-0:d":	223,
+				"LinkActionIndex77-1:d":	259,
+				"LinkActionIndex77-2:d":	104
+			}]
+	}, {
+		"name":	"Link78",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats78:d":	1,
+				"LinkState78:d":	0,
+				"LogicType78:d":	0,
+				"LinkTriggerCount78:d":	1,
+				"LinkTriggerIndex78-0:d":	77,
+				"LinkActionCount78:d":	1,
+				"LinkActionIndex78-0:d":	218
+			}]
+	}, {
+		"name":	"Link79",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats79:d":	1,
+				"LinkState79:d":	0,
+				"LogicType79:d":	0,
+				"LinkTriggerCount79:d":	1,
+				"LinkTriggerIndex79-0:d":	79,
+				"LinkActionCount79:d":	1,
+				"LinkActionIndex79-0:d":	221
+			}]
+	}, {
+		"name":	"Link80",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats80:d":	0,
+				"LinkState80:d":	1,
+				"LogicType80:d":	1,
+				"LinkTriggerCount80:d":	7,
+				"LinkTriggerIndex80-0:d":	86,
+				"LinkTriggerIndex80-1:d":	85,
+				"LinkTriggerIndex80-2:d":	84,
+				"LinkTriggerIndex80-3:d":	83,
+				"LinkTriggerIndex80-4:d":	82,
+				"LinkTriggerIndex80-5:d":	81,
+				"LinkTriggerIndex80-6:d":	80,
+				"LinkActionCount80:d":	1,
+				"LinkActionIndex80-0:d":	251
+			}]
+	}, {
+		"name":	"Link81",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats81:d":	0,
+				"LinkState81:d":	0,
+				"LogicType81:d":	0,
+				"LinkTriggerCount81:d":	1,
+				"LinkTriggerIndex81-0:d":	87,
+				"LinkActionCount81:d":	6,
+				"LinkActionIndex81-0:d":	196,
+				"LinkActionIndex81-1:d":	38,
+				"LinkActionIndex81-2:d":	42,
+				"LinkActionIndex81-3:d":	40,
+				"LinkActionIndex81-4:d":	135,
+				"LinkActionIndex81-5:d":	133
+			}]
+	}, {
+		"name":	"Link82",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats82:d":	0,
+				"LinkState82:d":	0,
+				"LogicType82:d":	0,
+				"LinkTriggerCount82:d":	1,
+				"LinkTriggerIndex82-0:d":	88,
+				"LinkActionCount82:d":	1,
+				"LinkActionIndex82-0:d":	245
+			}]
+	}, {
+		"name":	"Link83",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats83:d":	0,
+				"LinkState83:d":	0,
+				"LogicType83:d":	0,
+				"LinkTriggerCount83:d":	1,
+				"LinkTriggerIndex83-0:d":	89,
+				"LinkActionCount83:d":	4,
+				"LinkActionIndex83-0:d":	69,
+				"LinkActionIndex83-1:d":	27,
+				"LinkActionIndex83-2:d":	79,
+				"LinkActionIndex83-3:d":	119
+			}]
+	}, {
+		"name":	"Link84",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats84:d":	0,
+				"LinkState84:d":	0,
+				"LogicType84:d":	0,
+				"LinkTriggerCount84:d":	1,
+				"LinkTriggerIndex84-0:d":	90,
+				"LinkActionCount84:d":	2,
+				"LinkActionIndex84-0:d":	260,
+				"LinkActionIndex84-1:d":	103
+			}]
+	}, {
+		"name":	"Link85",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats85:d":	0,
+				"LinkState85:d":	3,
+				"LogicType85:d":	1,
+				"LinkTriggerCount85:d":	6,
+				"LinkTriggerIndex85-0:d":	91,
+				"LinkTriggerIndex85-1:d":	96,
+				"LinkTriggerIndex85-2:d":	95,
+				"LinkTriggerIndex85-3:d":	94,
+				"LinkTriggerIndex85-4:d":	93,
+				"LinkTriggerIndex85-5:d":	92,
+				"LinkActionCount85:d":	1,
+				"LinkActionIndex85-0:d":	258
+			}]
+	}, {
+		"name":	"Link86",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats86:d":	0,
+				"LinkState86:d":	3,
+				"LogicType86:d":	0,
+				"LinkTriggerCount86:d":	1,
+				"LinkTriggerIndex86-0:d":	98,
+				"LinkActionCount86:d":	1,
+				"LinkActionIndex86-0:d":	258
+			}]
+	}, {
+		"name":	"Link87",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats87:d":	0,
+				"LinkState87:d":	0,
+				"LogicType87:d":	0,
+				"LinkTriggerCount87:d":	1,
+				"LinkTriggerIndex87-0:d":	99,
+				"LinkActionCount87:d":	1,
+				"LinkActionIndex87-0:d":	244
+			}]
+	}, {
+		"name":	"Link88",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats88:d":	0,
+				"LinkState88:d":	0,
+				"LogicType88:d":	0,
+				"LinkTriggerCount88:d":	1,
+				"LinkTriggerIndex88-0:d":	100,
+				"LinkActionCount88:d":	2,
+				"LinkActionIndex88-0:d":	236,
+				"LinkActionIndex88-1:d":	100
+			}]
+	}, {
+		"name":	"Link89",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats89:d":	1,
+				"LinkState89:d":	0,
+				"LogicType89:d":	0,
+				"LinkTriggerCount89:d":	1,
+				"LinkTriggerIndex89-0:d":	101,
+				"LinkActionCount89:d":	1,
+				"LinkActionIndex89-0:d":	24
+			}]
+	}, {
+		"name":	"Link90",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats90:d":	1,
+				"LinkState90:d":	0,
+				"LogicType90:d":	0,
+				"LinkTriggerCount90:d":	1,
+				"LinkTriggerIndex90-0:d":	102,
+				"LinkActionCount90:d":	1,
+				"LinkActionIndex90-0:d":	189
+			}]
+	}, {
+		"name":	"Link91",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats91:d":	1,
+				"LinkState91:d":	0,
+				"LogicType91:d":	0,
+				"LinkTriggerCount91:d":	1,
+				"LinkTriggerIndex91-0:d":	104,
+				"LinkActionCount91:d":	1,
+				"LinkActionIndex91-0:d":	178
+			}]
+	}, {
+		"name":	"Link92",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats92:d":	0,
+				"LinkState92:d":	0,
+				"LogicType92:d":	0,
+				"LinkTriggerCount92:d":	1,
+				"LinkTriggerIndex92-0:d":	106,
+				"LinkActionCount92:d":	2,
+				"LinkActionIndex92-0:d":	172,
+				"LinkActionIndex92-1:d":	171
+			}]
+	}, {
+		"name":	"Link93",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats93:d":	0,
+				"LinkState93:d":	0,
+				"LogicType93:d":	0,
+				"LinkTriggerCount93:d":	1,
+				"LinkTriggerIndex93-0:d":	108,
+				"LinkActionCount93:d":	4,
+				"LinkActionIndex93-0:d":	17,
+				"LinkActionIndex93-1:d":	142,
+				"LinkActionIndex93-2:d":	136,
+				"LinkActionIndex93-3:d":	134
+			}]
+	}, {
+		"name":	"Link94",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats94:d":	0,
+				"LinkState94:d":	0,
+				"LogicType94:d":	0,
+				"LinkTriggerCount94:d":	1,
+				"LinkTriggerIndex94-0:d":	109,
+				"LinkActionCount94:d":	3,
+				"LinkActionIndex94-0:d":	255,
+				"LinkActionIndex94-1:d":	243,
+				"LinkActionIndex94-2:d":	63
+			}]
+	}, {
+		"name":	"Link95",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats95:d":	0,
+				"LinkState95:d":	0,
+				"LogicType95:d":	0,
+				"LinkTriggerCount95:d":	1,
+				"LinkTriggerIndex95-0:d":	110,
+				"LinkActionCount95:d":	4,
+				"LinkActionIndex95-0:d":	253,
+				"LinkActionIndex95-1:d":	256,
+				"LinkActionIndex95-2:d":	254,
+				"LinkActionIndex95-3:d":	98
+			}]
+	}, {
+		"name":	"Link96",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats96:d":	1,
+				"LinkState96:d":	0,
+				"LogicType96:d":	0,
+				"LinkTriggerCount96:d":	1,
+				"LinkTriggerIndex96-0:d":	111,
+				"LinkActionCount96:d":	1,
+				"LinkActionIndex96-0:d":	257
+			}]
+	}, {
+		"name":	"Link97",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats97:d":	0,
+				"LinkState97:d":	0,
+				"LogicType97:d":	0,
+				"LinkTriggerCount97:d":	3,
+				"LinkTriggerIndex97-0:d":	112,
+				"LinkTriggerIndex97-1:d":	124,
+				"LinkTriggerIndex97-2:d":	123,
+				"LinkActionCount97:d":	2,
+				"LinkActionIndex97-0:d":	234,
+				"LinkActionIndex97-1:d":	201
+			}]
+	}, {
+		"name":	"Link98",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats98:d":	0,
+				"LinkState98:d":	0,
+				"LogicType98:d":	0,
+				"LinkTriggerCount98:d":	1,
+				"LinkTriggerIndex98-0:d":	113,
+				"LinkActionCount98:d":	2,
+				"LinkActionIndex98-0:d":	203,
+				"LinkActionIndex98-1:d":	269
+			}]
+	}, {
+		"name":	"Link99",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats99:d":	0,
+				"LinkState99:d":	0,
+				"LogicType99:d":	0,
+				"LinkTriggerCount99:d":	1,
+				"LinkTriggerIndex99-0:d":	114,
+				"LinkActionCount99:d":	1,
+				"LinkActionIndex99-0:d":	77
+			}]
+	}, {
+		"name":	"Link100",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats100:d":	1,
+				"LinkState100:d":	0,
+				"LogicType100:d":	0,
+				"LinkTriggerCount100:d":	1,
+				"LinkTriggerIndex100-0:d":	115,
+				"LinkActionCount100:d":	3,
+				"LinkActionIndex100-0:d":	161,
+				"LinkActionIndex100-1:d":	15,
+				"LinkActionIndex100-2:d":	99
+			}]
+	}, {
+		"name":	"Link101",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats101:d":	1,
+				"LinkState101:d":	0,
+				"LogicType101:d":	0,
+				"LinkTriggerCount101:d":	1,
+				"LinkTriggerIndex101-0:d":	116,
+				"LinkActionCount101:d":	1,
+				"LinkActionIndex101-0:d":	130
+			}]
+	}, {
+		"name":	"Link102",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats102:d":	1,
+				"LinkState102:d":	0,
+				"LogicType102:d":	0,
+				"LinkTriggerCount102:d":	1,
+				"LinkTriggerIndex102-0:d":	117,
+				"LinkActionCount102:d":	1,
+				"LinkActionIndex102-0:d":	13
+			}]
+	}, {
+		"name":	"Link103",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats103:d":	1,
+				"LinkState103:d":	0,
+				"LogicType103:d":	0,
+				"LinkTriggerCount103:d":	1,
+				"LinkTriggerIndex103-0:d":	118,
+				"LinkActionCount103:d":	1,
+				"LinkActionIndex103-0:d":	14
+			}]
+	}, {
+		"name":	"Link104",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats104:d":	1,
+				"LinkState104:d":	0,
+				"LogicType104:d":	0,
+				"LinkTriggerCount104:d":	1,
+				"LinkTriggerIndex104-0:d":	119,
+				"LinkActionCount104:d":	1,
+				"LinkActionIndex104-0:d":	131
+			}]
+	}, {
+		"name":	"Link105",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats105:d":	0,
+				"LinkState105:d":	0,
+				"LogicType105:d":	0,
+				"LinkTriggerCount105:d":	1,
+				"LinkTriggerIndex105-0:d":	120,
+				"LinkActionCount105:d":	4,
+				"LinkActionIndex105-0:d":	16,
+				"LinkActionIndex105-1:d":	266,
+				"LinkActionIndex105-2:d":	265,
+				"LinkActionIndex105-3:d":	264
+			}]
+	}, {
+		"name":	"Link106",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats106:d":	0,
+				"LinkState106:d":	0,
+				"LogicType106:d":	0,
+				"LinkTriggerCount106:d":	1,
+				"LinkTriggerIndex106-0:d":	120,
+				"LinkActionCount106:d":	2,
+				"LinkActionIndex106-0:d":	266,
+				"LinkActionIndex106-1:d":	265
+			}]
+	}, {
+		"name":	"Link107",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats107:d":	0,
+				"LinkState107:d":	0,
+				"LogicType107:d":	0,
+				"LinkTriggerCount107:d":	1,
+				"LinkTriggerIndex107-0:d":	121,
+				"LinkActionCount107:d":	2,
+				"LinkActionIndex107-0:d":	263,
+				"LinkActionIndex107-1:d":	262
+			}]
+	}, {
+		"name":	"Link108",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats108:d":	0,
+				"LinkState108:d":	0,
+				"LogicType108:d":	0,
+				"LinkTriggerCount108:d":	1,
+				"LinkTriggerIndex108-0:d":	122,
+				"LinkActionCount108:d":	2,
+				"LinkActionIndex108-0:d":	263,
+				"LinkActionIndex108-1:d":	262
+			}]
+	}, {
+		"name":	"Link109",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats109:d":	1,
+				"LinkState109:d":	0,
+				"LogicType109:d":	1,
+				"LinkTriggerCount109:d":	7,
+				"LinkTriggerIndex109-0:d":	130,
+				"LinkTriggerIndex109-1:d":	129,
+				"LinkTriggerIndex109-2:d":	128,
+				"LinkTriggerIndex109-3:d":	127,
+				"LinkTriggerIndex109-4:d":	126,
+				"LinkTriggerIndex109-5:d":	125,
+				"LinkTriggerIndex109-6:d":	149,
+				"LinkActionCount109:d":	1,
+				"LinkActionIndex109-0:d":	219
+			}]
+	}, {
+		"name":	"Link110",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats110:d":	1,
+				"LinkState110:d":	0,
+				"LogicType110:d":	0,
+				"LinkTriggerCount110:d":	1,
+				"LinkTriggerIndex110-0:d":	131,
+				"LinkActionCount110:d":	1,
+				"LinkActionIndex110-0:d":	249
+			}]
+	}, {
+		"name":	"Link111",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats111:d":	1,
+				"LinkState111:d":	1,
+				"LogicType111:d":	0,
+				"LinkTriggerCount111:d":	1,
+				"LinkTriggerIndex111-0:d":	131,
+				"LinkActionCount111:d":	1,
+				"LinkActionIndex111-0:d":	250
+			}]
+	}, {
+		"name":	"Link112",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats112:d":	0,
+				"LinkState112:d":	0,
+				"LogicType112:d":	0,
+				"LinkTriggerCount112:d":	1,
+				"LinkTriggerIndex112-0:d":	137,
+				"LinkActionCount112:d":	1,
+				"LinkActionIndex112-0:d":	93
+			}]
+	}, {
+		"name":	"Link113",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats113:d":	0,
+				"LinkState113:d":	0,
+				"LogicType113:d":	0,
+				"LinkTriggerCount113:d":	1,
+				"LinkTriggerIndex113-0:d":	138,
+				"LinkActionCount113:d":	1,
+				"LinkActionIndex113-0:d":	91
+			}]
+	}, {
+		"name":	"Link114",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats114:d":	0,
+				"LinkState114:d":	0,
+				"LogicType114:d":	0,
+				"LinkTriggerCount114:d":	1,
+				"LinkTriggerIndex114-0:d":	139,
+				"LinkActionCount114:d":	1,
+				"LinkActionIndex114-0:d":	91
+			}]
+	}, {
+		"name":	"Link115",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats115:d":	0,
+				"LinkState115:d":	0,
+				"LogicType115:d":	0,
+				"LinkTriggerCount115:d":	1,
+				"LinkTriggerIndex115-0:d":	140,
+				"LinkActionCount115:d":	1,
+				"LinkActionIndex115-0:d":	91
+			}]
+	}, {
+		"name":	"Link116",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats116:d":	0,
+				"LinkState116:d":	0,
+				"LogicType116:d":	0,
+				"LinkTriggerCount116:d":	1,
+				"LinkTriggerIndex116-0:d":	141,
+				"LinkActionCount116:d":	1,
+				"LinkActionIndex116-0:d":	91
+			}]
+	}, {
+		"name":	"Link117",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats117:d":	0,
+				"LinkState117:d":	0,
+				"LogicType117:d":	0,
+				"LinkTriggerCount117:d":	1,
+				"LinkTriggerIndex117-0:d":	142,
+				"LinkActionCount117:d":	1,
+				"LinkActionIndex117-0:d":	91
+			}]
+	}, {
+		"name":	"Link118",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats118:d":	0,
+				"LinkState118:d":	0,
+				"LogicType118:d":	0,
+				"LinkTriggerCount118:d":	1,
+				"LinkTriggerIndex118-0:d":	143,
+				"LinkActionCount118:d":	1,
+				"LinkActionIndex118-0:d":	91
+			}]
+	}, {
+		"name":	"Link119",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats119:d":	0,
+				"LinkState119:d":	0,
+				"LogicType119:d":	0,
+				"LinkTriggerCount119:d":	2,
+				"LinkTriggerIndex119-0:d":	144,
+				"LinkTriggerIndex119-1:d":	132,
+				"LinkActionCount119:d":	1,
+				"LinkActionIndex119-0:d":	238
+			}]
+	}, {
+		"name":	"Link120",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats120:d":	0,
+				"LinkState120:d":	0,
+				"LogicType120:d":	0,
+				"LinkTriggerCount120:d":	2,
+				"LinkTriggerIndex120-0:d":	145,
+				"LinkTriggerIndex120-1:d":	133,
+				"LinkActionCount120:d":	1,
+				"LinkActionIndex120-0:d":	238
+			}]
+	}, {
+		"name":	"Link121",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats121:d":	0,
+				"LinkState121:d":	0,
+				"LogicType121:d":	0,
+				"LinkTriggerCount121:d":	2,
+				"LinkTriggerIndex121-0:d":	146,
+				"LinkTriggerIndex121-1:d":	134,
+				"LinkActionCount121:d":	1,
+				"LinkActionIndex121-0:d":	238
+			}]
+	}, {
+		"name":	"Link122",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats122:d":	0,
+				"LinkState122:d":	0,
+				"LogicType122:d":	0,
+				"LinkTriggerCount122:d":	2,
+				"LinkTriggerIndex122-0:d":	147,
+				"LinkTriggerIndex122-1:d":	135,
+				"LinkActionCount122:d":	1,
+				"LinkActionIndex122-0:d":	238
+			}]
+	}, {
+		"name":	"Link123",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats123:d":	0,
+				"LinkState123:d":	0,
+				"LogicType123:d":	0,
+				"LinkTriggerCount123:d":	2,
+				"LinkTriggerIndex123-0:d":	148,
+				"LinkTriggerIndex123-1:d":	136,
+				"LinkActionCount123:d":	1,
+				"LinkActionIndex123-0:d":	238
+			}]
+	}, {
+		"name":	"Link124",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats124:d":	0,
+				"LinkState124:d":	3,
+				"LogicType124:d":	0,
+				"LinkTriggerCount124:d":	1,
+				"LinkTriggerIndex124-0:d":	151,
+				"LinkActionCount124:d":	1,
+				"LinkActionIndex124-0:d":	103
+			}]
+	}, {
+		"name":	"Link125",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats125:d":	0,
+				"LinkState125:d":	0,
+				"LogicType125:d":	0,
+				"LinkTriggerCount125:d":	1,
+				"LinkTriggerIndex125-0:d":	152,
+				"LinkActionCount125:d":	1,
+				"LinkActionIndex125-0:d":	119
+			}]
+	}, {
+		"name":	"ConversationMgr",
+		"row_count":	1,
+		"rows":	[{
+				"ConversationCount:d":	0,
+				"ConversationListCount:d":	0,
+				"DialogListCount:d":	0
+			}]
+	}, {
+		"name":	"CameraMgr",
+		"row_count":	1,
+		"rows":	[{
+				"ChaseOffset:fff":	[0, 0, 0]
+			}]
+	}]

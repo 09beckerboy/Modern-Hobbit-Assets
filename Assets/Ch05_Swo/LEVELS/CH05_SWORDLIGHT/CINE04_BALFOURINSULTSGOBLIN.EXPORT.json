@@ -1,0 +1,190 @@
+[{
+		"name":	"Cinema",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C0CFA94D_FF26B000",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-2806.245849609375, -986.170166015625, -2298.264892578125, 2806.245849609375, 986.170166015625, 2298.264892578125],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Cine04_BalfourInsultsGoblin",
+				"Repeatable:d":	0,
+				"PopAtEnd:d":	0,
+				"Cinematic:d":	0,
+				"Time:f":	0,
+				"Duration:f":	7.2864689826965332,
+				"nShots:d":	1,
+				"nSyncPoints:d":	2,
+				"nActions:d":	3,
+				"nParticipants:d":	3,
+				"InitialShot:d":	0,
+				"BilboInvisible:d":	0,
+				"HasIntroTrans:d":	0,
+				"HasOutroTrans:d":	0,
+				"Skippable:d":	1,
+				"IsDeathCinema:d":	0,
+				"ForceNoWeapon:d":	0,
+				"ForceUseStick:d":	0,
+				"ForceUseSting:d":	0,
+				"Letterbox:d":	1,
+				"DisableControl:d":	0,
+				"BypassQueue:d":	0,
+				"LowPriority:d":	0,
+				"SubtitleInBox:d":	0
+			}]
+	}, {
+		"name":	"Shot0",
+		"row_count":	1,
+		"rows":	[{
+				"Shot0\\Name:s":	"Shot 0",
+				"Shot0\\NextShot:d":	1,
+				"Shot0\\SkipShot:d":	1,
+				"Shot0\\MaxTime:f":	600,
+				"Shot0\\Time:f":	0
+			}]
+	}, {
+		"name":	"SyncPoint0",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint0\\Name:s":	"Shot 0, Sync 0",
+				"SyncPoint0\\Type:d":	0,
+				"SyncPoint0\\Action:d":	0,
+				"SyncPoint0\\Offset:f":	0,
+				"SyncPoint0\\Shot:d":	0,
+				"SyncPoint0\\FromEnd:d":	1,
+				"SyncPoint0\\AbsoluteTimeStart:f":	0
+			}]
+	}, {
+		"name":	"SyncPoint1",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint1\\Name:s":	"Shot 0, Sync 1",
+				"SyncPoint1\\Type:d":	1,
+				"SyncPoint1\\Action:d":	1,
+				"SyncPoint1\\Offset:f":	0.300000011920929,
+				"SyncPoint1\\Shot:d":	0,
+				"SyncPoint1\\FromEnd:d":	1,
+				"SyncPoint1\\AbsoluteTimeStart:f":	4.4128437042236328
+			}]
+	}, {
+		"name":	"Action0",
+		"row_count":	1,
+		"rows":	[{
+				"Action0\\Name:s":	"Trigger the Conversation",
+				"Action0\\Type:d":	7,
+				"Action0\\Shot:d":	0,
+				"Action0\\Offset:f":	0,
+				"Action0\\Duration:f":	0,
+				"Action0\\SyncPoint:d":	0,
+				"Action0\\FinishShot:d":	1,
+				"Action0\\DefaultLength:f":	0,
+				"Action0\\Trigger:g":	"C0CFA94D_FF781800"
+			}]
+	}, {
+		"name":	"Action1",
+		"row_count":	1,
+		"rows":	[{
+				"Action1\\Name:s":	"Balfour's Taunt",
+				"Action1\\Type:d":	5,
+				"Action1\\Shot:d":	0,
+				"Action1\\Offset:f":	0,
+				"Action1\\Duration:f":	4.11284351348877,
+				"Action1\\SyncPoint:d":	0,
+				"Action1\\FinishShot:d":	1,
+				"Action1\\DefaultLength:f":	4.11284351348877,
+				"Action1\\Speaker:g":	"CA3DD48D_BC2FD800",
+				"Action1\\Sample:s":	"Balfor_05_20",
+				"Action1\\ForceEnd:d":	1,
+				"Action1\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Action2",
+		"row_count":	1,
+		"rows":	[{
+				"Action2\\Name:s":	"Goblin Retort",
+				"Action2\\Type:d":	5,
+				"Action2\\Shot:d":	0,
+				"Action2\\Offset:f":	4.4128437042236328,
+				"Action2\\Duration:f":	1.3453749418258667,
+				"Action2\\SyncPoint:d":	1,
+				"Action2\\FinishShot:d":	1,
+				"Action2\\DefaultLength:f":	1.3453749418258667,
+				"Action2\\Speaker:g":	"CA3DDE4D_91F3F401",
+				"Action2\\Sample:s":	"Goblin_05_19",
+				"Action2\\ForceEnd:d":	1,
+				"Action2\\Positional:d":	0
+			}]
+	}, {
+		"name":	"Participants",
+		"row_count":	3,
+		"rows":	[{
+				"PGuid:g":	"ABCABCAB_CABCABC0"
+			}, {
+				"PGuid:g":	"CA3DD48D_BC2FD800"
+			}, {
+				"PGuid:g":	"CA3DDE4D_91F3F401"
+			}]
+	}, {
+		"name":	"Action-1",
+		"row_count":	1,
+		"rows":	[{
+				"Action-1\\Shot:d":	0,
+				"Action-1\\Offset:f":	0,
+				"Action-1\\Duration:f":	1,
+				"Action-1\\SyncPoint:d":	0,
+				"Action-1\\FinishShot:d":	0,
+				"Action-1\\DefaultLength:f":	1,
+				"Action-1\\FXType:d":	3,
+				"Action-1\\Magnitude:f":	0.15000000596046448,
+				"Action-1\\Frequency:f":	20,
+				"Action-1\\Rolling:d":	0,
+				"Action-1\\Fadeout:d":	0,
+				"Action-1\\Color:dddd":	[0, 0, 0, 255],
+				"Action-1\\Target:f":	0
+			}]
+	}, {
+		"name":	"Action-2",
+		"row_count":	1,
+		"rows":	[{
+				"Action-2\\Shot:d":	0,
+				"Action-2\\Offset:f":	0,
+				"Action-2\\Duration:f":	1,
+				"Action-2\\SyncPoint:d":	0,
+				"Action-2\\FinishShot:d":	0,
+				"Action-2\\DefaultLength:f":	1,
+				"Action-2\\FXType:d":	3,
+				"Action-2\\Magnitude:f":	0.15000000596046448,
+				"Action-2\\Frequency:f":	20,
+				"Action-2\\Rolling:d":	0,
+				"Action-2\\Fadeout:d":	0,
+				"Action-2\\Color:dddd":	[0, 0, 0, 255],
+				"Action-2\\Target:f":	0
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C0CFAED0_4ED6CC00",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-4779.84423828125, -1926.6829833984375, 4352.88818359375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Cine4Trig_MoveTo",
+				"Name:s":	"Cine4Trig_MoveTo",
+				"Pos:fff":	[-4779.84423828125, -1926.6829833984375, 4352.88818359375],
+				"BBox:ffffff":	[-4829.84423828125, -1976.6829833984375, 4302.88818359375, -4729.84423828125, -1876.6829833984375, 4402.88818359375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}]

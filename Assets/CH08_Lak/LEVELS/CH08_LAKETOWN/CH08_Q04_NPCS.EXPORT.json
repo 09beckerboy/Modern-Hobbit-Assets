@@ -1,0 +1,696 @@
+[{
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD78D1_0745C400",
+				"CreatureType:s":	"ElfCommon",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"lake_dude5.npcgeom",
+				"Name:s":	"Arburan Base",
+				"Team:d":	0,
+				"Position:fff":	[144.422119140625, -2674.863037109375, -188.16860961914062],
+				"Rotation:fff":	[0, 0, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"Torch",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	40,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	1,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"C4CD7911_07708400",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"",
+				"AlertDuration1:f":	5,
+				"AlertDuration2:f":	5,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"GuardElfCount:d":	0,
+				"AttackDelay:f":	3,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	350,
+				"MinJumpAttackRadius:f":	200,
+				"AttackTimeoutDuration:f":	6,
+				"ElfCommonAttackGoalListName:s":	"",
+				"GoalListCount:d":	0,
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	2000,
+				"HearingRange:f":	3000,
+				"LoudHearingRange:f":	5000,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[144.422119140625, -2674.863037109375, -188.16860961914062],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, 0, -50, 50, 175, 50],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Arburan Base"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD7C50_01727C01",
+				"CreatureType:s":	"ElfCommon",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"war_bard.npcgeom",
+				"Name:s":	"Bard Q004",
+				"Team:d":	0,
+				"Position:fff":	[-1122.9136962890625, -110.27290344238281, -1324.825439453125],
+				"Rotation:fff":	[0, 86.849967956542969, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"Torch",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	40,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	1,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"C4CD7C50_01757C00",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"",
+				"AlertDuration1:f":	5,
+				"AlertDuration2:f":	5,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"GuardElfCount:d":	0,
+				"AttackDelay:f":	3,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	350,
+				"MinJumpAttackRadius:f":	200,
+				"AttackTimeoutDuration:f":	6,
+				"ElfCommonAttackGoalListName:s":	"",
+				"GoalListCount:d":	1
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Waiting For Bilbo",
+				"GoalListLooping0:d":	1,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	4
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	2,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0ActionName:s":	"Idle",
+				"List0Goal0PlayTime:f":	5
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal1:d":	2,
+				"List0Goal1MustSuceed:d":	0,
+				"List0Goal1ActionName:s":	"IdleFidget",
+				"List0Goal1PlayTime:f":	2
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal2:d":	2,
+				"List0Goal2MustSuceed:d":	0,
+				"List0Goal2ActionName:s":	"Idle",
+				"List0Goal2PlayTime:f":	5
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal3:d":	2,
+				"List0Goal3MustSuceed:d":	0,
+				"List0Goal3ActionName:s":	"IdleLookAround",
+				"List0Goal3PlayTime:f":	2,
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	2000,
+				"HearingRange:f":	3000,
+				"LoudHearingRange:f":	5000,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-1122.9136962890625, -110.27290344238281, -1324.825439453125],
+				"Orientation:fff":	[0, 86.849967956542969, 0],
+				"LocalBoundingBox:ffffff":	[-50, 0, -50, 50, 175, 50],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Bard Q004"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD7C50_014A2401",
+				"CreatureType:s":	"ElfCommon",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"lake_dude2.npcgeom",
+				"Name:s":	"Ondain Q04",
+				"Team:d":	0,
+				"Position:fff":	[-422.923095703125, -2755.607666015625, 289.594482421875],
+				"Rotation:fff":	[0, 100.79994201660156, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"Torch",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	40,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	1,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"C4CD7A50_018C0800",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"NONE",
+				"AlertDuration1:f":	5,
+				"AlertDuration2:f":	5,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"GuardElfCount:d":	0,
+				"AttackDelay:f":	3,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	350,
+				"MinJumpAttackRadius:f":	200,
+				"AttackTimeoutDuration:f":	6,
+				"ElfCommonAttackGoalListName:s":	"",
+				"GoalListCount:d":	1
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Waiting",
+				"GoalListLooping0:d":	0,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	4
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	2,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0ActionName:s":	"Idle",
+				"List0Goal0PlayTime:f":	15
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal1:d":	2,
+				"List0Goal1MustSuceed:d":	0,
+				"List0Goal1ActionName:s":	"IdleStretch",
+				"List0Goal1PlayTime:f":	2
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal2:d":	2,
+				"List0Goal2MustSuceed:d":	0,
+				"List0Goal2ActionName:s":	"IdleLookAround",
+				"List0Goal2PlayTime:f":	5
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal3:d":	2,
+				"List0Goal3MustSuceed:d":	0,
+				"List0Goal3ActionName:s":	"Idle",
+				"List0Goal3PlayTime:f":	15,
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	2000,
+				"HearingRange:f":	3000,
+				"LoudHearingRange:f":	5000,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-422.923095703125, -2755.607666015625, 289.594482421875],
+				"Orientation:fff":	[0, 100.79994201660156, 0],
+				"LocalBoundingBox:ffffff":	[-50, 0, -50, 50, 175, 50],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Ondain Q04"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD7C50_01488000",
+				"CreatureType:s":	"ElfCommon",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"lake_dude4.npcgeom",
+				"Name:s":	"Orfus Q04",
+				"Team:d":	0,
+				"Position:fff":	[-184.07907104492188, -2462.050048828125, 662.44000244140625],
+				"Rotation:fff":	[0, 87.750030517578125, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"Torch",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	40,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	1,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"C4CD7A50_01878C00",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"NONE",
+				"AlertDuration1:f":	5,
+				"AlertDuration2:f":	5,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"GuardElfCount:d":	0,
+				"AttackDelay:f":	3,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	350,
+				"MinJumpAttackRadius:f":	200,
+				"AttackTimeoutDuration:f":	6,
+				"ElfCommonAttackGoalListName:s":	"",
+				"GoalListCount:d":	1
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Waiting",
+				"GoalListLooping0:d":	0,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	4
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	2,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0ActionName:s":	"Idle",
+				"List0Goal0PlayTime:f":	10
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal1:d":	2,
+				"List0Goal1MustSuceed:d":	0,
+				"List0Goal1ActionName:s":	"IdleFidget",
+				"List0Goal1PlayTime:f":	5
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal2:d":	2,
+				"List0Goal2MustSuceed:d":	0,
+				"List0Goal2ActionName:s":	"IdleStretch",
+				"List0Goal2PlayTime:f":	2
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal3:d":	2,
+				"List0Goal3MustSuceed:d":	0,
+				"List0Goal3ActionName:s":	"Idle",
+				"List0Goal3PlayTime:f":	15,
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	2000,
+				"HearingRange:f":	3000,
+				"LoudHearingRange:f":	5000,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-184.07907104492188, -2462.050048828125, 662.44000244140625],
+				"Orientation:fff":	[0, 87.750030517578125, 0],
+				"LocalBoundingBox:ffffff":	[-50, 0, -50, 50, 175, 50],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Orfus Q04"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD7A50_018FE801",
+				"CreatureType:s":	"ElfCommon",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"lake_dude5.npcgeom",
+				"Name:s":	"Rennar Q004",
+				"Team:d":	0,
+				"Position:fff":	[1312.6168212890625, -657.3189697265625, 3603.178466796875],
+				"Rotation:fff":	[0, 162.45002746582031, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"Torch",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	40,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	1,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"C4CD7A50_01963000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"NONE",
+				"AlertDuration1:f":	5,
+				"AlertDuration2:f":	5,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"GuardElfCount:d":	0,
+				"AttackDelay:f":	3,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	350,
+				"MinJumpAttackRadius:f":	200,
+				"AttackTimeoutDuration:f":	6,
+				"ElfCommonAttackGoalListName:s":	"",
+				"GoalListCount:d":	1
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Waiting for Man_A",
+				"GoalListLooping0:d":	1,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	6
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	2,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0ActionName:s":	"IdleLookAround",
+				"List0Goal0PlayTime:f":	2
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal1:d":	2,
+				"List0Goal1MustSuceed:d":	0,
+				"List0Goal1ActionName:s":	"Idle",
+				"List0Goal1PlayTime:f":	5
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal2:d":	2,
+				"List0Goal2MustSuceed:d":	0,
+				"List0Goal2ActionName:s":	"TurnRight45",
+				"List0Goal2PlayTime:f":	0
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal3:d":	2,
+				"List0Goal3MustSuceed:d":	0,
+				"List0Goal3ActionName:s":	"IdleStretch",
+				"List0Goal3PlayTime:f":	2
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal4:d":	2,
+				"List0Goal4MustSuceed:d":	0,
+				"List0Goal4ActionName:s":	"IdleLookAround",
+				"List0Goal4PlayTime:f":	5
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal5:d":	2,
+				"List0Goal5MustSuceed:d":	0,
+				"List0Goal5ActionName:s":	"TurnLeft45",
+				"List0Goal5PlayTime:f":	0,
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	2000,
+				"HearingRange:f":	3000,
+				"LoudHearingRange:f":	5000,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[1312.6168212890625, -657.3189697265625, 3603.178466796875],
+				"Orientation:fff":	[0, 162.45002746582031, 0],
+				"LocalBoundingBox:ffffff":	[-50, 0, -50, 50, 175, 50],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Rennar Q004"
+			}]
+	}]

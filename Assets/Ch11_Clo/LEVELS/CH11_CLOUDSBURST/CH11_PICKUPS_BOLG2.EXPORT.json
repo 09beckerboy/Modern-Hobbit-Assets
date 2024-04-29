@@ -1,0 +1,1674 @@
+[{
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"18B5CA90_34272C00",
+				"Name:s":	"con1_endcollision",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"con1_endcollision.rgeom",
+				"Pos:fff":	[0, 0, 0],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[-30295.7890625, -920.7279052734375, -17739.98828125, -26409.794921875, 0.660148024559021, -16095.9755859375],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	1,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	14760,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-30295.7890625, -920.7279052734375, -17739.98828125, -26409.794921875, 0.660148024559021, -16095.9755859375],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"con1_endcollision",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Wood"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	24,
+		"rows":	[{
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}]
+	}, {
+		"name":	"SurfaceFlags",
+		"row_count":	172,
+		"rows":	[{
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	1
+			}, {
+				"Flags:d":	1
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}, {
+				"Flags:d":	0
+			}]
+	}, {
+		"name":	"Pickup",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"18B5CBD0_09022401",
+				"Type:s":	"Courage1",
+				"Amount:d":	1,
+				"RotatesSlowly:d":	1,
+				"BobsSlowly:d":	1,
+				"Regenerates:d":	0,
+				"GlowOffDist:d":	2000,
+				"GlowOnDist:d":	1000,
+				"DoesVacuum:d":	1,
+				"Name:s":	"CP_01_227",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_couragepoint_1.rgeom",
+				"Pos:fff":	[-27335.541015625, -83.6936569213867, -16778.60546875],
+				"Ambient:dddd":	[200, 200, 200, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[-27344.498046875, -84.5230178833008, -16787.611328125, -27326.490234375, -48.030582427978516, -16770.169921875],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	0,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	8608,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-8.95703125, -0.8293609619140625, -9.005859375, 9.05078125, 35.6630744934082, 8.435546875],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"CP_01_227",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"Pickup",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"18B5CBD0_0902AC01",
+				"Type:s":	"Courage1",
+				"Amount:d":	1,
+				"RotatesSlowly:d":	1,
+				"BobsSlowly:d":	1,
+				"Regenerates:d":	0,
+				"GlowOffDist:d":	2000,
+				"GlowOnDist:d":	1000,
+				"DoesVacuum:d":	1,
+				"Name:s":	"CP_01_228",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_couragepoint_1.rgeom",
+				"Pos:fff":	[-27248.904296875, -83.693565368652344, -16718.01953125],
+				"Ambient:dddd":	[200, 200, 200, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[-27257.861328125, -84.5229263305664, -16727.025390625, -27239.853515625, -48.030490875244141, -16709.583984375],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	0,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	8608,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-8.95703125, -0.8293609619140625, -9.005859375, 9.05078125, 35.6630744934082, 8.435546875],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"CP_01_228",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"Pickup",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"18B5CBD0_0902C401",
+				"Type:s":	"Courage1",
+				"Amount:d":	1,
+				"RotatesSlowly:d":	1,
+				"BobsSlowly:d":	1,
+				"Regenerates:d":	0,
+				"GlowOffDist:d":	2000,
+				"GlowOnDist:d":	1000,
+				"DoesVacuum:d":	1,
+				"Name:s":	"CP_01_229",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_couragepoint_1.rgeom",
+				"Pos:fff":	[-27196.873046875, -83.6936569213867, -16629.08984375],
+				"Ambient:dddd":	[200, 200, 200, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[-27205.830078125, -84.5230178833008, -16638.095703125, -27187.822265625, -48.030582427978516, -16620.654296875],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	0,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	8608,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-8.95703125, -0.8293609619140625, -9.005859375, 9.05078125, 35.6630744934082, 8.435546875],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"CP_01_229",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"Pickup",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"18B5CBD0_09036801",
+				"Type:s":	"Courage1",
+				"Amount:d":	1,
+				"RotatesSlowly:d":	1,
+				"BobsSlowly:d":	1,
+				"Regenerates:d":	0,
+				"GlowOffDist:d":	2000,
+				"GlowOnDist:d":	1000,
+				"DoesVacuum:d":	1,
+				"Name:s":	"CP_01_235",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_couragepoint_1.rgeom",
+				"Pos:fff":	[-27298.63671875, -83.6936569213867, -15864.97265625],
+				"Ambient:dddd":	[200, 200, 200, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[-27307.59375, -84.5230178833008, -15873.978515625, -27289.5859375, -48.030582427978516, -15856.537109375],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	0,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	8608,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-8.95703125, -0.8293609619140625, -9.005859375, 9.05078125, 35.6630744934082, 8.435546875],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"CP_01_235",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"Pickup",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"18B5CBD0_09042802",
+				"Type:s":	"Courage1",
+				"Amount:d":	1,
+				"RotatesSlowly:d":	1,
+				"BobsSlowly:d":	1,
+				"Regenerates:d":	0,
+				"GlowOffDist:d":	2000,
+				"GlowOnDist:d":	1000,
+				"DoesVacuum:d":	1,
+				"Name:s":	"CP_01_236",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_couragepoint_1.rgeom",
+				"Pos:fff":	[-27360.646484375, -83.6936569213867, -15747.4130859375],
+				"Ambient:dddd":	[200, 200, 200, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[-27369.603515625, -84.5230178833008, -15756.4189453125, -27351.595703125, -48.030582427978516, -15738.9775390625],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	0,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	8608,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-8.95703125, -0.8293609619140625, -9.005859375, 9.05078125, 35.6630744934082, 8.435546875],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"CP_01_236",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"Pickup",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"18B5CBD0_09042804",
+				"Type:s":	"Courage1",
+				"Amount:d":	1,
+				"RotatesSlowly:d":	1,
+				"BobsSlowly:d":	1,
+				"Regenerates:d":	0,
+				"GlowOffDist:d":	2000,
+				"GlowOnDist:d":	1000,
+				"DoesVacuum:d":	1,
+				"Name:s":	"CP_01_237",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_couragepoint_1.rgeom",
+				"Pos:fff":	[-27440.408203125, -83.6936569213867, -15614.0791015625],
+				"Ambient:dddd":	[200, 200, 200, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[-27449.365234375, -84.5230178833008, -15623.0849609375, -27431.357421875, -48.030582427978516, -15605.6435546875],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	0,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	8608,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-8.95703125, -0.8293609619140625, -9.005859375, 9.05078125, 35.6630744934082, 8.435546875],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"CP_01_237",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"Pickup",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"18B5CBD0_09148001",
+				"Type:s":	"Courage1",
+				"Amount:d":	1,
+				"RotatesSlowly:d":	1,
+				"BobsSlowly:d":	1,
+				"Regenerates:d":	0,
+				"GlowOffDist:d":	2000,
+				"GlowOnDist:d":	1000,
+				"DoesVacuum:d":	1,
+				"Name:s":	"CP_01_247",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_couragepoint_1.rgeom",
+				"Pos:fff":	[-28769.388671875, -50.994415283203125, -15199.978515625],
+				"Ambient:dddd":	[200, 200, 200, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[-28778.345703125, -51.823772430419922, -15208.984375, -28760.337890625, -15.331340789794922, -15191.54296875],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	0,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	8608,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-8.95703125, -0.829357147216797, -9.005859375, 9.05078125, 35.6630744934082, 8.435546875],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"CP_01_247",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"Pickup",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"18B5CBD0_09149403",
+				"Type:s":	"Courage1",
+				"Amount:d":	1,
+				"RotatesSlowly:d":	1,
+				"BobsSlowly:d":	1,
+				"Regenerates:d":	0,
+				"GlowOffDist:d":	2000,
+				"GlowOnDist:d":	1000,
+				"DoesVacuum:d":	1,
+				"Name:s":	"CP_01_248",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_couragepoint_1.rgeom",
+				"Pos:fff":	[-28914.60546875, -50.994415283203125, -15268.2412109375],
+				"Ambient:dddd":	[200, 200, 200, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[-28923.5625, -51.823772430419922, -15277.2470703125, -28905.5546875, -15.331340789794922, -15259.8056640625],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	0,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	8608,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-8.95703125, -0.829357147216797, -9.005859375, 9.05078125, 35.6630744934082, 8.435546875],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"CP_01_248",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"Pickup",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"18B5CBD0_0914BC01",
+				"Type:s":	"Courage1",
+				"Amount:d":	1,
+				"RotatesSlowly:d":	1,
+				"BobsSlowly:d":	1,
+				"Regenerates:d":	0,
+				"GlowOffDist:d":	2000,
+				"GlowOnDist:d":	1000,
+				"DoesVacuum:d":	1,
+				"Name:s":	"CP_01_249",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_couragepoint_1.rgeom",
+				"Pos:fff":	[-29030.95703125, -50.994415283203125, -15315.9833984375],
+				"Ambient:dddd":	[200, 200, 200, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[-29039.9140625, -51.823772430419922, -15324.9892578125, -29021.90625, -15.331340789794922, -15307.5478515625],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	0,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	8608,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-8.95703125, -0.829357147216797, -9.005859375, 9.05078125, 35.6630744934082, 8.435546875],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"CP_01_249",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"Pickup",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"18B5CBD0_0914DC01",
+				"Type:s":	"Courage1",
+				"Amount:d":	1,
+				"RotatesSlowly:d":	1,
+				"BobsSlowly:d":	1,
+				"Regenerates:d":	0,
+				"GlowOffDist:d":	2000,
+				"GlowOnDist:d":	1000,
+				"DoesVacuum:d":	1,
+				"Name:s":	"CP_01_250",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_couragepoint_1.rgeom",
+				"Pos:fff":	[-29613.462890625, -392.6328125, -15817.576171875],
+				"Ambient:dddd":	[200, 200, 200, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[-29622.419921875, -393.462158203125, -15826.58203125, -29604.412109375, -356.9697265625, -15809.140625],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	0,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	8608,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-8.95703125, -0.829345703125, -9.005859375, 9.05078125, 35.6630859375, 8.435546875],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"CP_01_250",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"Pickup",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"18B5CBD0_09150001",
+				"Type:s":	"Courage1",
+				"Amount:d":	1,
+				"RotatesSlowly:d":	1,
+				"BobsSlowly:d":	1,
+				"Regenerates:d":	0,
+				"GlowOffDist:d":	2000,
+				"GlowOnDist:d":	1000,
+				"DoesVacuum:d":	1,
+				"Name:s":	"CP_01_251",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_couragepoint_1.rgeom",
+				"Pos:fff":	[-29585.328125, -387.14813232421875, -15737.2568359375],
+				"Ambient:dddd":	[200, 200, 200, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[-29594.28515625, -387.97747802734375, -15746.2626953125, -29576.27734375, -351.48504638671875, -15728.8212890625],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	0,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	8608,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-8.95703125, -0.829345703125, -9.005859375, 9.05078125, 35.6630859375, 8.435546875],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"CP_01_251",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"Pickup",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"18B5CBD0_092A5801",
+				"Type:s":	"Courage1",
+				"Amount:d":	1,
+				"RotatesSlowly:d":	1,
+				"BobsSlowly:d":	1,
+				"Regenerates:d":	0,
+				"GlowOffDist:d":	2000,
+				"GlowOnDist:d":	1000,
+				"DoesVacuum:d":	1,
+				"Name:s":	"CP_01_256",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_couragepoint_1.rgeom",
+				"Pos:fff":	[-29625.26953125, -391.25125122070312, -15896.0556640625],
+				"Ambient:dddd":	[200, 200, 200, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[-29634.2265625, -392.08059692382812, -15905.0615234375, -29616.21875, -355.58816528320312, -15887.6201171875],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	0,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	8608,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-8.95703125, -0.829345703125, -9.005859375, 9.05078125, 35.6630859375, 8.435546875],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"CP_01_256",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"Pickup",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"18B5CBD0_092A6C02",
+				"Type:s":	"Courage1",
+				"Amount:d":	1,
+				"RotatesSlowly:d":	1,
+				"BobsSlowly:d":	1,
+				"Regenerates:d":	0,
+				"GlowOffDist:d":	2000,
+				"GlowOnDist:d":	1000,
+				"DoesVacuum:d":	1,
+				"Name:s":	"CP_01_257",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_couragepoint_1.rgeom",
+				"Pos:fff":	[-29559.5234375, -391.251220703125, -16419.8359375],
+				"Ambient:dddd":	[200, 200, 200, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[-29568.48046875, -392.08056640625, -16428.841796875, -29550.47265625, -355.588134765625, -16411.400390625],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	0,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	8608,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-8.95703125, -0.829345703125, -9.005859375, 9.05078125, 35.6630859375, 8.435546875],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"CP_01_257",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"Pickup",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"18B5CBD0_092A8401",
+				"Type:s":	"Courage1",
+				"Amount:d":	1,
+				"RotatesSlowly:d":	1,
+				"BobsSlowly:d":	1,
+				"Regenerates:d":	0,
+				"GlowOffDist:d":	2000,
+				"GlowOnDist:d":	1000,
+				"DoesVacuum:d":	1,
+				"Name:s":	"CP_01_258",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_couragepoint_1.rgeom",
+				"Pos:fff":	[-29589.818359375, -391.251220703125, -16552.841796875],
+				"Ambient:dddd":	[200, 200, 200, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[-29598.775390625, -392.08056640625, -16561.84765625, -29580.767578125, -355.588134765625, -16544.40625],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	0,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	8608,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-8.95703125, -0.829345703125, -9.005859375, 9.05078125, 35.6630859375, 8.435546875],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"CP_01_258",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"Pickup",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"18B5CBD0_092AA001",
+				"Type:s":	"Courage1",
+				"Amount:d":	1,
+				"RotatesSlowly:d":	1,
+				"BobsSlowly:d":	1,
+				"Regenerates:d":	0,
+				"GlowOffDist:d":	2000,
+				"GlowOnDist:d":	1000,
+				"DoesVacuum:d":	1,
+				"Name:s":	"CP_01_259",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_couragepoint_1.rgeom",
+				"Pos:fff":	[-29599.060546875, -391.251220703125, -16746.55078125],
+				"Ambient:dddd":	[200, 200, 200, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[-29608.017578125, -392.08056640625, -16755.556640625, -29590.009765625, -355.588134765625, -16738.115234375],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	0,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	8608,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-8.95703125, -0.829345703125, -9.005859375, 9.05078125, 35.6630859375, 8.435546875],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"CP_01_259",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"Pickup",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"18B5CFD0_40545C01",
+				"Type:s":	"Courage1",
+				"Amount:d":	1,
+				"RotatesSlowly:d":	1,
+				"BobsSlowly:d":	1,
+				"Regenerates:d":	0,
+				"GlowOffDist:d":	2000,
+				"GlowOnDist:d":	1000,
+				"DoesVacuum:d":	1,
+				"Name:s":	"CP_01_340",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_couragepoint_1.rgeom",
+				"Pos:fff":	[-27530.521484375, -195.10861206054687, -16767.052734375],
+				"Ambient:dddd":	[200, 200, 200, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[-27539.478515625, -195.93797302246094, -16776.05859375, -27521.470703125, -159.44554138183594, -16758.6171875],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	0,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	8608,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-8.95703125, -0.8293609619140625, -9.005859375, 9.05078125, 35.663070678710938, 8.435546875],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"CP_01_340",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"Pickup",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"18B5CE90_53B6E401",
+				"Type:s":	"Courage1",
+				"Amount:d":	1,
+				"RotatesSlowly:d":	1,
+				"BobsSlowly:d":	1,
+				"Regenerates:d":	0,
+				"GlowOffDist:d":	2000,
+				"GlowOnDist:d":	1000,
+				"DoesVacuum:d":	1,
+				"Name:s":	"CP_01_345",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_couragepoint_1.rgeom",
+				"Pos:fff":	[-27543.470703125, -258.87753295898437, -16766.72265625],
+				"Ambient:dddd":	[200, 200, 200, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[-27552.427734375, -259.70687866210937, -16775.728515625, -27534.419921875, -223.21446228027344, -16758.287109375],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	0,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	8608,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-8.95703125, -0.829345703125, -9.005859375, 9.05078125, 35.663070678710938, 8.435546875],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"CP_01_345",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"Pickup",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"18B5CE90_53B70001",
+				"Type:s":	"Courage1",
+				"Amount:d":	1,
+				"RotatesSlowly:d":	1,
+				"BobsSlowly:d":	1,
+				"Regenerates:d":	0,
+				"GlowOffDist:d":	2000,
+				"GlowOnDist:d":	1000,
+				"DoesVacuum:d":	1,
+				"Name:s":	"CP_01_346",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_couragepoint_1.rgeom",
+				"Pos:fff":	[-27552.03125, -336.43759155273437, -16766.09375],
+				"Ambient:dddd":	[200, 200, 200, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[-27560.98828125, -337.26693725585937, -16775.099609375, -27542.98046875, -300.77450561523437, -16757.658203125],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	0,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	8608,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-8.95703125, -0.829345703125, -9.005859375, 9.05078125, 35.6630859375, 8.435546875],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"CP_01_346",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"Pickup",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"18B5CE90_53B98C01",
+				"Type:s":	"Courage1",
+				"Amount:d":	1,
+				"RotatesSlowly:d":	1,
+				"BobsSlowly:d":	1,
+				"Regenerates:d":	0,
+				"GlowOffDist:d":	2000,
+				"GlowOnDist:d":	1000,
+				"DoesVacuum:d":	1,
+				"Name:s":	"CP_01_347",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_couragepoint_1.rgeom",
+				"Pos:fff":	[-27571.1015625, -422.44525146484375, -16761.458984375],
+				"Ambient:dddd":	[200, 200, 200, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[-27580.05859375, -423.27459716796875, -16770.46484375, -27562.05078125, -386.78216552734375, -16753.0234375],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	0,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	8608,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-8.95703125, -0.829345703125, -9.005859375, 9.05078125, 35.6630859375, 8.435546875],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"CP_01_347",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"Pickup",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"18B5C552_22DF3001",
+				"Type:s":	"Courage1",
+				"Amount:d":	1,
+				"RotatesSlowly:d":	1,
+				"BobsSlowly:d":	1,
+				"Regenerates:d":	0,
+				"GlowOffDist:d":	2000,
+				"GlowOnDist:d":	1000,
+				"DoesVacuum:d":	1,
+				"Name:s":	"CP_01_365",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_couragepoint_1.rgeom",
+				"Pos:fff":	[-29544.69140625, -391.251220703125, -16306.6640625],
+				"Ambient:dddd":	[200, 200, 200, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[-29553.6484375, -392.08056640625, -16315.669921875, -29535.640625, -355.588134765625, -16298.228515625],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	0,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	8608,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-8.95703125, -0.829345703125, -9.005859375, 9.05078125, 35.6630859375, 8.435546875],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"CP_01_365",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}]

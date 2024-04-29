@@ -1,0 +1,643 @@
+[{
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDD0C_9DA15400",
+				"CreatureType:s":	"Goblin Guard",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"char_warrior_model.npcgeom",
+				"Name:s":	"BridgeGuard-001",
+				"Team:d":	2,
+				"Position:fff":	[-335.0517578125, -1979.666015625, -6199.373046875],
+				"Rotation:fff":	[0, 0, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"gobsword",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"gobshield",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	50,
+				"MaxHitPoints:f":	140,
+				"CouragePts:d":	30,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	2,
+				"WayPointVolume0:g":	"97B76F4D_BB7A7801",
+				"GoalListSet0:s":	"NONE",
+				"NextWayPointName0:s":	"WayPoint 1",
+				"NextWayPointID0:d":	1,
+				"NextWayPointCount0:d":	1,
+				"NextWayPoint0-0:d":	1,
+				"WayPointVolume1:g":	"97B76F4D_BB797000",
+				"GoalListSet1:s":	"NONE",
+				"NextWayPointName1:s":	"WayPoint 0",
+				"NextWayPointID1:d":	0,
+				"NextWayPointCount1:d":	1,
+				"NextWayPoint1-0:d":	0,
+				"PatrolIdleStateGoalListName:s":	"",
+				"AlertDuration1:f":	10,
+				"AlertDuration2:f":	10,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	1.3333330154418945,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	528.11578369140625,
+				"MinJumpAttackRadius:f":	422.49264526367188,
+				"AttackGoalListName:s":	"",
+				"RetreatGoalListName:s":	"",
+				"FleeNavPoint:g":	"00000000_00000000",
+				"FleeGoalListName:s":	"",
+				"GoalListCount:d":	1
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Patrol",
+				"GoalListLooping0:d":	1,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	8
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818612",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	1,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0Target:g":	"CA3DDD0C_9DA94C00",
+				"List0Goal0AnimType:d":	6,
+				"List0Goal0AnimName:s":	"",
+				"List0Goal0Lock:d":	0,
+				"List0Goal0LookAhead:d":	1,
+				"List0Goal0ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818612",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal1:d":	2,
+				"List0Goal1MustSuceed:d":	0,
+				"List0Goal1ActionName:s":	"combat_idle",
+				"List0Goal1PlayTime:f":	3
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818612",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal2:d":	1,
+				"List0Goal2MustSuceed:d":	0,
+				"List0Goal2Target:g":	"CA3DDD0C_9DABFC01",
+				"List0Goal2AnimType:d":	6,
+				"List0Goal2AnimName:s":	"",
+				"List0Goal2Lock:d":	0,
+				"List0Goal2LookAhead:d":	1,
+				"List0Goal2ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818612",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal3:d":	1,
+				"List0Goal3MustSuceed:d":	0,
+				"List0Goal3Target:g":	"CA3DDD0C_9DAC2C01",
+				"List0Goal3AnimType:d":	6,
+				"List0Goal3AnimName:s":	"",
+				"List0Goal3Lock:d":	0,
+				"List0Goal3LookAhead:d":	1,
+				"List0Goal3ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818612",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal4:d":	1,
+				"List0Goal4MustSuceed:d":	0,
+				"List0Goal4Target:g":	"CA3DDD0C_9DAC4401",
+				"List0Goal4AnimType:d":	6,
+				"List0Goal4AnimName:s":	"",
+				"List0Goal4Lock:d":	0,
+				"List0Goal4LookAhead:d":	1,
+				"List0Goal4ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818612",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal5:d":	2,
+				"List0Goal5MustSuceed:d":	0,
+				"List0Goal5ActionName:s":	"combat_idle",
+				"List0Goal5PlayTime:f":	6
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818612",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal6:d":	1,
+				"List0Goal6MustSuceed:d":	0,
+				"List0Goal6Target:g":	"CA3DDD0C_9DAC2C01",
+				"List0Goal6AnimType:d":	6,
+				"List0Goal6AnimName:s":	"",
+				"List0Goal6Lock:d":	0,
+				"List0Goal6LookAhead:d":	1,
+				"List0Goal6ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818612",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal7:d":	1,
+				"List0Goal7MustSuceed:d":	0,
+				"List0Goal7Target:g":	"CA3DDD0C_9DABFC01",
+				"List0Goal7AnimType:d":	6,
+				"List0Goal7AnimName:s":	"",
+				"List0Goal7Lock:d":	0,
+				"List0Goal7LookAhead:d":	1,
+				"List0Goal7ActionName:s":	"",
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	800,
+				"HearingRange:f":	1000,
+				"LoudHearingRange:f":	1200,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-335.0517578125, -1979.666015625, -6199.373046875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-60, 0, -60, 60, 175, 60],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"BridgeGuard-001"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"18B5CD89_2E2C8802",
+				"CreatureType:s":	"Goblin Slave",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"char_slave_model.npcgeom",
+				"Name:s":	"GobMinerElevator2",
+				"Team:d":	2,
+				"Position:fff":	[-551.7545166015625, -2031.67041015625, -6600.10693359375],
+				"Rotation:fff":	[0, -111.29997253417969, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"gobpickax",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	40,
+				"MaxHitPoints:f":	70,
+				"CouragePts:d":	25,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	10,
+				"EvadePercent:d":	0,
+				"ShovePercent:d":	30,
+				"StrafePercent:d":	0,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	2,
+				"WayPointVolume0:g":	"97B76F4D_BB7FDC01",
+				"GoalListSet0:s":	"Mining Goal List Set",
+				"NextWayPointName0:s":	"WayPoint 1",
+				"NextWayPointID0:d":	1,
+				"NextWayPointCount0:d":	1,
+				"NextWayPoint0-0:d":	1,
+				"WayPointVolume1:g":	"97B76F4D_BB808001",
+				"GoalListSet1:s":	"NONE",
+				"NextWayPointName1:s":	"WayPoint 0",
+				"NextWayPointID1:d":	0,
+				"NextWayPointCount1:d":	1,
+				"NextWayPoint1-0:d":	0,
+				"PatrolIdleStateGoalListName:s":	"Mining",
+				"AlertDuration1:f":	10,
+				"AlertDuration2:f":	10,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	1.6666669845581055,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	406.08685302734375,
+				"MinJumpAttackRadius:f":	324.86947631835938,
+				"AttackGoalListName:s":	"",
+				"RangedAttackNavPoint:g":	"00000000_00000000",
+				"MeleeRadius:f":	500,
+				"RangedAttackDelay:f":	4,
+				"RangedAttackRange:f":	1500,
+				"RangedAttackTimeoutDuration:f":	10,
+				"RangedAttackGoalListName:s":	"",
+				"RetreatGoalListName:s":	"",
+				"FleeNavPoint:g":	"00000000_00000000",
+				"FleeGoalListName:s":	"",
+				"GoalListCount:d":	1
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Mining",
+				"GoalListLooping0:d":	0,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818612",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	2,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0ActionName:s":	"mine",
+				"List0Goal0PlayTime:f":	10,
+				"GoalListSetCount:d":	1
+			}]
+	}, {
+		"name":	"GoalListSet0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListSetName0:s":	"Mining Goal List Set",
+				"GoalListGoalCount0:d":	1,
+				"GoalListSet0GoalListName0:s":	"Mining",
+				"GoalListSet0GoalListWeight0:d":	100
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	800,
+				"HearingRange:f":	1000,
+				"LoudHearingRange:f":	1200,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-551.7545166015625, -2031.67041015625, -6600.10693359375],
+				"Orientation:fff":	[0, -111.29997253417969, 0],
+				"LocalBoundingBox:ffffff":	[-50, 0, -50, 50, 140, 50],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"GobMinerElevator2"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"18B5CD89_2E304002",
+				"CreatureType:s":	"Goblin Slave",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"char_slave_model.npcgeom",
+				"Name:s":	"SingleBridge_GobMinerRange_001",
+				"Team:d":	2,
+				"Position:fff":	[-3136.0517578125, -1981.6607666015625, -3618.122314453125],
+				"Rotation:fff":	[0, 131.70002746582031, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"gobpickax",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	40,
+				"MaxHitPoints:f":	70,
+				"CouragePts:d":	25,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	10,
+				"EvadePercent:d":	0,
+				"ShovePercent:d":	30,
+				"StrafePercent:d":	0,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	2,
+				"WayPointVolume0:g":	"97B76E0D_BC3C1401",
+				"GoalListSet0:s":	"Patrol and Mine",
+				"NextWayPointName0:s":	"WayPoint 1",
+				"NextWayPointID0:d":	1,
+				"NextWayPointCount0:d":	1,
+				"NextWayPoint0-0:d":	1,
+				"WayPointVolume1:g":	"97B76E0D_BC3CFC01",
+				"GoalListSet1:s":	"NONE",
+				"NextWayPointName1:s":	"WayPoint 0",
+				"NextWayPointID1:d":	0,
+				"NextWayPointCount1:d":	1,
+				"NextWayPoint1-0:d":	0,
+				"PatrolIdleStateGoalListName:s":	"Patrol And Mine",
+				"AlertDuration1:f":	10,
+				"AlertDuration2:f":	10,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	1.1764709949493408,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	406.08685302734375,
+				"MinJumpAttackRadius:f":	324.86947631835938,
+				"AttackGoalListName:s":	"",
+				"RangedAttackNavPoint:g":	"00000000_00000000",
+				"MeleeRadius:f":	500,
+				"RangedAttackDelay:f":	4,
+				"RangedAttackRange:f":	2000,
+				"RangedAttackTimeoutDuration:f":	10,
+				"RangedAttackGoalListName:s":	"",
+				"RetreatGoalListName:s":	"",
+				"FleeNavPoint:g":	"00000000_00000000",
+				"FleeGoalListName:s":	"",
+				"GoalListCount:d":	1
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Patrol And Mine",
+				"GoalListLooping0:d":	1,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	1
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818612",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	2,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0ActionName:s":	"mine",
+				"List0Goal0PlayTime:f":	10,
+				"GoalListSetCount:d":	1
+			}]
+	}, {
+		"name":	"GoalListSet0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListSetName0:s":	"Patrol and Mine",
+				"GoalListGoalCount0:d":	1,
+				"GoalListSet0GoalListName0:s":	"Patrol And Mine",
+				"GoalListSet0GoalListWeight0:d":	100
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	1900,
+				"HearingRange:f":	2100,
+				"LoudHearingRange:f":	2300,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-3136.0517578125, -1981.6607666015625, -3618.122314453125],
+				"Orientation:fff":	[0, 131.70002746582031, 0],
+				"LocalBoundingBox:ffffff":	[-50, 0, -50, 50, 140, 50],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"SingleBridge_GobMinerRange_001"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"97B76F4D_BB797000",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-29.500617980957031, -1980.1341552734375, -6395.07568359375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Area3_DblBridge_WayPoint000",
+				"Name:s":	"Area3_DblBridge_WayPoint000",
+				"Pos:fff":	[-29.500617980957031, -1980.1341552734375, -6395.07568359375],
+				"BBox:ffffff":	[-79.500617980957031, -2030.1341552734375, -6445.07568359375, 20.499382019042969, -1930.1341552734375, -6345.07568359375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"97B76F4D_BB7A7801",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-709.9176025390625, -1974.339111328125, -5518.8720703125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Area3_DblBridge_WayPoint001",
+				"Name:s":	"Area3_DblBridge_WayPoint001",
+				"Pos:fff":	[-709.9176025390625, -1974.339111328125, -5518.8720703125],
+				"BBox:ffffff":	[-759.9176025390625, -2024.339111328125, -5568.8720703125, -659.9176025390625, -1924.339111328125, -5468.8720703125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"97B76F4D_BB7FDC01",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-614.88677978515625, -2047.927734375, -6612.2822265625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Area3_DblBridge_WayPoint002",
+				"Name:s":	"Area3_DblBridge_WayPoint002",
+				"Pos:fff":	[-614.88677978515625, -2047.927734375, -6612.2822265625],
+				"BBox:ffffff":	[-664.88677978515625, -2097.927734375, -6662.2822265625, -564.88677978515625, -1997.927734375, -6562.2822265625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"97B76F4D_BB808001",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[114.17047119140625, -2005.993408203125, -6177.4931640625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Area3_DblBridge_WayPoint003",
+				"Name:s":	"Area3_DblBridge_WayPoint003",
+				"Pos:fff":	[114.17047119140625, -2005.993408203125, -6177.4931640625],
+				"BBox:ffffff":	[64.17047119140625, -2055.993408203125, -6227.4931640625, 164.17047119140625, -1955.993408203125, -6127.4931640625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"97B76E0D_BC3C1401",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-3154.8564453125, -1945.191162109375, -3583.8642578125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Area3_DblBridge_WayPoint004",
+				"Name:s":	"Area3_DblBridge_WayPoint004",
+				"Pos:fff":	[-3154.8564453125, -1945.191162109375, -3583.8642578125],
+				"BBox:ffffff":	[-3204.8564453125, -1995.191162109375, -3633.8642578125, -3104.8564453125, -1895.191162109375, -3533.8642578125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"97B76E0D_BC3CFC01",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-4219.1220703125, -1939.078125, -5936.83642578125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Area3_DblBridge_WayPoint005",
+				"Name:s":	"Area3_DblBridge_WayPoint005",
+				"Pos:fff":	[-4219.1220703125, -1939.078125, -5936.83642578125],
+				"BBox:ffffff":	[-4269.1220703125, -1989.078125, -5986.83642578125, -4169.1220703125, -1889.078125, -5886.83642578125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}]

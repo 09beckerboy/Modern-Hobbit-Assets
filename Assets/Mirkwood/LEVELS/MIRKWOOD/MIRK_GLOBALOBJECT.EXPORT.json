@@ -1,0 +1,6102 @@
+[{
+		"name":	"Globals",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD588BCA_E901C000",
+				"BilboStartYaw:f":	-1.2217309474945068,
+				"BilboStartPos:fff":	[-410, 545, 1680],
+				"FogColor:dddd":	[32, 52, 60, 255],
+				"FogStart:f":	100,
+				"FogEnd:f":	15000,
+				"FogEnabled:d":	1,
+				"LevelName:s":	"CH06: Mirkwood",
+				"Number of Quests:d":	7,
+				"OpeningCinema:g":	"CD588E51_40255800",
+				"Ambient0:dddd":	[40, 60, 55, 255],
+				"Ambient1:dddd":	[0, 0, 0, 255],
+				"Ambient2:dddd":	[0, 0, 0, 255],
+				"Ambient3:dddd":	[0, 0, 0, 255],
+				"Ambient4:dddd":	[0, 0, 0, 255],
+				"Ambient5:dddd":	[0, 0, 0, 255],
+				"Ambient6:dddd":	[0, 0, 0, 255],
+				"Ambient7:dddd":	[0, 0, 0, 255]
+			}]
+	}, {
+		"name":	"AIManager",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerCount:d":	124,
+				"ActionCount:d":	210,
+				"LinkCount:d":	116
+			}]
+	}, {
+		"name":	"Trigger0",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType0:d":	12,
+				"TriggerName0:s":	"Web Breaks - Web Trigger 005 - Spider Drop Web Trig 005",
+				"Web0:g":	"CD58800C_540A4801",
+				"StaysTrue0:d":	0,
+				"TriggeredOnTrue0:d":	1
+			}]
+	}, {
+		"name":	"Trigger1",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType1:d":	12,
+				"TriggerName1:s":	"Web Breaks - Web Trigger 004 - Spider Drop Web Trig 004",
+				"Web1:g":	"CD58888C_4E243000",
+				"StaysTrue1:d":	0,
+				"TriggeredOnTrue1:d":	1
+			}]
+	}, {
+		"name":	"Trigger2",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType2:d":	12,
+				"TriggerName2:s":	"Web Breaks - Web Trigger 003 - Spider Drop Web Trig 003",
+				"Web2:g":	"CD58860C_5F41C001",
+				"StaysTrue2:d":	0,
+				"TriggeredOnTrue2:d":	1
+			}]
+	}, {
+		"name":	"Trigger3",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType3:d":	12,
+				"TriggerName3:s":	"Web Breaks - Web Trigger 002 - Spider Drop Web Trig 002",
+				"Web3:g":	"CD58800C_53EE8000",
+				"StaysTrue3:d":	0,
+				"TriggeredOnTrue3:d":	1
+			}]
+	}, {
+		"name":	"Trigger4",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType4:d":	12,
+				"TriggerName4:s":	"Web Breaks - Web Trigger 001 - Spider Drop Web Trig 001",
+				"Web4:g":	"CD58804C_4F9BFC00",
+				"StaysTrue4:d":	0,
+				"TriggeredOnTrue4:d":	1
+			}]
+	}, {
+		"name":	"Trigger5",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType5:d":	12,
+				"TriggerName5:s":	"Web Breaks - Web Barrier 3",
+				"Web5:g":	"CD58818C_498F2401",
+				"StaysTrue5:d":	0,
+				"TriggeredOnTrue5:d":	1
+			}]
+	}, {
+		"name":	"Trigger6",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType6:d":	12,
+				"TriggerName6:s":	"Web Breaks - Web Barrier 2",
+				"Web6:g":	"CD58818C_498DE801",
+				"StaysTrue6:d":	0,
+				"TriggeredOnTrue6:d":	1
+			}]
+	}, {
+		"name":	"Trigger7",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType7:d":	12,
+				"TriggerName7:s":	"Web Breaks - Web Barrier 1",
+				"Web7:g":	"CD58818C_498B8000",
+				"StaysTrue7:d":	0,
+				"TriggeredOnTrue7:d":	1
+			}]
+	}, {
+		"name":	"Trigger8",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType8:d":	12,
+				"TriggerName8:s":	"Web Breaks - Spider Spawn Web Trig 006",
+				"Web8:g":	"CD58814C_6F07DC01",
+				"StaysTrue8:d":	0,
+				"TriggeredOnTrue8:d":	1
+			}]
+	}, {
+		"name":	"Trigger9",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType9:d":	12,
+				"TriggerName9:s":	"Web Breaks - Spider Spawn Web Trig 004",
+				"Web9:g":	"CD58888C_4E243000",
+				"StaysTrue9:d":	0,
+				"TriggeredOnTrue9:d":	1
+			}]
+	}, {
+		"name":	"Trigger10",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType10:d":	12,
+				"TriggerName10:s":	"Web Breaks - CC Barrier Wall 001",
+				"Web10:g":	"CD58818C_498B8000",
+				"StaysTrue10:d":	0,
+				"TriggeredOnTrue10:d":	1
+			}]
+	}, {
+		"name":	"Trigger11",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType11:d":	5,
+				"TriggerName11:s":	"SB_Wrath_AttackChatter_TimedRandom",
+				"CheckTime11:f":	10,
+				"RandomPercent11:d":	50,
+				"StaysTrue11:d":	0,
+				"TriggeredOnTrue11:d":	1
+			}]
+	}, {
+		"name":	"Trigger12",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType12:d":	16,
+				"TriggerName12:s":	"SB_Wrath_AttackChatter_InAttackState",
+				"And12:d":	1,
+				"Count12:d":	1,
+				"Trigger12NPC0:g":	"C0CFAD8F_BAED5400",
+				"Trigger12State0:d":	3,
+				"StaysTrue12:d":	0,
+				"TriggeredOnTrue12:d":	1
+			}]
+	}, {
+		"name":	"Trigger13",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType13:d":	5,
+				"TriggerName13:s":	"SB_Wild_AttackChatter_TimedRandom",
+				"CheckTime13:f":	10,
+				"RandomPercent13:d":	50,
+				"StaysTrue13:d":	0,
+				"TriggeredOnTrue13:d":	1
+			}]
+	}, {
+		"name":	"Trigger14",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType14:d":	16,
+				"TriggerName14:s":	"SB_Wild_AttackChatter_InAttackState",
+				"And14:d":	1,
+				"Count14:d":	1,
+				"Trigger14NPC0:g":	"C0CFAD8F_BAEC4000",
+				"Trigger14State0:d":	3,
+				"StaysTrue14:d":	0,
+				"TriggeredOnTrue14:d":	1
+			}]
+	}, {
+		"name":	"Trigger15",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType15:d":	5,
+				"TriggerName15:s":	"SB_Wicked_AttackChatter_TimedRandom",
+				"CheckTime15:f":	10,
+				"RandomPercent15:d":	50,
+				"StaysTrue15:d":	0,
+				"TriggeredOnTrue15:d":	1
+			}]
+	}, {
+		"name":	"Trigger16",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType16:d":	16,
+				"TriggerName16:s":	"SB_Wicked_AttackChatter_InAttackState",
+				"And16:d":	1,
+				"Count16:d":	1,
+				"Trigger16NPC0:g":	"C0CFAD8F_BAE9B800",
+				"Trigger16State0:d":	3,
+				"StaysTrue16:d":	0,
+				"TriggeredOnTrue16:d":	1
+			}]
+	}, {
+		"name":	"Trigger17",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType17:d":	11,
+				"TriggerName17:s":	"NPC Dies Wolf Spider 014",
+				"NPCCount17:d":	1,
+				"Trigger17NPC0:g":	"CD58888C_4E2DB800",
+				"StaysTrue17:d":	0,
+				"TriggeredOnTrue17:d":	1
+			}]
+	}, {
+		"name":	"Trigger18",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType18:d":	11,
+				"TriggerName18:s":	"NPC Dies Wolf Spider 013",
+				"NPCCount18:d":	1,
+				"Trigger18NPC0:g":	"0D8AD6CC_35507801",
+				"StaysTrue18:d":	0,
+				"TriggeredOnTrue18:d":	1
+			}]
+	}, {
+		"name":	"Trigger19",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType19:d":	11,
+				"TriggerName19:s":	"NPC Dies Wolf Spider 012",
+				"NPCCount19:d":	1,
+				"Trigger19NPC0:g":	"0D8AD6CC_35506801",
+				"StaysTrue19:d":	0,
+				"TriggeredOnTrue19:d":	1
+			}]
+	}, {
+		"name":	"Trigger20",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType20:d":	11,
+				"TriggerName20:s":	"NPC Dies Wolf Spider 011",
+				"NPCCount20:d":	1,
+				"Trigger20NPC0:g":	"0D8AD6CC_35505801",
+				"StaysTrue20:d":	0,
+				"TriggeredOnTrue20:d":	1
+			}]
+	}, {
+		"name":	"Trigger21",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType21:d":	11,
+				"TriggerName21:s":	"NPC Dies Wolf Spider 010",
+				"NPCCount21:d":	1,
+				"Trigger21NPC0:g":	"0D8AD6CC_35504401",
+				"StaysTrue21:d":	0,
+				"TriggeredOnTrue21:d":	1
+			}]
+	}, {
+		"name":	"Trigger22",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType22:d":	11,
+				"TriggerName22:s":	"NPC Dies Wolf Spider 009",
+				"NPCCount22:d":	1,
+				"Trigger22NPC0:g":	"0D8AD98C_3544CC00",
+				"StaysTrue22:d":	0,
+				"TriggeredOnTrue22:d":	1
+			}]
+	}, {
+		"name":	"Trigger23",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType23:d":	11,
+				"TriggerName23:s":	"NPC Dies Wolf Spider 006",
+				"NPCCount23:d":	1,
+				"Trigger23NPC0:g":	"0D8AD80C_3586D000",
+				"StaysTrue23:d":	0,
+				"TriggeredOnTrue23:d":	1
+			}]
+	}, {
+		"name":	"Trigger24",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType24:d":	11,
+				"TriggerName24:s":	"NPC Dies Wolf Spider 005",
+				"NPCCount24:d":	1,
+				"Trigger24NPC0:g":	"0D8AD80C_35AB6001",
+				"StaysTrue24:d":	0,
+				"TriggeredOnTrue24:d":	1
+			}]
+	}, {
+		"name":	"Trigger25",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType25:d":	11,
+				"TriggerName25:s":	"NPC Dies Wolf Spider 003",
+				"NPCCount25:d":	1,
+				"Trigger25NPC0:g":	"0D8AD80C_35AAEC01",
+				"StaysTrue25:d":	0,
+				"TriggeredOnTrue25:d":	1
+			}]
+	}, {
+		"name":	"Trigger26",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType26:d":	11,
+				"TriggerName26:s":	"NPC Dies Wolf Spider 001",
+				"NPCCount26:d":	1,
+				"Trigger26NPC0:g":	"0D8AD80C_3599D000",
+				"StaysTrue26:d":	0,
+				"TriggeredOnTrue26:d":	1
+			}]
+	}, {
+		"name":	"Trigger27",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType27:d":	11,
+				"TriggerName27:s":	"NPC Dies Wight War 010 Trig",
+				"NPCCount27:d":	1,
+				"Trigger27NPC0:g":	"0D8ADFCC_05B1E801",
+				"StaysTrue27:d":	0,
+				"TriggeredOnTrue27:d":	1
+			}]
+	}, {
+		"name":	"Trigger28",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType28:d":	11,
+				"TriggerName28:s":	"NPC Dies Wight War 005 Trig",
+				"NPCCount28:d":	1,
+				"Trigger28NPC0:g":	"0D8ADFCC_05AB4C01",
+				"StaysTrue28:d":	0,
+				"TriggeredOnTrue28:d":	1
+			}]
+	}, {
+		"name":	"Trigger29",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType29:d":	11,
+				"TriggerName29:s":	"NPC Dies Wight War 004 Trig",
+				"NPCCount29:d":	1,
+				"Trigger29NPC0:g":	"0D8ADFCC_05A93C01",
+				"StaysTrue29:d":	0,
+				"TriggeredOnTrue29:d":	1
+			}]
+	}, {
+		"name":	"Trigger30",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType30:d":	11,
+				"TriggerName30:s":	"NPC Dies Wight War 001 Trig",
+				"NPCCount30:d":	1,
+				"Trigger30NPC0:g":	"0D8ADFCC_05A50C00",
+				"StaysTrue30:d":	0,
+				"TriggeredOnTrue30:d":	1
+			}]
+	}, {
+		"name":	"Trigger31",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType31:d":	11,
+				"TriggerName31:s":	"NPC Dies Wight Mage 003 Trig",
+				"NPCCount31:d":	1,
+				"Trigger31NPC0:g":	"0D8ADFCC_05B25801",
+				"StaysTrue31:d":	0,
+				"TriggeredOnTrue31:d":	1
+			}]
+	}, {
+		"name":	"Trigger32",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType32:d":	11,
+				"TriggerName32:s":	"NPC Dies Wight Mage 001 Trig",
+				"NPCCount32:d":	1,
+				"Trigger32NPC0:g":	"0D8ADFCC_05B00C01",
+				"StaysTrue32:d":	0,
+				"TriggeredOnTrue32:d":	1
+			}]
+	}, {
+		"name":	"Trigger33",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType33:d":	11,
+				"TriggerName33:s":	"NPC Dies Wight Boss Trig",
+				"NPCCount33:d":	1,
+				"Trigger33NPC0:g":	"0D8ADFCC_05B32401",
+				"StaysTrue33:d":	0,
+				"TriggeredOnTrue33:d":	1
+			}]
+	}, {
+		"name":	"Trigger34",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType34:d":	11,
+				"TriggerName34:s":	"NPC Dies Spider Boss Wrath",
+				"NPCCount34:d":	1,
+				"Trigger34NPC0:g":	"C0CFAD8F_BAED5400",
+				"StaysTrue34:d":	1,
+				"TriggeredOnTrue34:d":	1
+			}]
+	}, {
+		"name":	"Trigger35",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType35:d":	11,
+				"TriggerName35:s":	"NPC Dies Spider Boss Wild",
+				"NPCCount35:d":	1,
+				"Trigger35NPC0:g":	"C0CFAD8F_BAEC4000",
+				"StaysTrue35:d":	1,
+				"TriggeredOnTrue35:d":	1
+			}]
+	}, {
+		"name":	"Trigger36",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType36:d":	11,
+				"TriggerName36:s":	"NPC Dies Spider Boss Wicked",
+				"NPCCount36:d":	1,
+				"Trigger36NPC0:g":	"C0CFAD8F_BAE9B800",
+				"StaysTrue36:d":	1,
+				"TriggeredOnTrue36:d":	1
+			}]
+	}, {
+		"name":	"Trigger37",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType37:d":	11,
+				"TriggerName37:s":	"NPC Dies Poisonous Spider 025",
+				"NPCCount37:d":	1,
+				"Trigger37NPC0:g":	"CD58888C_4E2BE401",
+				"StaysTrue37:d":	0,
+				"TriggeredOnTrue37:d":	1
+			}]
+	}, {
+		"name":	"Trigger38",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType38:d":	11,
+				"TriggerName38:s":	"NPC Dies Poisonous Spider 023",
+				"NPCCount38:d":	1,
+				"Trigger38NPC0:g":	"CD58888C_4E2AF801",
+				"StaysTrue38:d":	0,
+				"TriggeredOnTrue38:d":	1
+			}]
+	}, {
+		"name":	"Trigger39",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType39:d":	11,
+				"TriggerName39:s":	"NPC Dies Poisonous Spider 021",
+				"NPCCount39:d":	1,
+				"Trigger39NPC0:g":	"0D8AD80C_35AC0401",
+				"StaysTrue39:d":	0,
+				"TriggeredOnTrue39:d":	1
+			}]
+	}, {
+		"name":	"Trigger40",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType40:d":	11,
+				"TriggerName40:s":	"NPC Dies Poisonous Spider 020",
+				"NPCCount40:d":	1,
+				"Trigger40NPC0:g":	"0D8AD80C_35AB9001",
+				"StaysTrue40:d":	0,
+				"TriggeredOnTrue40:d":	1
+			}]
+	}, {
+		"name":	"Trigger41",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType41:d":	11,
+				"TriggerName41:s":	"NPC Dies Poisonous Spider 019",
+				"NPCCount41:d":	1,
+				"Trigger41NPC0:g":	"0D8AD98C_35444801",
+				"StaysTrue41:d":	0,
+				"TriggeredOnTrue41:d":	1
+			}]
+	}, {
+		"name":	"Trigger42",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType42:d":	11,
+				"TriggerName42:s":	"NPC Dies Poisonous Spider 018",
+				"NPCCount42:d":	1,
+				"Trigger42NPC0:g":	"0D8AD98C_35443400",
+				"StaysTrue42:d":	0,
+				"TriggeredOnTrue42:d":	1
+			}]
+	}, {
+		"name":	"Trigger43",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType43:d":	11,
+				"TriggerName43:s":	"NPC Dies Poisonous Spider 017",
+				"NPCCount43:d":	1,
+				"Trigger43NPC0:g":	"0D8AD98C_3542F800",
+				"StaysTrue43:d":	0,
+				"TriggeredOnTrue43:d":	1
+			}]
+	}, {
+		"name":	"Trigger44",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType44:d":	11,
+				"TriggerName44:s":	"NPC Dies Poisonous Spider 015",
+				"NPCCount44:d":	1,
+				"Trigger44NPC0:g":	"0D8AD80C_35703801",
+				"StaysTrue44:d":	0,
+				"TriggeredOnTrue44:d":	1
+			}]
+	}, {
+		"name":	"Trigger45",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType45:d":	11,
+				"TriggerName45:s":	"NPC Dies Poisonous Spider 014",
+				"NPCCount45:d":	1,
+				"Trigger45NPC0:g":	"0D8AD80C_35702802",
+				"StaysTrue45:d":	0,
+				"TriggeredOnTrue45:d":	1
+			}]
+	}, {
+		"name":	"Trigger46",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType46:d":	11,
+				"TriggerName46:s":	"NPC Dies Poisonous Spider 013",
+				"NPCCount46:d":	1,
+				"Trigger46NPC0:g":	"0D8AD80C_35701801",
+				"StaysTrue46:d":	0,
+				"TriggeredOnTrue46:d":	1
+			}]
+	}, {
+		"name":	"Trigger47",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType47:d":	11,
+				"TriggerName47:s":	"NPC Dies Poisonous Spider 012",
+				"NPCCount47:d":	1,
+				"Trigger47NPC0:g":	"0D8AD80C_35700801",
+				"StaysTrue47:d":	0,
+				"TriggeredOnTrue47:d":	1
+			}]
+	}, {
+		"name":	"Trigger48",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType48:d":	11,
+				"TriggerName48:s":	"NPC Dies Poisonous Spider 011",
+				"NPCCount48:d":	1,
+				"Trigger48NPC0:g":	"0D8AD80C_356FF801",
+				"StaysTrue48:d":	0,
+				"TriggeredOnTrue48:d":	1
+			}]
+	}, {
+		"name":	"Trigger49",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType49:d":	11,
+				"TriggerName49:s":	"NPC Dies Poisonous Spider 010",
+				"NPCCount49:d":	1,
+				"Trigger49NPC0:g":	"0D8AD80C_356FE401",
+				"StaysTrue49:d":	0,
+				"TriggeredOnTrue49:d":	1
+			}]
+	}, {
+		"name":	"Trigger50",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType50:d":	11,
+				"TriggerName50:s":	"NPC Dies Poisonous Spider 009",
+				"NPCCount50:d":	1,
+				"Trigger50NPC0:g":	"0D8AD80C_356E7400",
+				"StaysTrue50:d":	0,
+				"TriggeredOnTrue50:d":	1
+			}]
+	}, {
+		"name":	"Trigger51",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType51:d":	11,
+				"TriggerName51:s":	"NPC Dies Poisonous Spider 001",
+				"NPCCount51:d":	1,
+				"Trigger51NPC0:g":	"0D8AD80C_3587A801",
+				"StaysTrue51:d":	0,
+				"TriggeredOnTrue51:d":	1
+			}]
+	}, {
+		"name":	"Trigger52",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType52:d":	11,
+				"TriggerName52:s":	"NPC Dies Chitinous Spider 002",
+				"NPCCount52:d":	1,
+				"Trigger52NPC0:g":	"0D8AD98C_35446001",
+				"StaysTrue52:d":	0,
+				"TriggeredOnTrue52:d":	1
+			}]
+	}, {
+		"name":	"Trigger53",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType53:d":	11,
+				"TriggerName53:s":	"NPC Dies - Wight War 003 - Dead Branch Trig ",
+				"NPCCount53:d":	1,
+				"Trigger53NPC0:g":	"0D8ADFCC_05A5EC01",
+				"StaysTrue53:d":	1,
+				"TriggeredOnTrue53:d":	1
+			}]
+	}, {
+		"name":	"Trigger54",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType54:d":	11,
+				"TriggerName54:s":	"NPC Dies - Wight War 002 - Dead Branch Trig ",
+				"NPCCount54:d":	1,
+				"Trigger54NPC0:g":	"0D8ADFCC_05A5C401",
+				"StaysTrue54:d":	1,
+				"TriggeredOnTrue54:d":	1
+			}]
+	}, {
+		"name":	"Trigger55",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType55:d":	32,
+				"TriggerName55:s":	"Jumps on Vine - Web Rope ZipB",
+				"Vine55:g":	"CD588A92_0D956400",
+				"StaysTrue55:d":	0,
+				"TriggeredOnTrue55:d":	1
+			}]
+	}, {
+		"name":	"Trigger56",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType56:d":	32,
+				"TriggerName56:s":	"Jumps on Vine - Web Rope ZipA",
+				"Vine56:g":	"CD588A92_0D943000",
+				"StaysTrue56:d":	0,
+				"TriggeredOnTrue56:d":	1
+			}]
+	}, {
+		"name":	"Trigger57",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType57:d":	32,
+				"TriggerName57:s":	"Jumps on Vine - Rope 002",
+				"Vine57:g":	"CD5883CC_34D49401",
+				"StaysTrue57:d":	0,
+				"TriggeredOnTrue57:d":	1
+			}]
+	}, {
+		"name":	"Trigger58",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType58:d":	9,
+				"TriggerName58:s":	"Has Item - Yellow Urn",
+				"Item58:s":	"Yellow Urn",
+				"Amount58:d":	1,
+				"StaysTrue58:d":	0,
+				"TriggeredOnTrue58:d":	1
+			}]
+	}, {
+		"name":	"Trigger59",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType59:d":	9,
+				"TriggerName59:s":	"Has Item - Training Scroll Sword Swing 3 Trig",
+				"Item59:s":	"Bilbo_Sting_Swing3",
+				"Amount59:d":	1,
+				"StaysTrue59:d":	0,
+				"TriggeredOnTrue59:d":	1
+			}]
+	}, {
+		"name":	"Trigger60",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType60:d":	9,
+				"TriggerName60:s":	"Has Item - Training Scroll Sword Jump 2 Trig",
+				"Item60:s":	"Bilbo_Sting_Jump2",
+				"Amount60:d":	1,
+				"StaysTrue60:d":	0,
+				"TriggeredOnTrue60:d":	1
+			}]
+	}, {
+		"name":	"Trigger61",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType61:d":	9,
+				"TriggerName61:s":	"Has Item - Training Scroll Stick Jump 2 Trig",
+				"Item61:s":	"Bilbo_Staff_Jump2",
+				"Amount61:d":	1,
+				"StaysTrue61:d":	0,
+				"TriggeredOnTrue61:d":	1
+			}]
+	}, {
+		"name":	"Trigger62",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType62:d":	9,
+				"TriggerName62:s":	"Has Item - Signet Ring Trig",
+				"Item62:s":	"SignetRing",
+				"Amount62:d":	1,
+				"StaysTrue62:d":	0,
+				"TriggeredOnTrue62:d":	1
+			}]
+	}, {
+		"name":	"Trigger63",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType63:d":	9,
+				"TriggerName63:s":	"Has Item - Red Urn",
+				"Item63:s":	"Red Urn",
+				"Amount63:d":	1,
+				"StaysTrue63:d":	0,
+				"TriggeredOnTrue63:d":	1
+			}]
+	}, {
+		"name":	"Trigger64",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType64:d":	9,
+				"TriggerName64:s":	"Has Item - Lamp Oil Trig",
+				"Item64:s":	"OilCan",
+				"Amount64:d":	1,
+				"StaysTrue64:d":	0,
+				"TriggeredOnTrue64:d":	1
+			}]
+	}, {
+		"name":	"Trigger65",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType65:d":	9,
+				"TriggerName65:s":	"Has Item - Blue Urn",
+				"Item65:s":	"Blue Urn",
+				"Amount65:d":	1,
+				"StaysTrue65:d":	0,
+				"TriggeredOnTrue65:d":	1
+			}]
+	}, {
+		"name":	"Trigger66",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType66:d":	3,
+				"TriggerName66:s":	"Frog Jump 001 Trig",
+				"Volume66:g":	"CD5886D1_568B6400",
+				"Character66:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce66:d":	0,
+				"AllNPCs66:d":	0,
+				"StaysTrue66:d":	0,
+				"TriggeredOnTrue66:d":	1
+			}]
+	}, {
+		"name":	"Trigger67",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType67:d":	3,
+				"TriggerName67:s":	"Enters Volume - Wight Spawn TrigVol 003",
+				"Volume67:g":	"0D8AD88C_05DEC401",
+				"Character67:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce67:d":	0,
+				"AllNPCs67:d":	0,
+				"StaysTrue67:d":	0,
+				"TriggeredOnTrue67:d":	1
+			}]
+	}, {
+		"name":	"Trigger68",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType68:d":	3,
+				"TriggerName68:s":	"Enters Volume - Wight Spawn TrigVol 002",
+				"Volume68:g":	"0D8AD88C_05C7E000",
+				"Character68:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce68:d":	0,
+				"AllNPCs68:d":	0,
+				"StaysTrue68:d":	0,
+				"TriggeredOnTrue68:d":	1
+			}]
+	}, {
+		"name":	"Trigger69",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType69:d":	3,
+				"TriggerName69:s":	"Enters Volume - Wight Spawn TrigVol 001",
+				"Volume69:g":	"0D8ADFCC_05BC0400",
+				"Character69:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce69:d":	0,
+				"AllNPCs69:d":	0,
+				"StaysTrue69:d":	0,
+				"TriggeredOnTrue69:d":	1
+			}]
+	}, {
+		"name":	"Trigger70",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType70:d":	3,
+				"TriggerName70:s":	"Enters Volume - Wight Boss 001 Spawn Trig",
+				"Volume70:g":	"0D8AD88C_05E8B801",
+				"Character70:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce70:d":	0,
+				"AllNPCs70:d":	0,
+				"StaysTrue70:d":	0,
+				"TriggeredOnTrue70:d":	1
+			}]
+	}, {
+		"name":	"Trigger71",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType71:d":	3,
+				"TriggerName71:s":	"Enters Volume - Spider Spawn TrigVol 004",
+				"Volume71:g":	"CD588A4F_95F4D401",
+				"Character71:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce71:d":	0,
+				"AllNPCs71:d":	0,
+				"StaysTrue71:d":	0,
+				"TriggeredOnTrue71:d":	1
+			}]
+	}, {
+		"name":	"Trigger72",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType72:d":	3,
+				"TriggerName72:s":	"Enters Volume - Spider Spawn TrigVol 003",
+				"Volume72:g":	"0D8AD80C_3589A800",
+				"Character72:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce72:d":	0,
+				"AllNPCs72:d":	0,
+				"StaysTrue72:d":	0,
+				"TriggeredOnTrue72:d":	1
+			}]
+	}, {
+		"name":	"Trigger73",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType73:d":	3,
+				"TriggerName73:s":	"Enters Volume - Spider Spawn TrigVol 002",
+				"Volume73:g":	"0D8AD30C_4443A400",
+				"Character73:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce73:d":	0,
+				"AllNPCs73:d":	0,
+				"StaysTrue73:d":	0,
+				"TriggeredOnTrue73:d":	1
+			}]
+	}, {
+		"name":	"Trigger74",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType74:d":	3,
+				"TriggerName74:s":	"Enters Volume - Spider Spawn TrigVol 001",
+				"Volume74:g":	"CD588A8C_3A955401",
+				"Character74:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce74:d":	0,
+				"AllNPCs74:d":	0,
+				"StaysTrue74:d":	0,
+				"TriggeredOnTrue74:d":	1
+			}]
+	}, {
+		"name":	"Trigger75",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType75:d":	3,
+				"TriggerName75:s":	"Enters Volume - Spider Spawn Cave TrigVol 005",
+				"Volume75:g":	"CD588F90_F67DC801",
+				"Character75:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce75:d":	1,
+				"AllNPCs75:d":	0,
+				"StaysTrue75:d":	0,
+				"TriggeredOnTrue75:d":	1
+			}]
+	}, {
+		"name":	"Trigger76",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType76:d":	3,
+				"TriggerName76:s":	"Enters Volume - SB Tunnel Dialogue Vol",
+				"Volume76:g":	"CD5888CF_F4238800",
+				"Character76:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce76:d":	1,
+				"AllNPCs76:d":	0,
+				"StaysTrue76:d":	0,
+				"TriggeredOnTrue76:d":	1
+			}]
+	}, {
+		"name":	"Trigger77",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType77:d":	3,
+				"TriggerName77:s":	"Enters Volume - Ring Tutorial Volume 001",
+				"Volume77:g":	"CD588691_11C99400",
+				"Character77:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce77:d":	1,
+				"AllNPCs77:d":	0,
+				"StaysTrue77:d":	0,
+				"TriggeredOnTrue77:d":	1
+			}]
+	}, {
+		"name":	"Trigger78",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType78:d":	3,
+				"TriggerName78:s":	"Enters Volume - Pit Trigger Volume",
+				"Volume78:g":	"CD588450_1F4CCC00",
+				"Character78:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce78:d":	0,
+				"AllNPCs78:d":	0,
+				"StaysTrue78:d":	0,
+				"TriggeredOnTrue78:d":	1
+			}]
+	}, {
+		"name":	"Trigger79",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType79:d":	3,
+				"TriggerName79:s":	"Enters Volume - Dwarf Clothing - Thorin Belt Trig",
+				"Volume79:g":	"CD5887D1_E3A66801",
+				"Character79:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce79:d":	1,
+				"AllNPCs79:d":	0,
+				"StaysTrue79:d":	0,
+				"TriggeredOnTrue79:d":	1
+			}]
+	}, {
+		"name":	"Trigger80",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType80:d":	3,
+				"TriggerName80:s":	"Enters Volume - Dwarf Clothing - Ori Boot Trig",
+				"Volume80:g":	"CD5887D1_E3A58001",
+				"Character80:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce80:d":	1,
+				"AllNPCs80:d":	0,
+				"StaysTrue80:d":	0,
+				"TriggeredOnTrue80:d":	1
+			}]
+	}, {
+		"name":	"Trigger81",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType81:d":	3,
+				"TriggerName81:s":	"Enters Volume - Dwarf Clothing - Nori Cloak Trig",
+				"Volume81:g":	"CD5887D1_E3A43801",
+				"Character81:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce81:d":	1,
+				"AllNPCs81:d":	0,
+				"StaysTrue81:d":	0,
+				"TriggeredOnTrue81:d":	1
+			}]
+	}, {
+		"name":	"Trigger82",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType82:d":	3,
+				"TriggerName82:s":	"Enters Volume - Dwarf Clothing - Dori Helmet Trig",
+				"Volume82:g":	"CD5887D1_E3A15000",
+				"Character82:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce82:d":	1,
+				"AllNPCs82:d":	0,
+				"StaysTrue82:d":	0,
+				"TriggeredOnTrue82:d":	1
+			}]
+	}, {
+		"name":	"Trigger83",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType83:d":	3,
+				"TriggerName83:s":	"Enters Volume - Dead Branch Cinema Trig",
+				"Volume83:g":	"CD588210_3AC70400",
+				"Character83:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce83:d":	1,
+				"AllNPCs83:d":	0,
+				"StaysTrue83:d":	0,
+				"TriggeredOnTrue83:d":	1
+			}]
+	}, {
+		"name":	"Trigger84",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType84:d":	3,
+				"TriggerName84:s":	"Enters Volume - Cine07 Wild Attacks TrigVol",
+				"Volume84:g":	"C0CFA1D0_3B262C01",
+				"Character84:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce84:d":	0,
+				"AllNPCs84:d":	0,
+				"StaysTrue84:d":	0,
+				"TriggeredOnTrue84:d":	1
+			}]
+	}, {
+		"name":	"Trigger85",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType85:d":	3,
+				"TriggerName85:s":	"Enters Volume - Bilbo VO Startgin Dialogue Trig",
+				"Volume85:g":	"CD58884C_4A57D800",
+				"Character85:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce85:d":	0,
+				"AllNPCs85:d":	0,
+				"StaysTrue85:d":	0,
+				"TriggeredOnTrue85:d":	1
+			}]
+	}, {
+		"name":	"Trigger86",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType86:d":	3,
+				"TriggerName86:s":	"Enters Volume - Bilbo VO North Camp Trig",
+				"Volume86:g":	"CD588351_07EBA001",
+				"Character86:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce86:d":	1,
+				"AllNPCs86:d":	0,
+				"StaysTrue86:d":	0,
+				"TriggeredOnTrue86:d":	1
+			}]
+	}, {
+		"name":	"Trigger87",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType87:d":	3,
+				"TriggerName87:s":	"Enters Volume - Bilbo VO Needle Pod Grove Trig",
+				"Volume87:g":	"CD588B10_C7006000",
+				"Character87:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce87:d":	1,
+				"AllNPCs87:d":	0,
+				"StaysTrue87:d":	0,
+				"TriggeredOnTrue87:d":	1
+			}]
+	}, {
+		"name":	"Trigger88",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType88:d":	3,
+				"TriggerName88:s":	"Enters Volume - Bilbo VO Mushroom Puzzle Trig",
+				"Volume88:g":	"CD588351_07E7B001",
+				"Character88:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce88:d":	1,
+				"AllNPCs88:d":	0,
+				"StaysTrue88:d":	0,
+				"TriggeredOnTrue88:d":	1
+			}]
+	}, {
+		"name":	"Trigger89",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType89:d":	3,
+				"TriggerName89:s":	"Enters Volume - Bilbo VO Mud Pit Trig",
+				"Volume89:g":	"CD58884C_4A89A800",
+				"Character89:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce89:d":	1,
+				"AllNPCs89:d":	0,
+				"StaysTrue89:d":	0,
+				"TriggeredOnTrue89:d":	1
+			}]
+	}, {
+		"name":	"Trigger90",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType90:d":	3,
+				"TriggerName90:s":	"Enters Volume - Bilbo VO Gate Trig",
+				"Volume90:g":	"CD58884C_4AA1D801",
+				"Character90:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce90:d":	0,
+				"AllNPCs90:d":	0,
+				"StaysTrue90:d":	0,
+				"TriggeredOnTrue90:d":	1
+			}]
+	}, {
+		"name":	"Trigger91",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType91:d":	3,
+				"TriggerName91:s":	"Enters Volume - Bilbo VO Crypt Trig",
+				"Volume91:g":	"CD58884C_4A84A800",
+				"Character91:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce91:d":	0,
+				"AllNPCs91:d":	0,
+				"StaysTrue91:d":	0,
+				"TriggeredOnTrue91:d":	1
+			}]
+	}, {
+		"name":	"Trigger92",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType92:d":	3,
+				"TriggerName92:s":	"Enters Volume - Bilbo VO Corwin's Camp Trig",
+				"Volume92:g":	"CD588B10_C7328C01",
+				"Character92:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce92:d":	1,
+				"AllNPCs92:d":	0,
+				"StaysTrue92:d":	0,
+				"TriggeredOnTrue92:d":	1
+			}]
+	}, {
+		"name":	"Trigger93",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType93:d":	0,
+				"TriggerName93:s":	"Enter Trigger's Name"
+			}]
+	}, {
+		"name":	"Trigger94",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType94:d":	3,
+				"TriggerName94:s":	"Cinema Test 002 Trig",
+				"Volume94:g":	"CD588991_4140BC01",
+				"Character94:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce94:d":	0,
+				"AllNPCs94:d":	0,
+				"StaysTrue94:d":	0,
+				"TriggeredOnTrue94:d":	1
+			}]
+	}, {
+		"name":	"Trigger95",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType95:d":	3,
+				"TriggerName95:s":	"Cinema Test 001 Trig",
+				"Volume95:g":	"CD588811_41070400",
+				"Character95:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce95:d":	1,
+				"AllNPCs95:d":	0,
+				"StaysTrue95:d":	0,
+				"TriggeredOnTrue95:d":	1
+			}]
+	}, {
+		"name":	"Trigger96",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType96:d":	21,
+				"TriggerName96:s":	"Cinema Starts - Cine10 Bilbo Escapes SB",
+				"Cinema96:g":	"CD588811_40F47000",
+				"StaysTrue96:d":	0,
+				"TriggeredOnTrue96:d":	1
+			}]
+	}, {
+		"name":	"Trigger97",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType97:d":	21,
+				"TriggerName97:s":	"Cinema Starts - Cine07 Spider Intro - Wild Attacks",
+				"Cinema97:g":	"CD588211_3CB5C400",
+				"StaysTrue97:d":	0,
+				"TriggeredOnTrue97:d":	1
+			}]
+	}, {
+		"name":	"Trigger98",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType98:d":	21,
+				"TriggerName98:s":	"Cinema Starts - Cine06 Dwarf Escape Group 3 Trig",
+				"Cinema98:g":	"CD588A11_C511B000",
+				"StaysTrue98:d":	0,
+				"TriggeredOnTrue98:d":	1
+			}]
+	}, {
+		"name":	"Trigger99",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType99:d":	21,
+				"TriggerName99:s":	"Cinema Starts - Cine05 Dwarf Escape Group 2 Trig",
+				"Cinema99:g":	"CD588A11_C5118C00",
+				"StaysTrue99:d":	0,
+				"TriggeredOnTrue99:d":	1
+			}]
+	}, {
+		"name":	"Trigger100",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType100:d":	21,
+				"TriggerName100:s":	"Cinema Starts - Cine04 Dwarf Escape Group 1 Trig",
+				"Cinema100:g":	"CD588A11_C5113400",
+				"StaysTrue100:d":	0,
+				"TriggeredOnTrue100:d":	1
+			}]
+	}, {
+		"name":	"Trigger101",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType101:d":	3,
+				"TriggerName101:s":	"Cinema Starts - Cine03 Arena Intro Trig",
+				"Volume101:g":	"C0CFAB4F_E57AE400",
+				"Character101:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce101:d":	1,
+				"AllNPCs101:d":	0,
+				"StaysTrue101:d":	1,
+				"TriggeredOnTrue101:d":	1
+			}]
+	}, {
+		"name":	"Trigger102",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType102:d":	3,
+				"TriggerName102:s":	"Cinema Starts - Cine01 Corwin Intro Trig",
+				"Volume102:g":	"C0CFAA90_CC4E7800",
+				"Character102:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce102:d":	0,
+				"AllNPCs102:d":	0,
+				"StaysTrue102:d":	0,
+				"TriggeredOnTrue102:d":	1
+			}]
+	}, {
+		"name":	"Trigger103",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType103:d":	19,
+				"TriggerName103:s":	"Cinema Ends - Conv Corwin - Ring",
+				"Cinema103:g":	"CD588CD0_34C69C00",
+				"TriggerOnce103:d":	0,
+				"StaysTrue103:d":	0,
+				"TriggeredOnTrue103:d":	1
+			}]
+	}, {
+		"name":	"Trigger104",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType104:d":	19,
+				"TriggerName104:s":	"Cinema Ends - Cine11 Wight Boss Cinema",
+				"Cinema104:g":	"CD588210_C7C54C00",
+				"TriggerOnce104:d":	0,
+				"StaysTrue104:d":	0,
+				"TriggeredOnTrue104:d":	1
+			}]
+	}, {
+		"name":	"Trigger105",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType105:d":	19,
+				"TriggerName105:s":	"Cinema Ends - Cine10 Bilbo Escapes",
+				"Cinema105:g":	"CD588811_40F47000",
+				"TriggerOnce105:d":	0,
+				"StaysTrue105:d":	0,
+				"TriggeredOnTrue105:d":	1
+			}]
+	}, {
+		"name":	"Trigger106",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType106:d":	19,
+				"TriggerName106:s":	"Cinema Ends - Cine09 Wicked Attacks Trig",
+				"Cinema106:g":	"CD5884D1_C5FA6C00",
+				"TriggerOnce106:d":	0,
+				"StaysTrue106:d":	0,
+				"TriggeredOnTrue106:d":	1
+			}]
+	}, {
+		"name":	"Trigger107",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType107:d":	19,
+				"TriggerName107:s":	"Cinema Ends - Cine08 Wrath Attacks Trig",
+				"Cinema107:g":	"CD5884D1_C5F84800",
+				"TriggerOnce107:d":	0,
+				"StaysTrue107:d":	0,
+				"TriggeredOnTrue107:d":	1
+			}]
+	}, {
+		"name":	"Trigger108",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType108:d":	19,
+				"TriggerName108:s":	"Cinema Ends - Cine07 Wild Attacks Trig",
+				"Cinema108:g":	"CD588211_3CB5C400",
+				"TriggerOnce108:d":	0,
+				"StaysTrue108:d":	0,
+				"TriggeredOnTrue108:d":	1
+			}]
+	}, {
+		"name":	"Trigger109",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType109:d":	19,
+				"TriggerName109:s":	"Cinema Ends - Cine06 Dwarf Escape Group 3 Trig",
+				"Cinema109:g":	"CD588A11_C511B000",
+				"TriggerOnce109:d":	0,
+				"StaysTrue109:d":	0,
+				"TriggeredOnTrue109:d":	1
+			}]
+	}, {
+		"name":	"Trigger110",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType110:d":	19,
+				"TriggerName110:s":	"Cinema Ends - Cine05 Dwarf Escape Group 2 Trig",
+				"Cinema110:g":	"CD588A11_C5118C00",
+				"TriggerOnce110:d":	0,
+				"StaysTrue110:d":	0,
+				"TriggeredOnTrue110:d":	1
+			}]
+	}, {
+		"name":	"Trigger111",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType111:d":	19,
+				"TriggerName111:s":	"Cinema Ends - Cine04 Dwarf Escape Group 1 Trig",
+				"Cinema111:g":	"CD588A11_C5113400",
+				"TriggerOnce111:d":	0,
+				"StaysTrue111:d":	1,
+				"TriggeredOnTrue111:d":	1
+			}]
+	}, {
+		"name":	"Trigger112",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType112:d":	19,
+				"TriggerName112:s":	"Cinema Ends - Cine03 Spider Arena Intro",
+				"Cinema112:g":	"C0CFA28F_C5E41800",
+				"TriggerOnce112:d":	0,
+				"StaysTrue112:d":	1,
+				"TriggeredOnTrue112:d":	1
+			}]
+	}, {
+		"name":	"Trigger113",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType113:d":	19,
+				"TriggerName113:s":	"Cinema Ends - Cine02 Web Burned Trig",
+				"Cinema113:g":	"CD5884D1_C4E41400",
+				"TriggerOnce113:d":	0,
+				"StaysTrue113:d":	0,
+				"TriggeredOnTrue113:d":	1
+			}]
+	}, {
+		"name":	"Trigger114",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType114:d":	19,
+				"TriggerName114:s":	"Cinema Ends - Cine01 Corwin Intro Trig",
+				"Cinema114:g":	"CD5884D1_C4C48400",
+				"TriggerOnce114:d":	0,
+				"StaysTrue114:d":	0,
+				"TriggeredOnTrue114:d":	1
+			}]
+	}, {
+		"name":	"Trigger115",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType115:d":	19,
+				"TriggerName115:s":	"Cinema Ends - Cine00 Mirkwood Intro",
+				"Cinema115:g":	"CD588E51_40255800",
+				"TriggerOnce115:d":	0,
+				"StaysTrue115:d":	0,
+				"TriggeredOnTrue115:d":	1
+			}]
+	}, {
+		"name":	"Trigger116",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType116:d":	5,
+				"TriggerName116:s":	"Ambient Audio - Level Start",
+				"CheckTime116:f":	0,
+				"RandomPercent116:d":	100,
+				"StaysTrue116:d":	0,
+				"TriggeredOnTrue116:d":	1
+			}]
+	}, {
+		"name":	"Trigger117",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType117:d":	30,
+				"TriggerName117:s":	"Rigid Anim Finishes - Destructible Stump 006 - H",
+				"RigidInstance117:g":	"CD588C91_17C1DC01",
+				"Animation117:d":	0,
+				"StaysTrue117:d":	0,
+				"TriggeredOnTrue117:d":	1
+			}]
+	}, {
+		"name":	"Trigger118",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType118:d":	31,
+				"TriggerName118:s":	"Picks up Item - Training Scroll - Stick Jump 2 - 001",
+				"Item118:g":	"CD588451_0C6AF400",
+				"StaysTrue118:d":	0,
+				"TriggeredOnTrue118:d":	1
+			}]
+	}, {
+		"name":	"Trigger119",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType119:d":	31,
+				"TriggerName119:s":	"Picks up Item - Training Scroll - Sting Jump 2 - 002",
+				"Item119:g":	"CD588451_0C84E800",
+				"StaysTrue119:d":	0,
+				"TriggeredOnTrue119:d":	1
+			}]
+	}, {
+		"name":	"Trigger120",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType120:d":	31,
+				"TriggerName120:s":	"Picks up Item - Training Scroll - Sting Jump 2 - Alt 003",
+				"Item120:g":	"CD588451_0C9EEC01",
+				"StaysTrue120:d":	0,
+				"TriggeredOnTrue120:d":	1
+			}]
+	}, {
+		"name":	"Trigger121",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType121:d":	34,
+				"TriggerName121:s":	"Rigid Anim Playing - FALSE - AA Zipline A",
+				"RigidInstance121:g":	"CD5883D1_F3BB6400",
+				"Animation121:d":	0,
+				"StaysTrue121:d":	0,
+				"TriggeredOnTrue121:d":	0
+			}]
+	}, {
+		"name":	"Trigger122",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType122:d":	34,
+				"TriggerName122:s":	"Rigid Anim Playing - FALSE - AA Zipline B",
+				"RigidInstance122:g":	"CD5883D1_F3BC6800",
+				"Animation122:d":	0,
+				"StaysTrue122:d":	0,
+				"TriggeredOnTrue122:d":	0
+			}]
+	}, {
+		"name":	"Trigger123",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType123:d":	21,
+				"TriggerName123:s":	"Cinema Starts - Cine11 Wight Boss Cinema",
+				"Cinema123:g":	"CD588210_C7C54C00",
+				"StaysTrue123:d":	0,
+				"TriggeredOnTrue123:d":	1
+			}]
+	}, {
+		"name":	"Action0",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType0:d":	49,
+				"ActionName0:s":	"Unhide - Corwin's Sword Act",
+				"Action0ExecuteDelay:f":	0,
+				"Action0ExecuteImmediately:d":	0,
+				"Action0RigidInstance:g":	"C0CFACD0_E3524800",
+				"Action0Hidden:d":	0
+			}]
+	}, {
+		"name":	"Action1",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType1:d":	49,
+				"ActionName1:s":	"Unhide - Cocoon Broken 003",
+				"Action1ExecuteDelay:f":	0,
+				"Action1ExecuteImmediately:d":	0,
+				"Action1RigidInstance:g":	"C0CFAED0_28192801",
+				"Action1Hidden:d":	0
+			}]
+	}, {
+		"name":	"Action2",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType2:d":	49,
+				"ActionName2:s":	"Unhide - Cocoon Broken 002",
+				"Action2ExecuteDelay:f":	0,
+				"Action2ExecuteImmediately:d":	0,
+				"Action2RigidInstance:g":	"C0CFAED0_28183C01",
+				"Action2Hidden:d":	0
+			}]
+	}, {
+		"name":	"Action3",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType3:d":	49,
+				"ActionName3:s":	"Unhide - Cocoon Broken 001",
+				"Action3ExecuteDelay:f":	0,
+				"Action3ExecuteImmediately:d":	0,
+				"Action3RigidInstance:g":	"C0CFAED0_2812FC00",
+				"Action3Hidden:d":	0
+			}]
+	}, {
+		"name":	"Action4",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType4:d":	33,
+				"ActionName4:s":	"Start Rigid Anim - Frog Jump 002 Act",
+				"Action4ExecuteDelay:f":	0.25,
+				"Action4ExecuteImmediately:d":	0,
+				"Action4InstanceCount:d":	1,
+				"Action4RigidInstance0:g":	"CD588B91_56B4E000",
+				"Action4AnimIndex:d":	0,
+				"Action4Loops:d":	0
+			}]
+	}, {
+		"name":	"Action5",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType5:d":	33,
+				"ActionName5:s":	"Start Rigid Anim - Frog Jump 001 Act",
+				"Action5ExecuteDelay:f":	0,
+				"Action5ExecuteImmediately:d":	0,
+				"Action5InstanceCount:d":	1,
+				"Action5RigidInstance0:g":	"CD5886D1_56898400",
+				"Action5AnimIndex:d":	0,
+				"Action5Loops:d":	0
+			}]
+	}, {
+		"name":	"Action6",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType6:d":	33,
+				"ActionName6:s":	"Start Rigid Anim - AA Zipline B",
+				"Action6ExecuteDelay:f":	0,
+				"Action6ExecuteImmediately:d":	0,
+				"Action6InstanceCount:d":	1,
+				"Action6RigidInstance0:g":	"CD5883D1_F3BC6800",
+				"Action6AnimIndex:d":	0,
+				"Action6Loops:d":	0
+			}]
+	}, {
+		"name":	"Action7",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType7:d":	33,
+				"ActionName7:s":	"Start Rigid Anim - AA Zipline A",
+				"Action7ExecuteDelay:f":	0,
+				"Action7ExecuteImmediately:d":	0,
+				"Action7InstanceCount:d":	1,
+				"Action7RigidInstance0:g":	"CD5883D1_F3BB6400",
+				"Action7AnimIndex:d":	0,
+				"Action7Loops:d":	0
+			}]
+	}, {
+		"name":	"Action8",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType8:d":	11,
+				"ActionName8:s":	"Spawn Wolf Spider 014 - Spider Spawn Loc 012",
+				"Action8ExecuteDelay:f":	0,
+				"Action8ExecuteImmediately:d":	0,
+				"Action8SpawnCount:d":	1,
+				"Action8NPCGuid0:g":	"CD58888C_4E2DB800",
+				"Action8LocationGuid0:g":	"CD58828D_75AE1801",
+				"Action8FacingGuid0:g":	"CD58828D_75AE8C01",
+				"Action8Animation0:s":	"Select Animation"
+			}]
+	}, {
+		"name":	"Action9",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType9:d":	11,
+				"ActionName9:s":	"Spawn Wolf Spider 013 - Spider Spawn Loc 008",
+				"Action9ExecuteDelay:f":	0,
+				"Action9ExecuteImmediately:d":	0,
+				"Action9SpawnCount:d":	1,
+				"Action9NPCGuid0:g":	"0D8AD6CC_35507801",
+				"Action9LocationGuid0:g":	"0D8AD98C_3535F001",
+				"Action9FacingGuid0:g":	"0D8AD98C_35392401",
+				"Action9Animation0:s":	"Select Animation"
+			}]
+	}, {
+		"name":	"Action10",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType10:d":	11,
+				"ActionName10:s":	"Spawn Wolf Spider 012 - Spider Spawn Loc 009",
+				"Action10ExecuteDelay:f":	0,
+				"Action10ExecuteImmediately:d":	0,
+				"Action10SpawnCount:d":	1,
+				"Action10NPCGuid0:g":	"0D8AD6CC_35506801",
+				"Action10LocationGuid0:g":	"0D8AD98C_35363001",
+				"Action10FacingGuid0:g":	"0D8AD98C_35395801",
+				"Action10Animation0:s":	"Select Animation"
+			}]
+	}, {
+		"name":	"Action11",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType11:d":	11,
+				"ActionName11:s":	"Spawn Wolf Spider 011 - Spider Spawn Loc 009",
+				"Action11ExecuteDelay:f":	0,
+				"Action11ExecuteImmediately:d":	0,
+				"Action11SpawnCount:d":	1,
+				"Action11NPCGuid0:g":	"0D8AD6CC_35505801",
+				"Action11LocationGuid0:g":	"0D8AD98C_35363001",
+				"Action11FacingGuid0:g":	"0D8AD98C_35395801",
+				"Action11Animation0:s":	"Select Animation"
+			}]
+	}, {
+		"name":	"Action12",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType12:d":	11,
+				"ActionName12:s":	"Spawn Wolf Spider 010 - Spider Spawn Loc 009",
+				"Action12ExecuteDelay:f":	0,
+				"Action12ExecuteImmediately:d":	0,
+				"Action12SpawnCount:d":	1,
+				"Action12NPCGuid0:g":	"0D8AD6CC_35504401",
+				"Action12LocationGuid0:g":	"0D8AD98C_35363001",
+				"Action12FacingGuid0:g":	"0D8AD98C_35395801",
+				"Action12Animation0:s":	"Select Animation"
+			}]
+	}, {
+		"name":	"Action13",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType13:d":	11,
+				"ActionName13:s":	"Spawn Wolf Spider 009 - Spider Spawn Loc 009",
+				"Action13ExecuteDelay:f":	0,
+				"Action13ExecuteImmediately:d":	0,
+				"Action13SpawnCount:d":	1,
+				"Action13NPCGuid0:g":	"0D8AD98C_3544CC00",
+				"Action13LocationGuid0:g":	"0D8AD98C_35363001",
+				"Action13FacingGuid0:g":	"0D8AD98C_35395801",
+				"Action13Animation0:s":	"Select Animation"
+			}]
+	}, {
+		"name":	"Action14",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType14:d":	11,
+				"ActionName14:s":	"Spawn Wolf Spider 008 - Spider Spawn Loc 005",
+				"Action14ExecuteDelay:f":	0,
+				"Action14ExecuteImmediately:d":	0,
+				"Action14SpawnCount:d":	1,
+				"Action14NPCGuid0:g":	"0D8AD80C_35877401",
+				"Action14LocationGuid0:g":	"0D8ADF0C_44366800",
+				"Action14FacingGuid0:g":	"0D8ADF0C_4436C400",
+				"Action14Animation0:s":	"Select Animation"
+			}]
+	}, {
+		"name":	"Action15",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType15:d":	11,
+				"ActionName15:s":	"Spawn Wolf Spider 007 - Spider Spawn Loc 004",
+				"Action15ExecuteDelay:f":	0,
+				"Action15ExecuteImmediately:d":	0,
+				"Action15SpawnCount:d":	1,
+				"Action15NPCGuid0:g":	"0D8AD80C_35876001",
+				"Action15LocationGuid0:g":	"0D8ADF0C_44363000",
+				"Action15FacingGuid0:g":	"0D8ADF0C_44369800",
+				"Action15Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action16",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType16:d":	11,
+				"ActionName16:s":	"Spawn Wolf Spider 006 - Spider Spawn Loc 004",
+				"Action16ExecuteDelay:f":	0,
+				"Action16ExecuteImmediately:d":	0,
+				"Action16SpawnCount:d":	1,
+				"Action16NPCGuid0:g":	"0D8AD80C_3586D000",
+				"Action16LocationGuid0:g":	"0D8ADF0C_44363000",
+				"Action16FacingGuid0:g":	"0D8ADF0C_44369800",
+				"Action16Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action17",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType17:d":	11,
+				"ActionName17:s":	"Spawn Wolf Spider 005 - Spider Spawn Loc 003",
+				"Action17ExecuteDelay:f":	0,
+				"Action17ExecuteImmediately:d":	0,
+				"Action17SpawnCount:d":	1,
+				"Action17NPCGuid0:g":	"0D8AD80C_35AB6001",
+				"Action17LocationGuid0:g":	"0D8AD30C_44421400",
+				"Action17FacingGuid0:g":	"0D8AD30C_44425C00",
+				"Action17Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action18",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType18:d":	11,
+				"ActionName18:s":	"Spawn Wolf Spider 004 - Spider Spawn Loc 002",
+				"Action18ExecuteDelay:f":	0,
+				"Action18ExecuteImmediately:d":	0,
+				"Action18SpawnCount:d":	1,
+				"Action18NPCGuid0:g":	"0D8AD80C_35AB4C01",
+				"Action18LocationGuid0:g":	"0D8AD30C_4441D800",
+				"Action18FacingGuid0:g":	"0D8AD30C_44423C00",
+				"Action18Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action19",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType19:d":	11,
+				"ActionName19:s":	"Spawn Wolf Spider 003 - Spider Spawn Loc 002",
+				"Action19ExecuteDelay:f":	0,
+				"Action19ExecuteImmediately:d":	0,
+				"Action19SpawnCount:d":	1,
+				"Action19NPCGuid0:g":	"0D8AD80C_35AAEC01",
+				"Action19LocationGuid0:g":	"0D8AD30C_4441D800",
+				"Action19FacingGuid0:g":	"0D8AD30C_44423C00",
+				"Action19Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action20",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType20:d":	11,
+				"ActionName20:s":	"Spawn Wolf Spider 002 - Spider Spawn Loc 001",
+				"Action20ExecuteDelay:f":	0,
+				"Action20ExecuteImmediately:d":	0,
+				"Action20SpawnCount:d":	1,
+				"Action20NPCGuid0:g":	"0D8AD80C_359A4401",
+				"Action20LocationGuid0:g":	"CD588A8C_3A973400",
+				"Action20FacingGuid0:g":	"CD588A8C_3A97D401",
+				"Action20Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action21",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType21:d":	11,
+				"ActionName21:s":	"Spawn Wolf Spider 001 - Spider Spawn Loc 001",
+				"Action21ExecuteDelay:f":	0,
+				"Action21ExecuteImmediately:d":	0,
+				"Action21SpawnCount:d":	1,
+				"Action21NPCGuid0:g":	"0D8AD80C_3599D000",
+				"Action21LocationGuid0:g":	"CD588A8C_3A973400",
+				"Action21FacingGuid0:g":	"CD588A8C_3A97D401",
+				"Action21Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action22",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType22:d":	11,
+				"ActionName22:s":	"Spawn Wight_War 011 Act",
+				"Action22ExecuteDelay:f":	0,
+				"Action22ExecuteImmediately:d":	0,
+				"Action22SpawnCount:d":	1,
+				"Action22NPCGuid0:g":	"0D8ADFCC_05B1F806",
+				"Action22LocationGuid0:g":	"0D8AD88C_05DCB401",
+				"Action22FacingGuid0:g":	"0D8AD88C_05DE5401",
+				"Action22Animation0:s":	"rebirth"
+			}]
+	}, {
+		"name":	"Action23",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType23:d":	11,
+				"ActionName23:s":	"Spawn Wight_War 010 Act",
+				"Action23ExecuteDelay:f":	0,
+				"Action23ExecuteImmediately:d":	0,
+				"Action23SpawnCount:d":	1,
+				"Action23NPCGuid0:g":	"0D8ADFCC_05B1E801",
+				"Action23LocationGuid0:g":	"0D8AD88C_05DCA001",
+				"Action23FacingGuid0:g":	"0D8AD88C_05DE5401",
+				"Action23Animation0:s":	"rebirth"
+			}]
+	}, {
+		"name":	"Action24",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType24:d":	11,
+				"ActionName24:s":	"Spawn Wight_War 009 Act",
+				"Action24ExecuteDelay:f":	0,
+				"Action24ExecuteImmediately:d":	0,
+				"Action24SpawnCount:d":	1,
+				"Action24NPCGuid0:g":	"0D8ADFCC_05B1B001",
+				"Action24LocationGuid0:g":	"0D8AD88C_05DC5800",
+				"Action24FacingGuid0:g":	"0D8AD88C_05DE5401",
+				"Action24Animation0:s":	"rebirth"
+			}]
+	}, {
+		"name":	"Action25",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType25:d":	11,
+				"ActionName25:s":	"Spawn Wight_War 007 Act",
+				"Action25ExecuteDelay:f":	0,
+				"Action25ExecuteImmediately:d":	0,
+				"Action25SpawnCount:d":	1,
+				"Action25NPCGuid0:g":	"0D8ADFCC_05AB7C01",
+				"Action25LocationGuid0:g":	"0D8AD88C_05CA0400",
+				"Action25FacingGuid0:g":	"0D8AD88C_05C7E000",
+				"Action25Animation0:s":	"rebirth"
+			}]
+	}, {
+		"name":	"Action26",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType26:d":	11,
+				"ActionName26:s":	"Spawn Wight_War 006 Act",
+				"Action26ExecuteDelay:f":	0,
+				"Action26ExecuteImmediately:d":	0,
+				"Action26SpawnCount:d":	1,
+				"Action26NPCGuid0:g":	"0D8ADFCC_05AB6801",
+				"Action26LocationGuid0:g":	"0D8AD88C_05C9F001",
+				"Action26FacingGuid0:g":	"0D8AD88C_05C7E000",
+				"Action26Animation0:s":	"rebirth"
+			}]
+	}, {
+		"name":	"Action27",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType27:d":	11,
+				"ActionName27:s":	"Spawn Wight_War 005 Act",
+				"Action27ExecuteDelay:f":	0,
+				"Action27ExecuteImmediately:d":	0,
+				"Action27SpawnCount:d":	1,
+				"Action27NPCGuid0:g":	"0D8ADFCC_05AB4C01",
+				"Action27LocationGuid0:g":	"0D8AD88C_05C9D801",
+				"Action27FacingGuid0:g":	"0D8AD88C_05C7E000",
+				"Action27Animation0:s":	"rebirth"
+			}]
+	}, {
+		"name":	"Action28",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType28:d":	11,
+				"ActionName28:s":	"Spawn Wight_War 004 Act",
+				"Action28ExecuteDelay:f":	0,
+				"Action28ExecuteImmediately:d":	0,
+				"Action28SpawnCount:d":	1,
+				"Action28NPCGuid0:g":	"0D8ADFCC_05A93C01",
+				"Action28LocationGuid0:g":	"0D8AD88C_05C8FC00",
+				"Action28FacingGuid0:g":	"0D8AD88C_05C7E000",
+				"Action28Animation0:s":	"rebirth"
+			}]
+	}, {
+		"name":	"Action29",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType29:d":	11,
+				"ActionName29:s":	"Spawn Wight_War 003 Act",
+				"Action29ExecuteDelay:f":	0,
+				"Action29ExecuteImmediately:d":	0,
+				"Action29SpawnCount:d":	1,
+				"Action29NPCGuid0:g":	"0D8ADFCC_05A5EC01",
+				"Action29LocationGuid0:g":	"0D8ADFCC_05BA3400",
+				"Action29FacingGuid0:g":	"0D8ADFCC_05BC0400",
+				"Action29Animation0:s":	"rebirth"
+			}]
+	}, {
+		"name":	"Action30",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType30:d":	11,
+				"ActionName30:s":	"Spawn Wight_War 002 Act",
+				"Action30ExecuteDelay:f":	0,
+				"Action30ExecuteImmediately:d":	0,
+				"Action30SpawnCount:d":	1,
+				"Action30NPCGuid0:g":	"0D8ADFCC_05A5C401",
+				"Action30LocationGuid0:g":	"0D8ADFCC_05BA0800",
+				"Action30FacingGuid0:g":	"0D8ADFCC_05BC0400",
+				"Action30Animation0:s":	"rebirth"
+			}]
+	}, {
+		"name":	"Action31",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType31:d":	11,
+				"ActionName31:s":	"Spawn Wight_War 001 Act",
+				"Action31ExecuteDelay:f":	0,
+				"Action31ExecuteImmediately:d":	0,
+				"Action31SpawnCount:d":	1,
+				"Action31NPCGuid0:g":	"0D8ADFCC_05A50C00",
+				"Action31LocationGuid0:g":	"0D8ADFCC_05B9A400",
+				"Action31FacingGuid0:g":	"0D8ADFCC_05BC0400",
+				"Action31Animation0:s":	"rebirth"
+			}]
+	}, {
+		"name":	"Action32",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType32:d":	11,
+				"ActionName32:s":	"Spawn Wight_Mage 004 Act",
+				"Action32ExecuteDelay:f":	0,
+				"Action32ExecuteImmediately:d":	0,
+				"Action32SpawnCount:d":	1,
+				"Action32NPCGuid0:g":	"0D8ADFCC_05B21C01",
+				"Action32LocationGuid0:g":	"0D8AD88C_05DD3001",
+				"Action32FacingGuid0:g":	"0D8AD88C_05DE5401",
+				"Action32Animation0:s":	"rebirth"
+			}]
+	}, {
+		"name":	"Action33",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType33:d":	11,
+				"ActionName33:s":	"Spawn Wight_Mage 003 Act",
+				"Action33ExecuteDelay:f":	0,
+				"Action33ExecuteImmediately:d":	0,
+				"Action33SpawnCount:d":	1,
+				"Action33NPCGuid0:g":	"0D8ADFCC_05B25801",
+				"Action33LocationGuid0:g":	"0D8AD88C_05DDD801",
+				"Action33FacingGuid0:g":	"0D8AD88C_05DE5401",
+				"Action33Animation0:s":	"rebirth"
+			}]
+	}, {
+		"name":	"Action34",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType34:d":	11,
+				"ActionName34:s":	"Spawn Wight_Mage 002 Act",
+				"Action34ExecuteDelay:f":	0,
+				"Action34ExecuteImmediately:d":	0,
+				"Action34SpawnCount:d":	1,
+				"Action34NPCGuid0:g":	"0D8ADFCC_05B05401",
+				"Action34LocationGuid0:g":	"0D8AD88C_05CB0C01",
+				"Action34FacingGuid0:g":	"0D8AD88C_05C7E000",
+				"Action34Animation0:s":	"rebirth"
+			}]
+	}, {
+		"name":	"Action35",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType35:d":	11,
+				"ActionName35:s":	"Spawn Wight_Mage 001 Act",
+				"Action35ExecuteDelay:f":	0,
+				"Action35ExecuteImmediately:d":	0,
+				"Action35SpawnCount:d":	1,
+				"Action35NPCGuid0:g":	"0D8ADFCC_05B00C01",
+				"Action35LocationGuid0:g":	"0D8AD88C_05CAF001",
+				"Action35FacingGuid0:g":	"0D8AD88C_05C7E000",
+				"Action35Animation0:s":	"rebirth"
+			}]
+	}, {
+		"name":	"Action36",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType36:d":	11,
+				"ActionName36:s":	"Spawn Wight_Archer 003 Act",
+				"Action36ExecuteDelay:f":	0,
+				"Action36ExecuteImmediately:d":	0,
+				"Action36SpawnCount:d":	1,
+				"Action36NPCGuid0:g":	"0D8ADFCC_05B28801",
+				"Action36LocationGuid0:g":	"0D8AD88C_05CF3400",
+				"Action36FacingGuid0:g":	"0D8AD88C_05C7E000",
+				"Action36Animation0:s":	"rebirth"
+			}]
+	}, {
+		"name":	"Action37",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType37:d":	11,
+				"ActionName37:s":	"Spawn Wight_Archer 002 Act",
+				"Action37ExecuteDelay:f":	0,
+				"Action37ExecuteImmediately:d":	0,
+				"Action37SpawnCount:d":	1,
+				"Action37NPCGuid0:g":	"0D8ADFCC_05B12001",
+				"Action37LocationGuid0:g":	"0D8AD88C_05CC5C01",
+				"Action37FacingGuid0:g":	"0D8AD88C_05C7E000",
+				"Action37Animation0:s":	"rebirth"
+			}]
+	}, {
+		"name":	"Action38",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType38:d":	11,
+				"ActionName38:s":	"Spawn Wight_Archer 001 Act",
+				"Action38ExecuteDelay:f":	0,
+				"Action38ExecuteImmediately:d":	0,
+				"Action38SpawnCount:d":	1,
+				"Action38NPCGuid0:g":	"0D8ADFCC_05B07001",
+				"Action38LocationGuid0:g":	"0D8AD88C_05CC0400",
+				"Action38FacingGuid0:g":	"0D8AD88C_05C7E000",
+				"Action38Animation0:s":	"rebirth"
+			}]
+	}, {
+		"name":	"Action39",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType39:d":	11,
+				"ActionName39:s":	"Spawn Poisonous Spider 028-029 - Spider Spawn Loc 017-018",
+				"Action39ExecuteDelay:f":	2,
+				"Action39ExecuteImmediately:d":	0,
+				"Action39SpawnCount:d":	2,
+				"Action39NPCGuid0:g":	"CD588492_627C4401",
+				"Action39LocationGuid0:g":	"CD588492_624AE404",
+				"Action39FacingGuid0:g":	"CD588492_624AE402",
+				"Action39Animation0:s":	"spawn",
+				"Action39NPCGuid1:g":	"CD588492_627C8401",
+				"Action39LocationGuid1:g":	"CD588492_624BAC04",
+				"Action39FacingGuid1:g":	"CD588492_624BAC02",
+				"Action39Animation1:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action40",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType40:d":	11,
+				"ActionName40:s":	"Spawn Poisonous Spider 027 - Spider Spawn Loc 011",
+				"Action40ExecuteDelay:f":	0,
+				"Action40ExecuteImmediately:d":	0,
+				"Action40SpawnCount:d":	1,
+				"Action40NPCGuid0:g":	"CD58888C_4E2D0C01",
+				"Action40LocationGuid0:g":	"CD58828D_75ADE801",
+				"Action40FacingGuid0:g":	"CD58828D_75AE7401",
+				"Action40Animation0:s":	"Select Animation"
+			}]
+	}, {
+		"name":	"Action41",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType41:d":	11,
+				"ActionName41:s":	"Spawn Poisonous Spider 026 - Spider Spawn Loc 010",
+				"Action41ExecuteDelay:f":	0,
+				"Action41ExecuteImmediately:d":	0,
+				"Action41SpawnCount:d":	1,
+				"Action41NPCGuid0:g":	"CD58888C_4E2C6C01",
+				"Action41LocationGuid0:g":	"CD58828D_75ADB001",
+				"Action41FacingGuid0:g":	"CD58828D_75AE5001",
+				"Action41Animation0:s":	"Select Animation"
+			}]
+	}, {
+		"name":	"Action42",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType42:d":	11,
+				"ActionName42:s":	"Spawn Poisonous Spider 025 - Spider Spawn Loc 013",
+				"Action42ExecuteDelay:f":	0,
+				"Action42ExecuteImmediately:d":	0,
+				"Action42SpawnCount:d":	1,
+				"Action42NPCGuid0:g":	"CD58888C_4E2BE401",
+				"Action42LocationGuid0:g":	"CD58828D_75AE3401",
+				"Action42FacingGuid0:g":	"CD58828D_75AEA801",
+				"Action42Animation0:s":	"Select Animation"
+			}]
+	}, {
+		"name":	"Action43",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType43:d":	11,
+				"ActionName43:s":	"Spawn Poisonous Spider 024 - Spider Spawn Loc 011",
+				"Action43ExecuteDelay:f":	0,
+				"Action43ExecuteImmediately:d":	0,
+				"Action43SpawnCount:d":	1,
+				"Action43NPCGuid0:g":	"CD58888C_4E2BA001",
+				"Action43LocationGuid0:g":	"CD58828D_75ADE801",
+				"Action43FacingGuid0:g":	"CD58828D_75AE7401",
+				"Action43Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action44",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType44:d":	11,
+				"ActionName44:s":	"Spawn Poisonous Spider 023 - Spider Spawn Loc 010",
+				"Action44ExecuteDelay:f":	1,
+				"Action44ExecuteImmediately:d":	0,
+				"Action44SpawnCount:d":	1,
+				"Action44NPCGuid0:g":	"CD58888C_4E2AF801",
+				"Action44LocationGuid0:g":	"CD58828D_75ADB001",
+				"Action44FacingGuid0:g":	"CD58828D_75AE5001",
+				"Action44Animation0:s":	"Select Animation"
+			}]
+	}, {
+		"name":	"Action45",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType45:d":	11,
+				"ActionName45:s":	"Spawn Poisonous Spider 022 - Spider Spawn Loc 003",
+				"Action45ExecuteDelay:f":	0,
+				"Action45ExecuteImmediately:d":	0,
+				"Action45SpawnCount:d":	1,
+				"Action45NPCGuid0:g":	"0D8AD80C_35AC1C01",
+				"Action45LocationGuid0:g":	"0D8AD30C_44421400",
+				"Action45FacingGuid0:g":	"0D8AD30C_44425C00",
+				"Action45Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action46",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType46:d":	11,
+				"ActionName46:s":	"Spawn Poisonous Spider 021 - Spider Spawn Loc 002",
+				"Action46ExecuteDelay:f":	0,
+				"Action46ExecuteImmediately:d":	0,
+				"Action46SpawnCount:d":	1,
+				"Action46NPCGuid0:g":	"0D8AD80C_35AC0401",
+				"Action46LocationGuid0:g":	"0D8AD30C_4441D800",
+				"Action46FacingGuid0:g":	"0D8AD30C_44423C00",
+				"Action46Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action47",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType47:d":	11,
+				"ActionName47:s":	"Spawn Poisonous Spider 020 - Spider Spawn Loc 003",
+				"Action47ExecuteDelay:f":	0,
+				"Action47ExecuteImmediately:d":	0,
+				"Action47SpawnCount:d":	1,
+				"Action47NPCGuid0:g":	"0D8AD80C_35AB9001",
+				"Action47LocationGuid0:g":	"0D8AD30C_44421400",
+				"Action47FacingGuid0:g":	"0D8AD30C_44425C00",
+				"Action47Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action48",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType48:d":	11,
+				"ActionName48:s":	"Spawn Poisonous Spider 019 - Spider Spawn Loc 008",
+				"Action48ExecuteDelay:f":	0,
+				"Action48ExecuteImmediately:d":	0,
+				"Action48SpawnCount:d":	1,
+				"Action48NPCGuid0:g":	"0D8AD98C_35444801",
+				"Action48LocationGuid0:g":	"0D8AD98C_3535F001",
+				"Action48FacingGuid0:g":	"0D8AD98C_35392401",
+				"Action48Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action49",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType49:d":	11,
+				"ActionName49:s":	"Spawn Poisonous Spider 018 - Spider Spawn Loc 008",
+				"Action49ExecuteDelay:f":	0,
+				"Action49ExecuteImmediately:d":	0,
+				"Action49SpawnCount:d":	1,
+				"Action49NPCGuid0:g":	"0D8AD98C_35443400",
+				"Action49LocationGuid0:g":	"0D8AD98C_3535F001",
+				"Action49FacingGuid0:g":	"0D8AD98C_35392401",
+				"Action49Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action50",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType50:d":	11,
+				"ActionName50:s":	"Spawn Poisonous Spider 017 - Spider Spawn Loc 008",
+				"Action50ExecuteDelay:f":	0,
+				"Action50ExecuteImmediately:d":	0,
+				"Action50SpawnCount:d":	1,
+				"Action50NPCGuid0:g":	"0D8AD98C_3542F800",
+				"Action50LocationGuid0:g":	"0D8AD98C_3535F001",
+				"Action50FacingGuid0:g":	"0D8AD98C_35392401",
+				"Action50Animation0:s":	"Select Animation"
+			}]
+	}, {
+		"name":	"Action51",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType51:d":	11,
+				"ActionName51:s":	"Spawn Poisonous Spider 016 - Spider Spawn Loc 007",
+				"Action51ExecuteDelay:f":	0,
+				"Action51ExecuteImmediately:d":	0,
+				"Action51SpawnCount:d":	1,
+				"Action51NPCGuid0:g":	"0D8AD80C_35704C01",
+				"Action51LocationGuid0:g":	"0D8AD98C_3535C401",
+				"Action51FacingGuid0:g":	"0D8AD98C_35399001",
+				"Action51Animation0:s":	"Select Animation"
+			}]
+	}, {
+		"name":	"Action52",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType52:d":	11,
+				"ActionName52:s":	"Spawn Poisonous Spider 015 - Spider Spawn Loc 007",
+				"Action52ExecuteDelay:f":	0,
+				"Action52ExecuteImmediately:d":	0,
+				"Action52SpawnCount:d":	1,
+				"Action52NPCGuid0:g":	"0D8AD80C_35703801",
+				"Action52LocationGuid0:g":	"0D8AD98C_3535C401",
+				"Action52FacingGuid0:g":	"0D8AD98C_35399001",
+				"Action52Animation0:s":	"Select Animation"
+			}]
+	}, {
+		"name":	"Action53",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType53:d":	11,
+				"ActionName53:s":	"Spawn Poisonous Spider 014 - Spider Spawn Loc 007",
+				"Action53ExecuteDelay:f":	0,
+				"Action53ExecuteImmediately:d":	0,
+				"Action53SpawnCount:d":	1,
+				"Action53NPCGuid0:g":	"0D8AD80C_35702802",
+				"Action53LocationGuid0:g":	"0D8AD98C_3535C401",
+				"Action53FacingGuid0:g":	"0D8AD98C_35399001",
+				"Action53Animation0:s":	"Select Animation"
+			}]
+	}, {
+		"name":	"Action54",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType54:d":	11,
+				"ActionName54:s":	"Spawn Poisonous Spider 013 - Spider Spawn Loc 007",
+				"Action54ExecuteDelay:f":	0,
+				"Action54ExecuteImmediately:d":	0,
+				"Action54SpawnCount:d":	1,
+				"Action54NPCGuid0:g":	"0D8AD80C_35701801",
+				"Action54LocationGuid0:g":	"0D8AD98C_3535C401",
+				"Action54FacingGuid0:g":	"0D8AD98C_35399001",
+				"Action54Animation0:s":	"Select Animation"
+			}]
+	}, {
+		"name":	"Action55",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType55:d":	11,
+				"ActionName55:s":	"Spawn Poisonous Spider 012 - Spider Spawn Loc 006",
+				"Action55ExecuteDelay:f":	0,
+				"Action55ExecuteImmediately:d":	0,
+				"Action55SpawnCount:d":	1,
+				"Action55NPCGuid0:g":	"0D8AD80C_35700801",
+				"Action55LocationGuid0:g":	"0D8AD98C_3530CC00",
+				"Action55FacingGuid0:g":	"0D8AD98C_35367801",
+				"Action55Animation0:s":	"Select Animation"
+			}]
+	}, {
+		"name":	"Action56",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType56:d":	11,
+				"ActionName56:s":	"Spawn Poisonous Spider 011 - Spider Spawn Loc 006",
+				"Action56ExecuteDelay:f":	0,
+				"Action56ExecuteImmediately:d":	0,
+				"Action56SpawnCount:d":	1,
+				"Action56NPCGuid0:g":	"0D8AD80C_356FF801",
+				"Action56LocationGuid0:g":	"0D8AD98C_3530CC00",
+				"Action56FacingGuid0:g":	"0D8AD98C_35367801",
+				"Action56Animation0:s":	"Select Animation"
+			}]
+	}, {
+		"name":	"Action57",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType57:d":	11,
+				"ActionName57:s":	"Spawn Poisonous Spider 010 - Spider Spawn Loc 006",
+				"Action57ExecuteDelay:f":	0,
+				"Action57ExecuteImmediately:d":	0,
+				"Action57SpawnCount:d":	1,
+				"Action57NPCGuid0:g":	"0D8AD80C_356FE401",
+				"Action57LocationGuid0:g":	"0D8AD98C_3530CC00",
+				"Action57FacingGuid0:g":	"0D8AD98C_35367801",
+				"Action57Animation0:s":	"Select Animation"
+			}]
+	}, {
+		"name":	"Action58",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType58:d":	11,
+				"ActionName58:s":	"Spawn Poisonous Spider 009 - Spider Spawn Loc 006",
+				"Action58ExecuteDelay:f":	0,
+				"Action58ExecuteImmediately:d":	0,
+				"Action58SpawnCount:d":	1,
+				"Action58NPCGuid0:g":	"0D8AD80C_356E7400",
+				"Action58LocationGuid0:g":	"0D8AD98C_3530CC00",
+				"Action58FacingGuid0:g":	"0D8AD98C_35367801",
+				"Action58Animation0:s":	"Select Animation"
+			}]
+	}, {
+		"name":	"Action59",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType59:d":	11,
+				"ActionName59:s":	"Spawn Poisonous Spider 005 - Spider Spawn Loc 015",
+				"Action59ExecuteDelay:f":	2,
+				"Action59ExecuteImmediately:d":	0,
+				"Action59SpawnCount:d":	1,
+				"Action59NPCGuid0:g":	"CD58860C_5F393400",
+				"Action59LocationGuid0:g":	"CD588A8F_96122402",
+				"Action59FacingGuid0:g":	"CD588A8F_96122404",
+				"Action59Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action60",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType60:d":	11,
+				"ActionName60:s":	"Spawn Poisonous Spider 004 - Spider Spawn Loc 014",
+				"Action60ExecuteDelay:f":	2,
+				"Action60ExecuteImmediately:d":	0,
+				"Action60SpawnCount:d":	1,
+				"Action60NPCGuid0:g":	"CD58860C_5F390001",
+				"Action60LocationGuid0:g":	"CD58830F_9580DC02",
+				"Action60FacingGuid0:g":	"CD58830F_9580DC04",
+				"Action60Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action61",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType61:d":	11,
+				"ActionName61:s":	"Spawn Poisonous Spider 003 - Spider Spawn Loc 015",
+				"Action61ExecuteDelay:f":	0,
+				"Action61ExecuteImmediately:d":	0,
+				"Action61SpawnCount:d":	1,
+				"Action61NPCGuid0:g":	"CD58860C_5F38D801",
+				"Action61LocationGuid0:g":	"CD588A8F_96122402",
+				"Action61FacingGuid0:g":	"CD588A8F_96122404",
+				"Action61Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action62",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType62:d":	11,
+				"ActionName62:s":	"Spawn Poisonous Spider 002 - Spider Spawn Loc 014",
+				"Action62ExecuteDelay:f":	0,
+				"Action62ExecuteImmediately:d":	0,
+				"Action62SpawnCount:d":	1,
+				"Action62NPCGuid0:g":	"CD58860C_5F37E400",
+				"Action62LocationGuid0:g":	"CD58830F_9580DC02",
+				"Action62FacingGuid0:g":	"CD58830F_9580DC04",
+				"Action62Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action63",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType63:d":	11,
+				"ActionName63:s":	"Spawn Poisonous Spider 001 - Spider Spawn Loc 005",
+				"Action63ExecuteDelay:f":	0,
+				"Action63ExecuteImmediately:d":	0,
+				"Action63SpawnCount:d":	1,
+				"Action63NPCGuid0:g":	"0D8AD80C_3587A801",
+				"Action63LocationGuid0:g":	"0D8ADF0C_44366800",
+				"Action63FacingGuid0:g":	"0D8ADF0C_4436C400",
+				"Action63Animation0:s":	"Select Animation"
+			}]
+	}, {
+		"name":	"Action64",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType64:d":	11,
+				"ActionName64:s":	"Spawn Chitinous Spider 004 - Spider Spawn Loc 014",
+				"Action64ExecuteDelay:f":	3,
+				"Action64ExecuteImmediately:d":	0,
+				"Action64SpawnCount:d":	1,
+				"Action64NPCGuid0:g":	"C0CFA88F_E171CC01",
+				"Action64LocationGuid0:g":	"CD58830F_9580DC02",
+				"Action64FacingGuid0:g":	"CD58830F_9580DC04",
+				"Action64Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action65",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType65:d":	11,
+				"ActionName65:s":	"Spawn Chitinous Spider 003 - Spider Spawn Loc 012",
+				"Action65ExecuteDelay:f":	0,
+				"Action65ExecuteImmediately:d":	0,
+				"Action65SpawnCount:d":	1,
+				"Action65NPCGuid0:g":	"CD588D8C_60634000",
+				"Action65LocationGuid0:g":	"CD58828D_75AE1801",
+				"Action65FacingGuid0:g":	"CD58828D_75AE8C01",
+				"Action65Animation0:s":	"Select Animation"
+			}]
+	}, {
+		"name":	"Action66",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType66:d":	11,
+				"ActionName66:s":	"Spawn Chitinous Spider 002 - Spider Spawn Loc 009",
+				"Action66ExecuteDelay:f":	0,
+				"Action66ExecuteImmediately:d":	0,
+				"Action66SpawnCount:d":	1,
+				"Action66NPCGuid0:g":	"0D8AD98C_35446001",
+				"Action66LocationGuid0:g":	"0D8AD98C_35363001",
+				"Action66FacingGuid0:g":	"0D8AD98C_35395801",
+				"Action66Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action67",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType67:d":	11,
+				"ActionName67:s":	"Spawn Chitinous Spider 001 - Spider Spawn Loc 016",
+				"Action67ExecuteDelay:f":	0,
+				"Action67ExecuteImmediately:d":	0,
+				"Action67SpawnCount:d":	1,
+				"Action67NPCGuid0:g":	"0D8AD94C_35687800",
+				"Action67LocationGuid0:g":	"CD588F90_F67C2C04",
+				"Action67FacingGuid0:g":	"CD588F90_F67C2C02",
+				"Action67Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action68",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType68:d":	11,
+				"ActionName68:s":	"Spawn Black Spider 018-Poisonous Spider 030 - Spider Spawn Loc 017-018",
+				"Action68ExecuteDelay:f":	4,
+				"Action68ExecuteImmediately:d":	0,
+				"Action68SpawnCount:d":	2,
+				"Action68NPCGuid0:g":	"CD588492_627B7401",
+				"Action68LocationGuid0:g":	"CD588492_624AE404",
+				"Action68FacingGuid0:g":	"CD588492_624AE402",
+				"Action68Animation0:s":	"spawn",
+				"Action68NPCGuid1:g":	"CD588492_627C8C01",
+				"Action68LocationGuid1:g":	"CD588492_624BAC04",
+				"Action68FacingGuid1:g":	"CD588492_624BAC02",
+				"Action68Animation1:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action69",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType69:d":	11,
+				"ActionName69:s":	"Spawn Black Spider 016-017 - Spider Spawn Loc 017-018",
+				"Action69ExecuteDelay:f":	0,
+				"Action69ExecuteImmediately:d":	0,
+				"Action69SpawnCount:d":	2,
+				"Action69NPCGuid0:g":	"CD588492_627B6001",
+				"Action69LocationGuid0:g":	"CD588492_624AE404",
+				"Action69FacingGuid0:g":	"CD588492_624AE402",
+				"Action69Animation0:s":	"spawn",
+				"Action69NPCGuid1:g":	"CD588492_627B6C01",
+				"Action69LocationGuid1:g":	"CD588492_624BAC04",
+				"Action69FacingGuid1:g":	"CD588492_624BAC02",
+				"Action69Animation1:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action70",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType70:d":	11,
+				"ActionName70:s":	"Spawn Black Spider 014-015 - Spider Spawn Loc 014-015",
+				"Action70ExecuteDelay:f":	8,
+				"Action70ExecuteImmediately:d":	0,
+				"Action70SpawnCount:d":	2,
+				"Action70NPCGuid0:g":	"CD588492_627B4801",
+				"Action70LocationGuid0:g":	"CD588A8F_96122402",
+				"Action70FacingGuid0:g":	"CD588A8F_96122404",
+				"Action70Animation0:s":	"spawn",
+				"Action70NPCGuid1:g":	"CD588492_627B5401",
+				"Action70LocationGuid1:g":	"CD58830F_9580DC02",
+				"Action70FacingGuid1:g":	"CD58830F_9580DC04",
+				"Action70Animation1:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action71",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType71:d":	11,
+				"ActionName71:s":	"Spawn Black Spider 013 - Spider Spawn Loc 015",
+				"Action71ExecuteDelay:f":	6,
+				"Action71ExecuteImmediately:d":	0,
+				"Action71SpawnCount:d":	1,
+				"Action71NPCGuid0:g":	"CD588492_627B1001",
+				"Action71LocationGuid0:g":	"CD588A8F_96122402",
+				"Action71FacingGuid0:g":	"CD588A8F_96122404",
+				"Action71Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action72",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType72:d":	11,
+				"ActionName72:s":	"Spawn Black Spider 012 - Spider Spawn Loc 015",
+				"Action72ExecuteDelay:f":	5,
+				"Action72ExecuteImmediately:d":	0,
+				"Action72SpawnCount:d":	1,
+				"Action72NPCGuid0:g":	"CD588651_0B350001",
+				"Action72LocationGuid0:g":	"CD588A8F_96122402",
+				"Action72FacingGuid0:g":	"CD588A8F_96122404",
+				"Action72Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action73",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType73:d":	11,
+				"ActionName73:s":	"Spawn Black Spider 011 - Spider Spawn Loc 015",
+				"Action73ExecuteDelay:f":	4,
+				"Action73ExecuteImmediately:d":	0,
+				"Action73SpawnCount:d":	1,
+				"Action73NPCGuid0:g":	"CD588651_0B34E401",
+				"Action73LocationGuid0:g":	"CD588A8F_96122402",
+				"Action73FacingGuid0:g":	"CD588A8F_96122404",
+				"Action73Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action74",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType74:d":	11,
+				"ActionName74:s":	"Spawn Black Spider 010 - Spider Spawn Loc 015",
+				"Action74ExecuteDelay:f":	3,
+				"Action74ExecuteImmediately:d":	0,
+				"Action74SpawnCount:d":	1,
+				"Action74NPCGuid0:g":	"CD588651_0B34D801",
+				"Action74LocationGuid0:g":	"CD588A8F_96122402",
+				"Action74FacingGuid0:g":	"CD588A8F_96122404",
+				"Action74Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action75",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType75:d":	11,
+				"ActionName75:s":	"Spawn Black Spider 009 - Spider Spawn Loc 014",
+				"Action75ExecuteDelay:f":	5,
+				"Action75ExecuteImmediately:d":	0,
+				"Action75SpawnCount:d":	1,
+				"Action75NPCGuid0:g":	"CD588651_0B34CC01",
+				"Action75LocationGuid0:g":	"CD58830F_9580DC02",
+				"Action75FacingGuid0:g":	"CD58830F_9580DC04",
+				"Action75Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action76",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType76:d":	11,
+				"ActionName76:s":	"Spawn Black Spider 008 - Spider Spawn Loc 014",
+				"Action76ExecuteDelay:f":	4,
+				"Action76ExecuteImmediately:d":	0,
+				"Action76SpawnCount:d":	1,
+				"Action76NPCGuid0:g":	"CD588651_0B34BC01",
+				"Action76LocationGuid0:g":	"CD58830F_9580DC02",
+				"Action76FacingGuid0:g":	"CD58830F_9580DC04",
+				"Action76Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action77",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType77:d":	11,
+				"ActionName77:s":	"Spawn Black Spider 007 - Spider Spawn Loc 014",
+				"Action77ExecuteDelay:f":	6,
+				"Action77ExecuteImmediately:d":	0,
+				"Action77SpawnCount:d":	1,
+				"Action77NPCGuid0:g":	"CD588651_0B34AC01",
+				"Action77LocationGuid0:g":	"CD58830F_9580DC02",
+				"Action77FacingGuid0:g":	"CD58830F_9580DC04",
+				"Action77Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action78",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType78:d":	11,
+				"ActionName78:s":	"Spawn Black Spider 006 - Spider Spawn Loc 005",
+				"Action78ExecuteDelay:f":	4,
+				"Action78ExecuteImmediately:d":	0,
+				"Action78SpawnCount:d":	1,
+				"Action78NPCGuid0:g":	"CD588B10_05EC9005",
+				"Action78LocationGuid0:g":	"0D8ADF0C_44366800",
+				"Action78FacingGuid0:g":	"0D8ADF0C_4436C400",
+				"Action78Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action79",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType79:d":	11,
+				"ActionName79:s":	"Spawn Black Spider 005 - Spider Spawn Loc 005",
+				"Action79ExecuteDelay:f":	2,
+				"Action79ExecuteImmediately:d":	0,
+				"Action79SpawnCount:d":	1,
+				"Action79NPCGuid0:g":	"CD588B10_05EC6401",
+				"Action79LocationGuid0:g":	"0D8ADF0C_44366800",
+				"Action79FacingGuid0:g":	"0D8ADF0C_4436C400",
+				"Action79Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action80",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType80:d":	11,
+				"ActionName80:s":	"Spawn Black Spider 004 - Spider Spawn Loc 004",
+				"Action80ExecuteDelay:f":	4,
+				"Action80ExecuteImmediately:d":	0,
+				"Action80SpawnCount:d":	1,
+				"Action80NPCGuid0:g":	"CD588B10_05EC5401",
+				"Action80LocationGuid0:g":	"0D8ADF0C_44363000",
+				"Action80FacingGuid0:g":	"0D8ADF0C_44369800",
+				"Action80Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action81",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType81:d":	11,
+				"ActionName81:s":	"Spawn Black Spider 003 - Spider Spawn Loc 004",
+				"Action81ExecuteDelay:f":	2,
+				"Action81ExecuteImmediately:d":	0,
+				"Action81SpawnCount:d":	1,
+				"Action81NPCGuid0:g":	"CD588B10_05EC1C01",
+				"Action81LocationGuid0:g":	"0D8ADF0C_44363000",
+				"Action81FacingGuid0:g":	"0D8ADF0C_44369800",
+				"Action81Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action82",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType82:d":	11,
+				"ActionName82:s":	"Spawn Black Spider 002 - Spider Spawn Loc 001",
+				"Action82ExecuteDelay:f":	4,
+				"Action82ExecuteImmediately:d":	0,
+				"Action82SpawnCount:d":	1,
+				"Action82NPCGuid0:g":	"CD588B10_05EBFC01",
+				"Action82LocationGuid0:g":	"CD588A8C_3A973400",
+				"Action82FacingGuid0:g":	"CD588A8C_3A97D401",
+				"Action82Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action83",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType83:d":	11,
+				"ActionName83:s":	"Spawn Black Spider 001 - Spider Spawn Loc 001",
+				"Action83ExecuteDelay:f":	2,
+				"Action83ExecuteImmediately:d":	0,
+				"Action83SpawnCount:d":	1,
+				"Action83NPCGuid0:g":	"CD5887D0_05E52801",
+				"Action83LocationGuid0:g":	"CD588A8C_3A973400",
+				"Action83FacingGuid0:g":	"CD588A8C_3A97D401",
+				"Action83Animation0:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action84",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType84:d":	50,
+				"ActionName84:s":	"Set Run AI - False - SpiderQueen Wrath",
+				"Action84ExecuteDelay:f":	0,
+				"Action84ExecuteImmediately:d":	0,
+				"Action84DoRunAI:d":	0,
+				"Action84NPC:g":	"C0CFAD8F_BAED5400"
+			}]
+	}, {
+		"name":	"Action85",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType85:d":	50,
+				"ActionName85:s":	"Set Run AI - False - SpiderQueen Wild",
+				"Action85ExecuteDelay:f":	0,
+				"Action85ExecuteImmediately:d":	0,
+				"Action85DoRunAI:d":	0,
+				"Action85NPC:g":	"C0CFAD8F_BAEC4000"
+			}]
+	}, {
+		"name":	"Action86",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType86:d":	50,
+				"ActionName86:s":	"Set Run AI - False - SpiderQueen Wicked",
+				"Action86ExecuteDelay:f":	0,
+				"Action86ExecuteImmediately:d":	0,
+				"Action86DoRunAI:d":	0,
+				"Action86NPC:g":	"C0CFAD8F_BAE9B800"
+			}]
+	}, {
+		"name":	"Action87",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType87:d":	28,
+				"ActionName87:s":	"Set Render ON - SB Spiders",
+				"Action87ExecuteDelay:f":	0,
+				"Action87ExecuteImmediately:d":	0,
+				"Action87DoRender:d":	1,
+				"Action87NPCCount:d":	67,
+				"Action87NPCGuid0:g":	"C0CFA88F_E15DA801",
+				"Action87NPCGuid1:g":	"C0CFA88F_E15F9001",
+				"Action87NPCGuid2:g":	"C0CFA710_04D2AC01",
+				"Action87NPCGuid3:g":	"C0CFA88F_E16EC401",
+				"Action87NPCGuid4:g":	"C0CFA710_04D49401",
+				"Action87NPCGuid5:g":	"C0CFA88F_E15FD001",
+				"Action87NPCGuid6:g":	"C0CFAACF_EC487001",
+				"Action87NPCGuid7:g":	"C0CFAACF_EC382001",
+				"Action87NPCGuid8:g":	"C0CFA710_04D52801",
+				"Action87NPCGuid9:g":	"C0CFAAD0_03EFA401",
+				"Action87NPCGuid10:g":	"C0CFAACF_EC4ACC01",
+				"Action87NPCGuid11:g":	"C0CFAACF_EC4B4C01",
+				"Action87NPCGuid12:g":	"C0CFAACF_EC4B6801",
+				"Action87NPCGuid13:g":	"C0CFAACF_EC4B9C01",
+				"Action87NPCGuid14:g":	"C0CFAACF_EC4BB401",
+				"Action87NPCGuid15:g":	"C0CFAACF_EC4BE801",
+				"Action87NPCGuid16:g":	"C0CFAACF_EC4BFC01",
+				"Action87NPCGuid17:g":	"C0CFAACF_EC4C1801",
+				"Action87NPCGuid18:g":	"C0CFAACF_EC4C3001",
+				"Action87NPCGuid19:g":	"C0CFAACF_EC4C5401",
+				"Action87NPCGuid20:g":	"C0CFAACF_EC51A40A",
+				"Action87NPCGuid21:g":	"C0CFAACF_EC51A40D",
+				"Action87NPCGuid22:g":	"C0CFAACF_EC51A410",
+				"Action87NPCGuid23:g":	"C0CFAACF_EC51A413",
+				"Action87NPCGuid24:g":	"C0CFAACF_EC51A416",
+				"Action87NPCGuid25:g":	"C0CFAACF_EC51A419",
+				"Action87NPCGuid26:g":	"C0CFAACF_EC51A41C",
+				"Action87NPCGuid27:g":	"C0CFAACF_EC51A41F",
+				"Action87NPCGuid28:g":	"C0CFAACF_EC51A422",
+				"Action87NPCGuid29:g":	"C0CFAACF_EC51A425",
+				"Action87NPCGuid30:g":	"C0CFAACF_EC54940A",
+				"Action87NPCGuid31:g":	"C0CFAACF_EC54940D",
+				"Action87NPCGuid32:g":	"C0CFAACF_EC549410",
+				"Action87NPCGuid33:g":	"C0CFAACF_EC549413",
+				"Action87NPCGuid34:g":	"C0CFAACF_EC549416",
+				"Action87NPCGuid35:g":	"C0CFAACF_EC549419",
+				"Action87NPCGuid36:g":	"C0CFAACF_EC54941C",
+				"Action87NPCGuid37:g":	"C0CFAACF_EC54941F",
+				"Action87NPCGuid38:g":	"C0CFA88F_E163C801",
+				"Action87NPCGuid39:g":	"C0CFA710_04D36801",
+				"Action87NPCGuid40:g":	"C0CFA88F_E165B001",
+				"Action87NPCGuid41:g":	"C0CFA88F_E165E801",
+				"Action87NPCGuid42:g":	"C0CFA88F_E1667801",
+				"Action87NPCGuid43:g":	"C0CFA88F_E1668C01",
+				"Action87NPCGuid44:g":	"C0CFA88F_E16A0401",
+				"Action87NPCGuid45:g":	"C0CFA88F_E17F0001",
+				"Action87NPCGuid46:g":	"C0CFA88F_E1808401",
+				"Action87NPCGuid47:g":	"C0CFA88F_E180CC01",
+				"Action87NPCGuid48:g":	"C0CFA88F_E1810C01",
+				"Action87NPCGuid49:g":	"C0CFA88F_E1814401",
+				"Action87NPCGuid50:g":	"C0CFA88F_E1819001",
+				"Action87NPCGuid51:g":	"C0CFA88F_E181B001",
+				"Action87NPCGuid52:g":	"C0CFA88F_E181C401",
+				"Action87NPCGuid53:g":	"C0CFA88F_E1824801",
+				"Action87NPCGuid54:g":	"C0CFA88F_E1826001",
+				"Action87NPCGuid55:g":	"C0CFA88F_E1828401",
+				"Action87NPCGuid56:g":	"C0CFA88F_E1829801",
+				"Action87NPCGuid57:g":	"C0CFA48F_9BB35000",
+				"Action87NPCGuid58:g":	"C0CFA48F_9BC9B001",
+				"Action87NPCGuid59:g":	"C0CFA48F_D09FB801",
+				"Action87NPCGuid60:g":	"C0CFAACF_EC16A001",
+				"Action87NPCGuid61:g":	"C0CFA710_04D16801",
+				"Action87NPCGuid62:g":	"C0CFA88F_E16B7C01",
+				"Action87NPCGuid63:g":	"C0CFA710_04D3EC01",
+				"Action87NPCGuid64:g":	"C0CFA88F_E16C6801",
+				"Action87NPCGuid65:g":	"C0CFA88F_E16D8C01",
+				"Action87NPCGuid66:g":	"C0CFA88F_E16DC001"
+			}]
+	}, {
+		"name":	"Action88",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType88:d":	28,
+				"ActionName88:s":	"Set Render OFF - SB Spiders",
+				"Action88ExecuteDelay:f":	0,
+				"Action88ExecuteImmediately:d":	0,
+				"Action88DoRender:d":	0,
+				"Action88NPCCount:d":	67,
+				"Action88NPCGuid0:g":	"C0CFA88F_E15DA801",
+				"Action88NPCGuid1:g":	"C0CFA88F_E15F9001",
+				"Action88NPCGuid2:g":	"C0CFA710_04D2AC01",
+				"Action88NPCGuid3:g":	"C0CFA88F_E16EC401",
+				"Action88NPCGuid4:g":	"C0CFA710_04D49401",
+				"Action88NPCGuid5:g":	"C0CFA88F_E15FD001",
+				"Action88NPCGuid6:g":	"C0CFAACF_EC487001",
+				"Action88NPCGuid7:g":	"C0CFAACF_EC382001",
+				"Action88NPCGuid8:g":	"C0CFA710_04D52801",
+				"Action88NPCGuid9:g":	"C0CFAAD0_03EFA401",
+				"Action88NPCGuid10:g":	"C0CFAACF_EC4ACC01",
+				"Action88NPCGuid11:g":	"C0CFAACF_EC4B4C01",
+				"Action88NPCGuid12:g":	"C0CFAACF_EC4B6801",
+				"Action88NPCGuid13:g":	"C0CFAACF_EC4B9C01",
+				"Action88NPCGuid14:g":	"C0CFAACF_EC4BB401",
+				"Action88NPCGuid15:g":	"C0CFAACF_EC4BE801",
+				"Action88NPCGuid16:g":	"C0CFAACF_EC4BFC01",
+				"Action88NPCGuid17:g":	"C0CFAACF_EC4C1801",
+				"Action88NPCGuid18:g":	"C0CFAACF_EC4C3001",
+				"Action88NPCGuid19:g":	"C0CFAACF_EC4C5401",
+				"Action88NPCGuid20:g":	"C0CFAACF_EC51A40A",
+				"Action88NPCGuid21:g":	"C0CFAACF_EC51A40D",
+				"Action88NPCGuid22:g":	"C0CFAACF_EC51A410",
+				"Action88NPCGuid23:g":	"C0CFAACF_EC51A413",
+				"Action88NPCGuid24:g":	"C0CFAACF_EC51A416",
+				"Action88NPCGuid25:g":	"C0CFAACF_EC51A419",
+				"Action88NPCGuid26:g":	"C0CFAACF_EC51A41C",
+				"Action88NPCGuid27:g":	"C0CFAACF_EC51A41F",
+				"Action88NPCGuid28:g":	"C0CFAACF_EC51A422",
+				"Action88NPCGuid29:g":	"C0CFAACF_EC51A425",
+				"Action88NPCGuid30:g":	"C0CFAACF_EC54940A",
+				"Action88NPCGuid31:g":	"C0CFAACF_EC54940D",
+				"Action88NPCGuid32:g":	"C0CFAACF_EC549410",
+				"Action88NPCGuid33:g":	"C0CFAACF_EC549413",
+				"Action88NPCGuid34:g":	"C0CFAACF_EC549416",
+				"Action88NPCGuid35:g":	"C0CFAACF_EC549419",
+				"Action88NPCGuid36:g":	"C0CFAACF_EC54941C",
+				"Action88NPCGuid37:g":	"C0CFAACF_EC54941F",
+				"Action88NPCGuid38:g":	"C0CFA88F_E163C801",
+				"Action88NPCGuid39:g":	"C0CFA710_04D36801",
+				"Action88NPCGuid40:g":	"C0CFA88F_E165B001",
+				"Action88NPCGuid41:g":	"C0CFA88F_E165E801",
+				"Action88NPCGuid42:g":	"C0CFA88F_E1667801",
+				"Action88NPCGuid43:g":	"C0CFA88F_E1668C01",
+				"Action88NPCGuid44:g":	"C0CFA88F_E16A0401",
+				"Action88NPCGuid45:g":	"C0CFA88F_E17F0001",
+				"Action88NPCGuid46:g":	"C0CFA88F_E1808401",
+				"Action88NPCGuid47:g":	"C0CFA88F_E180CC01",
+				"Action88NPCGuid48:g":	"C0CFA88F_E1810C01",
+				"Action88NPCGuid49:g":	"C0CFA88F_E1814401",
+				"Action88NPCGuid50:g":	"C0CFA88F_E1819001",
+				"Action88NPCGuid51:g":	"C0CFA88F_E181B001",
+				"Action88NPCGuid52:g":	"C0CFA88F_E181C401",
+				"Action88NPCGuid53:g":	"C0CFA88F_E1824801",
+				"Action88NPCGuid54:g":	"C0CFA88F_E1826001",
+				"Action88NPCGuid55:g":	"C0CFA88F_E1828401",
+				"Action88NPCGuid56:g":	"C0CFA88F_E1829801",
+				"Action88NPCGuid57:g":	"C0CFA48F_9BB35000",
+				"Action88NPCGuid58:g":	"C0CFA48F_9BC9B001",
+				"Action88NPCGuid59:g":	"C0CFA48F_D09FB801",
+				"Action88NPCGuid60:g":	"C0CFAACF_EC16A001",
+				"Action88NPCGuid61:g":	"C0CFA710_04D16801",
+				"Action88NPCGuid62:g":	"C0CFA88F_E16B7C01",
+				"Action88NPCGuid63:g":	"C0CFA710_04D3EC01",
+				"Action88NPCGuid64:g":	"C0CFA88F_E16C6801",
+				"Action88NPCGuid65:g":	"C0CFA88F_E16D8C01",
+				"Action88NPCGuid66:g":	"C0CFA88F_E16DC001"
+			}]
+	}, {
+		"name":	"Action89",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType89:d":	23,
+				"ActionName89:s":	"Set NPC Idle - Corwin Stop Kneeling - Standing Idle",
+				"Action89ExecuteDelay:f":	0,
+				"Action89ExecuteImmediately:d":	0,
+				"Action89IdleAnim:s":	"Idle",
+				"Action89NPC:g":	"CA3DD38C_43FF7400"
+			}]
+	}, {
+		"name":	"Action90",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType90:d":	9,
+				"ActionName90:s":	"Set Inventory - Remove Signet Ring",
+				"Action90ExecuteDelay:f":	0,
+				"Action90ExecuteImmediately:d":	0,
+				"Action90Item:s":	"SIGNETRING",
+				"Action90Add:d":	0,
+				"Action90Amount:d":	1,
+				"Action90SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action91",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType91:d":	11,
+				"ActionName91:s":	"SB Spawn Wave 6 Spiders 002 - B28-29 G19-20 R5 - With Wicked",
+				"Action91ExecuteDelay:f":	4,
+				"Action91ExecuteImmediately:d":	0,
+				"Action91SpawnCount:d":	5,
+				"Action91NPCGuid0:g":	"C0CFAAD0_03EFA401",
+				"Action91LocationGuid0:g":	"C0CFA94F_E9301401",
+				"Action91FacingGuid0:g":	"C0CFA90F_E5DC8C00",
+				"Action91Animation0:s":	"combat_idle",
+				"Action91NPCGuid1:g":	"C0CFAACF_EC54941F",
+				"Action91LocationGuid1:g":	"C0CFA94F_E9309801",
+				"Action91FacingGuid1:g":	"C0CFA90F_E5DC8C00",
+				"Action91Animation1:s":	"spawn",
+				"Action91NPCGuid2:g":	"CD588912_B2BC0801",
+				"Action91LocationGuid2:g":	"C0CFAB4F_E59C6C00",
+				"Action91FacingGuid2:g":	"C0CFA90F_E5DC8C00",
+				"Action91Animation2:s":	"combat_idle",
+				"Action91NPCGuid3:g":	"CD588912_B2BC4C01",
+				"Action91LocationGuid3:g":	"C0CFAB4F_E59DCC01",
+				"Action91FacingGuid3:g":	"C0CFA90F_E5DC8C00",
+				"Action91Animation3:s":	"combat_idle",
+				"Action91NPCGuid4:g":	"C0CFA88F_E1829801",
+				"Action91LocationGuid4:g":	"C0CFAB4F_E5AEF801",
+				"Action91FacingGuid4:g":	"C0CFA90F_E5DC8C00",
+				"Action91Animation4:s":	""
+			}]
+	}, {
+		"name":	"Action92",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType92:d":	11,
+				"ActionName92:s":	"SB Spawn Wave 6 Spiders 001 - W10 B11,14 G18 C6 - With Wicked",
+				"Action92ExecuteDelay:f":	0,
+				"Action92ExecuteImmediately:d":	0,
+				"Action92SpawnCount:d":	5,
+				"Action92NPCGuid0:g":	"C0CFA88F_E15FD001",
+				"Action92LocationGuid0:g":	"C0CFA94F_E9306401",
+				"Action92FacingGuid0:g":	"C0CFA90F_E5DC8C00",
+				"Action92Animation0:s":	"combat_idle",
+				"Action92NPCGuid1:g":	"C0CFA88F_E16DC001",
+				"Action92LocationGuid1:g":	"C0CFA94F_E9309801",
+				"Action92FacingGuid1:g":	"C0CFA90F_E5DC8C00",
+				"Action92Animation1:s":	"combat_idle",
+				"Action92NPCGuid2:g":	"C0CFAACF_EC51A40A",
+				"Action92LocationGuid2:g":	"C0CFA94F_E930D001",
+				"Action92FacingGuid2:g":	"C0CFA90F_E5DC8C00",
+				"Action92Animation2:s":	"combat_idle",
+				"Action92NPCGuid3:g":	"C0CFAACF_EC51A413",
+				"Action92LocationGuid3:g":	"C0CFAB4F_E59C6C00",
+				"Action92FacingGuid3:g":	"C0CFA90F_E5DC8C00",
+				"Action92Animation3:s":	"combat_idle",
+				"Action92NPCGuid4:g":	"C0CFA88F_E1828401",
+				"Action92LocationGuid4:g":	"C0CFAB4F_E5AEF801",
+				"Action92FacingGuid4:g":	"C0CFA90F_E5DC8C00",
+				"Action92Animation4:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action93",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType93:d":	11,
+				"ActionName93:s":	"SB Spawn Wave 5 Spiders 002 - B25-27 G16-17 - With Wrath",
+				"Action93ExecuteDelay:f":	4,
+				"Action93ExecuteImmediately:d":	0,
+				"Action93SpawnCount:d":	5,
+				"Action93NPCGuid0:g":	"C0CFA88F_E1824801",
+				"Action93LocationGuid0:g":	"C0CFA94F_E9309801",
+				"Action93FacingGuid0:g":	"C0CFA90F_E5DC8C00",
+				"Action93Animation0:s":	"combat_idle",
+				"Action93NPCGuid1:g":	"C0CFAACF_EC549416",
+				"Action93LocationGuid1:g":	"C0CFAB4F_E59C6C00",
+				"Action93FacingGuid1:g":	"C0CFA90F_E5DC8C00",
+				"Action93Animation1:s":	"combat_idle",
+				"Action93NPCGuid2:g":	"C0CFAACF_EC549419",
+				"Action93LocationGuid2:g":	"C0CFAB4F_E59DCC01",
+				"Action93FacingGuid2:g":	"C0CFA90F_E5DC8C00",
+				"Action93Animation2:s":	"combat_idle",
+				"Action93NPCGuid3:g":	"CD588912_B2B92C01",
+				"Action93LocationGuid3:g":	"C0CFAB4F_E5AEF801",
+				"Action93FacingGuid3:g":	"C0CFA90F_E5DC8C00",
+				"Action93Animation3:s":	"combat_idle",
+				"Action93NPCGuid4:g":	"C0CFA88F_E1826001",
+				"Action93LocationGuid4:g":	"C0CFA94F_E9301401",
+				"Action93FacingGuid4:g":	"C0CFA90F_E5DC8C00",
+				"Action93Animation4:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action94",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType94:d":	11,
+				"ActionName94:s":	"SB Spawn Wave 5 Spiders 001 - W9 B22 G14-15 C5 - With Wrath",
+				"Action94ExecuteDelay:f":	0,
+				"Action94ExecuteImmediately:d":	0,
+				"Action94SpawnCount:d":	5,
+				"Action94NPCGuid0:g":	"C0CFA88F_E16D8C01",
+				"Action94LocationGuid0:g":	"C0CFA94F_E9306401",
+				"Action94FacingGuid0:g":	"C0CFA90F_E5DC8C00",
+				"Action94Animation0:s":	"combat_idle",
+				"Action94NPCGuid1:g":	"C0CFAACF_EC54940D",
+				"Action94LocationGuid1:g":	"C0CFA94F_E9309801",
+				"Action94FacingGuid1:g":	"C0CFA90F_E5DC8C00",
+				"Action94Animation1:s":	"combat_idle",
+				"Action94NPCGuid2:g":	"C0CFA710_04D49401",
+				"Action94LocationGuid2:g":	"C0CFA94F_E930D001",
+				"Action94FacingGuid2:g":	"C0CFA90F_E5DC8C00",
+				"Action94Animation2:s":	"combat_idle",
+				"Action94NPCGuid3:g":	"C0CFA88F_E181C401",
+				"Action94LocationGuid3:g":	"C0CFA94F_E9301401",
+				"Action94FacingGuid3:g":	"C0CFA90F_E5DC8C00",
+				"Action94Animation3:s":	"combat_idle",
+				"Action94NPCGuid4:g":	"C0CFA88F_E181B001",
+				"Action94LocationGuid4:g":	"C0CFAB4F_E59DCC01",
+				"Action94FacingGuid4:g":	"C0CFA90F_E5DC8C00",
+				"Action94Animation4:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action95",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType95:d":	11,
+				"ActionName95:s":	"SB Spawn Wave 4 Spiders 002 - W8 B21 G12-13 R3 - With Wild",
+				"Action95ExecuteDelay:f":	4,
+				"Action95ExecuteImmediately:d":	0,
+				"Action95SpawnCount:d":	5,
+				"Action95NPCGuid0:g":	"C0CFA88F_E16C6801",
+				"Action95LocationGuid0:g":	"C0CFA94F_E930D001",
+				"Action95FacingGuid0:g":	"C0CFA90F_E5DC8C00",
+				"Action95Animation0:s":	"combat_idle",
+				"Action95NPCGuid1:g":	"C0CFA710_04D52801",
+				"Action95LocationGuid1:g":	"C0CFAB4F_E59C6C00",
+				"Action95FacingGuid1:g":	"C0CFA90F_E5DC8C00",
+				"Action95Animation1:s":	"spawn",
+				"Action95NPCGuid2:g":	"C0CFAACF_EC54940A",
+				"Action95LocationGuid2:g":	"C0CFAB4F_E59DCC01",
+				"Action95FacingGuid2:g":	"C0CFA90F_E5DC8C00",
+				"Action95Animation2:s":	"spawn",
+				"Action95NPCGuid3:g":	"C0CFA88F_E1814401",
+				"Action95LocationGuid3:g":	"C0CFAB4F_E5AEF801",
+				"Action95FacingGuid3:g":	"C0CFA90F_E5DC8C00",
+				"Action95Animation3:s":	"spawn",
+				"Action95NPCGuid4:g":	"C0CFA88F_E1819001",
+				"Action95LocationGuid4:g":	"C0CFA94F_E9301401",
+				"Action95FacingGuid4:g":	"C0CFA90F_E5DC8C00",
+				"Action95Animation4:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action96",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType96:d":	11,
+				"ActionName96:s":	"SB Spawn Wave 4 Spiders 001 - B15-18 G21 - With Wild",
+				"Action96ExecuteDelay:f":	0,
+				"Action96ExecuteImmediately:d":	0,
+				"Action96SpawnCount:d":	5,
+				"Action96NPCGuid0:g":	"C0CFAACF_EC51A416",
+				"Action96LocationGuid0:g":	"C0CFA94F_E9306401",
+				"Action96FacingGuid0:g":	"C0CFA90F_E5DC8C00",
+				"Action96Animation0:s":	"combat_idle",
+				"Action96NPCGuid1:g":	"C0CFAACF_EC51A419",
+				"Action96LocationGuid1:g":	"C0CFA94F_E9309801",
+				"Action96FacingGuid1:g":	"C0CFA90F_E5DC8C00",
+				"Action96Animation1:s":	"combat_idle",
+				"Action96NPCGuid2:g":	"C0CFAACF_EC51A41C",
+				"Action96LocationGuid2:g":	"C0CFA94F_E930D001",
+				"Action96FacingGuid2:g":	"C0CFA90F_E5DC8C00",
+				"Action96Animation2:s":	"combat_idle",
+				"Action96NPCGuid3:g":	"C0CFAACF_EC51A41F",
+				"Action96LocationGuid3:g":	"C0CFAB4F_E59C6C00",
+				"Action96FacingGuid3:g":	"C0CFA90F_E5DC8C00",
+				"Action96Animation3:s":	"combat_idle",
+				"Action96NPCGuid4:g":	"CD588912_B2BF2401",
+				"Action96LocationGuid4:g":	"C0CFAB4F_E5AEF801",
+				"Action96FacingGuid4:g":	"C0CFA90F_E5DC8C00",
+				"Action96Animation4:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action97",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType97:d":	11,
+				"ActionName97:s":	"SB Spawn Wave 3 Spiders 002 - W7 B12-13 G10 C4",
+				"Action97ExecuteDelay:f":	4,
+				"Action97ExecuteImmediately:d":	0,
+				"Action97SpawnCount:d":	5,
+				"Action97NPCGuid0:g":	"C0CFAACF_EC51A40D",
+				"Action97LocationGuid0:g":	"C0CFA94F_E9306401",
+				"Action97FacingGuid0:g":	"C0CFA90F_E5DC8C00",
+				"Action97Animation0:s":	"combat_idle",
+				"Action97NPCGuid1:g":	"C0CFA710_04D3EC01",
+				"Action97LocationGuid1:g":	"C0CFA94F_E9309801",
+				"Action97FacingGuid1:g":	"C0CFA90F_E5DC8C00",
+				"Action97Animation1:s":	"spawn",
+				"Action97NPCGuid2:g":	"C0CFAACF_EC51A410",
+				"Action97LocationGuid2:g":	"C0CFAB4F_E59C6C00",
+				"Action97FacingGuid2:g":	"C0CFA90F_E5DC8C00",
+				"Action97Animation2:s":	"combat_idle",
+				"Action97NPCGuid3:g":	"C0CFA88F_E180CC01",
+				"Action97LocationGuid3:g":	"C0CFAB4F_E59DCC01",
+				"Action97FacingGuid3:g":	"C0CFA90F_E5DC8C00",
+				"Action97Animation3:s":	"combat_idle",
+				"Action97NPCGuid4:g":	"C0CFA88F_E16EC401",
+				"Action97LocationGuid4:g":	"C0CFA94F_E930D001",
+				"Action97FacingGuid4:g":	"C0CFA90F_E5DC8C00",
+				"Action97Animation4:s":	""
+			}]
+	}, {
+		"name":	"Action98",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType98:d":	11,
+				"ActionName98:s":	"SB Spawn Wave 3 Spiders 001 - W6 B9 G9 R2 C3",
+				"Action98ExecuteDelay:f":	0,
+				"Action98ExecuteImmediately:d":	0,
+				"Action98SpawnCount:d":	5,
+				"Action98NPCGuid0:g":	"C0CFA710_04D2AC01",
+				"Action98LocationGuid0:g":	"C0CFA94F_E9306401",
+				"Action98FacingGuid0:g":	"C0CFA90F_E5DC8C00",
+				"Action98Animation0:s":	"combat_idle",
+				"Action98NPCGuid1:g":	"C0CFA88F_E16B7C01",
+				"Action98LocationGuid1:g":	"C0CFA94F_E9309801",
+				"Action98FacingGuid1:g":	"C0CFA90F_E5DC8C00",
+				"Action98Animation1:s":	"combat_idle",
+				"Action98NPCGuid2:g":	"C0CFAACF_EC4C3001",
+				"Action98LocationGuid2:g":	"C0CFA94F_E930D001",
+				"Action98FacingGuid2:g":	"C0CFA90F_E5DC8C00",
+				"Action98Animation2:s":	"combat_idle",
+				"Action98NPCGuid3:g":	"C0CFA88F_E1808401",
+				"Action98LocationGuid3:g":	"C0CFA94F_E9301401",
+				"Action98FacingGuid3:g":	"C0CFA90F_E5DC8C00",
+				"Action98Animation3:s":	"combat_idle",
+				"Action98NPCGuid4:g":	"C0CFAACF_EC382001",
+				"Action98LocationGuid4:g":	"C0CFAB4F_E59DCC01",
+				"Action98FacingGuid4:g":	"C0CFA90F_E5DC8C00",
+				"Action98Animation4:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action99",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType99:d":	11,
+				"ActionName99:s":	"SB Spawn Wave 2 Spiders 002 - W5 B7-8 G7-8",
+				"Action99ExecuteDelay:f":	4,
+				"Action99ExecuteImmediately:d":	0,
+				"Action99SpawnCount:d":	5,
+				"Action99NPCGuid0:g":	"C0CFA710_04D16801",
+				"Action99LocationGuid0:g":	"C0CFA94F_E930D001",
+				"Action99FacingGuid0:g":	"C0CFA90F_E5DC8C00",
+				"Action99Animation0:s":	"combat_idle",
+				"Action99NPCGuid1:g":	"C0CFA88F_E16A0401",
+				"Action99LocationGuid1:g":	"C0CFAB4F_E59C6C00",
+				"Action99FacingGuid1:g":	"C0CFA90F_E5DC8C00",
+				"Action99Animation1:s":	"spawn",
+				"Action99NPCGuid2:g":	"C0CFA88F_E17F0001",
+				"Action99LocationGuid2:g":	"C0CFAB4F_E59DCC01",
+				"Action99FacingGuid2:g":	"C0CFA90F_E5DC8C00",
+				"Action99Animation2:s":	"spawn",
+				"Action99NPCGuid3:g":	"C0CFAACF_EC4BFC01",
+				"Action99LocationGuid3:g":	"C0CFAB4F_E5AEF801",
+				"Action99FacingGuid3:g":	"C0CFA90F_E5DC8C00",
+				"Action99Animation3:s":	"spawn",
+				"Action99NPCGuid4:g":	"C0CFAACF_EC4C1801",
+				"Action99LocationGuid4:g":	"C0CFA94F_E9301401",
+				"Action99FacingGuid4:g":	"C0CFA90F_E5DC8C00",
+				"Action99Animation4:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action100",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType100:d":	11,
+				"ActionName100:s":	"SB Spawn Wave 2 Spiders 001 - W4 B5 G5 R1 C2",
+				"Action100ExecuteDelay:f":	0,
+				"Action100ExecuteImmediately:d":	0,
+				"Action100SpawnCount:d":	5,
+				"Action100NPCGuid0:g":	"C0CFAACF_EC16A001",
+				"Action100LocationGuid0:g":	"C0CFA94F_E9306401",
+				"Action100FacingGuid0:g":	"C0CFA90F_E5DC8C00",
+				"Action100Animation0:s":	"combat_idle",
+				"Action100NPCGuid1:g":	"C0CFAACF_EC4BB401",
+				"Action100LocationGuid1:g":	"C0CFA94F_E9309801",
+				"Action100FacingGuid1:g":	"C0CFA90F_E5DC8C00",
+				"Action100Animation1:s":	"combat_idle",
+				"Action100NPCGuid2:g":	"C0CFA88F_E15F9001",
+				"Action100LocationGuid2:g":	"C0CFA94F_E930D001",
+				"Action100FacingGuid2:g":	"C0CFA90F_E5DC8C00",
+				"Action100Animation2:s":	"combat_idle",
+				"Action100NPCGuid3:g":	"C0CFA88F_E1667801",
+				"Action100LocationGuid3:g":	"C0CFAB4F_E59C6C00",
+				"Action100FacingGuid3:g":	"C0CFA90F_E5DC8C00",
+				"Action100Animation3:s":	"combat_idle",
+				"Action100NPCGuid4:g":	"C0CFAACF_EC487001",
+				"Action100LocationGuid4:g":	"C0CFA94F_E9301401",
+				"Action100FacingGuid4:g":	"C0CFA90F_E5DC8C00",
+				"Action100Animation4:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action101",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType101:d":	11,
+				"ActionName101:s":	"SB Spawn Wave 1 Spiders 002 - W3 B3-4 G3-4",
+				"Action101ExecuteDelay:f":	4,
+				"Action101ExecuteImmediately:d":	0,
+				"Action101SpawnCount:d":	5,
+				"Action101NPCGuid0:g":	"C0CFA48F_D09FB801",
+				"Action101LocationGuid0:g":	"C0CFA94F_E9306401",
+				"Action101FacingGuid0:g":	"C0CFA90F_E5DC8C00",
+				"Action101Animation0:s":	"spawn",
+				"Action101NPCGuid1:g":	"C0CFAACF_EC4B6801",
+				"Action101LocationGuid1:g":	"C0CFAB4F_E59C6C00",
+				"Action101FacingGuid1:g":	"C0CFA90F_E5DC8C00",
+				"Action101Animation1:s":	"spawn",
+				"Action101NPCGuid2:g":	"C0CFAACF_EC4B9C01",
+				"Action101LocationGuid2:g":	"C0CFAB4F_E59DCC01",
+				"Action101FacingGuid2:g":	"C0CFA90F_E5DC8C00",
+				"Action101Animation2:s":	"spawn",
+				"Action101NPCGuid3:g":	"C0CFA88F_E165B001",
+				"Action101LocationGuid3:g":	"C0CFAB4F_E5AEF801",
+				"Action101FacingGuid3:g":	"C0CFA90F_E5DC8C00",
+				"Action101Animation3:s":	"spawn",
+				"Action101NPCGuid4:g":	"C0CFA88F_E165E801",
+				"Action101LocationGuid4:g":	"C0CFA94F_E9301401",
+				"Action101FacingGuid4:g":	"C0CFA90F_E5DC8C00",
+				"Action101Animation4:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action102",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType102:d":	11,
+				"ActionName102:s":	"SB Spawn Wave 1 Spiders 001 - W1-2 B1 G1 C1",
+				"Action102ExecuteDelay:f":	0,
+				"Action102ExecuteImmediately:d":	0,
+				"Action102SpawnCount:d":	5,
+				"Action102NPCGuid0:g":	"C0CFA48F_9BB35000",
+				"Action102LocationGuid0:g":	"C0CFA94F_E9306401",
+				"Action102FacingGuid0:g":	"C0CFA90F_E5DC8C00",
+				"Action102Animation0:s":	"combat_idle",
+				"Action102NPCGuid1:g":	"C0CFA48F_9BC9B001",
+				"Action102LocationGuid1:g":	"C0CFA94F_E9309801",
+				"Action102FacingGuid1:g":	"C0CFA90F_E5DC8C00",
+				"Action102Animation1:s":	"combat_idle",
+				"Action102NPCGuid2:g":	"C0CFAACF_EC4ACC01",
+				"Action102LocationGuid2:g":	"C0CFAB4F_E59C6C00",
+				"Action102FacingGuid2:g":	"C0CFA90F_E5DC8C00",
+				"Action102Animation2:s":	"combat_idle",
+				"Action102NPCGuid3:g":	"C0CFA88F_E15DA801",
+				"Action102LocationGuid3:g":	"C0CFA94F_E930D001",
+				"Action102FacingGuid3:g":	"C0CFA90F_E5DC8C00",
+				"Action102Animation3:s":	"combat_idle",
+				"Action102NPCGuid4:g":	"C0CFA88F_E163C801",
+				"Action102LocationGuid4:g":	"C0CFAB4F_E5AEF801",
+				"Action102FacingGuid4:g":	"C0CFA90F_E5DC8C00",
+				"Action102Animation4:s":	"spawn"
+			}]
+	}, {
+		"name":	"Action103",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType103:d":	35,
+				"ActionName103:s":	"Rope Length 650 - Web Rope 001",
+				"Action103ExecuteDelay:f":	0,
+				"Action103ExecuteImmediately:d":	0,
+				"Action103RopeCount:d":	1,
+				"Action103RopeGuid0:g":	"CD588291_CE562C01",
+				"Action103RopeLength0:f":	650
+			}]
+	}, {
+		"name":	"Action104",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType104:d":	35,
+				"ActionName104:s":	"Rope Length 50 - Cocoon Web Rope 003 Act",
+				"Action104ExecuteDelay:f":	0,
+				"Action104ExecuteImmediately:d":	0,
+				"Action104RopeCount:d":	1,
+				"Action104RopeGuid0:g":	"C0CFA590_3A466001",
+				"Action104RopeLength0:f":	50
+			}]
+	}, {
+		"name":	"Action105",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType105:d":	35,
+				"ActionName105:s":	"Rope Length 50 - Cocoon Web Rope 002 Act",
+				"Action105ExecuteDelay:f":	0,
+				"Action105ExecuteImmediately:d":	0,
+				"Action105RopeCount:d":	1,
+				"Action105RopeGuid0:g":	"C0CFA610_3ADBB001",
+				"Action105RopeLength0:f":	50
+			}]
+	}, {
+		"name":	"Action106",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType106:d":	35,
+				"ActionName106:s":	"Rope Length 50 - Cocoon Web Rope 001 Act",
+				"Action106ExecuteDelay:f":	0,
+				"Action106ExecuteImmediately:d":	0,
+				"Action106RopeCount:d":	1,
+				"Action106RopeGuid0:g":	"C0CFA610_3ADADC01",
+				"Action106RopeLength0:f":	50
+			}]
+	}, {
+		"name":	"Action107",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType107:d":	35,
+				"ActionName107:s":	"Rope Length 400 - Rope 008",
+				"Action107ExecuteDelay:f":	4,
+				"Action107ExecuteImmediately:d":	0,
+				"Action107RopeCount:d":	1,
+				"Action107RopeGuid0:g":	"CD588B12_5D15FC04",
+				"Action107RopeLength0:f":	400
+			}]
+	}, {
+		"name":	"Action108",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType108:d":	35,
+				"ActionName108:s":	"Rope Length 2400 - Cocoon Web Rope 003 Act",
+				"Action108ExecuteDelay:f":	0,
+				"Action108ExecuteImmediately:d":	0,
+				"Action108RopeCount:d":	1,
+				"Action108RopeGuid0:g":	"C0CFA590_3A466001",
+				"Action108RopeLength0:f":	2400
+			}]
+	}, {
+		"name":	"Action109",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType109:d":	35,
+				"ActionName109:s":	"Rope Length 2400 - Cocoon Web Rope 002 Act",
+				"Action109ExecuteDelay:f":	0,
+				"Action109ExecuteImmediately:d":	0,
+				"Action109RopeCount:d":	1,
+				"Action109RopeGuid0:g":	"C0CFA610_3ADBB001",
+				"Action109RopeLength0:f":	2400
+			}]
+	}, {
+		"name":	"Action110",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType110:d":	35,
+				"ActionName110:s":	"Rope Length 2400 - Cocoon Web Rope 001 Act",
+				"Action110ExecuteDelay:f":	0,
+				"Action110ExecuteImmediately:d":	0,
+				"Action110RopeCount:d":	1,
+				"Action110RopeGuid0:g":	"C0CFA610_3ADADC01",
+				"Action110RopeLength0:f":	2400
+			}]
+	}, {
+		"name":	"Action111",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType111:d":	22,
+				"ActionName111:s":	"Quest Give - Ring Main Act",
+				"Action111ExecuteDelay:f":	0,
+				"Action111ExecuteImmediately:d":	0,
+				"Action111QuestID:s":	"G_RING_CH06",
+				"Action111Required:d":	0
+			}]
+	}, {
+		"name":	"Action112",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType112:d":	22,
+				"ActionName112:s":	"Quest Give - Rescue The Dwarves",
+				"Action112ExecuteDelay:f":	0,
+				"Action112ExecuteImmediately:d":	0,
+				"Action112QuestID:s":	"B_RESCUE_DWARVES_CH06",
+				"Action112Required:d":	1
+			}]
+	}, {
+		"name":	"Action113",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType113:d":	22,
+				"ActionName113:s":	"Quest Give - Find The Dwarves",
+				"Action113ExecuteDelay:f":	0,
+				"Action113ExecuteImmediately:d":	0,
+				"Action113QuestID:s":	"A_FIND_DWARVES_CH06",
+				"Action113Required:d":	1
+			}]
+	}, {
+		"name":	"Action114",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType114:d":	22,
+				"ActionName114:s":	"Quest Give - Escape The Lair",
+				"Action114ExecuteDelay:f":	0,
+				"Action114ExecuteImmediately:d":	0,
+				"Action114QuestID:s":	"C_ESCAPE_LAIR_CH06",
+				"Action114Required:d":	1
+			}]
+	}, {
+		"name":	"Action115",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType115:d":	22,
+				"ActionName115:s":	"Quest Give - Break Web Sub Oil Act",
+				"Action115ExecuteDelay:f":	0,
+				"Action115ExecuteImmediately:d":	0,
+				"Action115QuestID:s":	"E_WEB_BARRIER_SUB_OIL_CH06",
+				"Action115Required:d":	1
+			}]
+	}, {
+		"name":	"Action116",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType116:d":	22,
+				"ActionName116:s":	"Quest Give - Break Web Sub Fire Act",
+				"Action116ExecuteDelay:f":	0,
+				"Action116ExecuteImmediately:d":	0,
+				"Action116QuestID:s":	"F_WEB_BARRIER_SUB_FIRE_CH06",
+				"Action116Required:d":	1
+			}]
+	}, {
+		"name":	"Action117",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType117:d":	22,
+				"ActionName117:s":	"Quest Give - Break Web Main Act",
+				"Action117ExecuteDelay:f":	0,
+				"Action117ExecuteImmediately:d":	0,
+				"Action117QuestID:s":	"D_WEB_BARRIER_CH06",
+				"Action117Required:d":	1
+			}]
+	}, {
+		"name":	"Action118",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType118:d":	34,
+				"ActionName118:s":	"Quest Done - Web Barrier Act",
+				"Action118ExecuteDelay:f":	0,
+				"Action118ExecuteImmediately:d":	0,
+				"Action118QuestID:s":	"D_WEB_BARRIER_CH06"
+			}]
+	}, {
+		"name":	"Action119",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType119:d":	34,
+				"ActionName119:s":	"Quest Done - Rescue The Dwarves",
+				"Action119ExecuteDelay:f":	0,
+				"Action119ExecuteImmediately:d":	0,
+				"Action119QuestID:s":	"B_RESCUE_DWARVES_CH06"
+			}]
+	}, {
+		"name":	"Action120",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType120:d":	29,
+				"ActionName120:s":	"Quest Done - Fire Act",
+				"Action120ExecuteDelay:f":	0,
+				"Action120ExecuteImmediately:d":	0,
+				"Action120QuestID:s":	"F_WEB_BARRIER_SUB_FIRE_CH06"
+			}]
+	}, {
+		"name":	"Action121",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType121:d":	34,
+				"ActionName121:s":	"Quest Done - Find The Dwarves",
+				"Action121ExecuteDelay:f":	0,
+				"Action121ExecuteImmediately:d":	0,
+				"Action121QuestID:s":	"A_FIND_DWARVES_CH06"
+			}]
+	}, {
+		"name":	"Action122",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType122:d":	29,
+				"ActionName122:s":	"Quest Done - Find Ring Act",
+				"Action122ExecuteDelay:f":	0,
+				"Action122ExecuteImmediately:d":	0,
+				"Action122QuestID:s":	"G_RING_CH06"
+			}]
+	}, {
+		"name":	"Action123",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType123:d":	29,
+				"ActionName123:s":	"Quest Done - Find Oil Act",
+				"Action123ExecuteDelay:f":	0,
+				"Action123ExecuteImmediately:d":	0,
+				"Action123QuestID:s":	"E_WEB_BARRIER_SUB_OIL_CH06"
+			}]
+	}, {
+		"name":	"Action124",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType124:d":	34,
+				"ActionName124:s":	"Quest Done - Escape The Lair",
+				"Action124ExecuteDelay:f":	0,
+				"Action124ExecuteImmediately:d":	0,
+				"Action124QuestID:s":	"C_ESCAPE_LAIR_CH06"
+			}]
+	}, {
+		"name":	"Action125",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType125:d":	9,
+				"ActionName125:s":	"Quest CP Reward Ring Act",
+				"Action125ExecuteDelay:f":	0,
+				"Action125ExecuteImmediately:d":	0,
+				"Action125Item:s":	"COURAGE",
+				"Action125Add:d":	1,
+				"Action125Amount:d":	200,
+				"Action125SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action126",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType126:d":	15,
+				"ActionName126:s":	"Pop To - Green Room Wrath - SpiderQueen Wrath",
+				"Action126ExecuteDelay:f":	0,
+				"Action126ExecuteImmediately:d":	0,
+				"Action126Object:g":	"C0CFAD8F_BAED5400",
+				"Action126Volume:g":	"C0CFA40F_E4643801",
+				"Action126Facing:g":	"00000000_00000000"
+			}]
+	}, {
+		"name":	"Action127",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType127:d":	15,
+				"ActionName127:s":	"Pop To - Green Room Wild - SpiderQueen Wild",
+				"Action127ExecuteDelay:f":	0,
+				"Action127ExecuteImmediately:d":	0,
+				"Action127Object:g":	"C0CFAD8F_BAEC4000",
+				"Action127Volume:g":	"C0CFA40F_E4645801",
+				"Action127Facing:g":	"00000000_00000000"
+			}]
+	}, {
+		"name":	"Action128",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType128:d":	15,
+				"ActionName128:s":	"Pop To - Green Room Wicked - SpiderQueen Wicked",
+				"Action128ExecuteDelay:f":	0,
+				"Action128ExecuteImmediately:d":	0,
+				"Action128Object:g":	"C0CFAD8F_BAE9B800",
+				"Action128Volume:g":	"C0CFA40F_E4648C01",
+				"Action128Facing:g":	"00000000_00000000"
+			}]
+	}, {
+		"name":	"Action129",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType129:d":	15,
+				"ActionName129:s":	"Pop To - Green Room NPC Volume - Dwarf Ori",
+				"Action129ExecuteDelay:f":	0,
+				"Action129ExecuteImmediately:d":	0,
+				"Action129Object:g":	"CD588A11_C5292C01",
+				"Action129Volume:g":	"C0CFA010_45F17C00",
+				"Action129Facing:g":	"00000000_00000000"
+			}]
+	}, {
+		"name":	"Action130",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType130:d":	15,
+				"ActionName130:s":	"Pop To - Green Room NPC Volume - Dwarf Oin",
+				"Action130ExecuteDelay:f":	0,
+				"Action130ExecuteImmediately:d":	0,
+				"Action130Object:g":	"CD588A11_C528CC01",
+				"Action130Volume:g":	"C0CFA010_45F17C00",
+				"Action130Facing:g":	"00000000_00000000"
+			}]
+	}, {
+		"name":	"Action131",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType131:d":	15,
+				"ActionName131:s":	"Pop To - Green Room NPC Volume - Dwarf Kili",
+				"Action131ExecuteDelay:f":	0,
+				"Action131ExecuteImmediately:d":	0,
+				"Action131Object:g":	"CD588A11_C5289C01",
+				"Action131Volume:g":	"C0CFA010_45F17C00",
+				"Action131Facing:g":	"00000000_00000000"
+			}]
+	}, {
+		"name":	"Action132",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType132:d":	15,
+				"ActionName132:s":	"Pop To - Green Room NPC Volume - Dwarf Gloin",
+				"Action132ExecuteDelay:f":	0,
+				"Action132ExecuteImmediately:d":	0,
+				"Action132Object:g":	"CD588A11_C5286C01",
+				"Action132Volume:g":	"C0CFA010_45F17C00",
+				"Action132Facing:g":	"00000000_00000000"
+			}]
+	}, {
+		"name":	"Action133",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType133:d":	15,
+				"ActionName133:s":	"Pop To - Green Room NPC Volume - Dwarf Fili",
+				"Action133ExecuteDelay:f":	0,
+				"Action133ExecuteImmediately:d":	0,
+				"Action133Object:g":	"CD588A11_C5283401",
+				"Action133Volume:g":	"C0CFA010_45F17C00",
+				"Action133Facing:g":	"00000000_00000000"
+			}]
+	}, {
+		"name":	"Action134",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType134:d":	15,
+				"ActionName134:s":	"Pop To - Green Room NPC Volume - Dwarf Dwalin",
+				"Action134ExecuteDelay:f":	0,
+				"Action134ExecuteImmediately:d":	0,
+				"Action134Object:g":	"CD588A11_C527EC01",
+				"Action134Volume:g":	"C0CFA010_45F17C00",
+				"Action134Facing:g":	"00000000_00000000"
+			}]
+	}, {
+		"name":	"Action135",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType135:d":	15,
+				"ActionName135:s":	"Pop To - Green Room NPC Volume - Dwarf Bombur",
+				"Action135ExecuteDelay:f":	0,
+				"Action135ExecuteImmediately:d":	0,
+				"Action135Object:g":	"CD588A11_C5275401",
+				"Action135Volume:g":	"C0CFA010_45F17C00",
+				"Action135Facing:g":	"00000000_00000000"
+			}]
+	}, {
+		"name":	"Action136",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType136:d":	15,
+				"ActionName136:s":	"Pop To - Green Room NPC Volume - Dwarf Bofur",
+				"Action136ExecuteDelay:f":	0,
+				"Action136ExecuteImmediately:d":	0,
+				"Action136Object:g":	"CD588A11_C527A401",
+				"Action136Volume:g":	"C0CFA010_45F17C00",
+				"Action136Facing:g":	"00000000_00000000"
+			}]
+	}, {
+		"name":	"Action137",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType137:d":	15,
+				"ActionName137:s":	"Pop To - Green Room NPC Volume - Dwarf Balin",
+				"Action137ExecuteDelay:f":	0,
+				"Action137ExecuteImmediately:d":	0,
+				"Action137Object:g":	"CD588A11_C5254800",
+				"Action137Volume:g":	"C0CFA010_45F17C00",
+				"Action137Facing:g":	"00000000_00000000"
+			}]
+	}, {
+		"name":	"Action138",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType138:d":	15,
+				"ActionName138:s":	"Pop To - Corwin - Cin_Corwin Intro - Corwin Loc",
+				"Action138ExecuteDelay:f":	0,
+				"Action138ExecuteImmediately:d":	0,
+				"Action138Object:g":	"CA3DD38C_43FF7400",
+				"Action138Volume:g":	"0D8ADD4C_4963E000",
+				"Action138Facing:g":	"0D8ADD4C_49644801"
+			}]
+	}, {
+		"name":	"Action139",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType139:d":	8,
+				"ActionName139:s":	"Play Dialogue List - SB_Wrath_AttackChatter",
+				"Action139ExecuteDelay:f":	0,
+				"Action139ExecuteImmediately:d":	0,
+				"Action139DialogSelectionMethod:d":	0,
+				"Action139DialogCount:d":	11,
+				"Action139DialogName0:s":	"Wrath_06a_09",
+				"Action139DialogName1:s":	"Wrath_06a_10",
+				"Action139DialogName2:s":	"Wrath_06a_11",
+				"Action139DialogName3:s":	"Wrath_06a_12",
+				"Action139DialogName4:s":	"Wrath_06a_13",
+				"Action139DialogName5:s":	"Bilbo_06a_09",
+				"Action139DialogName6:s":	"Bilbo_06a_10",
+				"Action139DialogName7:s":	"Wicked_06a_09",
+				"Action139DialogName8:s":	"Wicked_06a_10",
+				"Action139DialogName9:s":	"Wicked_06a_11",
+				"Action139DialogName10:s":	"Wicked_06a_12",
+				"Action139Speaker:g":	"00000000_00000000",
+				"Action139AtLocation:d":	0,
+				"Action139BilboDialog:d":	0
+			}]
+	}, {
+		"name":	"Action140",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType140:d":	8,
+				"ActionName140:s":	"Play Dialogue List - SB_Wild_AttackChatter",
+				"Action140ExecuteDelay:f":	0,
+				"Action140ExecuteImmediately:d":	0,
+				"Action140DialogSelectionMethod:d":	0,
+				"Action140DialogCount:d":	11,
+				"Action140DialogName0:s":	"Wild_06a_06",
+				"Action140DialogName1:s":	"Wild_06a_07",
+				"Action140DialogName2:s":	"Wild_06a_08",
+				"Action140DialogName3:s":	"Wild_06a_09",
+				"Action140DialogName4:s":	"Wild_06a_10",
+				"Action140DialogName5:s":	"Bilbo_06a_07",
+				"Action140DialogName6:s":	"Bilbo_06a_08",
+				"Action140DialogName7:s":	"Wrath_06a_05",
+				"Action140DialogName8:s":	"Wrath_06a_06",
+				"Action140DialogName9:s":	"Wicked_06a_07",
+				"Action140DialogName10:s":	"Wicked_06a_08",
+				"Action140Speaker:g":	"00000000_00000000",
+				"Action140AtLocation:d":	0,
+				"Action140BilboDialog:d":	0
+			}]
+	}, {
+		"name":	"Action141",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType141:d":	8,
+				"ActionName141:s":	"Play Dialogue List - SB_Wicked_AttackChatter",
+				"Action141ExecuteDelay:f":	0,
+				"Action141ExecuteImmediately:d":	0,
+				"Action141DialogSelectionMethod:d":	0,
+				"Action141DialogCount:d":	8,
+				"Action141DialogName0:s":	"Wicked_06a_15",
+				"Action141DialogName1:s":	"Wicked_06a_16",
+				"Action141DialogName2:s":	"Wicked_06a_17",
+				"Action141DialogName3:s":	"Wicked_06a_18",
+				"Action141DialogName4:s":	"Wicked_06a_19",
+				"Action141DialogName5:s":	"Wicked_06a_20",
+				"Action141DialogName6:s":	"Bilbo_06a_11",
+				"Action141DialogName7:s":	"Bilbo_06a_12",
+				"Action141Speaker:g":	"00000000_00000000",
+				"Action141AtLocation:d":	0,
+				"Action141BilboDialog:d":	0
+			}]
+	}, {
+		"name":	"Action142",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType142:d":	7,
+				"ActionName142:s":	"Play Dialogue - One Off Rescue Dwarves",
+				"Action142ExecuteDelay:f":	0,
+				"Action142ExecuteImmediately:d":	0,
+				"Action142DialogName:s":	"BILBO_06A_02",
+				"Action142Speaker:g":	"00000000_00000000",
+				"Action142AtLocation:d":	0,
+				"Action142BilboDialog:d":	1
+			}]
+	}, {
+		"name":	"Action143",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType143:d":	7,
+				"ActionName143:s":	"Play Dialogue - One Off Bilbo Wight Spawn Act",
+				"Action143ExecuteDelay:f":	0,
+				"Action143ExecuteImmediately:d":	0,
+				"Action143DialogName:s":	"SFX_BILBO_06_05",
+				"Action143Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action143AtLocation:d":	0,
+				"Action143BilboDialog:d":	1
+			}]
+	}, {
+		"name":	"Action144",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType144:d":	7,
+				"ActionName144:s":	"Play Dialogue - One Off Bilbo Signet Ring",
+				"Action144ExecuteDelay:f":	0,
+				"Action144ExecuteImmediately:d":	0,
+				"Action144DialogName:s":	"SFX_BILBO_06_08",
+				"Action144Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action144AtLocation:d":	0,
+				"Action144BilboDialog:d":	1
+			}]
+	}, {
+		"name":	"Action145",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType145:d":	7,
+				"ActionName145:s":	"Play Dialogue - One Off Bilbo Pod Grove",
+				"Action145ExecuteDelay:f":	0,
+				"Action145ExecuteImmediately:d":	0,
+				"Action145DialogName:s":	"SFX_BILBO_06_29",
+				"Action145Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action145AtLocation:d":	0,
+				"Action145BilboDialog:d":	1
+			}]
+	}, {
+		"name":	"Action146",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType146:d":	7,
+				"ActionName146:s":	"Play Dialogue - One Off Bilbo Oil Can",
+				"Action146ExecuteDelay:f":	0,
+				"Action146ExecuteImmediately:d":	0,
+				"Action146DialogName:s":	"SFX_BILBO_06_35",
+				"Action146Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action146AtLocation:d":	0,
+				"Action146BilboDialog:d":	1
+			}]
+	}, {
+		"name":	"Action147",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType147:d":	7,
+				"ActionName147:s":	"Play Dialogue - One Off Bilbo North Camp",
+				"Action147ExecuteDelay:f":	0,
+				"Action147ExecuteImmediately:d":	0,
+				"Action147DialogName:s":	"SFX_BILBO_06_20",
+				"Action147Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action147AtLocation:d":	0,
+				"Action147BilboDialog:d":	1
+			}]
+	}, {
+		"name":	"Action148",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType148:d":	7,
+				"ActionName148:s":	"Play Dialogue - One Off Bilbo Mushroom Puzzle",
+				"Action148ExecuteDelay:f":	0,
+				"Action148ExecuteImmediately:d":	0,
+				"Action148DialogName:s":	"SFX_BILBO_06_19",
+				"Action148Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action148AtLocation:d":	0,
+				"Action148BilboDialog:d":	1
+			}]
+	}, {
+		"name":	"Action149",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType149:d":	7,
+				"ActionName149:s":	"Play Dialogue - One Off Bilbo Mud Pit",
+				"Action149ExecuteDelay:f":	0,
+				"Action149ExecuteImmediately:d":	0,
+				"Action149DialogName:s":	"SFX_BILBO_06_15",
+				"Action149Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action149AtLocation:d":	0,
+				"Action149BilboDialog:d":	1
+			}]
+	}, {
+		"name":	"Action150",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType150:d":	7,
+				"ActionName150:s":	"Play Dialogue - One Off Bilbo Gate Act",
+				"Action150ExecuteDelay:f":	0,
+				"Action150ExecuteImmediately:d":	0,
+				"Action150DialogName:s":	"SFX_BILBO_06_21",
+				"Action150Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action150AtLocation:d":	0,
+				"Action150BilboDialog:d":	1
+			}]
+	}, {
+		"name":	"Action151",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType151:d":	7,
+				"ActionName151:s":	"Play Dialogue - One Off Bilbo Dead Tree Act",
+				"Action151ExecuteDelay:f":	0,
+				"Action151ExecuteImmediately:d":	0,
+				"Action151DialogName:s":	"SFX_BILBO_06_12",
+				"Action151Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action151AtLocation:d":	0,
+				"Action151BilboDialog:d":	0
+			}]
+	}, {
+		"name":	"Action152",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType152:d":	7,
+				"ActionName152:s":	"Play Dialogue - One Off Bilbo Crypt Act",
+				"Action152ExecuteDelay:f":	0,
+				"Action152ExecuteImmediately:d":	0,
+				"Action152DialogName:s":	"SFX_BILBO_06_04",
+				"Action152Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action152AtLocation:d":	0,
+				"Action152BilboDialog:d":	1
+			}]
+	}, {
+		"name":	"Action153",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType153:d":	7,
+				"ActionName153:s":	"Play Dialogue - One Off Bilbo Corwin's Camp Act",
+				"Action153ExecuteDelay:f":	0,
+				"Action153ExecuteImmediately:d":	0,
+				"Action153DialogName:s":	"SFX_BILBO_06_18",
+				"Action153Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action153AtLocation:d":	0,
+				"Action153BilboDialog:d":	1
+			}]
+	}, {
+		"name":	"Action154",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType154:d":	7,
+				"ActionName154:s":	"Play Dialogue - Bilbo - Tomnoddy Act",
+				"Action154ExecuteDelay:f":	3,
+				"Action154ExecuteImmediately:d":	0,
+				"Action154DialogName:s":	"BILBO_06A_19",
+				"Action154Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action154AtLocation:d":	0,
+				"Action154BilboDialog:d":	0
+			}]
+	}, {
+		"name":	"Action155",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType155:d":	7,
+				"ActionName155:s":	"Play Dialogue - Bilbo - Time for some Stinging Act",
+				"Action155ExecuteDelay:f":	2,
+				"Action155ExecuteImmediately:d":	0,
+				"Action155DialogName:s":	"SFX_BILBO_06_25",
+				"Action155Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action155AtLocation:d":	0,
+				"Action155BilboDialog:d":	0
+			}]
+	}, {
+		"name":	"Action156",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType156:d":	7,
+				"ActionName156:s":	"Play Dialogue - Bilbo - Thorin Belt Act",
+				"Action156ExecuteDelay:f":	0,
+				"Action156ExecuteImmediately:d":	0,
+				"Action156DialogName:s":	"SFX_BILBO_06_34",
+				"Action156Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action156AtLocation:d":	0,
+				"Action156BilboDialog:d":	1
+			}]
+	}, {
+		"name":	"Action157",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType157:d":	7,
+				"ActionName157:s":	"Play Dialogue - Bilbo - Ori Boot Act",
+				"Action157ExecuteDelay:f":	0,
+				"Action157ExecuteImmediately:d":	0,
+				"Action157DialogName:s":	"SFX_BILBO_06_33",
+				"Action157Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action157AtLocation:d":	0,
+				"Action157BilboDialog:d":	1
+			}]
+	}, {
+		"name":	"Action158",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType158:d":	7,
+				"ActionName158:s":	"Play Dialogue - Bilbo - Nori Cloak Act",
+				"Action158ExecuteDelay:f":	0,
+				"Action158ExecuteImmediately:d":	0,
+				"Action158DialogName:s":	"SFX_BILBO_06_32",
+				"Action158Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action158AtLocation:d":	0,
+				"Action158BilboDialog:d":	1
+			}]
+	}, {
+		"name":	"Action159",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType159:d":	7,
+				"ActionName159:s":	"Play Dialogue - Bilbo - Dori Helmet Act",
+				"Action159ExecuteDelay:f":	0,
+				"Action159ExecuteImmediately:d":	0,
+				"Action159DialogName:s":	"SFX_BILBO_06_30",
+				"Action159Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action159AtLocation:d":	0,
+				"Action159BilboDialog:d":	1
+			}]
+	}, {
+		"name":	"Action160",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType160:d":	7,
+				"ActionName160:s":	"Play Dialogue - Bilbo - Attercop Act",
+				"Action160ExecuteDelay:f":	3,
+				"Action160ExecuteImmediately:d":	0,
+				"Action160DialogName:s":	"BILBO_06A_11",
+				"Action160Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action160AtLocation:d":	0,
+				"Action160BilboDialog:d":	1
+			}]
+	}, {
+		"name":	"Action161",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType161:d":	33,
+				"ActionName161:s":	"Pit Collapse Act",
+				"Action161ExecuteDelay:f":	0,
+				"Action161ExecuteImmediately:d":	0,
+				"Action161InstanceCount:d":	2,
+				"Action161RigidInstance0:g":	"CD588FD0_34A2DC00",
+				"Action161RigidInstance1:g":	"CD588FD0_34A0A400",
+				"Action161AnimIndex:d":	0,
+				"Action161Loops:d":	0
+			}]
+	}, {
+		"name":	"Action162",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType162:d":	18,
+				"ActionName162:s":	"Overlay - Yellow Urn Acquired",
+				"Action162ExecuteDelay:f":	0,
+				"Action162ExecuteImmediately:d":	0,
+				"Action162StringID:s":	"INFO_YELLOWURNACQUIRED",
+				"Action162Scroll:d":	0,
+				"Action162DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action163",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType163:d":	18,
+				"ActionName163:s":	"Overlay - Training Jump2 Act",
+				"Action163ExecuteDelay:f":	0,
+				"Action163ExecuteImmediately:d":	0,
+				"Action163StringID:s":	"TRAINING_JUMP2",
+				"Action163Scroll:d":	0,
+				"Action163DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action164",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType164:d":	18,
+				"ActionName164:s":	"Overlay - Signet Ring Acquired Act",
+				"Action164ExecuteDelay:f":	0,
+				"Action164ExecuteImmediately:d":	0,
+				"Action164StringID:s":	"SIGNET_RING_ACQUIRED",
+				"Action164Scroll:d":	0,
+				"Action164DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action165",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType165:d":	18,
+				"ActionName165:s":	"Overlay - Ring Tutorial Act",
+				"Action165ExecuteDelay:f":	0,
+				"Action165ExecuteImmediately:d":	0,
+				"Action165StringID:s":	"RING_TUTORIAL_01",
+				"Action165Scroll:d":	1,
+				"Action165DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action166",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType166:d":	18,
+				"ActionName166:s":	"Overlay - Red Urn Acquired",
+				"Action166ExecuteDelay:f":	0,
+				"Action166ExecuteImmediately:d":	0,
+				"Action166StringID:s":	"INFO_REDURNACQUIRED",
+				"Action166Scroll:d":	0,
+				"Action166DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action167",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType167:d":	18,
+				"ActionName167:s":	"Overlay - Oil Can Acquired Act",
+				"Action167ExecuteDelay:f":	0,
+				"Action167ExecuteImmediately:d":	0,
+				"Action167StringID:s":	"OIL_ACQUIRED",
+				"Action167Scroll:d":	0,
+				"Action167DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action168",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType168:d":	18,
+				"ActionName168:s":	"Overlay - Blue Urn Acquired",
+				"Action168ExecuteDelay:f":	0,
+				"Action168ExecuteImmediately:d":	0,
+				"Action168StringID:s":	"INFO_BLUEURNACQUIRED",
+				"Action168Scroll:d":	0,
+				"Action168DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action169",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType169:d":	18,
+				"ActionName169:s":	"Overaly - Training Scroll Sword Swing 3 Act",
+				"Action169ExecuteDelay:f":	0,
+				"Action169ExecuteImmediately:d":	0,
+				"Action169StringID:s":	"INFO_STINGATTACK_3",
+				"Action169Scroll:d":	1,
+				"Action169DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action170",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType170:d":	18,
+				"ActionName170:s":	"Overaly - Training Scroll Sword Jump 2 Act",
+				"Action170ExecuteDelay:f":	0,
+				"Action170ExecuteImmediately:d":	0,
+				"Action170StringID:s":	"INFO_STINGJUMP_2",
+				"Action170Scroll:d":	1,
+				"Action170DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action171",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType171:d":	18,
+				"ActionName171:s":	"Overaly - Training Scroll Stick Jump 2 Act",
+				"Action171ExecuteDelay:f":	0,
+				"Action171ExecuteImmediately:d":	0,
+				"Action171StringID:s":	"INFO_STICKJUMP_2",
+				"Action171Scroll:d":	1,
+				"Action171DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action172",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType172:d":	40,
+				"ActionName172:s":	"Music - Level Start",
+				"Action172ExecuteDelay:f":	0,
+				"Action172ExecuteImmediately:d":	0,
+				"Action172MusicTrigger:g":	"C0CFAD91_1B581800"
+			}]
+	}, {
+		"name":	"Action173",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType173:d":	14,
+				"ActionName173:s":	"Lower Boss Gate Act",
+				"Action173ExecuteDelay:f":	0,
+				"Action173ExecuteImmediately:d":	0,
+				"Action173Trigger:g":	"CD58824C_61080000"
+			}]
+	}, {
+		"name":	"Action174",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType174:d":	10,
+				"ActionName174:s":	"Load Trigger - Wrath Pickups",
+				"Action174ExecuteDelay:f":	0,
+				"Action174ExecuteImmediately:d":	0,
+				"Action174LoadLayerGuid:g":	"C0CFA14F_EC8B9400"
+			}]
+	}, {
+		"name":	"Action175",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType175:d":	10,
+				"ActionName175:s":	"Load Trigger - Wild Pickups",
+				"Action175ExecuteDelay:f":	0,
+				"Action175ExecuteImmediately:d":	0,
+				"Action175LoadLayerGuid:g":	"C0CFA14F_EC87C400"
+			}]
+	}, {
+		"name":	"Action176",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType176:d":	10,
+				"ActionName176:s":	"Load Trigger - Wicked Pickups",
+				"Action176ExecuteDelay:f":	0,
+				"Action176ExecuteImmediately:d":	0,
+				"Action176LoadLayerGuid:g":	"C0CFA14F_EC8D7400"
+			}]
+	}, {
+		"name":	"Action177",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType177:d":	10,
+				"ActionName177:s":	"Load Trigger - LoadTrigger - Open Exit",
+				"Action177ExecuteDelay:f":	0,
+				"Action177ExecuteImmediately:d":	0,
+				"Action177LoadLayerGuid:g":	"C0CFA14F_EC8E2000"
+			}]
+	}, {
+		"name":	"Action178",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType178:d":	10,
+				"ActionName178:s":	"Load Trigger - LoadTrigger - ExitBlocker",
+				"Action178ExecuteDelay:f":	0,
+				"Action178ExecuteImmediately:d":	0,
+				"Action178LoadLayerGuid:g":	"C0CFAB0F_EFF20C00"
+			}]
+	}, {
+		"name":	"Action179",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType179:d":	10,
+				"ActionName179:s":	"Load Layer Spider Drop 005 Act",
+				"Action179ExecuteDelay:f":	0,
+				"Action179ExecuteImmediately:d":	0,
+				"Action179LoadLayerGuid:g":	"CD58894C_5F5D2C00"
+			}]
+	}, {
+		"name":	"Action180",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType180:d":	10,
+				"ActionName180:s":	"Load Layer Spider Drop 004 Act",
+				"Action180ExecuteDelay:f":	0,
+				"Action180ExecuteImmediately:d":	0,
+				"Action180LoadLayerGuid:g":	"CD58800C_540D4000"
+			}]
+	}, {
+		"name":	"Action181",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType181:d":	10,
+				"ActionName181:s":	"Load Layer Spider Drop 003 Act",
+				"Action181ExecuteDelay:f":	0,
+				"Action181ExecuteImmediately:d":	0,
+				"Action181LoadLayerGuid:g":	"CD58800C_53F15000"
+			}]
+	}, {
+		"name":	"Action182",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType182:d":	10,
+				"ActionName182:s":	"Load Layer Spider Drop 002 Act",
+				"Action182ExecuteDelay:f":	0,
+				"Action182ExecuteImmediately:d":	0,
+				"Action182LoadLayerGuid:g":	"CD58820C_4FBBAC00"
+			}]
+	}, {
+		"name":	"Action183",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType183:d":	10,
+				"ActionName183:s":	"Load Layer Spider Drop 001 Act",
+				"Action183ExecuteDelay:f":	0,
+				"Action183ExecuteImmediately:d":	0,
+				"Action183LoadLayerGuid:g":	"CD58888C_4E303400"
+			}]
+	}, {
+		"name":	"Action184",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType184:d":	49,
+				"ActionName184:s":	"Hide - Corwin's Sword Act",
+				"Action184ExecuteDelay:f":	0,
+				"Action184ExecuteImmediately:d":	0,
+				"Action184RigidInstance:g":	"C0CFACD0_E3524800",
+				"Action184Hidden:d":	1
+			}]
+	}, {
+		"name":	"Action185",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType185:d":	49,
+				"ActionName185:s":	"Hide - Cocoon Dwarf 003",
+				"Action185ExecuteDelay:f":	0,
+				"Action185ExecuteImmediately:d":	0,
+				"Action185RigidInstance:g":	"C0CFA7CF_D0024401",
+				"Action185Hidden:d":	1
+			}]
+	}, {
+		"name":	"Action186",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType186:d":	49,
+				"ActionName186:s":	"Hide - Cocoon Dwarf 002",
+				"Action186ExecuteDelay:f":	0,
+				"Action186ExecuteImmediately:d":	0,
+				"Action186RigidInstance:g":	"C0CFA7CF_D0011001",
+				"Action186Hidden:d":	1
+			}]
+	}, {
+		"name":	"Action187",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType187:d":	49,
+				"ActionName187:s":	"Hide - Cocoon Dwarf 001",
+				"Action187ExecuteDelay:f":	0,
+				"Action187ExecuteImmediately:d":	0,
+				"Action187RigidInstance:g":	"C0CFAB4F_E5B2F401",
+				"Action187Hidden:d":	1
+			}]
+	}, {
+		"name":	"Action188",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType188:d":	19,
+				"ActionName188:s":	"End Of Level",
+				"Action188ExecuteDelay:f":	1,
+				"Action188ExecuteImmediately:d":	0
+			}]
+	}, {
+		"name":	"Action189",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType189:d":	12,
+				"ActionName189:s":	"Disable Link - Cinema Ends - Cine02 - Set Cinema - Corwin Good Luck",
+				"Action189ExecuteDelay:f":	0,
+				"Action189ExecuteImmediately:d":	0,
+				"Action189Link:s":	"TRIGGERS: Cinema Ends - Cine02 Web Burned Trig/  ACTIONS: Cinema Set to - Corwin Good Luck/ ",
+				"Action189LinkState:d":	1
+			}]
+	}, {
+		"name":	"Action190",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType190:d":	12,
+				"ActionName190:s":	"Disable Link - (Corwin - Reminder)",
+				"Action190ExecuteDelay:f":	0,
+				"Action190ExecuteImmediately:d":	0,
+				"Action190Link:s":	"TRIGGERS: Cinema Ends - Conv Corwin - Ring - Reminder/  ACTIONS: Cinema Set to - Corwin Reminder/ ",
+				"Action190LinkState:d":	1
+			}]
+	}, {
+		"name":	"Action191",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType191:d":	20,
+				"ActionName191:s":	"Cinema Test 002 Act",
+				"Action191ExecuteDelay:f":	0,
+				"Action191ExecuteImmediately:d":	0,
+				"Action191cinemaCount:d":	1,
+				"Action191cinemaSelect:d":	0,
+				"Action191cinema0Guid:g":	"CD588811_40F47000"
+			}]
+	}, {
+		"name":	"Action192",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType192:d":	20,
+				"ActionName192:s":	"Cinema Test 001 Act",
+				"Action192ExecuteDelay:f":	0,
+				"Action192ExecuteImmediately:d":	0,
+				"Action192cinemaCount:d":	1,
+				"Action192cinemaSelect:d":	0,
+				"Action192cinema0Guid:g":	"CD588811_40F47000"
+			}]
+	}, {
+		"name":	"Action193",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType193:d":	20,
+				"ActionName193:s":	"Cinema Starts - One Off Rescue Dwarves",
+				"Action193ExecuteDelay:f":	0,
+				"Action193ExecuteImmediately:d":	0,
+				"Action193cinemaCount:d":	1,
+				"Action193cinemaSelect:d":	0,
+				"Action193cinema0Guid:g":	"CD588992_54171000"
+			}]
+	}, {
+		"name":	"Action194",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType194:d":	20,
+				"ActionName194:s":	"Cinema Start - Dead Branch Act",
+				"Action194ExecuteDelay:f":	0,
+				"Action194ExecuteImmediately:d":	0,
+				"Action194cinemaCount:d":	1,
+				"Action194cinemaSelect:d":	0,
+				"Action194cinema0Guid:g":	"CD588FD0_33DCD400"
+			}]
+	}, {
+		"name":	"Action195",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType195:d":	20,
+				"ActionName195:s":	"Cinema Start - Cine11 Wight Boss Act",
+				"Action195ExecuteDelay:f":	0,
+				"Action195ExecuteImmediately:d":	0,
+				"Action195cinemaCount:d":	1,
+				"Action195cinemaSelect:d":	0,
+				"Action195cinema0Guid:g":	"CD588210_C7C54C00"
+			}]
+	}, {
+		"name":	"Action196",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType196:d":	20,
+				"ActionName196:s":	"Cinema Start - Cine10 Bilbo Escapes",
+				"Action196ExecuteDelay:f":	10,
+				"Action196ExecuteImmediately:d":	0,
+				"Action196cinemaCount:d":	1,
+				"Action196cinemaSelect:d":	0,
+				"Action196cinema0Guid:g":	"CD588811_40F47000"
+			}]
+	}, {
+		"name":	"Action197",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType197:d":	20,
+				"ActionName197:s":	"Cinema Start - Cine09 Wicked Attacks",
+				"Action197ExecuteDelay:f":	3,
+				"Action197ExecuteImmediately:d":	0,
+				"Action197cinemaCount:d":	1,
+				"Action197cinemaSelect:d":	0,
+				"Action197cinema0Guid:g":	"CD5884D1_C5FA6C00"
+			}]
+	}, {
+		"name":	"Action198",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType198:d":	20,
+				"ActionName198:s":	"Cinema Start - Cine08 Wrath Attacks Act",
+				"Action198ExecuteDelay:f":	3,
+				"Action198ExecuteImmediately:d":	0,
+				"Action198cinemaCount:d":	1,
+				"Action198cinemaSelect:d":	0,
+				"Action198cinema0Guid:g":	"CD5884D1_C5F84800"
+			}]
+	}, {
+		"name":	"Action199",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType199:d":	20,
+				"ActionName199:s":	"Cinema Start - Cine07 Wild Attacks Act",
+				"Action199ExecuteDelay:f":	5,
+				"Action199ExecuteImmediately:d":	0,
+				"Action199cinemaCount:d":	1,
+				"Action199cinemaSelect:d":	0,
+				"Action199cinema0Guid:g":	"CD588211_3CB5C400"
+			}]
+	}, {
+		"name":	"Action200",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType200:d":	20,
+				"ActionName200:s":	"Cinema Start - Cine03 Arena Intro Act",
+				"Action200ExecuteDelay:f":	0,
+				"Action200ExecuteImmediately:d":	0,
+				"Action200cinemaCount:d":	1,
+				"Action200cinemaSelect:d":	0,
+				"Action200cinema0Guid:g":	"C0CFA28F_C5E41800"
+			}]
+	}, {
+		"name":	"Action201",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType201:d":	20,
+				"ActionName201:s":	"Cinema Start - Cine01 Corwin Intro Act",
+				"Action201ExecuteDelay:f":	0,
+				"Action201ExecuteImmediately:d":	0,
+				"Action201cinemaCount:d":	1,
+				"Action201cinemaSelect:d":	0,
+				"Action201cinema0Guid:g":	"CD5884D1_C4C48400"
+			}]
+	}, {
+		"name":	"Action202",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType202:d":	21,
+				"ActionName202:s":	"Cinema Set to - Corwin Reminder",
+				"Action202ExecuteDelay:f":	0,
+				"Action202ExecuteImmediately:d":	0,
+				"Action202NPCGuid:g":	"CA3DD38C_43FF7400",
+				"Action202CinemaCount:d":	1,
+				"Action202SelectionMethod:d":	0,
+				"Action202Cinema0:g":	"CD588CD0_34C56800"
+			}]
+	}, {
+		"name":	"Action203",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType203:d":	21,
+				"ActionName203:s":	"Cinema Set to - Corwin Good Luck",
+				"Action203ExecuteDelay:f":	0,
+				"Action203ExecuteImmediately:d":	0,
+				"Action203NPCGuid:g":	"CA3DD38C_43FF7400",
+				"Action203CinemaCount:d":	1,
+				"Action203SelectionMethod:d":	0,
+				"Action203Cinema0:g":	"CD588CD0_34C6D800"
+			}]
+	}, {
+		"name":	"Action204",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType204:d":	21,
+				"ActionName204:s":	"Cinema Set to - Corwin - Ring",
+				"Action204ExecuteDelay:f":	0,
+				"Action204ExecuteImmediately:d":	0,
+				"Action204NPCGuid:g":	"CA3DD38C_43FF7400",
+				"Action204CinemaCount:d":	1,
+				"Action204SelectionMethod:d":	0,
+				"Action204Cinema0:g":	"CD588CD0_34C69C00"
+			}]
+	}, {
+		"name":	"Action205",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType205:d":	45,
+				"ActionName205:s":	"Ambient - Outdoor",
+				"Action205ExecuteDelay:f":	0,
+				"Action205ExecuteImmediately:d":	0,
+				"Action205AmbientAudioTrigger:g":	"9D153192_3E0F5C00"
+			}]
+	}, {
+		"name":	"Action206",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType206:d":	40,
+				"ActionName206:s":	"Music - Wight Boss Cinema",
+				"Action206ExecuteDelay:f":	0,
+				"Action206ExecuteImmediately:d":	0,
+				"Action206MusicTrigger:g":	"9D153412_8978DC01"
+			}]
+	}, {
+		"name":	"Action207",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType207:d":	40,
+				"ActionName207:s":	"Music - Level Start Cinema End",
+				"Action207ExecuteDelay:f":	0,
+				"Action207ExecuteImmediately:d":	0,
+				"Action207MusicTrigger:g":	"9D153D52_EBAC0401"
+			}]
+	}, {
+		"name":	"Action208",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType208:d":	16,
+				"ActionName208:s":	"Modify Health - Kill All SB Spiders",
+				"Action208ExecuteDelay:f":	0,
+				"Action208ExecuteImmediately:d":	0,
+				"Action208NPCCount:d":	60,
+				"Action208NPCGuid0:g":	"C0CFAACF_EC4ACC01",
+				"Action208NPCGuid1:g":	"C0CFAACF_EC4B6801",
+				"Action208NPCGuid2:g":	"C0CFAACF_EC4B9C01",
+				"Action208NPCGuid3:g":	"C0CFAACF_EC4BB401",
+				"Action208NPCGuid4:g":	"C0CFAACF_EC4BFC01",
+				"Action208NPCGuid5:g":	"C0CFAACF_EC4C1801",
+				"Action208NPCGuid6:g":	"C0CFAACF_EC4C3001",
+				"Action208NPCGuid7:g":	"C0CFAACF_EC51A40A",
+				"Action208NPCGuid8:g":	"C0CFAACF_EC51A40D",
+				"Action208NPCGuid9:g":	"C0CFAACF_EC51A410",
+				"Action208NPCGuid10:g":	"C0CFAACF_EC51A413",
+				"Action208NPCGuid11:g":	"C0CFAACF_EC51A416",
+				"Action208NPCGuid12:g":	"C0CFAACF_EC51A419",
+				"Action208NPCGuid13:g":	"C0CFAACF_EC51A41C",
+				"Action208NPCGuid14:g":	"C0CFAACF_EC51A41F",
+				"Action208NPCGuid15:g":	"C0CFAACF_EC54940A",
+				"Action208NPCGuid16:g":	"C0CFAACF_EC54940D",
+				"Action208NPCGuid17:g":	"C0CFAACF_EC549416",
+				"Action208NPCGuid18:g":	"C0CFAACF_EC549419",
+				"Action208NPCGuid19:g":	"CD588912_B2B92C01",
+				"Action208NPCGuid20:g":	"C0CFAACF_EC54941F",
+				"Action208NPCGuid21:g":	"CD588912_B2BC0801",
+				"Action208NPCGuid22:g":	"C0CFA88F_E15DA801",
+				"Action208NPCGuid23:g":	"C0CFA88F_E15F9001",
+				"Action208NPCGuid24:g":	"C0CFA710_04D2AC01",
+				"Action208NPCGuid25:g":	"C0CFA88F_E16EC401",
+				"Action208NPCGuid26:g":	"C0CFA710_04D49401",
+				"Action208NPCGuid27:g":	"C0CFA88F_E15FD001",
+				"Action208NPCGuid28:g":	"C0CFA88F_E163C801",
+				"Action208NPCGuid29:g":	"C0CFA88F_E165B001",
+				"Action208NPCGuid30:g":	"C0CFA88F_E165E801",
+				"Action208NPCGuid31:g":	"C0CFA88F_E1667801",
+				"Action208NPCGuid32:g":	"C0CFA88F_E16A0401",
+				"Action208NPCGuid33:g":	"C0CFA88F_E17F0001",
+				"Action208NPCGuid34:g":	"C0CFA88F_E1808401",
+				"Action208NPCGuid35:g":	"C0CFA88F_E180CC01",
+				"Action208NPCGuid36:g":	"C0CFA88F_E1814401",
+				"Action208NPCGuid37:g":	"C0CFA88F_E1819001",
+				"Action208NPCGuid38:g":	"C0CFA88F_E181B001",
+				"Action208NPCGuid39:g":	"C0CFA88F_E181C401",
+				"Action208NPCGuid40:g":	"C0CFA88F_E1824801",
+				"Action208NPCGuid41:g":	"C0CFA88F_E1826001",
+				"Action208NPCGuid42:g":	"C0CFA88F_E1828401",
+				"Action208NPCGuid43:g":	"C0CFA88F_E1829801",
+				"Action208NPCGuid44:g":	"CD588912_B2BC4C01",
+				"Action208NPCGuid45:g":	"CD588912_B2BF2401",
+				"Action208NPCGuid46:g":	"C0CFAACF_EC487001",
+				"Action208NPCGuid47:g":	"C0CFAACF_EC382001",
+				"Action208NPCGuid48:g":	"C0CFA710_04D52801",
+				"Action208NPCGuid49:g":	"C0CFAAD0_03EFA401",
+				"Action208NPCGuid50:g":	"C0CFA48F_9BB35000",
+				"Action208NPCGuid51:g":	"C0CFA48F_9BC9B001",
+				"Action208NPCGuid52:g":	"C0CFA48F_D09FB801",
+				"Action208NPCGuid53:g":	"C0CFAACF_EC16A001",
+				"Action208NPCGuid54:g":	"C0CFA710_04D16801",
+				"Action208NPCGuid55:g":	"C0CFA88F_E16B7C01",
+				"Action208NPCGuid56:g":	"C0CFA710_04D3EC01",
+				"Action208NPCGuid57:g":	"C0CFA88F_E16C6801",
+				"Action208NPCGuid58:g":	"C0CFA88F_E16D8C01",
+				"Action208NPCGuid59:g":	"C0CFA88F_E16DC001",
+				"Action208Health:d":	-5000
+			}]
+	}, {
+		"name":	"Action209",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType209:d":	40,
+				"ActionName209:s":	"Music Trigger - AI Trig_Cinema_WightBoss",
+				"Action209ExecuteDelay:f":	0,
+				"Action209ExecuteImmediately:d":	0,
+				"Action209MusicTrigger:g":	"9D153412_8978DC01"
+			}]
+	}, {
+		"name":	"Link0",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats0:d":	0,
+				"LinkState0:d":	0,
+				"LogicType0:d":	0,
+				"LinkTriggerCount0:d":	1,
+				"LinkTriggerIndex0-0:d":	0,
+				"LinkActionCount0:d":	1,
+				"LinkActionIndex0-0:d":	180
+			}]
+	}, {
+		"name":	"Link1",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats1:d":	0,
+				"LinkState1:d":	0,
+				"LogicType1:d":	0,
+				"LinkTriggerCount1:d":	1,
+				"LinkTriggerIndex1-0:d":	1,
+				"LinkActionCount1:d":	1,
+				"LinkActionIndex1-0:d":	183
+			}]
+	}, {
+		"name":	"Link2",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats2:d":	0,
+				"LinkState2:d":	0,
+				"LogicType2:d":	0,
+				"LinkTriggerCount2:d":	1,
+				"LinkTriggerIndex2-0:d":	2,
+				"LinkActionCount2:d":	1,
+				"LinkActionIndex2-0:d":	179
+			}]
+	}, {
+		"name":	"Link3",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats3:d":	0,
+				"LinkState3:d":	0,
+				"LogicType3:d":	0,
+				"LinkTriggerCount3:d":	1,
+				"LinkTriggerIndex3-0:d":	3,
+				"LinkActionCount3:d":	1,
+				"LinkActionIndex3-0:d":	181
+			}]
+	}, {
+		"name":	"Link4",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats4:d":	0,
+				"LinkState4:d":	0,
+				"LogicType4:d":	0,
+				"LinkTriggerCount4:d":	1,
+				"LinkTriggerIndex4-0:d":	4,
+				"LinkActionCount4:d":	1,
+				"LinkActionIndex4-0:d":	182
+			}]
+	}, {
+		"name":	"Link5",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats5:d":	0,
+				"LinkState5:d":	0,
+				"LogicType5:d":	0,
+				"LinkTriggerCount5:d":	1,
+				"LinkTriggerIndex5-0:d":	8,
+				"LinkActionCount5:d":	5,
+				"LinkActionIndex5-0:d":	13,
+				"LinkActionIndex5-1:d":	50,
+				"LinkActionIndex5-2:d":	58,
+				"LinkActionIndex5-3:d":	54,
+				"LinkActionIndex5-4:d":	155
+			}]
+	}, {
+		"name":	"Link6",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats6:d":	0,
+				"LinkState6:d":	0,
+				"LogicType6:d":	0,
+				"LinkTriggerCount6:d":	1,
+				"LinkTriggerIndex6-0:d":	9,
+				"LinkActionCount6:d":	4,
+				"LinkActionIndex6-0:d":	44,
+				"LinkActionIndex6-1:d":	43,
+				"LinkActionIndex6-2:d":	42,
+				"LinkActionIndex6-3:d":	8
+			}]
+	}, {
+		"name":	"Link7",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats7:d":	1,
+				"LinkState7:d":	1,
+				"LogicType7:d":	0,
+				"LinkTriggerCount7:d":	2,
+				"LinkTriggerIndex7-0:d":	12,
+				"LinkTriggerIndex7-1:d":	11,
+				"LinkActionCount7:d":	1,
+				"LinkActionIndex7-0:d":	139
+			}]
+	}, {
+		"name":	"Link8",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats8:d":	1,
+				"LinkState8:d":	1,
+				"LogicType8:d":	0,
+				"LinkTriggerCount8:d":	2,
+				"LinkTriggerIndex8-0:d":	14,
+				"LinkTriggerIndex8-1:d":	13,
+				"LinkActionCount8:d":	1,
+				"LinkActionIndex8-0:d":	140
+			}]
+	}, {
+		"name":	"Link9",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats9:d":	1,
+				"LinkState9:d":	1,
+				"LogicType9:d":	0,
+				"LinkTriggerCount9:d":	2,
+				"LinkTriggerIndex9-0:d":	16,
+				"LinkTriggerIndex9-1:d":	15,
+				"LinkActionCount9:d":	1,
+				"LinkActionIndex9-0:d":	141
+			}]
+	}, {
+		"name":	"Link10",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats10:d":	0,
+				"LinkState10:d":	0,
+				"LogicType10:d":	0,
+				"LinkTriggerCount10:d":	1,
+				"LinkTriggerIndex10-0:d":	17,
+				"LinkActionCount10:d":	1,
+				"LinkActionIndex10-0:d":	65
+			}]
+	}, {
+		"name":	"Link11",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats11:d":	0,
+				"LinkState11:d":	0,
+				"LogicType11:d":	0,
+				"LinkTriggerCount11:d":	1,
+				"LinkTriggerIndex11-0:d":	19,
+				"LinkActionCount11:d":	1,
+				"LinkActionIndex11-0:d":	9
+			}]
+	}, {
+		"name":	"Link12",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats12:d":	0,
+				"LinkState12:d":	0,
+				"LogicType12:d":	0,
+				"LinkTriggerCount12:d":	1,
+				"LinkTriggerIndex12-0:d":	20,
+				"LinkActionCount12:d":	1,
+				"LinkActionIndex12-0:d":	10
+			}]
+	}, {
+		"name":	"Link13",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats13:d":	0,
+				"LinkState13:d":	0,
+				"LogicType13:d":	0,
+				"LinkTriggerCount13:d":	1,
+				"LinkTriggerIndex13-0:d":	21,
+				"LinkActionCount13:d":	1,
+				"LinkActionIndex13-0:d":	11
+			}]
+	}, {
+		"name":	"Link14",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats14:d":	0,
+				"LinkState14:d":	0,
+				"LogicType14:d":	0,
+				"LinkTriggerCount14:d":	1,
+				"LinkTriggerIndex14-0:d":	22,
+				"LinkActionCount14:d":	1,
+				"LinkActionIndex14-0:d":	12
+			}]
+	}, {
+		"name":	"Link15",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats15:d":	0,
+				"LinkState15:d":	0,
+				"LogicType15:d":	0,
+				"LinkTriggerCount15:d":	1,
+				"LinkTriggerIndex15-0:d":	23,
+				"LinkActionCount15:d":	1,
+				"LinkActionIndex15-0:d":	15
+			}]
+	}, {
+		"name":	"Link16",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats16:d":	0,
+				"LinkState16:d":	0,
+				"LogicType16:d":	0,
+				"LinkTriggerCount16:d":	1,
+				"LinkTriggerIndex16-0:d":	24,
+				"LinkActionCount16:d":	1,
+				"LinkActionIndex16-0:d":	45
+			}]
+	}, {
+		"name":	"Link17",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats17:d":	0,
+				"LinkState17:d":	0,
+				"LogicType17:d":	0,
+				"LinkTriggerCount17:d":	1,
+				"LinkTriggerIndex17-0:d":	25,
+				"LinkActionCount17:d":	1,
+				"LinkActionIndex17-0:d":	47
+			}]
+	}, {
+		"name":	"Link18",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats18:d":	0,
+				"LinkState18:d":	0,
+				"LogicType18:d":	0,
+				"LinkTriggerCount18:d":	1,
+				"LinkTriggerIndex18-0:d":	26,
+				"LinkActionCount18:d":	1,
+				"LinkActionIndex18-0:d":	20
+			}]
+	}, {
+		"name":	"Link19",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats19:d":	0,
+				"LinkState19:d":	0,
+				"LogicType19:d":	0,
+				"LinkTriggerCount19:d":	1,
+				"LinkTriggerIndex19-0:d":	27,
+				"LinkActionCount19:d":	1,
+				"LinkActionIndex19-0:d":	22
+			}]
+	}, {
+		"name":	"Link20",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats20:d":	0,
+				"LinkState20:d":	0,
+				"LogicType20:d":	0,
+				"LinkTriggerCount20:d":	1,
+				"LinkTriggerIndex20-0:d":	28,
+				"LinkActionCount20:d":	2,
+				"LinkActionIndex20-0:d":	37,
+				"LinkActionIndex20-1:d":	25
+			}]
+	}, {
+		"name":	"Link21",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats21:d":	0,
+				"LinkState21:d":	0,
+				"LogicType21:d":	0,
+				"LinkTriggerCount21:d":	1,
+				"LinkTriggerIndex21-0:d":	29,
+				"LinkActionCount21:d":	2,
+				"LinkActionIndex21-0:d":	34,
+				"LinkActionIndex21-1:d":	36
+			}]
+	}, {
+		"name":	"Link22",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats22:d":	0,
+				"LinkState22:d":	0,
+				"LogicType22:d":	0,
+				"LinkTriggerCount22:d":	1,
+				"LinkTriggerIndex22-0:d":	30,
+				"LinkActionCount22:d":	2,
+				"LinkActionIndex22-0:d":	30,
+				"LinkActionIndex22-1:d":	29
+			}]
+	}, {
+		"name":	"Link23",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats23:d":	0,
+				"LinkState23:d":	0,
+				"LogicType23:d":	0,
+				"LinkTriggerCount23:d":	1,
+				"LinkTriggerIndex23-0:d":	31,
+				"LinkActionCount23:d":	1,
+				"LinkActionIndex23-0:d":	32
+			}]
+	}, {
+		"name":	"Link24",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats24:d":	0,
+				"LinkState24:d":	0,
+				"LogicType24:d":	0,
+				"LinkTriggerCount24:d":	1,
+				"LinkTriggerIndex24-0:d":	32,
+				"LinkActionCount24:d":	2,
+				"LinkActionIndex24-0:d":	27,
+				"LinkActionIndex24-1:d":	26
+			}]
+	}, {
+		"name":	"Link25",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats25:d":	0,
+				"LinkState25:d":	0,
+				"LogicType25:d":	0,
+				"LinkTriggerCount25:d":	1,
+				"LinkTriggerIndex25-0:d":	33,
+				"LinkActionCount25:d":	1,
+				"LinkActionIndex25-0:d":	173
+			}]
+	}, {
+		"name":	"Link26",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats26:d":	0,
+				"LinkState26:d":	0,
+				"LogicType26:d":	0,
+				"LinkTriggerCount26:d":	1,
+				"LinkTriggerIndex26-0:d":	34,
+				"LinkActionCount26:d":	1,
+				"LinkActionIndex26-0:d":	197
+			}]
+	}, {
+		"name":	"Link27",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats27:d":	0,
+				"LinkState27:d":	0,
+				"LogicType27:d":	0,
+				"LinkTriggerCount27:d":	1,
+				"LinkTriggerIndex27-0:d":	35,
+				"LinkActionCount27:d":	1,
+				"LinkActionIndex27-0:d":	198
+			}]
+	}, {
+		"name":	"Link28",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats28:d":	0,
+				"LinkState28:d":	0,
+				"LogicType28:d":	0,
+				"LinkTriggerCount28:d":	1,
+				"LinkTriggerIndex28-0:d":	36,
+				"LinkActionCount28:d":	2,
+				"LinkActionIndex28-0:d":	196,
+				"LinkActionIndex28-1:d":	208
+			}]
+	}, {
+		"name":	"Link29",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats29:d":	0,
+				"LinkState29:d":	0,
+				"LogicType29:d":	0,
+				"LinkTriggerCount29:d":	1,
+				"LinkTriggerIndex29-0:d":	37,
+				"LinkActionCount29:d":	1,
+				"LinkActionIndex29-0:d":	40
+			}]
+	}, {
+		"name":	"Link30",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats30:d":	0,
+				"LinkState30:d":	0,
+				"LogicType30:d":	0,
+				"LinkTriggerCount30:d":	1,
+				"LinkTriggerIndex30-0:d":	38,
+				"LinkActionCount30:d":	1,
+				"LinkActionIndex30-0:d":	41
+			}]
+	}, {
+		"name":	"Link31",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats31:d":	0,
+				"LinkState31:d":	0,
+				"LogicType31:d":	0,
+				"LinkTriggerCount31:d":	1,
+				"LinkTriggerIndex31-0:d":	39,
+				"LinkActionCount31:d":	1,
+				"LinkActionIndex31-0:d":	17
+			}]
+	}, {
+		"name":	"Link32",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats32:d":	0,
+				"LinkState32:d":	0,
+				"LogicType32:d":	0,
+				"LinkTriggerCount32:d":	1,
+				"LinkTriggerIndex32-0:d":	40,
+				"LinkActionCount32:d":	1,
+				"LinkActionIndex32-0:d":	18
+			}]
+	}, {
+		"name":	"Link33",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats33:d":	0,
+				"LinkState33:d":	0,
+				"LogicType33:d":	0,
+				"LinkTriggerCount33:d":	1,
+				"LinkTriggerIndex33-0:d":	41,
+				"LinkActionCount33:d":	1,
+				"LinkActionIndex33-0:d":	66
+			}]
+	}, {
+		"name":	"Link34",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats34:d":	0,
+				"LinkState34:d":	0,
+				"LogicType34:d":	0,
+				"LinkTriggerCount34:d":	1,
+				"LinkTriggerIndex34-0:d":	42,
+				"LinkActionCount34:d":	1,
+				"LinkActionIndex34-0:d":	48
+			}]
+	}, {
+		"name":	"Link35",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats35:d":	0,
+				"LinkState35:d":	0,
+				"LogicType35:d":	0,
+				"LinkTriggerCount35:d":	1,
+				"LinkTriggerIndex35-0:d":	43,
+				"LinkActionCount35:d":	1,
+				"LinkActionIndex35-0:d":	49
+			}]
+	}, {
+		"name":	"Link36",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats36:d":	0,
+				"LinkState36:d":	0,
+				"LogicType36:d":	0,
+				"LinkTriggerCount36:d":	1,
+				"LinkTriggerIndex36-0:d":	44,
+				"LinkActionCount36:d":	1,
+				"LinkActionIndex36-0:d":	51
+			}]
+	}, {
+		"name":	"Link37",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats37:d":	0,
+				"LinkState37:d":	0,
+				"LogicType37:d":	0,
+				"LinkTriggerCount37:d":	1,
+				"LinkTriggerIndex37-0:d":	45,
+				"LinkActionCount37:d":	1,
+				"LinkActionIndex37-0:d":	52
+			}]
+	}, {
+		"name":	"Link38",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats38:d":	0,
+				"LinkState38:d":	0,
+				"LogicType38:d":	0,
+				"LinkTriggerCount38:d":	1,
+				"LinkTriggerIndex38-0:d":	46,
+				"LinkActionCount38:d":	1,
+				"LinkActionIndex38-0:d":	53
+			}]
+	}, {
+		"name":	"Link39",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats39:d":	0,
+				"LinkState39:d":	0,
+				"LogicType39:d":	0,
+				"LinkTriggerCount39:d":	1,
+				"LinkTriggerIndex39-0:d":	48,
+				"LinkActionCount39:d":	1,
+				"LinkActionIndex39-0:d":	55
+			}]
+	}, {
+		"name":	"Link40",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats40:d":	0,
+				"LinkState40:d":	0,
+				"LogicType40:d":	0,
+				"LinkTriggerCount40:d":	1,
+				"LinkTriggerIndex40-0:d":	49,
+				"LinkActionCount40:d":	1,
+				"LinkActionIndex40-0:d":	56
+			}]
+	}, {
+		"name":	"Link41",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats41:d":	0,
+				"LinkState41:d":	0,
+				"LogicType41:d":	0,
+				"LinkTriggerCount41:d":	1,
+				"LinkTriggerIndex41-0:d":	50,
+				"LinkActionCount41:d":	1,
+				"LinkActionIndex41-0:d":	57
+			}]
+	}, {
+		"name":	"Link42",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats42:d":	0,
+				"LinkState42:d":	0,
+				"LogicType42:d":	0,
+				"LinkTriggerCount42:d":	1,
+				"LinkTriggerIndex42-0:d":	51,
+				"LinkActionCount42:d":	1,
+				"LinkActionIndex42-0:d":	14
+			}]
+	}, {
+		"name":	"Link43",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats43:d":	1,
+				"LinkState43:d":	0,
+				"LogicType43:d":	0,
+				"LinkTriggerCount43:d":	2,
+				"LinkTriggerIndex43-0:d":	55,
+				"LinkTriggerIndex43-1:d":	122,
+				"LinkActionCount43:d":	1,
+				"LinkActionIndex43-0:d":	6
+			}]
+	}, {
+		"name":	"Link44",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats44:d":	1,
+				"LinkState44:d":	0,
+				"LogicType44:d":	0,
+				"LinkTriggerCount44:d":	2,
+				"LinkTriggerIndex44-0:d":	56,
+				"LinkTriggerIndex44-1:d":	121,
+				"LinkActionCount44:d":	1,
+				"LinkActionIndex44-0:d":	7
+			}]
+	}, {
+		"name":	"Link45",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats45:d":	0,
+				"LinkState45:d":	0,
+				"LogicType45:d":	1,
+				"LinkTriggerCount45:d":	2,
+				"LinkTriggerIndex45-0:d":	57,
+				"LinkTriggerIndex45-1:d":	86,
+				"LinkActionCount45:d":	1,
+				"LinkActionIndex45-0:d":	107
+			}]
+	}, {
+		"name":	"Link46",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats46:d":	0,
+				"LinkState46:d":	0,
+				"LogicType46:d":	0,
+				"LinkTriggerCount46:d":	1,
+				"LinkTriggerIndex46-0:d":	58,
+				"LinkActionCount46:d":	1,
+				"LinkActionIndex46-0:d":	162
+			}]
+	}, {
+		"name":	"Link47",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats47:d":	0,
+				"LinkState47:d":	0,
+				"LogicType47:d":	0,
+				"LinkTriggerCount47:d":	1,
+				"LinkTriggerIndex47-0:d":	59,
+				"LinkActionCount47:d":	1,
+				"LinkActionIndex47-0:d":	169
+			}]
+	}, {
+		"name":	"Link48",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats48:d":	0,
+				"LinkState48:d":	0,
+				"LogicType48:d":	1,
+				"LinkTriggerCount48:d":	2,
+				"LinkTriggerIndex48-0:d":	119,
+				"LinkTriggerIndex48-1:d":	120,
+				"LinkActionCount48:d":	1,
+				"LinkActionIndex48-0:d":	170
+			}]
+	}, {
+		"name":	"Link49",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats49:d":	0,
+				"LinkState49:d":	0,
+				"LogicType49:d":	0,
+				"LinkTriggerCount49:d":	1,
+				"LinkTriggerIndex49-0:d":	118,
+				"LinkActionCount49:d":	1,
+				"LinkActionIndex49-0:d":	171
+			}]
+	}, {
+		"name":	"Link50",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats50:d":	0,
+				"LinkState50:d":	0,
+				"LogicType50:d":	0,
+				"LinkTriggerCount50:d":	1,
+				"LinkTriggerIndex50-0:d":	62,
+				"LinkActionCount50:d":	4,
+				"LinkActionIndex50-0:d":	164,
+				"LinkActionIndex50-1:d":	144,
+				"LinkActionIndex50-2:d":	204,
+				"LinkActionIndex50-3:d":	189
+			}]
+	}, {
+		"name":	"Link51",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats51:d":	0,
+				"LinkState51:d":	0,
+				"LogicType51:d":	0,
+				"LinkTriggerCount51:d":	1,
+				"LinkTriggerIndex51-0:d":	63,
+				"LinkActionCount51:d":	1,
+				"LinkActionIndex51-0:d":	166
+			}]
+	}, {
+		"name":	"Link52",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats52:d":	0,
+				"LinkState52:d":	0,
+				"LogicType52:d":	0,
+				"LinkTriggerCount52:d":	1,
+				"LinkTriggerIndex52-0:d":	64,
+				"LinkActionCount52:d":	3,
+				"LinkActionIndex52-0:d":	123,
+				"LinkActionIndex52-1:d":	167,
+				"LinkActionIndex52-2:d":	146
+			}]
+	}, {
+		"name":	"Link53",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats53:d":	0,
+				"LinkState53:d":	0,
+				"LogicType53:d":	0,
+				"LinkTriggerCount53:d":	1,
+				"LinkTriggerIndex53-0:d":	65,
+				"LinkActionCount53:d":	1,
+				"LinkActionIndex53-0:d":	168
+			}]
+	}, {
+		"name":	"Link54",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats54:d":	0,
+				"LinkState54:d":	0,
+				"LogicType54:d":	0,
+				"LinkTriggerCount54:d":	1,
+				"LinkTriggerIndex54-0:d":	66,
+				"LinkActionCount54:d":	2,
+				"LinkActionIndex54-0:d":	5,
+				"LinkActionIndex54-1:d":	4
+			}]
+	}, {
+		"name":	"Link55",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats55:d":	0,
+				"LinkState55:d":	0,
+				"LogicType55:d":	0,
+				"LinkTriggerCount55:d":	1,
+				"LinkTriggerIndex55-0:d":	67,
+				"LinkActionCount55:d":	3,
+				"LinkActionIndex55-0:d":	33,
+				"LinkActionIndex55-1:d":	23,
+				"LinkActionIndex55-2:d":	24
+			}]
+	}, {
+		"name":	"Link56",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats56:d":	0,
+				"LinkState56:d":	0,
+				"LogicType56:d":	0,
+				"LinkTriggerCount56:d":	1,
+				"LinkTriggerIndex56-0:d":	68,
+				"LinkActionCount56:d":	3,
+				"LinkActionIndex56-0:d":	38,
+				"LinkActionIndex56-1:d":	28,
+				"LinkActionIndex56-2:d":	35
+			}]
+	}, {
+		"name":	"Link57",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats57:d":	0,
+				"LinkState57:d":	0,
+				"LogicType57:d":	0,
+				"LinkTriggerCount57:d":	1,
+				"LinkTriggerIndex57-0:d":	69,
+				"LinkActionCount57:d":	2,
+				"LinkActionIndex57-0:d":	31,
+				"LinkActionIndex57-1:d":	143
+			}]
+	}, {
+		"name":	"Link58",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats58:d":	0,
+				"LinkState58:d":	0,
+				"LogicType58:d":	0,
+				"LinkTriggerCount58:d":	1,
+				"LinkTriggerIndex58-0:d":	70,
+				"LinkActionCount58:d":	2,
+				"LinkActionIndex58-0:d":	195,
+				"LinkActionIndex58-1:d":	206
+			}]
+	}, {
+		"name":	"Link59",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats59:d":	0,
+				"LinkState59:d":	0,
+				"LogicType59:d":	0,
+				"LinkTriggerCount59:d":	1,
+				"LinkTriggerIndex59-0:d":	71,
+				"LinkActionCount59:d":	7,
+				"LinkActionIndex59-0:d":	61,
+				"LinkActionIndex59-1:d":	59,
+				"LinkActionIndex59-2:d":	74,
+				"LinkActionIndex59-3:d":	73,
+				"LinkActionIndex59-4:d":	72,
+				"LinkActionIndex59-5:d":	71,
+				"LinkActionIndex59-6:d":	70
+			}]
+	}, {
+		"name":	"Link60",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats60:d":	0,
+				"LinkState60:d":	0,
+				"LogicType60:d":	0,
+				"LinkTriggerCount60:d":	1,
+				"LinkTriggerIndex60-0:d":	71,
+				"LinkActionCount60:d":	6,
+				"LinkActionIndex60-0:d":	62,
+				"LinkActionIndex60-1:d":	60,
+				"LinkActionIndex60-2:d":	77,
+				"LinkActionIndex60-3:d":	76,
+				"LinkActionIndex60-4:d":	75,
+				"LinkActionIndex60-5:d":	64
+			}]
+	}, {
+		"name":	"Link61",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats61:d":	0,
+				"LinkState61:d":	0,
+				"LogicType61:d":	0,
+				"LinkTriggerCount61:d":	1,
+				"LinkTriggerIndex61-0:d":	72,
+				"LinkActionCount61:d":	6,
+				"LinkActionIndex61-0:d":	63,
+				"LinkActionIndex61-1:d":	16,
+				"LinkActionIndex61-2:d":	81,
+				"LinkActionIndex61-3:d":	80,
+				"LinkActionIndex61-4:d":	79,
+				"LinkActionIndex61-5:d":	78
+			}]
+	}, {
+		"name":	"Link62",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats62:d":	0,
+				"LinkState62:d":	0,
+				"LogicType62:d":	0,
+				"LinkTriggerCount62:d":	1,
+				"LinkTriggerIndex62-0:d":	73,
+				"LinkActionCount62:d":	2,
+				"LinkActionIndex62-0:d":	19,
+				"LinkActionIndex62-1:d":	46
+			}]
+	}, {
+		"name":	"Link63",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats63:d":	0,
+				"LinkState63:d":	0,
+				"LogicType63:d":	0,
+				"LinkTriggerCount63:d":	1,
+				"LinkTriggerIndex63-0:d":	74,
+				"LinkActionCount63:d":	3,
+				"LinkActionIndex63-0:d":	21,
+				"LinkActionIndex63-1:d":	83,
+				"LinkActionIndex63-2:d":	82
+			}]
+	}, {
+		"name":	"Link64",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats64:d":	0,
+				"LinkState64:d":	0,
+				"LogicType64:d":	0,
+				"LinkTriggerCount64:d":	1,
+				"LinkTriggerIndex64-0:d":	75,
+				"LinkActionCount64:d":	1,
+				"LinkActionIndex64-0:d":	67
+			}]
+	}, {
+		"name":	"Link65",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats65:d":	1,
+				"LinkState65:d":	2,
+				"LogicType65:d":	0,
+				"LinkTriggerCount65:d":	1,
+				"LinkTriggerIndex65-0:d":	76,
+				"LinkActionCount65:d":	1,
+				"LinkActionIndex65-0:d":	193
+			}]
+	}, {
+		"name":	"Link66",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats66:d":	0,
+				"LinkState66:d":	0,
+				"LogicType66:d":	0,
+				"LinkTriggerCount66:d":	1,
+				"LinkTriggerIndex66-0:d":	77,
+				"LinkActionCount66:d":	1,
+				"LinkActionIndex66-0:d":	165
+			}]
+	}, {
+		"name":	"Link67",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats67:d":	0,
+				"LinkState67:d":	0,
+				"LogicType67:d":	0,
+				"LinkTriggerCount67:d":	1,
+				"LinkTriggerIndex67-0:d":	78,
+				"LinkActionCount67:d":	1,
+				"LinkActionIndex67-0:d":	161
+			}]
+	}, {
+		"name":	"Link68",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats68:d":	0,
+				"LinkState68:d":	0,
+				"LogicType68:d":	0,
+				"LinkTriggerCount68:d":	1,
+				"LinkTriggerIndex68-0:d":	79,
+				"LinkActionCount68:d":	1,
+				"LinkActionIndex68-0:d":	156
+			}]
+	}, {
+		"name":	"Link69",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats69:d":	0,
+				"LinkState69:d":	0,
+				"LogicType69:d":	0,
+				"LinkTriggerCount69:d":	1,
+				"LinkTriggerIndex69-0:d":	80,
+				"LinkActionCount69:d":	1,
+				"LinkActionIndex69-0:d":	157
+			}]
+	}, {
+		"name":	"Link70",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats70:d":	0,
+				"LinkState70:d":	0,
+				"LogicType70:d":	0,
+				"LinkTriggerCount70:d":	1,
+				"LinkTriggerIndex70-0:d":	81,
+				"LinkActionCount70:d":	1,
+				"LinkActionIndex70-0:d":	158
+			}]
+	}, {
+		"name":	"Link71",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats71:d":	0,
+				"LinkState71:d":	0,
+				"LogicType71:d":	0,
+				"LinkTriggerCount71:d":	1,
+				"LinkTriggerIndex71-0:d":	82,
+				"LinkActionCount71:d":	1,
+				"LinkActionIndex71-0:d":	159
+			}]
+	}, {
+		"name":	"Link72",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats72:d":	0,
+				"LinkState72:d":	0,
+				"LogicType72:d":	0,
+				"LinkTriggerCount72:d":	3,
+				"LinkTriggerIndex72-0:d":	83,
+				"LinkTriggerIndex72-1:d":	53,
+				"LinkTriggerIndex72-2:d":	54,
+				"LinkActionCount72:d":	1,
+				"LinkActionIndex72-0:d":	194
+			}]
+	}, {
+		"name":	"Link73",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats73:d":	0,
+				"LinkState73:d":	0,
+				"LogicType73:d":	0,
+				"LinkTriggerCount73:d":	4,
+				"LinkTriggerIndex73-0:d":	84,
+				"LinkTriggerIndex73-1:d":	111,
+				"LinkTriggerIndex73-2:d":	110,
+				"LinkTriggerIndex73-3:d":	109,
+				"LinkActionCount73:d":	1,
+				"LinkActionIndex73-0:d":	199
+			}]
+	}, {
+		"name":	"Link74",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats74:d":	0,
+				"LinkState74:d":	0,
+				"LogicType74:d":	0,
+				"LinkTriggerCount74:d":	1,
+				"LinkTriggerIndex74-0:d":	85,
+				"LinkActionCount74:d":	0
+			}]
+	}, {
+		"name":	"Link75",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats75:d":	0,
+				"LinkState75:d":	0,
+				"LogicType75:d":	0,
+				"LinkTriggerCount75:d":	1,
+				"LinkTriggerIndex75-0:d":	86,
+				"LinkActionCount75:d":	1,
+				"LinkActionIndex75-0:d":	147
+			}]
+	}, {
+		"name":	"Link76",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats76:d":	0,
+				"LinkState76:d":	0,
+				"LogicType76:d":	0,
+				"LinkTriggerCount76:d":	1,
+				"LinkTriggerIndex76-0:d":	88,
+				"LinkActionCount76:d":	2,
+				"LinkActionIndex76-0:d":	148,
+				"LinkActionIndex76-1:d":	89
+			}]
+	}, {
+		"name":	"Link77",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats77:d":	0,
+				"LinkState77:d":	0,
+				"LogicType77:d":	0,
+				"LinkTriggerCount77:d":	1,
+				"LinkTriggerIndex77-0:d":	89,
+				"LinkActionCount77:d":	1,
+				"LinkActionIndex77-0:d":	149
+			}]
+	}, {
+		"name":	"Link78",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats78:d":	0,
+				"LinkState78:d":	0,
+				"LogicType78:d":	0,
+				"LinkTriggerCount78:d":	1,
+				"LinkTriggerIndex78-0:d":	90,
+				"LinkActionCount78:d":	1,
+				"LinkActionIndex78-0:d":	150
+			}]
+	}, {
+		"name":	"Link79",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats79:d":	0,
+				"LinkState79:d":	0,
+				"LogicType79:d":	0,
+				"LinkTriggerCount79:d":	1,
+				"LinkTriggerIndex79-0:d":	92,
+				"LinkActionCount79:d":	1,
+				"LinkActionIndex79-0:d":	153
+			}]
+	}, {
+		"name":	"Link80",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats80:d":	0,
+				"LinkState80:d":	0,
+				"LogicType80:d":	0,
+				"LinkTriggerCount80:d":	1,
+				"LinkTriggerIndex80-0:d":	94,
+				"LinkActionCount80:d":	1,
+				"LinkActionIndex80-0:d":	191
+			}]
+	}, {
+		"name":	"Link81",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats81:d":	0,
+				"LinkState81:d":	0,
+				"LogicType81:d":	0,
+				"LinkTriggerCount81:d":	1,
+				"LinkTriggerIndex81-0:d":	95,
+				"LinkActionCount81:d":	1,
+				"LinkActionIndex81-0:d":	192
+			}]
+	}, {
+		"name":	"Link82",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats82:d":	0,
+				"LinkState82:d":	0,
+				"LogicType82:d":	0,
+				"LinkTriggerCount82:d":	1,
+				"LinkTriggerIndex82-0:d":	96,
+				"LinkActionCount82:d":	1,
+				"LinkActionIndex82-0:d":	177
+			}]
+	}, {
+		"name":	"Link83",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats83:d":	0,
+				"LinkState83:d":	0,
+				"LogicType83:d":	0,
+				"LinkTriggerCount83:d":	1,
+				"LinkTriggerIndex83-0:d":	97,
+				"LinkActionCount83:d":	1,
+				"LinkActionIndex83-0:d":	88
+			}]
+	}, {
+		"name":	"Link84",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats84:d":	0,
+				"LinkState84:d":	0,
+				"LogicType84:d":	0,
+				"LinkTriggerCount84:d":	1,
+				"LinkTriggerIndex84-0:d":	98,
+				"LinkActionCount84:d":	1,
+				"LinkActionIndex84-0:d":	88
+			}]
+	}, {
+		"name":	"Link85",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats85:d":	0,
+				"LinkState85:d":	0,
+				"LogicType85:d":	0,
+				"LinkTriggerCount85:d":	1,
+				"LinkTriggerIndex85-0:d":	98,
+				"LinkActionCount85:d":	1,
+				"LinkActionIndex85-0:d":	185
+			}]
+	}, {
+		"name":	"Link86",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats86:d":	0,
+				"LinkState86:d":	0,
+				"LogicType86:d":	0,
+				"LinkTriggerCount86:d":	1,
+				"LinkTriggerIndex86-0:d":	99,
+				"LinkActionCount86:d":	1,
+				"LinkActionIndex86-0:d":	88
+			}]
+	}, {
+		"name":	"Link87",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats87:d":	0,
+				"LinkState87:d":	0,
+				"LogicType87:d":	0,
+				"LinkTriggerCount87:d":	1,
+				"LinkTriggerIndex87-0:d":	99,
+				"LinkActionCount87:d":	1,
+				"LinkActionIndex87-0:d":	186
+			}]
+	}, {
+		"name":	"Link88",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats88:d":	0,
+				"LinkState88:d":	0,
+				"LogicType88:d":	0,
+				"LinkTriggerCount88:d":	1,
+				"LinkTriggerIndex88-0:d":	100,
+				"LinkActionCount88:d":	1,
+				"LinkActionIndex88-0:d":	88
+			}]
+	}, {
+		"name":	"Link89",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats89:d":	0,
+				"LinkState89:d":	0,
+				"LogicType89:d":	0,
+				"LinkTriggerCount89:d":	1,
+				"LinkTriggerIndex89-0:d":	100,
+				"LinkActionCount89:d":	1,
+				"LinkActionIndex89-0:d":	187
+			}]
+	}, {
+		"name":	"Link90",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats90:d":	0,
+				"LinkState90:d":	0,
+				"LogicType90:d":	0,
+				"LinkTriggerCount90:d":	1,
+				"LinkTriggerIndex90-0:d":	101,
+				"LinkActionCount90:d":	1,
+				"LinkActionIndex90-0:d":	200
+			}]
+	}, {
+		"name":	"Link91",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats91:d":	0,
+				"LinkState91:d":	0,
+				"LogicType91:d":	0,
+				"LinkTriggerCount91:d":	1,
+				"LinkTriggerIndex91-0:d":	102,
+				"LinkActionCount91:d":	2,
+				"LinkActionIndex91-0:d":	201,
+				"LinkActionIndex91-1:d":	184
+			}]
+	}, {
+		"name":	"Link92",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats92:d":	0,
+				"LinkState92:d":	0,
+				"LogicType92:d":	0,
+				"LinkTriggerCount92:d":	2,
+				"LinkTriggerIndex92-0:d":	103,
+				"LinkTriggerIndex92-1:d":	113,
+				"LinkActionCount92:d":	2,
+				"LinkActionIndex92-0:d":	203,
+				"LinkActionIndex92-1:d":	190
+			}]
+	}, {
+		"name":	"Link93",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats93:d":	0,
+				"LinkState93:d":	0,
+				"LogicType93:d":	0,
+				"LinkTriggerCount93:d":	1,
+				"LinkTriggerIndex93-0:d":	103,
+				"LinkActionCount93:d":	3,
+				"LinkActionIndex93-0:d":	90,
+				"LinkActionIndex93-1:d":	122,
+				"LinkActionIndex93-2:d":	125
+			}]
+	}, {
+		"name":	"Link94",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats94:d":	0,
+				"LinkState94:d":	0,
+				"LogicType94:d":	0,
+				"LinkTriggerCount94:d":	1,
+				"LinkTriggerIndex94-0:d":	103,
+				"LinkActionCount94:d":	1,
+				"LinkActionIndex94-0:d":	202
+			}]
+	}, {
+		"name":	"Link95",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats95:d":	0,
+				"LinkState95:d":	0,
+				"LogicType95:d":	0,
+				"LinkTriggerCount95:d":	1,
+				"LinkTriggerIndex95-0:d":	104,
+				"LinkActionCount95:d":	2,
+				"LinkActionIndex95-0:d":	88,
+				"LinkActionIndex95-1:d":	87
+			}]
+	}, {
+		"name":	"Link96",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats96:d":	0,
+				"LinkState96:d":	0,
+				"LogicType96:d":	0,
+				"LinkTriggerCount96:d":	1,
+				"LinkTriggerIndex96-0:d":	105,
+				"LinkActionCount96:d":	2,
+				"LinkActionIndex96-0:d":	188,
+				"LinkActionIndex96-1:d":	124
+			}]
+	}, {
+		"name":	"Link97",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats97:d":	0,
+				"LinkState97:d":	0,
+				"LogicType97:d":	0,
+				"LinkTriggerCount97:d":	1,
+				"LinkTriggerIndex97-0:d":	106,
+				"LinkActionCount97:d":	3,
+				"LinkActionIndex97-0:d":	92,
+				"LinkActionIndex97-1:d":	91,
+				"LinkActionIndex97-2:d":	176
+			}]
+	}, {
+		"name":	"Link98",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats98:d":	0,
+				"LinkState98:d":	0,
+				"LogicType98:d":	0,
+				"LinkTriggerCount98:d":	1,
+				"LinkTriggerIndex98-0:d":	107,
+				"LinkActionCount98:d":	4,
+				"LinkActionIndex98-0:d":	160,
+				"LinkActionIndex98-1:d":	94,
+				"LinkActionIndex98-2:d":	93,
+				"LinkActionIndex98-3:d":	174
+			}]
+	}, {
+		"name":	"Link99",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats99:d":	0,
+				"LinkState99:d":	0,
+				"LogicType99:d":	0,
+				"LinkTriggerCount99:d":	1,
+				"LinkTriggerIndex99-0:d":	108,
+				"LinkActionCount99:d":	2,
+				"LinkActionIndex99-0:d":	86,
+				"LinkActionIndex99-1:d":	84
+			}]
+	}, {
+		"name":	"Link100",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats100:d":	0,
+				"LinkState100:d":	0,
+				"LogicType100:d":	0,
+				"LinkTriggerCount100:d":	1,
+				"LinkTriggerIndex100-0:d":	108,
+				"LinkActionCount100:d":	7,
+				"LinkActionIndex100-0:d":	154,
+				"LinkActionIndex100-1:d":	126,
+				"LinkActionIndex100-2:d":	128,
+				"LinkActionIndex100-3:d":	114,
+				"LinkActionIndex100-4:d":	175,
+				"LinkActionIndex100-5:d":	178,
+				"LinkActionIndex100-6:d":	87
+			}]
+	}, {
+		"name":	"Link101",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats101:d":	0,
+				"LinkState101:d":	0,
+				"LogicType101:d":	0,
+				"LinkTriggerCount101:d":	1,
+				"LinkTriggerIndex101-0:d":	109,
+				"LinkActionCount101:d":	1,
+				"LinkActionIndex101-0:d":	87
+			}]
+	}, {
+		"name":	"Link102",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats102:d":	0,
+				"LinkState102:d":	0,
+				"LogicType102:d":	0,
+				"LinkTriggerCount102:d":	1,
+				"LinkTriggerIndex102-0:d":	109,
+				"LinkActionCount102:d":	8,
+				"LinkActionIndex102-0:d":	95,
+				"LinkActionIndex102-1:d":	1,
+				"LinkActionIndex102-2:d":	108,
+				"LinkActionIndex102-3:d":	135,
+				"LinkActionIndex102-4:d":	132,
+				"LinkActionIndex102-5:d":	136,
+				"LinkActionIndex102-6:d":	96,
+				"LinkActionIndex102-7:d":	64
+			}]
+	}, {
+		"name":	"Link103",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats103:d":	0,
+				"LinkState103:d":	0,
+				"LogicType103:d":	0,
+				"LinkTriggerCount103:d":	1,
+				"LinkTriggerIndex103-0:d":	110,
+				"LinkActionCount103:d":	1,
+				"LinkActionIndex103-0:d":	87
+			}]
+	}, {
+		"name":	"Link104",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats104:d":	0,
+				"LinkState104:d":	0,
+				"LogicType104:d":	0,
+				"LinkTriggerCount104:d":	1,
+				"LinkTriggerIndex104-0:d":	110,
+				"LinkActionCount104:d":	7,
+				"LinkActionIndex104-0:d":	98,
+				"LinkActionIndex104-1:d":	97,
+				"LinkActionIndex104-2:d":	109,
+				"LinkActionIndex104-3:d":	2,
+				"LinkActionIndex104-4:d":	131,
+				"LinkActionIndex104-5:d":	130,
+				"LinkActionIndex104-6:d":	129
+			}]
+	}, {
+		"name":	"Link105",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats105:d":	0,
+				"LinkState105:d":	0,
+				"LogicType105:d":	0,
+				"LinkTriggerCount105:d":	3,
+				"LinkTriggerIndex105-0:d":	111,
+				"LinkTriggerIndex105-1:d":	110,
+				"LinkTriggerIndex105-2:d":	109,
+				"LinkActionCount105:d":	1,
+				"LinkActionIndex105-0:d":	119
+			}]
+	}, {
+		"name":	"Link106",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats106:d":	0,
+				"LinkState106:d":	0,
+				"LogicType106:d":	0,
+				"LinkTriggerCount106:d":	1,
+				"LinkTriggerIndex106-0:d":	111,
+				"LinkActionCount106:d":	1,
+				"LinkActionIndex106-0:d":	87
+			}]
+	}, {
+		"name":	"Link107",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats107:d":	0,
+				"LinkState107:d":	0,
+				"LogicType107:d":	0,
+				"LinkTriggerCount107:d":	1,
+				"LinkTriggerIndex107-0:d":	111,
+				"LinkActionCount107:d":	6,
+				"LinkActionIndex107-0:d":	100,
+				"LinkActionIndex107-1:d":	99,
+				"LinkActionIndex107-2:d":	133,
+				"LinkActionIndex107-3:d":	3,
+				"LinkActionIndex107-4:d":	137,
+				"LinkActionIndex107-5:d":	134
+			}]
+	}, {
+		"name":	"Link108",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats108:d":	0,
+				"LinkState108:d":	0,
+				"LogicType108:d":	0,
+				"LinkTriggerCount108:d":	1,
+				"LinkTriggerIndex108-0:d":	112,
+				"LinkActionCount108:d":	7,
+				"LinkActionIndex108-0:d":	102,
+				"LinkActionIndex108-1:d":	101,
+				"LinkActionIndex108-2:d":	121,
+				"LinkActionIndex108-3:d":	112,
+				"LinkActionIndex108-4:d":	86,
+				"LinkActionIndex108-5:d":	85,
+				"LinkActionIndex108-6:d":	84
+			}]
+	}, {
+		"name":	"Link109",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats109:d":	0,
+				"LinkState109:d":	0,
+				"LogicType109:d":	0,
+				"LinkTriggerCount109:d":	1,
+				"LinkTriggerIndex109-0:d":	113,
+				"LinkActionCount109:d":	4,
+				"LinkActionIndex109-0:d":	118,
+				"LinkActionIndex109-1:d":	120,
+				"LinkActionIndex109-2:d":	103,
+				"LinkActionIndex109-3:d":	138
+			}]
+	}, {
+		"name":	"Link110",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats110:d":	0,
+				"LinkState110:d":	0,
+				"LogicType110:d":	0,
+				"LinkTriggerCount110:d":	1,
+				"LinkTriggerIndex110-0:d":	113,
+				"LinkActionCount110:d":	1,
+				"LinkActionIndex110-0:d":	203
+			}]
+	}, {
+		"name":	"Link111",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats111:d":	0,
+				"LinkState111:d":	0,
+				"LogicType111:d":	0,
+				"LinkTriggerCount111:d":	1,
+				"LinkTriggerIndex111-0:d":	114,
+				"LinkActionCount111:d":	6,
+				"LinkActionIndex111-0:d":	202,
+				"LinkActionIndex111-1:d":	117,
+				"LinkActionIndex111-2:d":	115,
+				"LinkActionIndex111-3:d":	116,
+				"LinkActionIndex111-4:d":	111,
+				"LinkActionIndex111-5:d":	0
+			}]
+	}, {
+		"name":	"Link112",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats112:d":	0,
+				"LinkState112:d":	0,
+				"LogicType112:d":	0,
+				"LinkTriggerCount112:d":	1,
+				"LinkTriggerIndex112-0:d":	115,
+				"LinkActionCount112:d":	2,
+				"LinkActionIndex112-0:d":	113,
+				"LinkActionIndex112-1:d":	207
+			}]
+	}, {
+		"name":	"Link113",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats113:d":	0,
+				"LinkState113:d":	0,
+				"LogicType113:d":	0,
+				"LinkTriggerCount113:d":	1,
+				"LinkTriggerIndex113-0:d":	116,
+				"LinkActionCount113:d":	2,
+				"LinkActionIndex113-0:d":	205,
+				"LinkActionIndex113-1:d":	172
+			}]
+	}, {
+		"name":	"Link114",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats114:d":	0,
+				"LinkState114:d":	0,
+				"LogicType114:d":	0,
+				"LinkTriggerCount114:d":	1,
+				"LinkTriggerIndex114-0:d":	117,
+				"LinkActionCount114:d":	3,
+				"LinkActionIndex114-0:d":	69,
+				"LinkActionIndex114-1:d":	68,
+				"LinkActionIndex114-2:d":	39
+			}]
+	}, {
+		"name":	"Link115",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats115:d":	0,
+				"LinkState115:d":	0,
+				"LogicType115:d":	0,
+				"LinkTriggerCount115:d":	1,
+				"LinkTriggerIndex115-0:d":	123,
+				"LinkActionCount115:d":	1,
+				"LinkActionIndex115-0:d":	209
+			}]
+	}, {
+		"name":	"ConversationMgr",
+		"row_count":	1,
+		"rows":	[{
+				"ConversationCount:d":	0,
+				"ConversationListCount:d":	0,
+				"DialogListCount:d":	0
+			}]
+	}, {
+		"name":	"CameraMgr",
+		"row_count":	1,
+		"rows":	[{
+				"ChaseOffset:fff":	[0, 0, 0]
+			}]
+	}, {
+		"name":	"Skybox",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"4981554B_42CCD000",
+				"OffsetScale:fff":	[0.00999999977648258, 0.00999999977648258, 0.00999999977648258],
+				"Center:fff":	[-18000, 0, -10000],
+				"AnimSpeed:f":	0,
+				"Name:s":	"Skybox",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_mirk_skybox.rgeom",
+				"Pos:fff":	[-2695.198486328125, 1630.65869140625, 1454.9560546875],
+				"Ambient:dddd":	[255, 255, 255, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[-4561.93359375, 1556.09326171875, -386.735595703125, -455.193359375, 3452.62060546875, 3427.6298828125],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	0,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	8608,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-1866.735107421875, -74.5654296875, -1841.691650390625, 2240.005126953125, 1821.9619140625, 1972.673828125],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Skybox",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}]

@@ -1,0 +1,3985 @@
+[{
+		"name":	"Globals",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD7A8C_DD111C00",
+				"BilboStartYaw:f":	-1.8456859588623047,
+				"BilboStartPos:fff":	[-1420.961181640625, -74.5132064819336, -7406.9619140625],
+				"FogColor:dddd":	[190, 125, 22, 255],
+				"FogStart:f":	5000,
+				"FogEnd:f":	13000,
+				"FogEnabled:d":	1,
+				"LevelName:s":	"Ch09_Smaug",
+				"Number of Quests:d":	7,
+				"OpeningCinema:g":	"C4CD7251_CE07F800",
+				"Ambient0:dddd":	[17, 14, 8, 255],
+				"Ambient1:dddd":	[0, 0, 0, 255],
+				"Ambient2:dddd":	[0, 0, 0, 255],
+				"Ambient3:dddd":	[0, 0, 0, 255],
+				"Ambient4:dddd":	[0, 0, 0, 255],
+				"Ambient5:dddd":	[0, 0, 0, 255],
+				"Ambient6:dddd":	[0, 0, 0, 255],
+				"Ambient7:dddd":	[0, 0, 0, 255]
+			}]
+	}, {
+		"name":	"AIManager",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerCount:d":	104,
+				"ActionCount:d":	151,
+				"LinkCount:d":	71
+			}]
+	}, {
+		"name":	"Trigger0",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType0:d":	18,
+				"TriggerName0:s":	"Ph03 Trigger Toggled: Water Trigger 002",
+				"Trigger0:g":	"C4CD770E_25AA7C01",
+				"TriggerToggle0:d":	1,
+				"StaysTrue0:d":	0,
+				"TriggeredOnTrue0:d":	1
+			}]
+	}, {
+		"name":	"Trigger1",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType1:d":	19,
+				"TriggerName1:s":	"Ph03 Cinema Ends: Thorin Phase03",
+				"Cinema1:g":	"C4CD7A4E_78F66400",
+				"TriggerOnce1:d":	0,
+				"StaysTrue1:d":	0,
+				"TriggeredOnTrue1:d":	1
+			}]
+	}, {
+		"name":	"Trigger2",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType2:d":	19,
+				"TriggerName2:s":	"Ph03 Cine Ends: Gloin-Bilbo Conversation 002",
+				"Cinema2:g":	"C4CD7AD2_79131401",
+				"TriggerOnce2:d":	0,
+				"StaysTrue2:d":	0,
+				"TriggeredOnTrue2:d":	1
+			}]
+	}, {
+		"name":	"Trigger3",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType3:d":	19,
+				"TriggerName3:s":	"Ph03 Cine Ends: Dwalin-Bilbo Conversation 002",
+				"Cinema3:g":	"C4CD7AD2_79111C01",
+				"TriggerOnce3:d":	0,
+				"StaysTrue3:d":	0,
+				"TriggeredOnTrue3:d":	1
+			}]
+	}, {
+		"name":	"Trigger4",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType4:d":	19,
+				"TriggerName4:s":	"Ph03 Cine Ends: Bombur-Bilbo Conversation 002",
+				"Cinema4:g":	"C4CD7AD2_790EE401",
+				"TriggerOnce4:d":	0,
+				"StaysTrue4:d":	0,
+				"TriggeredOnTrue4:d":	1
+			}]
+	}, {
+		"name":	"Trigger5",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType5:d":	19,
+				"TriggerName5:s":	"Ph03 Cine Ends: Bilbo-Gloin Conv 001",
+				"Cinema5:g":	"C4CD7AD2_7911B401",
+				"TriggerOnce5:d":	1,
+				"StaysTrue5:d":	1,
+				"TriggeredOnTrue5:d":	1
+			}]
+	}, {
+		"name":	"Trigger6",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType6:d":	19,
+				"TriggerName6:s":	"Ph03 Cine Ends: Bilbo-Dwalin Conv 001",
+				"Cinema6:g":	"C4CD7AD2_790F9801",
+				"TriggerOnce6:d":	1,
+				"StaysTrue6:d":	1,
+				"TriggeredOnTrue6:d":	1
+			}]
+	}, {
+		"name":	"Trigger7",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType7:d":	19,
+				"TriggerName7:s":	"Ph03 Cine Ends: Bilbo-Bombur Conv 001",
+				"Cinema7:g":	"C4CD7AD2_790D2401",
+				"TriggerOnce7:d":	1,
+				"StaysTrue7:d":	1,
+				"TriggeredOnTrue7:d":	1
+			}]
+	}, {
+		"name":	"Trigger8",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType8:d":	19,
+				"TriggerName8:s":	"Ph03 Cine Ends: Bilbo-Balin Conv 001",
+				"Cinema8:g":	"C4CD7AD2_79059000",
+				"TriggerOnce8:d":	1,
+				"StaysTrue8:d":	1,
+				"TriggeredOnTrue8:d":	1
+			}]
+	}, {
+		"name":	"Trigger9",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType9:d":	19,
+				"TriggerName9:s":	"Ph03 Cine Ends: Balin-Bilbo Conversation 002",
+				"Cinema9:g":	"C4CD7AD2_790C2C01",
+				"TriggerOnce9:d":	0,
+				"StaysTrue9:d":	0,
+				"TriggeredOnTrue9:d":	1
+			}]
+	}, {
+		"name":	"Trigger10",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType10:d":	3,
+				"TriggerName10:s":	"Ph03 Bilbo Enters: ExitBlocker",
+				"Volume10:g":	"C4CD73D2_B25B8C00",
+				"Character10:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce10:d":	0,
+				"AllNPCs10:d":	0,
+				"StaysTrue10:d":	0,
+				"TriggeredOnTrue10:d":	1
+			}]
+	}, {
+		"name":	"Trigger11",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType11:d":	3,
+				"TriggerName11:s":	"Ph03 Bilbo Enters: End Level Volume",
+				"Volume11:g":	"C4CD748E_9F6A0800",
+				"Character11:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce11:d":	0,
+				"AllNPCs11:d":	0,
+				"StaysTrue11:d":	0,
+				"TriggeredOnTrue11:d":	1
+			}]
+	}, {
+		"name":	"Trigger12",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType12:d":	3,
+				"TriggerName12:s":	"Ph03 Bilbo Enters: Bridge Bilbo Vol",
+				"Volume12:g":	"C4CD748E_9F689400",
+				"Character12:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce12:d":	0,
+				"AllNPCs12:d":	0,
+				"StaysTrue12:d":	0,
+				"TriggeredOnTrue12:d":	1
+			}]
+	}, {
+		"name":	"Trigger13",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType13:d":	3,
+				"TriggerName13:s":	"Ph03 Bilbo Enters: Bilbo Starting Spot Ph03",
+				"Volume13:g":	"C4CD7A4E_785B1801",
+				"Character13:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce13:d":	0,
+				"AllNPCs13:d":	0,
+				"StaysTrue13:d":	0,
+				"TriggeredOnTrue13:d":	1
+			}]
+	}, {
+		"name":	"Trigger14",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType14:d":	29,
+				"TriggerName14:s":	"Ph02b Rigid Anim Starts: AI_SculptureHead_Destroyed",
+				"RigidInstance14:g":	"C4CD7B0E_746F0804",
+				"Animation14:d":	0,
+				"StaysTrue14:d":	0,
+				"TriggeredOnTrue14:d":	1
+			}]
+	}, {
+		"name":	"Trigger15",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType15:d":	29,
+				"TriggerName15:s":	"Ph02b Rigid Anim Starts: AI_DebrisBlock_Destroyed",
+				"RigidInstance15:g":	"C4CD720E_4DC10400",
+				"Animation15:d":	0,
+				"StaysTrue15:d":	0,
+				"TriggeredOnTrue15:d":	1
+			}]
+	}, {
+		"name":	"Trigger16",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType16:d":	29,
+				"TriggerName16:s":	"Ph02b Rigid Anim Starts: AI_DebrisBlockMediumB_Destroyed 002",
+				"RigidInstance16:g":	"C4CD718E_4DAFA804",
+				"Animation16:d":	0,
+				"StaysTrue16:d":	0,
+				"TriggeredOnTrue16:d":	1
+			}]
+	}, {
+		"name":	"Trigger17",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType17:d":	29,
+				"TriggerName17:s":	"Ph02b Rigid Anim Starts: AI_DebrisBlockMediumB_Destroyed",
+				"RigidInstance17:g":	"C4CD728E_A2570000",
+				"Animation17:d":	0,
+				"StaysTrue17:d":	0,
+				"TriggeredOnTrue17:d":	1
+			}]
+	}, {
+		"name":	"Trigger18",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType18:d":	29,
+				"TriggerName18:s":	"Ph02b Rigid Anim Starts: AI_ColumnA_Destroyed 002",
+				"RigidInstance18:g":	"C4CD728E_A2555400",
+				"Animation18:d":	0,
+				"StaysTrue18:d":	0,
+				"TriggeredOnTrue18:d":	1
+			}]
+	}, {
+		"name":	"Trigger19",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType19:d":	29,
+				"TriggerName19:s":	"Ph02b Rigid Anim Starts: AI_ColumnA_Destroyed",
+				"RigidInstance19:g":	"C4CD718E_4DAD0800",
+				"Animation19:d":	0,
+				"StaysTrue19:d":	0,
+				"TriggeredOnTrue19:d":	1
+			}]
+	}, {
+		"name":	"Trigger20",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType20:d":	8,
+				"TriggerName20:s":	"Ph02b NPC Begins Act: attack_stomp",
+				"NPC20:g":	"C4CD7F4E_338E9C00",
+				"ActionName20:s":	"attack_stomp",
+				"StaysTrue20:d":	0,
+				"TriggeredOnTrue20:d":	1
+			}]
+	}, {
+		"name":	"Trigger21",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType21:d":	8,
+				"TriggerName21:s":	"Ph02b NPC Begins Act: Smaug attack_breathin",
+				"NPC21:g":	"C4CD7F4E_338E9C00",
+				"ActionName21:s":	"attack_breathin",
+				"StaysTrue21:d":	0,
+				"TriggeredOnTrue21:d":	1
+			}]
+	}, {
+		"name":	"Trigger22",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType22:d":	8,
+				"TriggerName22:s":	"Ph02b NPC Begins Act: Smaug attack_breath0200",
+				"NPC22:g":	"C4CD7F4E_338E9C00",
+				"ActionName22:s":	"attack_breath0200",
+				"StaysTrue22:d":	0,
+				"TriggeredOnTrue22:d":	1
+			}]
+	}, {
+		"name":	"Trigger23",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType23:d":	8,
+				"TriggerName23:s":	"Ph02b NPC Begins Act: Smaug attack_breath0100",
+				"NPC23:g":	"C4CD7F4E_338E9C00",
+				"ActionName23:s":	"attack_breath0100",
+				"StaysTrue23:d":	0,
+				"TriggeredOnTrue23:d":	1
+			}]
+	}, {
+		"name":	"Trigger24",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType24:d":	8,
+				"TriggerName24:s":	"Ph02b NPC Begins Act: Smaug attack_breath000",
+				"NPC24:g":	"C4CD7F4E_338E9C00",
+				"ActionName24:s":	"attack_breath0000",
+				"StaysTrue24:d":	0,
+				"TriggeredOnTrue24:d":	1
+			}]
+	}, {
+		"name":	"Trigger25",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType25:d":	19,
+				"TriggerName25:s":	"Ph02b Cine Ends: Cine07 Smaug Breathes at Bilbo",
+				"Cinema25:g":	"CD588251_21BF0800",
+				"TriggerOnce25:d":	0,
+				"StaysTrue25:d":	0,
+				"TriggeredOnTrue25:d":	1
+			}]
+	}, {
+		"name":	"Trigger26",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType26:d":	31,
+				"TriggerName26:s":	"Ph02b Bilbo Picks Up: CP_50 Ph2b_7 001",
+				"Item26:g":	"C4CD7C4E_9920DC01",
+				"StaysTrue26:d":	0,
+				"TriggeredOnTrue26:d":	1
+			}]
+	}, {
+		"name":	"Trigger27",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType27:d":	3,
+				"TriggerName27:s":	"Ph02b Bilbo Enters: Start Ph02b Exit Cin",
+				"Volume27:g":	"C4CD7C4E_991F8000",
+				"Character27:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce27:d":	0,
+				"AllNPCs27:d":	0,
+				"StaysTrue27:d":	0,
+				"TriggeredOnTrue27:d":	1
+			}]
+	}, {
+		"name":	"Trigger28",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType28:d":	3,
+				"TriggerName28:s":	"Ph02b Bilbo Enters: Safe Zone 006",
+				"Volume28:g":	"C4CD7C0E_99137001",
+				"Character28:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce28:d":	0,
+				"AllNPCs28:d":	0,
+				"StaysTrue28:d":	0,
+				"TriggeredOnTrue28:d":	1
+			}]
+	}, {
+		"name":	"Trigger29",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType29:d":	3,
+				"TriggerName29:s":	"Ph02b Bilbo Enters: Safe Zone 005",
+				"Volume29:g":	"C4CD7C0E_990E1401",
+				"Character29:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce29:d":	0,
+				"AllNPCs29:d":	0,
+				"StaysTrue29:d":	0,
+				"TriggeredOnTrue29:d":	1
+			}]
+	}, {
+		"name":	"Trigger30",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType30:d":	3,
+				"TriggerName30:s":	"Ph02b Bilbo Enters: Safe Zone 004",
+				"Volume30:g":	"C4CD738E_4E18E801",
+				"Character30:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce30:d":	0,
+				"AllNPCs30:d":	0,
+				"StaysTrue30:d":	0,
+				"TriggeredOnTrue30:d":	1
+			}]
+	}, {
+		"name":	"Trigger31",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType31:d":	3,
+				"TriggerName31:s":	"Ph02b Bilbo Enters: Safe Zone 003",
+				"Volume31:g":	"C4CD738E_4E18D801",
+				"Character31:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce31:d":	0,
+				"AllNPCs31:d":	0,
+				"StaysTrue31:d":	0,
+				"TriggeredOnTrue31:d":	1
+			}]
+	}, {
+		"name":	"Trigger32",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType32:d":	3,
+				"TriggerName32:s":	"Ph02b Bilbo Enters: Safe Zone 002",
+				"Volume32:g":	"C4CD738E_4E15EC01",
+				"Character32:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce32:d":	0,
+				"AllNPCs32:d":	0,
+				"StaysTrue32:d":	0,
+				"TriggeredOnTrue32:d":	1
+			}]
+	}, {
+		"name":	"Trigger33",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType33:d":	3,
+				"TriggerName33:s":	"Ph02b Bilbo Enters: Safe Zone 001",
+				"Volume33:g":	"C4CD73CE_4DB48000",
+				"Character33:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce33:d":	0,
+				"AllNPCs33:d":	0,
+				"StaysTrue33:d":	0,
+				"TriggeredOnTrue33:d":	1
+			}]
+	}, {
+		"name":	"Trigger34",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType34:d":	21,
+				"TriggerName34:s":	"Ph02a Cine Begins: SmaugKillsBilbo (Awake)",
+				"Cinema34:g":	"C4CD7892_886D1001",
+				"StaysTrue34:d":	0,
+				"TriggeredOnTrue34:d":	1
+			}]
+	}, {
+		"name":	"Trigger35",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType35:d":	19,
+				"TriggerName35:s":	"Ph02a Cine Ends: Cine06 Conversation With Smaug",
+				"Cinema35:g":	"C4CD7B91_F8D69800",
+				"TriggerOnce35:d":	0,
+				"StaysTrue35:d":	0,
+				"TriggeredOnTrue35:d":	1
+			}]
+	}, {
+		"name":	"Trigger36",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType36:d":	19,
+				"TriggerName36:s":	"Ph02a Cine Ends: Cine04 Thorin Bilbo Second Conv",
+				"Cinema36:g":	"C4CD7F12_32F15000",
+				"TriggerOnce36:d":	0,
+				"StaysTrue36:d":	0,
+				"TriggeredOnTrue36:d":	1
+			}]
+	}, {
+		"name":	"Trigger37",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType37:d":	31,
+				"TriggerName37:s":	"Ph02a Bilbo Gets Item: CP 20 Ph2b 014",
+				"Item37:g":	"C4CD7951_CE35E401",
+				"StaysTrue37:d":	0,
+				"TriggeredOnTrue37:d":	1
+			}]
+	}, {
+		"name":	"Trigger38",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType38:d":	3,
+				"TriggerName38:s":	"Ph02a Bilbo Enters: SmaugDeath 006",
+				"Volume38:g":	"C4CD7892_88795001",
+				"Character38:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce38:d":	0,
+				"AllNPCs38:d":	0,
+				"StaysTrue38:d":	0,
+				"TriggeredOnTrue38:d":	1
+			}]
+	}, {
+		"name":	"Trigger39",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType39:d":	3,
+				"TriggerName39:s":	"Ph02a Bilbo Enters: SmaugDeath 005",
+				"Volume39:g":	"C4CD7392_6E21EC01",
+				"Character39:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce39:d":	0,
+				"AllNPCs39:d":	0,
+				"StaysTrue39:d":	0,
+				"TriggeredOnTrue39:d":	1
+			}]
+	}, {
+		"name":	"Trigger40",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType40:d":	3,
+				"TriggerName40:s":	"Ph02a Bilbo Enters: SmaugDeath 004",
+				"Volume40:g":	"C4CD7392_6E21D401",
+				"Character40:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce40:d":	0,
+				"AllNPCs40:d":	0,
+				"StaysTrue40:d":	0,
+				"TriggeredOnTrue40:d":	1
+			}]
+	}, {
+		"name":	"Trigger41",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType41:d":	3,
+				"TriggerName41:s":	"Ph02a Bilbo Enters: SmaugDeath 003",
+				"Volume41:g":	"C4CD7392_6E21B003",
+				"Character41:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce41:d":	0,
+				"AllNPCs41:d":	0,
+				"StaysTrue41:d":	0,
+				"TriggeredOnTrue41:d":	1
+			}]
+	}, {
+		"name":	"Trigger42",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType42:d":	3,
+				"TriggerName42:s":	"Ph02a Bilbo Enters: SmaugDeath 002",
+				"Volume42:g":	"C4CD7392_6E21A001",
+				"Character42:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce42:d":	0,
+				"AllNPCs42:d":	0,
+				"StaysTrue42:d":	0,
+				"TriggeredOnTrue42:d":	1
+			}]
+	}, {
+		"name":	"Trigger43",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType43:d":	3,
+				"TriggerName43:s":	"Ph02a Bilbo Enters: SmaugDeath 001",
+				"Volume43:g":	"C4CD7392_6E213001",
+				"Character43:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce43:d":	0,
+				"AllNPCs43:d":	0,
+				"StaysTrue43:d":	0,
+				"TriggeredOnTrue43:d":	1
+			}]
+	}, {
+		"name":	"Trigger44",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType44:d":	3,
+				"TriggerName44:s":	"Ph02a Bilbo Enters: Play Cine05",
+				"Volume44:g":	"C4CD7F11_EA852401",
+				"Character44:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce44:d":	0,
+				"AllNPCs44:d":	0,
+				"StaysTrue44:d":	0,
+				"TriggeredOnTrue44:d":	1
+			}]
+	}, {
+		"name":	"Trigger45",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType45:d":	19,
+				"TriggerName45:s":	"Ph02 Cine Ends: SmaugCin Vantage",
+				"Cinema45:g":	"C4CD750E_93F2E000",
+				"TriggerOnce45:d":	0,
+				"StaysTrue45:d":	0,
+				"TriggeredOnTrue45:d":	1
+			}]
+	}, {
+		"name":	"Trigger46",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType46:d":	19,
+				"TriggerName46:s":	"Ph02 Cine Ends: Cine06 Conversation with Smaug",
+				"Cinema46:g":	"C4CD7B91_F8D69800",
+				"TriggerOnce46:d":	0,
+				"StaysTrue46:d":	0,
+				"TriggeredOnTrue46:d":	1
+			}]
+	}, {
+		"name":	"Trigger47",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType47:d":	3,
+				"TriggerName47:s":	"Ph02 Bilbo Enters: SmaugVol Vantage",
+				"Volume47:g":	"C4CD750E_93F38801",
+				"Character47:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce47:d":	0,
+				"AllNPCs47:d":	0,
+				"StaysTrue47:d":	0,
+				"TriggeredOnTrue47:d":	1
+			}]
+	}, {
+		"name":	"Trigger48",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType48:d":	3,
+				"TriggerName48:s":	"Ph02 Bilbo Enters: SmaugAwake Activate",
+				"Volume48:g":	"C4CD7F8E_93E24001",
+				"Character48:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce48:d":	0,
+				"AllNPCs48:d":	0,
+				"StaysTrue48:d":	0,
+				"TriggeredOnTrue48:d":	1
+			}]
+	}, {
+		"name":	"Trigger49",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType49:d":	3,
+				"TriggerName49:s":	"Ph02 Bilbo Enters: SmaugAlert Voice 006",
+				"Volume49:g":	"C4CD738E_A2D04001",
+				"Character49:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce49:d":	0,
+				"AllNPCs49:d":	0,
+				"StaysTrue49:d":	0,
+				"TriggeredOnTrue49:d":	1
+			}]
+	}, {
+		"name":	"Trigger50",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType50:d":	3,
+				"TriggerName50:s":	"Ph02 Bilbo Enters: SmaugAlert Voice 005",
+				"Volume50:g":	"C4CD738E_A2CFCC01",
+				"Character50:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce50:d":	0,
+				"AllNPCs50:d":	0,
+				"StaysTrue50:d":	0,
+				"TriggeredOnTrue50:d":	1
+			}]
+	}, {
+		"name":	"Trigger51",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType51:d":	3,
+				"TriggerName51:s":	"Ph02 Bilbo Enters: SmaugAlert Voice 004",
+				"Volume51:g":	"C4CD738E_A2CEF801",
+				"Character51:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce51:d":	0,
+				"AllNPCs51:d":	0,
+				"StaysTrue51:d":	0,
+				"TriggeredOnTrue51:d":	1
+			}]
+	}, {
+		"name":	"Trigger52",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType52:d":	3,
+				"TriggerName52:s":	"Ph02 Bilbo Enters: SmaugAlert Voice 003",
+				"Volume52:g":	"C4CD738E_A2CDE001",
+				"Character52:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce52:d":	0,
+				"AllNPCs52:d":	0,
+				"StaysTrue52:d":	0,
+				"TriggeredOnTrue52:d":	1
+			}]
+	}, {
+		"name":	"Trigger53",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType53:d":	3,
+				"TriggerName53:s":	"Ph02 Bilbo Enters: SmaugAlert Voice 002",
+				"Volume53:g":	"C4CD738E_A2CBCC01",
+				"Character53:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce53:d":	0,
+				"AllNPCs53:d":	0,
+				"StaysTrue53:d":	0,
+				"TriggeredOnTrue53:d":	1
+			}]
+	}, {
+		"name":	"Trigger54",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType54:d":	3,
+				"TriggerName54:s":	"Ph02 Bilbo Enters: SmaugAlert Voice 001",
+				"Volume54:g":	"C4CD738E_A2C78000",
+				"Character54:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce54:d":	0,
+				"AllNPCs54:d":	0,
+				"StaysTrue54:d":	0,
+				"TriggeredOnTrue54:d":	1
+			}]
+	}, {
+		"name":	"Trigger55",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType55:d":	3,
+				"TriggerName55:s":	"Ph02 Bilbo Enters: Move Bilbo to Ph02b Start",
+				"Volume55:g":	"C4CD7B4E_95902C01",
+				"Character55:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce55:d":	0,
+				"AllNPCs55:d":	0,
+				"StaysTrue55:d":	0,
+				"TriggeredOnTrue55:d":	1
+			}]
+	}, {
+		"name":	"Trigger56",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType56:d":	3,
+				"TriggerName56:s":	"Ph02 Bilbo Enters: Change Conversation to Ph02",
+				"Volume56:g":	"C4CD720E_749CF400",
+				"Character56:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce56:d":	0,
+				"AllNPCs56:d":	0,
+				"StaysTrue56:d":	0,
+				"TriggeredOnTrue56:d":	1
+			}]
+	}, {
+		"name":	"Trigger57",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType57:d":	8,
+				"TriggerName57:s":	"Ph01 NPC Begins Act: Smaug sleep_wake75",
+				"NPC57:g":	"C4CD7C8E_7D5E3000",
+				"ActionName57:s":	"sleep_wake75",
+				"StaysTrue57:d":	0,
+				"TriggeredOnTrue57:d":	1
+			}]
+	}, {
+		"name":	"Trigger58",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType58:d":	8,
+				"TriggerName58:s":	"Ph01 NPC Begins Act: Smaug sleep_wake50",
+				"NPC58:g":	"C4CD7C8E_7D5E3000",
+				"ActionName58:s":	"sleep_wake50",
+				"StaysTrue58:d":	0,
+				"TriggeredOnTrue58:d":	1
+			}]
+	}, {
+		"name":	"Trigger59",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType59:d":	8,
+				"TriggerName59:s":	"Ph01 NPC Begins Act: Smaug sleep_snort",
+				"NPC59:g":	"C4CD7C8E_7D5E3000",
+				"ActionName59:s":	"sleep_snort",
+				"StaysTrue59:d":	0,
+				"TriggeredOnTrue59:d":	1
+			}]
+	}, {
+		"name":	"Trigger60",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType60:d":	8,
+				"TriggerName60:s":	"Ph01 NPC Begins Act: Smaug sleep_idle",
+				"NPC60:g":	"C4CD7C8E_7D5E3000",
+				"ActionName60:s":	"sleep_idle",
+				"StaysTrue60:d":	0,
+				"TriggeredOnTrue60:d":	1
+			}]
+	}, {
+		"name":	"Trigger61",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType61:d":	19,
+				"TriggerName61:s":	"Ph01 Cine Ends: Thorin-Bilbo Conversation 001",
+				"Cinema61:g":	"C4CD7C90_BD26DC00",
+				"TriggerOnce61:d":	0,
+				"StaysTrue61:d":	0,
+				"TriggeredOnTrue61:d":	1
+			}]
+	}, {
+		"name":	"Trigger62",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType62:d":	21,
+				"TriggerName62:s":	"Ph01 Cine Begins: SmaugKillsBilbo (Sleep)",
+				"Cinema62:g":	"C4CD7892_886BD800",
+				"StaysTrue62:d":	0,
+				"TriggeredOnTrue62:d":	1
+			}]
+	}, {
+		"name":	"Trigger63",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType63:d":	19,
+				"TriggerName63:s":	"Ph01 Cine Ends: SmaugCin Goblet",
+				"Cinema63:g":	"C4CD7F8E_93D99C00",
+				"TriggerOnce63:d":	0,
+				"StaysTrue63:d":	0,
+				"TriggeredOnTrue63:d":	1
+			}]
+	}, {
+		"name":	"Trigger64",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType64:d":	19,
+				"TriggerName64:s":	"Ph01 Cine Ends: Smaug Wakes 001",
+				"Cinema64:g":	"C4CD7391_575E7C00",
+				"TriggerOnce64:d":	0,
+				"StaysTrue64:d":	0,
+				"TriggeredOnTrue64:d":	1
+			}]
+	}, {
+		"name":	"Trigger65",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType65:d":	19,
+				"TriggerName65:s":	"Ph01 Cine Ends: Cine3 Smaug Missing Cup",
+				"Cinema65:g":	"C4CD7C91_EA0D0C00",
+				"TriggerOnce65:d":	0,
+				"StaysTrue65:d":	0,
+				"TriggeredOnTrue65:d":	1
+			}]
+	}, {
+		"name":	"Trigger66",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType66:d":	19,
+				"TriggerName66:s":	"Ph01 Cine Ends: Cine02 Smaug Grabs Cup ",
+				"Cinema66:g":	"C4CD7452_B295EC00",
+				"TriggerOnce66:d":	1,
+				"StaysTrue66:d":	0,
+				"TriggeredOnTrue66:d":	1
+			}]
+	}, {
+		"name":	"Trigger67",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType67:d":	21,
+				"TriggerName67:s":	"Ph01 Cine Ends: Cine01 Down to Smaugs Lair",
+				"Cinema67:g":	"C4CD7251_CE07F800",
+				"StaysTrue67:d":	0,
+				"TriggeredOnTrue67:d":	1
+			}]
+	}, {
+		"name":	"Trigger68",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType68:d":	31,
+				"TriggerName68:s":	"Ph01 Bilbo Picks Up Item: Tray",
+				"Item68:g":	"C4CD7C90_BDD22C00",
+				"StaysTrue68:d":	1,
+				"TriggeredOnTrue68:d":	1
+			}]
+	}, {
+		"name":	"Trigger69",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType69:d":	31,
+				"TriggerName69:s":	"Ph01 Bilbo Picks Up Item: Spears",
+				"Item69:g":	"C4CD7C90_BDD18C00",
+				"StaysTrue69:d":	1,
+				"TriggeredOnTrue69:d":	1
+			}]
+	}, {
+		"name":	"Trigger70",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType70:d":	31,
+				"TriggerName70:s":	"Ph01 Bilbo Picks Up Item: Ruby",
+				"Item70:g":	"C4CD74CE_7FE2B400",
+				"StaysTrue70:d":	1,
+				"TriggeredOnTrue70:d":	1
+			}]
+	}, {
+		"name":	"Trigger71",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType71:d":	31,
+				"TriggerName71:s":	"Ph01 Bilbo Picks Up Item: Necklace",
+				"Item71:g":	"C4CD7C90_BDD0B000",
+				"StaysTrue71:d":	1,
+				"TriggeredOnTrue71:d":	1
+			}]
+	}, {
+		"name":	"Trigger72",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType72:d":	9,
+				"TriggerName72:s":	"Ph01 Bilbo Has Item: Tray",
+				"Item72:s":	"Tray",
+				"Amount72:d":	1,
+				"StaysTrue72:d":	1,
+				"TriggeredOnTrue72:d":	1
+			}]
+	}, {
+		"name":	"Trigger73",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType73:d":	9,
+				"TriggerName73:s":	"Ph01 Bilbo Has Item: Spears",
+				"Item73:s":	"Spears",
+				"Amount73:d":	1,
+				"StaysTrue73:d":	1,
+				"TriggeredOnTrue73:d":	1
+			}]
+	}, {
+		"name":	"Trigger74",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType74:d":	9,
+				"TriggerName74:s":	"Ph01 Bilbo Has Item: Ruby",
+				"Item74:s":	"Ruby",
+				"Amount74:d":	1,
+				"StaysTrue74:d":	1,
+				"TriggeredOnTrue74:d":	1
+			}]
+	}, {
+		"name":	"Trigger75",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType75:d":	9,
+				"TriggerName75:s":	"Ph01 Bilbo Has Item: Necklace",
+				"Item75:s":	"Necklace",
+				"Amount75:d":	1,
+				"StaysTrue75:d":	1,
+				"TriggeredOnTrue75:d":	1
+			}]
+	}, {
+		"name":	"Trigger76",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType76:d":	9,
+				"TriggerName76:s":	"Ph01 Bilbo Has Item: Goblet",
+				"Item76:s":	"Goblet",
+				"Amount76:d":	1,
+				"StaysTrue76:d":	0,
+				"TriggeredOnTrue76:d":	1
+			}]
+	}, {
+		"name":	"Trigger77",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType77:d":	3,
+				"TriggerName77:s":	"Ph01 Bilbo Enters: SmaugVol Goblet",
+				"Volume77:g":	"C4CD7F8E_93DD9800",
+				"Character77:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce77:d":	0,
+				"AllNPCs77:d":	0,
+				"StaysTrue77:d":	0,
+				"TriggeredOnTrue77:d":	1
+			}]
+	}, {
+		"name":	"Trigger78",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType78:d":	3,
+				"TriggerName78:s":	"Ph01 Bilbo Enters: SmaugSleeping Goblet Vol 001",
+				"Volume78:g":	"C4CD764E_A4C26800",
+				"Character78:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce78:d":	0,
+				"AllNPCs78:d":	0,
+				"StaysTrue78:d":	0,
+				"TriggeredOnTrue78:d":	1
+			}]
+	}, {
+		"name":	"Trigger79",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType79:d":	3,
+				"TriggerName79:s":	"Ph01 Bilbo Enters: SmaugAwake Deactivate",
+				"Volume79:g":	"C4CD7F8E_93E13001",
+				"Character79:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce79:d":	0,
+				"AllNPCs79:d":	0,
+				"StaysTrue79:d":	0,
+				"TriggeredOnTrue79:d":	1
+			}]
+	}, {
+		"name":	"Trigger80",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType80:d":	3,
+				"TriggerName80:s":	"Ph01 Bilbo Enters: Play Cine03",
+				"Volume80:g":	"C4CD76D0_BCB00000",
+				"Character80:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce80:d":	1,
+				"AllNPCs80:d":	0,
+				"StaysTrue80:d":	0,
+				"TriggeredOnTrue80:d":	1
+			}]
+	}, {
+		"name":	"Trigger81",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType81:d":	19,
+				"TriggerName81:s":	"Music - Smaug Fry Bilbo (Sleep) Ends",
+				"Cinema81:g":	"C4CD7892_886BD800",
+				"TriggerOnce81:d":	0,
+				"StaysTrue81:d":	0,
+				"TriggeredOnTrue81:d":	1
+			}]
+	}, {
+		"name":	"Trigger82",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType82:d":	19,
+				"TriggerName82:s":	"Music - Smaug Fry Bilbo (Awake) Ends",
+				"Cinema82:g":	"C4CD7892_886D1001",
+				"TriggerOnce82:d":	0,
+				"StaysTrue82:d":	0,
+				"TriggeredOnTrue82:d":	1
+			}]
+	}, {
+		"name":	"Trigger83",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType83:d":	19,
+				"TriggerName83:s":	"Cinema - Cine06 ends",
+				"Cinema83:g":	"C4CD7B91_F8D69800",
+				"TriggerOnce83:d":	0,
+				"StaysTrue83:d":	0,
+				"TriggeredOnTrue83:d":	1
+			}]
+	}, {
+		"name":	"Trigger84",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType84:d":	23,
+				"TriggerName84:s":	"Base Switch Hit: Switch RuneDoor3",
+				"Switch84:g":	"C4CD794E_BCE73801",
+				"StaysTrue84:d":	0,
+				"TriggeredOnTrue84:d":	1
+			}]
+	}, {
+		"name":	"Trigger85",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType85:d":	23,
+				"TriggerName85:s":	"Base Switch Hit: Switch RuneDoor1",
+				"Switch85:g":	"C4CD7750_C8582C01",
+				"StaysTrue85:d":	0,
+				"TriggeredOnTrue85:d":	1
+			}]
+	}, {
+		"name":	"Trigger86",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType86:d":	23,
+				"TriggerName86:s":	"Base Switch Hit: Switch RuneDoor002",
+				"Switch86:g":	"C4CD7150_C88A4402",
+				"StaysTrue86:d":	0,
+				"TriggeredOnTrue86:d":	1
+			}]
+	}, {
+		"name":	"Trigger87",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType87:d":	22,
+				"TriggerName87:s":	"Base Cine Action: EndCine_SetSmaugStateIdle",
+				"StaysTrue87:d":	0,
+				"TriggeredOnTrue87:d":	1
+			}]
+	}, {
+		"name":	"Trigger88",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType88:d":	31,
+				"TriggerName88:s":	"Base Bilbo Picks Up: Skeleton Key",
+				"Item88:g":	"C4CD7C92_92E2CC00",
+				"StaysTrue88:d":	0,
+				"TriggeredOnTrue88:d":	1
+			}]
+	}, {
+		"name":	"Trigger89",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType89:d":	9,
+				"TriggerName89:s":	"Base Bilbo Has Item: Bilbo Sting Jump3",
+				"Item89:s":	"Bilbo_Sting_Jump3",
+				"Amount89:d":	1,
+				"StaysTrue89:d":	0,
+				"TriggeredOnTrue89:d":	1
+			}]
+	}, {
+		"name":	"Trigger90",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType90:d":	9,
+				"TriggerName90:s":	"Base Bilbo Has Item: Bilbo Staff Jump3",
+				"Item90:s":	"Bilbo_Staff_Jump3",
+				"Amount90:d":	1,
+				"StaysTrue90:d":	0,
+				"TriggeredOnTrue90:d":	1
+			}]
+	}, {
+		"name":	"Trigger91",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType91:d":	3,
+				"TriggerName91:s":	"Base Bilbo Enters: Smaug Death Ph01 010",
+				"Volume91:g":	"C4CD774E_7F5D2801",
+				"Character91:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce91:d":	0,
+				"AllNPCs91:d":	0,
+				"StaysTrue91:d":	0,
+				"TriggeredOnTrue91:d":	1
+			}]
+	}, {
+		"name":	"Trigger92",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType92:d":	3,
+				"TriggerName92:s":	"Base Bilbo Enters: Smaug Death Ph01 009",
+				"Volume92:g":	"C4CD774E_7F56E401",
+				"Character92:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce92:d":	0,
+				"AllNPCs92:d":	0,
+				"StaysTrue92:d":	0,
+				"TriggeredOnTrue92:d":	1
+			}]
+	}, {
+		"name":	"Trigger93",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType93:d":	3,
+				"TriggerName93:s":	"Base Bilbo Enters: Smaug Death Ph01 008",
+				"Volume93:g":	"C4CD774E_7F567001",
+				"Character93:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce93:d":	0,
+				"AllNPCs93:d":	0,
+				"StaysTrue93:d":	0,
+				"TriggeredOnTrue93:d":	1
+			}]
+	}, {
+		"name":	"Trigger94",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType94:d":	3,
+				"TriggerName94:s":	"Base Bilbo Enters: Smaug Death Ph01 007",
+				"Volume94:g":	"C4CD774E_7F55B001",
+				"Character94:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce94:d":	0,
+				"AllNPCs94:d":	0,
+				"StaysTrue94:d":	0,
+				"TriggeredOnTrue94:d":	1
+			}]
+	}, {
+		"name":	"Trigger95",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType95:d":	3,
+				"TriggerName95:s":	"Base Bilbo Enters: Smaug Death Ph01 006",
+				"Volume95:g":	"C4CD774E_7F54C801",
+				"Character95:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce95:d":	0,
+				"AllNPCs95:d":	0,
+				"StaysTrue95:d":	0,
+				"TriggeredOnTrue95:d":	1
+			}]
+	}, {
+		"name":	"Trigger96",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType96:d":	3,
+				"TriggerName96:s":	"Base Bilbo Enters: Smaug Death Ph01 005",
+				"Volume96:g":	"C4CD774E_7F533401",
+				"Character96:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce96:d":	0,
+				"AllNPCs96:d":	0,
+				"StaysTrue96:d":	0,
+				"TriggeredOnTrue96:d":	1
+			}]
+	}, {
+		"name":	"Trigger97",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType97:d":	3,
+				"TriggerName97:s":	"Base Bilbo Enters: Smaug Death Ph01 004",
+				"Volume97:g":	"C4CD774E_7F52A401",
+				"Character97:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce97:d":	0,
+				"AllNPCs97:d":	0,
+				"StaysTrue97:d":	0,
+				"TriggeredOnTrue97:d":	1
+			}]
+	}, {
+		"name":	"Trigger98",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType98:d":	3,
+				"TriggerName98:s":	"Base Bilbo Enters: Smaug Death Ph01 003",
+				"Volume98:g":	"C4CD774E_7F51D001",
+				"Character98:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce98:d":	0,
+				"AllNPCs98:d":	0,
+				"StaysTrue98:d":	0,
+				"TriggeredOnTrue98:d":	1
+			}]
+	}, {
+		"name":	"Trigger99",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType99:d":	3,
+				"TriggerName99:s":	"Base Bilbo Enters: Smaug Death Ph01 002",
+				"Volume99:g":	"C4CD774E_7F4FC001",
+				"Character99:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce99:d":	0,
+				"AllNPCs99:d":	0,
+				"StaysTrue99:d":	0,
+				"TriggeredOnTrue99:d":	1
+			}]
+	}, {
+		"name":	"Trigger100",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType100:d":	3,
+				"TriggerName100:s":	"Base Bilbo Enters: Smaug Death Ph01 001",
+				"Volume100:g":	"C4CD774E_7F4E6C00",
+				"Character100:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce100:d":	0,
+				"AllNPCs100:d":	0,
+				"StaysTrue100:d":	0,
+				"TriggeredOnTrue100:d":	1
+			}]
+	}, {
+		"name":	"Trigger101",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType101:d":	3,
+				"TriggerName101:s":	"Base Bilbo Enters: Smaug Death 011",
+				"Volume101:g":	"C4CD7891_5197D401",
+				"Character101:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce101:d":	0,
+				"AllNPCs101:d":	0,
+				"StaysTrue101:d":	0,
+				"TriggeredOnTrue101:d":	1
+			}]
+	}, {
+		"name":	"Trigger102",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType102:d":	21,
+				"TriggerName102:s":	"Audio - Cine01 start",
+				"Cinema102:g":	"C4CD7251_CE07F800",
+				"StaysTrue102:d":	0,
+				"TriggeredOnTrue102:d":	1
+			}]
+	}, {
+		"name":	"Trigger103",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType103:d":	31,
+				"TriggerName103:s":	"Ph02b Bilbo picks up: CP 50Ph2b_7 001",
+				"Item103:g":	"C4CD7C4E_9920DC01",
+				"StaysTrue103:d":	0,
+				"TriggeredOnTrue103:d":	1
+			}]
+	}, {
+		"name":	"Action0",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType0:d":	29,
+				"ActionName0:s":	"QUEST: Ph03 Remove CAVERN",
+				"Action0ExecuteDelay:f":	0,
+				"Action0ExecuteImmediately:d":	0,
+				"Action0QuestID:s":	"C_ID_CAVERN_CH09"
+			}]
+	}, {
+		"name":	"Action1",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType1:d":	22,
+				"ActionName1:s":	"QUEST: Ph03 Give CAVERN",
+				"Action1ExecuteDelay:f":	0,
+				"Action1ExecuteImmediately:d":	0,
+				"Action1QuestID:s":	"C_ID_CAVERN_CH09",
+				"Action1Required:d":	1
+			}]
+	}, {
+		"name":	"Action2",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType2:d":	29,
+				"ActionName2:s":	"QUEST: Ph02 Remove WEAKSPOT",
+				"Action2ExecuteDelay:f":	0,
+				"Action2ExecuteImmediately:d":	0,
+				"Action2QuestID:s":	"B_ID_WEAKSPOT_CH09"
+			}]
+	}, {
+		"name":	"Action3",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType3:d":	22,
+				"ActionName3:s":	"QUEST: Ph02 Give WEAKSPOT",
+				"Action3ExecuteDelay:f":	0,
+				"Action3ExecuteImmediately:d":	0,
+				"Action3QuestID:s":	"B_ID_WEAKSPOT_CH09",
+				"Action3Required:d":	1
+			}]
+	}, {
+		"name":	"Action4",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType4:d":	29,
+				"ActionName4:s":	"QUEST: Ph01 Remove GOBLET",
+				"Action4ExecuteDelay:f":	0,
+				"Action4ExecuteImmediately:d":	0,
+				"Action4QuestID:s":	"A_ID_GOBLET_CH09"
+			}]
+	}, {
+		"name":	"Action5",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType5:d":	22,
+				"ActionName5:s":	"QUEST: Ph01 Give GOBLET",
+				"Action5ExecuteDelay:f":	0,
+				"Action5ExecuteImmediately:d":	0,
+				"Action5QuestID:s":	"A_ID_GOBLET_CH09",
+				"Action5Required:d":	1
+			}]
+	}, {
+		"name":	"Action6",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType6:d":	29,
+				"ActionName6:s":	"QUEST: Base Remove TRAY",
+				"Action6ExecuteDelay:f":	0,
+				"Action6ExecuteImmediately:d":	0,
+				"Action6QuestID:s":	"F_ID_FIND_TRAY"
+			}]
+	}, {
+		"name":	"Action7",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType7:d":	29,
+				"ActionName7:s":	"QUEST: Base Remove SPEARS",
+				"Action7ExecuteDelay:f":	0,
+				"Action7ExecuteImmediately:d":	0,
+				"Action7QuestID:s":	"E_ID_FIND_SPEARS"
+			}]
+	}, {
+		"name":	"Action8",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType8:d":	29,
+				"ActionName8:s":	"QUEST: Base Remove RUBY",
+				"Action8ExecuteDelay:f":	0,
+				"Action8ExecuteImmediately:d":	0,
+				"Action8QuestID:s":	"D_ID_FIND_RUBY"
+			}]
+	}, {
+		"name":	"Action9",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType9:d":	29,
+				"ActionName9:s":	"QUEST: Base Remove NECKLACE",
+				"Action9ExecuteDelay:f":	0,
+				"Action9ExecuteImmediately:d":	0,
+				"Action9QuestID:s":	"G_ID_FIND_NECKLACE"
+			}]
+	}, {
+		"name":	"Action10",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType10:d":	22,
+				"ActionName10:s":	"QUEST: Base Give TRAY",
+				"Action10ExecuteDelay:f":	0,
+				"Action10ExecuteImmediately:d":	0,
+				"Action10QuestID:s":	"F_ID_FIND_TRAY",
+				"Action10Required:d":	0
+			}]
+	}, {
+		"name":	"Action11",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType11:d":	22,
+				"ActionName11:s":	"QUEST: Base Give SPEARS",
+				"Action11ExecuteDelay:f":	0,
+				"Action11ExecuteImmediately:d":	0,
+				"Action11QuestID:s":	"E_ID_FIND_SPEARS",
+				"Action11Required:d":	0
+			}]
+	}, {
+		"name":	"Action12",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType12:d":	22,
+				"ActionName12:s":	"QUEST: Base Give RUBY",
+				"Action12ExecuteDelay:f":	0,
+				"Action12ExecuteImmediately:d":	0,
+				"Action12QuestID:s":	"D_ID_FIND_RUBY",
+				"Action12Required:d":	0
+			}]
+	}, {
+		"name":	"Action13",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType13:d":	22,
+				"ActionName13:s":	"QUEST: Base Give NECKLACE",
+				"Action13ExecuteDelay:f":	0,
+				"Action13ExecuteImmediately:d":	0,
+				"Action13QuestID:s":	"G_ID_FIND_NECKLACE",
+				"Action13Required:d":	0
+			}]
+	}, {
+		"name":	"Action14",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType14:d":	9,
+				"ActionName14:s":	"QUEST: 200 Courage for GOBLET",
+				"Action14ExecuteDelay:f":	0,
+				"Action14ExecuteImmediately:d":	0,
+				"Action14Item:s":	"COURAGE",
+				"Action14Add:d":	1,
+				"Action14Amount:d":	200,
+				"Action14SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action15",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType15:d":	9,
+				"ActionName15:s":	"QUEST: 200 Courage for CAVERN",
+				"Action15ExecuteDelay:f":	0,
+				"Action15ExecuteImmediately:d":	0,
+				"Action15Item:s":	"COURAGE",
+				"Action15Add:d":	1,
+				"Action15Amount:d":	200,
+				"Action15SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action16",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType16:d":	9,
+				"ActionName16:s":	"QUEST: 200 Courage For WEAKSPOT",
+				"Action16ExecuteDelay:f":	0,
+				"Action16ExecuteImmediately:d":	0,
+				"Action16Item:s":	"COURAGE",
+				"Action16Add:d":	1,
+				"Action16Amount:d":	200,
+				"Action16SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action17",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType17:d":	9,
+				"ActionName17:s":	"QUEST: 125 Courage for TRAY",
+				"Action17ExecuteDelay:f":	0,
+				"Action17ExecuteImmediately:d":	0,
+				"Action17Item:s":	"COURAGE",
+				"Action17Add:d":	1,
+				"Action17Amount:d":	125,
+				"Action17SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action18",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType18:d":	9,
+				"ActionName18:s":	"QUEST: 125 Courage for SPEARS",
+				"Action18ExecuteDelay:f":	0,
+				"Action18ExecuteImmediately:d":	0,
+				"Action18Item:s":	"COURAGE",
+				"Action18Add:d":	1,
+				"Action18Amount:d":	125,
+				"Action18SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action19",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType19:d":	9,
+				"ActionName19:s":	"QUEST: 125 Courage for RUBY",
+				"Action19ExecuteDelay:f":	0,
+				"Action19ExecuteImmediately:d":	0,
+				"Action19Item:s":	"COURAGE",
+				"Action19Add:d":	1,
+				"Action19Amount:d":	125,
+				"Action19SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action20",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType20:d":	9,
+				"ActionName20:s":	"QUEST: 125 Courage for NECKLACE",
+				"Action20ExecuteDelay:f":	0,
+				"Action20ExecuteImmediately:d":	0,
+				"Action20Item:s":	"COURAGE",
+				"Action20Add:d":	1,
+				"Action20Amount:d":	125,
+				"Action20SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action21",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType21:d":	10,
+				"ActionName21:s":	"Ph04 Load Layer: Load Ph04 NPCs/Unload Ph03",
+				"Action21ExecuteDelay:f":	0,
+				"Action21ExecuteImmediately:d":	0,
+				"Action21LoadLayerGuid:g":	"C4CD748E_9F843800"
+			}]
+	}, {
+		"name":	"Action22",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType22:d":	18,
+				"ActionName22:s":	"Ph03 Show Overlay: SMAUG_DONT_LEAVE",
+				"Action22ExecuteDelay:f":	3,
+				"Action22ExecuteImmediately:d":	0,
+				"Action22StringID:s":	"INFO_SMAUG_DONT_LEAVE",
+				"Action22Scroll:d":	0,
+				"Action22DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action23",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType23:d":	21,
+				"ActionName23:s":	"Ph03 Set Trig Cine: Thorin Phase02 to Phase03",
+				"Action23ExecuteDelay:f":	0,
+				"Action23ExecuteImmediately:d":	0,
+				"Action23NPCGuid:g":	"C4CD7A8E_9E4CB001",
+				"Action23CinemaCount:d":	1,
+				"Action23SelectionMethod:d":	0,
+				"Action23Cinema0:g":	"C4CD7A4E_78F66400"
+			}]
+	}, {
+		"name":	"Action24",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType24:d":	21,
+				"ActionName24:s":	"Ph03 Set Trig Cine: Gloin-Bilbo Conv 002 to 003",
+				"Action24ExecuteDelay:f":	0,
+				"Action24ExecuteImmediately:d":	0,
+				"Action24NPCGuid:g":	"C4CD7A8E_9E47C401",
+				"Action24CinemaCount:d":	1,
+				"Action24SelectionMethod:d":	1,
+				"Action24Cinema0:g":	"C4CD7AD2_79329401"
+			}]
+	}, {
+		"name":	"Action25",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType25:d":	21,
+				"ActionName25:s":	"Ph03 Set Trig Cine: Gloin Conversation from 1 to 2",
+				"Action25ExecuteDelay:f":	0,
+				"Action25ExecuteImmediately:d":	0,
+				"Action25NPCGuid:g":	"C4CD7A8E_9E47C401",
+				"Action25CinemaCount:d":	1,
+				"Action25SelectionMethod:d":	0,
+				"Action25Cinema0:g":	"C4CD7AD2_79131401"
+			}]
+	}, {
+		"name":	"Action26",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType26:d":	21,
+				"ActionName26:s":	"Ph03 Set Trig Cine: Dwalin-Bilbo Conv 002 to 003",
+				"Action26ExecuteDelay:f":	0,
+				"Action26ExecuteImmediately:d":	0,
+				"Action26NPCGuid:g":	"C4CD7A8E_9E40EC01",
+				"Action26CinemaCount:d":	1,
+				"Action26SelectionMethod:d":	0,
+				"Action26Cinema0:g":	"C4CD7AD2_79319801"
+			}]
+	}, {
+		"name":	"Action27",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType27:d":	21,
+				"ActionName27:s":	"Ph03 Set Trig Cine: Dwalin Conversation from 1 to 2",
+				"Action27ExecuteDelay:f":	0,
+				"Action27ExecuteImmediately:d":	0,
+				"Action27NPCGuid:g":	"C4CD7A8E_9E40EC01",
+				"Action27CinemaCount:d":	1,
+				"Action27SelectionMethod:d":	0,
+				"Action27Cinema0:g":	"C4CD7AD2_79111C01"
+			}]
+	}, {
+		"name":	"Action28",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType28:d":	21,
+				"ActionName28:s":	"Ph03 Set Trig Cine: Bombur-Bilbo Conv 002 to 003",
+				"Action28ExecuteDelay:f":	0,
+				"Action28ExecuteImmediately:d":	0,
+				"Action28NPCGuid:g":	"C4CD7A8E_9E3F4801",
+				"Action28CinemaCount:d":	1,
+				"Action28SelectionMethod:d":	0,
+				"Action28Cinema0:g":	"C4CD7AD2_79309401"
+			}]
+	}, {
+		"name":	"Action29",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType29:d":	21,
+				"ActionName29:s":	"Ph03 Set Trig Cine: Bombur Conversation from 1 to 2",
+				"Action29ExecuteDelay:f":	0,
+				"Action29ExecuteImmediately:d":	0,
+				"Action29NPCGuid:g":	"C4CD7A8E_9E3F4801",
+				"Action29CinemaCount:d":	1,
+				"Action29SelectionMethod:d":	0,
+				"Action29Cinema0:g":	"C4CD7AD2_790EE401"
+			}]
+	}, {
+		"name":	"Action30",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType30:d":	21,
+				"ActionName30:s":	"Ph03 Set Trig Cine: Balin-Bilbo Conv 002 to 003",
+				"Action30ExecuteDelay:f":	0,
+				"Action30ExecuteImmediately:d":	0,
+				"Action30NPCGuid:g":	"C4CD7A8E_9E398400",
+				"Action30CinemaCount:d":	1,
+				"Action30SelectionMethod:d":	0,
+				"Action30Cinema0:g":	"C4CD7AD2_792FC801"
+			}]
+	}, {
+		"name":	"Action31",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType31:d":	21,
+				"ActionName31:s":	"Ph03 Set Trig Cine: Balin Conversation from 1 to 2",
+				"Action31ExecuteDelay:f":	0,
+				"Action31ExecuteImmediately:d":	0,
+				"Action31NPCGuid:g":	"C4CD7A8E_9E398400",
+				"Action31CinemaCount:d":	1,
+				"Action31SelectionMethod:d":	0,
+				"Action31Cinema0:g":	"C4CD7AD2_790C2C01"
+			}]
+	}, {
+		"name":	"Action32",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType32:d":	20,
+				"ActionName32:s":	"Ph03 Play: Thorin Phase03",
+				"Action32ExecuteDelay:f":	2,
+				"Action32ExecuteImmediately:d":	0,
+				"Action32cinemaCount:d":	1,
+				"Action32cinemaSelect:d":	0,
+				"Action32cinema0Guid:g":	"C4CD7A4E_78F66400"
+			}]
+	}, {
+		"name":	"Action33",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType33:d":	20,
+				"ActionName33:s":	"Ph03 Play: BridgeBilbo Cin",
+				"Action33ExecuteDelay:f":	0,
+				"Action33ExecuteImmediately:d":	0,
+				"Action33cinemaCount:d":	1,
+				"Action33cinemaSelect:d":	0,
+				"Action33cinema0Guid:g":	"C4CD748E_9F7F5800"
+			}]
+	}, {
+		"name":	"Action34",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType34:d":	15,
+				"ActionName34:s":	"Ph03 Move: Bilbo to Bilbo Starting Spot Ph03",
+				"Action34ExecuteDelay:f":	3,
+				"Action34ExecuteImmediately:d":	0,
+				"Action34Object:g":	"ABCABCAB_CABCABC0",
+				"Action34Volume:g":	"C4CD7A4E_785B1801",
+				"Action34Facing:g":	"00000000_00000000"
+			}]
+	}, {
+		"name":	"Action35",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType35:d":	15,
+				"ActionName35:s":	"Ph03 Move Bilbo: ExitBlocker Pop",
+				"Action35ExecuteDelay:f":	1.5,
+				"Action35ExecuteImmediately:d":	0,
+				"Action35Object:g":	"ABCABCAB_CABCABC0",
+				"Action35Volume:g":	"C4CD73D2_B25C8C00",
+				"Action35Facing:g":	"C4CD73D2_B263A001"
+			}]
+	}, {
+		"name":	"Action36",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType36:d":	10,
+				"ActionName36:s":	"Ph03 Load Layer: Ph02b to Ph03 001",
+				"Action36ExecuteDelay:f":	0,
+				"Action36ExecuteImmediately:d":	0,
+				"Action36LoadLayerGuid:g":	"C4CD7DCE_9E7D7801"
+			}]
+	}, {
+		"name":	"Action37",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType37:d":	10,
+				"ActionName37:s":	"Ph03 Load Layer: Floating Door",
+				"Action37ExecuteDelay:f":	9,
+				"Action37ExecuteImmediately:d":	0,
+				"Action37LoadLayerGuid:g":	"C4CD750E_943B4C00"
+			}]
+	}, {
+		"name":	"Action38",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType38:d":	19,
+				"ActionName38:s":	"Ph03 End Level",
+				"Action38ExecuteDelay:f":	0,
+				"Action38ExecuteImmediately:d":	0
+			}]
+	}, {
+		"name":	"Action39",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType39:d":	49,
+				"ActionName39:s":	"Ph02b Unhide: ColumnA Area01 005",
+				"Action39ExecuteDelay:f":	0,
+				"Action39ExecuteImmediately:d":	0,
+				"Action39RigidInstance:g":	"C4CD72CD_95AA2001",
+				"Action39Hidden:d":	0
+			}]
+	}, {
+		"name":	"Action40",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType40:d":	18,
+				"ActionName40:s":	"Ph02b Show Overlay: Smaug Breath Hint",
+				"Action40ExecuteDelay:f":	1.5,
+				"Action40ExecuteImmediately:d":	0,
+				"Action40StringID:s":	"INFO_SMAUG_BREATHING_HINT",
+				"Action40Scroll:d":	0,
+				"Action40DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action41",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType41:d":	20,
+				"ActionName41:s":	"Ph02b Play: Smaug Attack Path",
+				"Action41ExecuteDelay:f":	1,
+				"Action41ExecuteImmediately:d":	0,
+				"Action41cinemaCount:d":	1,
+				"Action41cinemaSelect:d":	0,
+				"Action41cinema0Guid:g":	"C4CD7712_0F147000"
+			}]
+	}, {
+		"name":	"Action42",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType42:d":	20,
+				"ActionName42:s":	"Ph02b Play: Cine07 Smaug Breathes at Bilbo",
+				"Action42ExecuteDelay:f":	0,
+				"Action42ExecuteImmediately:d":	0,
+				"Action42cinemaCount:d":	1,
+				"Action42cinemaSelect:d":	1,
+				"Action42cinema0Guid:g":	"CD588251_21BF0800"
+			}]
+	}, {
+		"name":	"Action43",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType43:d":	7,
+				"ActionName43:s":	"Ph02b Play Dialogue: PillarCrumble",
+				"Action43ExecuteDelay:f":	0,
+				"Action43ExecuteImmediately:d":	0,
+				"Action43DialogName:s":	"PILLARCRUMBLE",
+				"Action43Speaker:g":	"00000000_00000000",
+				"Action43AtLocation:d":	0,
+				"Action43BilboDialog:d":	0
+			}]
+	}, {
+		"name":	"Action44",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType44:d":	10,
+				"ActionName44:s":	"Ph02b Load Layer: CP Trigger 2b_7",
+				"Action44ExecuteDelay:f":	0,
+				"Action44ExecuteImmediately:d":	0,
+				"Action44LoadLayerGuid:g":	"C4CD7C4E_991EF001"
+			}]
+	}, {
+		"name":	"Action45",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType45:d":	10,
+				"ActionName45:s":	"Ph02b Load Layer: CP Trigger 2b_6",
+				"Action45ExecuteDelay:f":	0,
+				"Action45ExecuteImmediately:d":	0,
+				"Action45LoadLayerGuid:g":	"C4CD7C0E_991C7400"
+			}]
+	}, {
+		"name":	"Action46",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType46:d":	10,
+				"ActionName46:s":	"Ph02b Load Layer: CP Trigger 2b_5",
+				"Action46ExecuteDelay:f":	0,
+				"Action46ExecuteImmediately:d":	0,
+				"Action46LoadLayerGuid:g":	"C4CD738E_4E100400"
+			}]
+	}, {
+		"name":	"Action47",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType47:d":	10,
+				"ActionName47:s":	"Ph02b Load Layer: CP Trigger 2b_4",
+				"Action47ExecuteDelay:f":	0,
+				"Action47ExecuteImmediately:d":	0,
+				"Action47LoadLayerGuid:g":	"C4CD738E_4E0FF400"
+			}]
+	}, {
+		"name":	"Action48",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType48:d":	10,
+				"ActionName48:s":	"Ph02b Load Layer: CP Trigger 2b_3",
+				"Action48ExecuteDelay:f":	0,
+				"Action48ExecuteImmediately:d":	0,
+				"Action48LoadLayerGuid:g":	"C4CD738E_4E0FE000"
+			}]
+	}, {
+		"name":	"Action49",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType49:d":	10,
+				"ActionName49:s":	"Ph02b Load Layer: CP Trigger 2b_2",
+				"Action49ExecuteDelay:f":	0,
+				"Action49ExecuteImmediately:d":	0,
+				"Action49LoadLayerGuid:g":	"C4CD738E_4E0FB800"
+			}]
+	}, {
+		"name":	"Action50",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType50:d":	12,
+				"ActionName50:s":	"Ph02b Link, Enable: Bilbo Picks Up: CP_50",
+				"Action50ExecuteDelay:f":	0,
+				"Action50ExecuteImmediately:d":	0,
+				"Action50Link:s":	"TRIGGERS: Ph02b Bilbo Picks Up: CP_50 Ph2b_7 001/  ACTIONS: Ph02b Play: Cine07 Smaug Breathes at Bilbo/ ",
+				"Action50LinkState:d":	0
+			}]
+	}, {
+		"name":	"Action51",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType51:d":	49,
+				"ActionName51:s":	"Ph02b Hide: Cine06 Anim Inst",
+				"Action51ExecuteDelay:f":	0,
+				"Action51ExecuteImmediately:d":	0,
+				"Action51RigidInstance:g":	"C4CD7112_87E26C00",
+				"Action51Hidden:d":	1
+			}]
+	}, {
+		"name":	"Action52",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType52:d":	12,
+				"ActionName52:s":	"Ph02b Disable Link: ",
+				"Action52ExecuteDelay:f":	0,
+				"Action52ExecuteImmediately:d":	0,
+				"Action52Link:s":	"NONE",
+				"Action52LinkState:d":	0
+			}]
+	}, {
+		"name":	"Action53",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType53:d":	49,
+				"ActionName53:s":	"Ph02a Unhide: ColumnA Area01 006",
+				"Action53ExecuteDelay:f":	0,
+				"Action53ExecuteImmediately:d":	0,
+				"Action53RigidInstance:g":	"C4CD770E_A4471801",
+				"Action53Hidden:d":	0
+			}]
+	}, {
+		"name":	"Action54",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType54:d":	49,
+				"ActionName54:s":	"Ph02a Unhide: Column Chain Area01 004",
+				"Action54ExecuteDelay:f":	0,
+				"Action54ExecuteImmediately:d":	0,
+				"Action54RigidInstance:g":	"C4CD734D_A140B807",
+				"Action54Hidden:d":	0
+			}]
+	}, {
+		"name":	"Action55",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType55:d":	49,
+				"ActionName55:s":	"Ph02a Unhide: Cine06_inst",
+				"Action55ExecuteDelay:f":	0,
+				"Action55ExecuteImmediately:d":	0,
+				"Action55RigidInstance:g":	"C4CD7112_87E26C00",
+				"Action55Hidden:d":	0
+			}]
+	}, {
+		"name":	"Action56",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType56:d":	18,
+				"ActionName56:s":	"Ph02a Show Overlay: Smaug Eye Hint",
+				"Action56ExecuteDelay:f":	3,
+				"Action56ExecuteImmediately:d":	0,
+				"Action56StringID:s":	"INFO_SMAUG_EYE_HINT",
+				"Action56Scroll:d":	0,
+				"Action56DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action57",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType57:d":	21,
+				"ActionName57:s":	"Ph02a Set Trig Cine: Thorin-Bilbo Conv 001 to 0022",
+				"Action57ExecuteDelay:f":	0,
+				"Action57ExecuteImmediately:d":	0,
+				"Action57NPCGuid:g":	"C4CD750E_14764800",
+				"Action57CinemaCount:d":	1,
+				"Action57SelectionMethod:d":	0,
+				"Action57Cinema0:g":	"C4CD7F50_CDF77800"
+			}]
+	}, {
+		"name":	"Action58",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType58:d":	21,
+				"ActionName58:s":	"Ph02a Set Trig Cine: Thorin to Thorin-Bilbo Conversation 001",
+				"Action58ExecuteDelay:f":	0,
+				"Action58ExecuteImmediately:d":	0,
+				"Action58NPCGuid:g":	"C4CD750E_14764800",
+				"Action58CinemaCount:d":	1,
+				"Action58SelectionMethod:d":	0,
+				"Action58Cinema0:g":	"C4CD7F50_CDE05C00"
+			}]
+	}, {
+		"name":	"Action59",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType59:d":	20,
+				"ActionName59:s":	"Ph02a Play: SmaugKillsBilbo (Awake)",
+				"Action59ExecuteDelay:f":	0,
+				"Action59ExecuteImmediately:d":	0,
+				"Action59cinemaCount:d":	1,
+				"Action59cinemaSelect:d":	0,
+				"Action59cinema0Guid:g":	"C4CD7892_886D1001"
+			}]
+	}, {
+		"name":	"Action60",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType60:d":	20,
+				"ActionName60:s":	"Ph02a Play: SmaugCin Vantage",
+				"Action60ExecuteDelay:f":	0,
+				"Action60ExecuteImmediately:d":	0,
+				"Action60cinemaCount:d":	1,
+				"Action60cinemaSelect:d":	0,
+				"Action60cinema0Guid:g":	"C4CD750E_93F2E000"
+			}]
+	}, {
+		"name":	"Action61",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType61:d":	20,
+				"ActionName61:s":	"Ph02a Play: SmaugCin Vantage",
+				"Action61ExecuteDelay:f":	0,
+				"Action61ExecuteImmediately:d":	0,
+				"Action61cinemaCount:d":	1,
+				"Action61cinemaSelect:d":	0,
+				"Action61cinema0Guid:g":	"C4CD750E_93F2E000"
+			}]
+	}, {
+		"name":	"Action62",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType62:d":	20,
+				"ActionName62:s":	"Ph02a Play: SmaugAwake Voice 006",
+				"Action62ExecuteDelay:f":	0,
+				"Action62ExecuteImmediately:d":	0,
+				"Action62cinemaCount:d":	1,
+				"Action62cinemaSelect:d":	0,
+				"Action62cinema0Guid:g":	"C4CD7A8E_A2E89C00"
+			}]
+	}, {
+		"name":	"Action63",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType63:d":	20,
+				"ActionName63:s":	"Ph02a Play: SmaugAwake Voice 005",
+				"Action63ExecuteDelay:f":	0,
+				"Action63ExecuteImmediately:d":	0,
+				"Action63cinemaCount:d":	1,
+				"Action63cinemaSelect:d":	0,
+				"Action63cinema0Guid:g":	"C4CD7A8E_A2E7A000"
+			}]
+	}, {
+		"name":	"Action64",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType64:d":	20,
+				"ActionName64:s":	"Ph02a Play: SmaugAwake Voice 004",
+				"Action64ExecuteDelay:f":	0,
+				"Action64ExecuteImmediately:d":	0,
+				"Action64cinemaCount:d":	1,
+				"Action64cinemaSelect:d":	0,
+				"Action64cinema0Guid:g":	"C4CD7A8E_A2E62000"
+			}]
+	}, {
+		"name":	"Action65",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType65:d":	20,
+				"ActionName65:s":	"Ph02a Play: SmaugAwake Voice 003",
+				"Action65ExecuteDelay:f":	0,
+				"Action65ExecuteImmediately:d":	0,
+				"Action65cinemaCount:d":	1,
+				"Action65cinemaSelect:d":	0,
+				"Action65cinema0Guid:g":	"C4CD7A8E_A2E58400"
+			}]
+	}, {
+		"name":	"Action66",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType66:d":	20,
+				"ActionName66:s":	"Ph02a Play: SmaugAwake Voice 002",
+				"Action66ExecuteDelay:f":	0,
+				"Action66ExecuteImmediately:d":	0,
+				"Action66cinemaCount:d":	1,
+				"Action66cinemaSelect:d":	0,
+				"Action66cinema0Guid:g":	"C4CD738E_A2D8B400"
+			}]
+	}, {
+		"name":	"Action67",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType67:d":	20,
+				"ActionName67:s":	"Ph02a Play: SmaugAwake Voice 001",
+				"Action67ExecuteDelay:f":	0,
+				"Action67ExecuteImmediately:d":	0,
+				"Action67cinemaCount:d":	1,
+				"Action67cinemaSelect:d":	0,
+				"Action67cinema0Guid:g":	"C4CD738E_A2D45800"
+			}]
+	}, {
+		"name":	"Action68",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType68:d":	20,
+				"ActionName68:s":	"Ph02a Play: Cine06 Conversation with Smaug",
+				"Action68ExecuteDelay:f":	2,
+				"Action68ExecuteImmediately:d":	0,
+				"Action68cinemaCount:d":	1,
+				"Action68cinemaSelect:d":	0,
+				"Action68cinema0Guid:g":	"C4CD7B91_F8D69800"
+			}]
+	}, {
+		"name":	"Action69",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType69:d":	20,
+				"ActionName69:s":	"Ph02a Play: Cine05_Smaug_Bilbo_Second Visit",
+				"Action69ExecuteDelay:f":	0,
+				"Action69ExecuteImmediately:d":	0,
+				"Action69cinemaCount:d":	1,
+				"Action69cinemaSelect:d":	0,
+				"Action69cinema0Guid:g":	"C4CD7C91_EA108C00"
+			}]
+	}, {
+		"name":	"Action70",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType70:d":	20,
+				"ActionName70:s":	"Ph02a Play: Cine04 Bilbo-Thorin Second Conv",
+				"Action70ExecuteDelay:f":	0,
+				"Action70ExecuteImmediately:d":	0,
+				"Action70cinemaCount:d":	1,
+				"Action70cinemaSelect:d":	0,
+				"Action70cinema0Guid:g":	"C4CD7F12_32F15000"
+			}]
+	}, {
+		"name":	"Action71",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType71:d":	15,
+				"ActionName71:s":	"Ph02a Move: Bilbo to Bilbo Starting Spot Ph02b",
+				"Action71ExecuteDelay:f":	0,
+				"Action71ExecuteImmediately:d":	0,
+				"Action71Object:g":	"ABCABCAB_CABCABC0",
+				"Action71Volume:g":	"C4CD7A4E_7857C800",
+				"Action71Facing:g":	"C4CD73CE_4DB48000"
+			}]
+	}, {
+		"name":	"Action72",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType72:d":	10,
+				"ActionName72:s":	"Ph02a Load Layer: Load Ph02b Exit Cin",
+				"Action72ExecuteDelay:f":	0,
+				"Action72ExecuteImmediately:d":	0,
+				"Action72LoadLayerGuid:g":	"C4CD7A4E_78858400"
+			}]
+	}, {
+		"name":	"Action73",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType73:d":	10,
+				"ActionName73:s":	"Ph02a Load Layer: Load Ph02b",
+				"Action73ExecuteDelay:f":	0,
+				"Action73ExecuteImmediately:d":	0,
+				"Action73LoadLayerGuid:g":	"C4CD7A4E_78EA3400"
+			}]
+	}, {
+		"name":	"Action74",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType74:d":	49,
+				"ActionName74:s":	"Ph02a Hide: LargeChandelier Base 001",
+				"Action74ExecuteDelay:f":	0,
+				"Action74ExecuteImmediately:d":	0,
+				"Action74RigidInstance:g":	"C4CD710D_814FDC00",
+				"Action74Hidden:d":	1
+			}]
+	}, {
+		"name":	"Action75",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType75:d":	49,
+				"ActionName75:s":	"Ph02a Hide: ColumnA Area01 006",
+				"Action75ExecuteDelay:f":	0,
+				"Action75ExecuteImmediately:d":	0,
+				"Action75RigidInstance:g":	"C4CD770E_A4471801",
+				"Action75Hidden:d":	1
+			}]
+	}, {
+		"name":	"Action76",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType76:d":	49,
+				"ActionName76:s":	"Ph02a Hide: ColumnA Area01 005",
+				"Action76ExecuteDelay:f":	0,
+				"Action76ExecuteImmediately:d":	0,
+				"Action76RigidInstance:g":	"C4CD72CD_95AA2001",
+				"Action76Hidden:d":	1
+			}]
+	}, {
+		"name":	"Action77",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType77:d":	49,
+				"ActionName77:s":	"Ph02a Hide: Column Chain Area01 004",
+				"Action77ExecuteDelay:f":	0,
+				"Action77ExecuteImmediately:d":	0,
+				"Action77RigidInstance:g":	"C4CD734D_A140B807",
+				"Action77Hidden:d":	1
+			}]
+	}, {
+		"name":	"Action78",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType78:d":	20,
+				"ActionName78:s":	"Ph02 Play: SmaugCin Welcome",
+				"Action78ExecuteDelay:f":	0,
+				"Action78ExecuteImmediately:d":	0,
+				"Action78cinemaCount:d":	1,
+				"Action78cinemaSelect:d":	0,
+				"Action78cinema0Guid:g":	"C4CD7A10_403A3400"
+			}]
+	}, {
+		"name":	"Action79",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType79:d":	10,
+				"ActionName79:s":	"Ph02 Load Layer: Load Ph02 Trigger",
+				"Action79ExecuteDelay:f":	0,
+				"Action79ExecuteImmediately:d":	0,
+				"Action79LoadLayerGuid:g":	"C4CD7D4E_34E6F400"
+			}]
+	}, {
+		"name":	"Action80",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType80:d":	10,
+				"ActionName80:s":	"Ph02 Load Layer: Load Ph02 Conversation",
+				"Action80ExecuteDelay:f":	0,
+				"Action80ExecuteImmediately:d":	0,
+				"Action80LoadLayerGuid:g":	"C4CD720E_74A50C00"
+			}]
+	}, {
+		"name":	"Action81",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType81:d":	12,
+				"ActionName81:s":	"Ph01: Link, Enable: Ph01 Bilbo Enters: SmaugAwake Activate",
+				"Action81ExecuteDelay:f":	0,
+				"Action81ExecuteImmediately:d":	0,
+				"Action81Link:s":	"TRIGGERS: Ph02 Bilbo Enters: SmaugAwake Activate/  ACTIONS: Ph02 Play: SmaugCin Welcome/ ",
+				"Action81LinkState:d":	0
+			}]
+	}, {
+		"name":	"Action82",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType82:d":	18,
+				"ActionName82:s":	"Ph01 Show Overlay: Smaug Awake Meter",
+				"Action82ExecuteDelay:f":	3,
+				"Action82ExecuteImmediately:d":	0,
+				"Action82StringID:s":	"INFO_SMAUG_AWAKE_METER",
+				"Action82Scroll:d":	0,
+				"Action82DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action83",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType83:d":	18,
+				"ActionName83:s":	"Ph01 Show Overlay: Get Goblet",
+				"Action83ExecuteDelay:f":	0,
+				"Action83ExecuteImmediately:d":	0,
+				"Action83StringID:s":	"INFO_GET_GOLBET",
+				"Action83Scroll:d":	0,
+				"Action83DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action84",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType84:d":	21,
+				"ActionName84:s":	"Ph01 Set Trig Cine: Ph01 Bilbo-Ori Conv 1 to 2",
+				"Action84ExecuteDelay:f":	0,
+				"Action84ExecuteImmediately:d":	0,
+				"Action84NPCGuid:g":	"C4CD750E_150CD000",
+				"Action84CinemaCount:d":	1,
+				"Action84SelectionMethod:d":	0,
+				"Action84Cinema0:g":	"C4CD7F50_CD93A001"
+			}]
+	}, {
+		"name":	"Action85",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType85:d":	21,
+				"ActionName85:s":	"Ph01 Set Trig Cine: Ph01 Bilbo-Oin Conv 1 to 2",
+				"Action85ExecuteDelay:f":	0,
+				"Action85ExecuteImmediately:d":	0,
+				"Action85NPCGuid:g":	"C4CD750E_150A9800",
+				"Action85CinemaCount:d":	1,
+				"Action85SelectionMethod:d":	0,
+				"Action85Cinema0:g":	"C4CD7F50_CD91B801"
+			}]
+	}, {
+		"name":	"Action86",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType86:d":	21,
+				"ActionName86:s":	"Ph01 Set Trig Cine: Ph01 Bilbo-Nori Conv 1 to 2",
+				"Action86ExecuteDelay:f":	0,
+				"Action86ExecuteImmediately:d":	0,
+				"Action86NPCGuid:g":	"C4CD750E_150C4400",
+				"Action86CinemaCount:d":	1,
+				"Action86SelectionMethod:d":	0,
+				"Action86Cinema0:g":	"C4CD7F50_CD97F001"
+			}]
+	}, {
+		"name":	"Action87",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType87:d":	21,
+				"ActionName87:s":	"Ph01 Set Trig Cine: Ph01 Bilbo-Kili Conv 1 to 2",
+				"Action87ExecuteDelay:f":	0,
+				"Action87ExecuteImmediately:d":	0,
+				"Action87NPCGuid:g":	"C4CD750E_1509B000",
+				"Action87CinemaCount:d":	1,
+				"Action87SelectionMethod:d":	0,
+				"Action87Cinema0:g":	"C4CD7F50_CD9DC801"
+			}]
+	}, {
+		"name":	"Action88",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType88:d":	21,
+				"ActionName88:s":	"Ph01 Set Trig Cine: Ph01 Bilbo-Fili Conv 1 to 2",
+				"Action88ExecuteDelay:f":	0,
+				"Action88ExecuteImmediately:d":	0,
+				"Action88NPCGuid:g":	"C4CD750E_15052800",
+				"Action88CinemaCount:d":	1,
+				"Action88SelectionMethod:d":	0,
+				"Action88Cinema0:g":	"C4CD7F50_CD5AA801"
+			}]
+	}, {
+		"name":	"Action89",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType89:d":	21,
+				"ActionName89:s":	"Ph01 Set Trig Cine: Ph01 Bilbo-Dori Conv 1 to 2",
+				"Action89ExecuteDelay:f":	0,
+				"Action89ExecuteImmediately:d":	0,
+				"Action89NPCGuid:g":	"C4CD750E_150B9000",
+				"Action89CinemaCount:d":	1,
+				"Action89SelectionMethod:d":	0,
+				"Action89Cinema0:g":	"C4CD7F50_CD95AC01"
+			}]
+	}, {
+		"name":	"Action90",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType90:d":	21,
+				"ActionName90:s":	"Ph01 Set Trig Cine: Ph01 Bilbo-Bofur Conv 1 to 2",
+				"Action90ExecuteDelay:f":	0,
+				"Action90ExecuteImmediately:d":	0,
+				"Action90NPCGuid:g":	"C4CD750E_14775400",
+				"Action90CinemaCount:d":	1,
+				"Action90SelectionMethod:d":	0,
+				"Action90Cinema0:g":	"C4CD7F50_CD2D4000"
+			}]
+	}, {
+		"name":	"Action91",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType91:d":	21,
+				"ActionName91:s":	"Ph01 Set Trig Cine: Ph01 Bilbo-Bifur Conv 1 to 2",
+				"Action91ExecuteDelay:f":	0,
+				"Action91ExecuteImmediately:d":	0,
+				"Action91NPCGuid:g":	"C4CD750E_1474F800",
+				"Action91CinemaCount:d":	1,
+				"Action91SelectionMethod:d":	0,
+				"Action91Cinema0:g":	"C4CD7F50_CD2A6000"
+			}]
+	}, {
+		"name":	"Action92",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType92:d":	21,
+				"ActionName92:s":	"Ph01 Set Trig Cine: Gloin Conversation from 1 to 2",
+				"Action92ExecuteDelay:f":	0,
+				"Action92ExecuteImmediately:d":	0,
+				"Action92NPCGuid:g":	"C4CD750E_15063000",
+				"Action92CinemaCount:d":	1,
+				"Action92SelectionMethod:d":	0,
+				"Action92Cinema0:g":	"C4CD7C90_BD35CC00"
+			}]
+	}, {
+		"name":	"Action93",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType93:d":	21,
+				"ActionName93:s":	"Ph01 Set Trig Cine: Dwalin Conversation from 1 to 2",
+				"Action93ExecuteDelay:f":	0,
+				"Action93ExecuteImmediately:d":	0,
+				"Action93NPCGuid:g":	"C4CD750E_15074800",
+				"Action93CinemaCount:d":	1,
+				"Action93SelectionMethod:d":	0,
+				"Action93Cinema0:g":	"C4CD7C90_BD585000"
+			}]
+	}, {
+		"name":	"Action94",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType94:d":	21,
+				"ActionName94:s":	"Ph01 Set Trig Cine: Bombur Conversation from 1 to 2",
+				"Action94ExecuteDelay:f":	0,
+				"Action94ExecuteImmediately:d":	0,
+				"Action94NPCGuid:g":	"C4CD750E_147F5400",
+				"Action94CinemaCount:d":	1,
+				"Action94SelectionMethod:d":	0,
+				"Action94Cinema0:g":	"C4CD7C90_BDD37C00"
+			}]
+	}, {
+		"name":	"Action95",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType95:d":	21,
+				"ActionName95:s":	"Ph01 Set Trig Cine: Balin Conversation from 1 to 2",
+				"Action95ExecuteDelay:f":	0,
+				"Action95ExecuteImmediately:d":	0,
+				"Action95NPCGuid:g":	"C4CD750E_14741800",
+				"Action95CinemaCount:d":	1,
+				"Action95SelectionMethod:d":	0,
+				"Action95Cinema0:g":	"C4CD7C90_BD537400"
+			}]
+	}, {
+		"name":	"Action96",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType96:d":	9,
+				"ActionName96:s":	"Ph01 Set Inv: Remove Goblet",
+				"Action96ExecuteDelay:f":	0,
+				"Action96ExecuteImmediately:d":	0,
+				"Action96Item:s":	"GOBLET",
+				"Action96Add:d":	0,
+				"Action96Amount:d":	1,
+				"Action96SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action97",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType97:d":	9,
+				"ActionName97:s":	"Ph01 Set Inv: Give Goblet",
+				"Action97ExecuteDelay:f":	0,
+				"Action97ExecuteImmediately:d":	0,
+				"Action97Item:s":	"GOBLET",
+				"Action97Add:d":	1,
+				"Action97Amount:d":	1,
+				"Action97SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action98",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType98:d":	20,
+				"ActionName98:s":	"Ph01 Play: SmaugKillsBilbo (Sleep)",
+				"Action98ExecuteDelay:f":	0,
+				"Action98ExecuteImmediately:d":	0,
+				"Action98cinemaCount:d":	1,
+				"Action98cinemaSelect:d":	0,
+				"Action98cinema0Guid:g":	"C4CD7892_886BD800"
+			}]
+	}, {
+		"name":	"Action99",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType99:d":	20,
+				"ActionName99:s":	"Ph01 Play: SmaugGrabsCup",
+				"Action99ExecuteDelay:f":	0,
+				"Action99ExecuteImmediately:d":	0,
+				"Action99cinemaCount:d":	1,
+				"Action99cinemaSelect:d":	0,
+				"Action99cinema0Guid:g":	"C4CD7452_B295EC00"
+			}]
+	}, {
+		"name":	"Action100",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType100:d":	20,
+				"ActionName100:s":	"Ph01 Play: SmaugCin Goblet",
+				"Action100ExecuteDelay:f":	1,
+				"Action100ExecuteImmediately:d":	0,
+				"Action100cinemaCount:d":	1,
+				"Action100cinemaSelect:d":	0,
+				"Action100cinema0Guid:g":	"C4CD7F8E_93D99C00"
+			}]
+	}, {
+		"name":	"Action101",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType101:d":	20,
+				"ActionName101:s":	"Ph01 Play: Smaug Huh 001, 002",
+				"Action101ExecuteDelay:f":	0,
+				"Action101ExecuteImmediately:d":	0,
+				"Action101cinemaCount:d":	2,
+				"Action101cinemaSelect:d":	0,
+				"Action101cinema0Guid:g":	"C4CD71D2_22F58801",
+				"Action101cinema1Guid:g":	"C4CD71D2_22F7FC01"
+			}]
+	}, {
+		"name":	"Action102",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType102:d":	20,
+				"ActionName102:s":	"Ph01 Play: Smaug Grumbles in sleep 001, 002",
+				"Action102ExecuteDelay:f":	0,
+				"Action102ExecuteImmediately:d":	0,
+				"Action102cinemaCount:d":	2,
+				"Action102cinemaSelect:d":	0,
+				"Action102cinema0Guid:g":	"C4CD71D2_22EF2000",
+				"Action102cinema1Guid:g":	"C4CD71D2_22F04C01"
+			}]
+	}, {
+		"name":	"Action103",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType103:d":	20,
+				"ActionName103:s":	"Ph01 Play: Smaug Grumble, Snorts 001, 002",
+				"Action103ExecuteDelay:f":	0,
+				"Action103ExecuteImmediately:d":	0,
+				"Action103cinemaCount:d":	2,
+				"Action103cinemaSelect:d":	0,
+				"Action103cinema0Guid:g":	"C4CD71D2_22F4D401",
+				"Action103cinema1Guid:g":	"C4CD71D2_22F54C01"
+			}]
+	}, {
+		"name":	"Action104",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType104:d":	20,
+				"ActionName104:s":	"Ph01 Play: Cine03_Smaug_Missing_Cup",
+				"Action104ExecuteDelay:f":	0,
+				"Action104ExecuteImmediately:d":	0,
+				"Action104cinemaCount:d":	1,
+				"Action104cinemaSelect:d":	0,
+				"Action104cinema0Guid:g":	"C4CD7C91_EA0D0C00"
+			}]
+	}, {
+		"name":	"Action105",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType105:d":	20,
+				"ActionName105:s":	"Ph01 Play: Cine02 SmaugEyeOpens",
+				"Action105ExecuteDelay:f":	0,
+				"Action105ExecuteImmediately:d":	0,
+				"Action105cinemaCount:d":	1,
+				"Action105cinemaSelect:d":	0,
+				"Action105cinema0Guid:g":	"C0CFA58E_A0217C00"
+			}]
+	}, {
+		"name":	"Action106",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType106:d":	15,
+				"ActionName106:s":	"Ph01 Move: Bilbo to Bilbo-Thorin Pop",
+				"Action106ExecuteDelay:f":	0,
+				"Action106ExecuteImmediately:d":	0,
+				"Action106Object:g":	"ABCABCAB_CABCABC0",
+				"Action106Volume:g":	"C4CD76D0_BCDC6000",
+				"Action106Facing:g":	"C4CD7A10_C2997C01"
+			}]
+	}, {
+		"name":	"Action107",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType107:d":	10,
+				"ActionName107:s":	"Ph01 Load Layer: Int to Ext Ph01 001",
+				"Action107ExecuteDelay:f":	0,
+				"Action107ExecuteImmediately:d":	0,
+				"Action107LoadLayerGuid:g":	"C4CD7D4E_34DD7801"
+			}]
+	}, {
+		"name":	"Action108",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType108:d":	10,
+				"ActionName108:s":	"Ph01 Load Layer: CP Trigger Ph01_Exit",
+				"Action108ExecuteDelay:f":	0,
+				"Action108ExecuteImmediately:d":	0,
+				"Action108LoadLayerGuid:g":	"C4CD7E4E_B76D8C00"
+			}]
+	}, {
+		"name":	"Action109",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType109:d":	12,
+				"ActionName109:s":	"Ph01 Link, Enable: Ph01 Bilbo Enters: Ph01 Play Cine03",
+				"Action109ExecuteDelay:f":	0,
+				"Action109ExecuteImmediately:d":	0,
+				"Action109Link:s":	"TRIGGERS: Ph01 Bilbo Enters: Play Cine03/  ACTIONS: Ph01 Play: Cine03_Smaug_Missing_Cup/ ",
+				"Action109LinkState:d":	0
+			}]
+	}, {
+		"name":	"Action110",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType110:d":	40,
+				"ActionName110:s":	"Music - Thorin Conv03",
+				"Action110ExecuteDelay:f":	0,
+				"Action110ExecuteImmediately:d":	0,
+				"Action110MusicTrigger:g":	"9D153612_59FDD801"
+			}]
+	}, {
+		"name":	"Action111",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType111:d":	40,
+				"ActionName111:s":	"Music - Smaug Stage 03 Exit",
+				"Action111ExecuteDelay:f":	0,
+				"Action111ExecuteImmediately:d":	0,
+				"Action111MusicTrigger:g":	"9D153612_5A116C01"
+			}]
+	}, {
+		"name":	"Action112",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType112:d":	40,
+				"ActionName112:s":	"Music - Smaug Stage 03 Enter",
+				"Action112ExecuteDelay:f":	0,
+				"Action112ExecuteImmediately:d":	0,
+				"Action112MusicTrigger:g":	"9D153612_5A019801"
+			}]
+	}, {
+		"name":	"Action113",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType113:d":	40,
+				"ActionName113:s":	"Music - Smaug Stage 02 Exit",
+				"Action113ExecuteDelay:f":	0,
+				"Action113ExecuteImmediately:d":	0,
+				"Action113MusicTrigger:g":	"9D153612_5A129401"
+			}]
+	}, {
+		"name":	"Action114",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType114:d":	40,
+				"ActionName114:s":	"Music - Smaug Stage 02 Enter",
+				"Action114ExecuteDelay:f":	0,
+				"Action114ExecuteImmediately:d":	0,
+				"Action114MusicTrigger:g":	"9D153612_5A010801"
+			}]
+	}, {
+		"name":	"Action115",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType115:d":	40,
+				"ActionName115:s":	"Music - Smaug Fry Bilbo",
+				"Action115ExecuteDelay:f":	0,
+				"Action115ExecuteImmediately:d":	0,
+				"Action115MusicTrigger:g":	"9D153612_5A102801"
+			}]
+	}, {
+		"name":	"Action116",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType116:d":	40,
+				"ActionName116:s":	"Music - Smaug Establish",
+				"Action116ExecuteDelay:f":	0,
+				"Action116ExecuteImmediately:d":	0,
+				"Action116MusicTrigger:g":	"9D153612_5A028401"
+			}]
+	}, {
+		"name":	"Action117",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType117:d":	40,
+				"ActionName117:s":	"Music - Level Start",
+				"Action117ExecuteDelay:f":	0,
+				"Action117ExecuteImmediately:d":	0,
+				"Action117MusicTrigger:g":	"38600351_2ADF4401"
+			}]
+	}, {
+		"name":	"Action118",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType118:d":	40,
+				"ActionName118:s":	"Music - Fail Ph02 After Death",
+				"Action118ExecuteDelay:f":	0,
+				"Action118ExecuteImmediately:d":	0,
+				"Action118MusicTrigger:g":	"9D153912_DB332001"
+			}]
+	}, {
+		"name":	"Action119",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType119:d":	40,
+				"ActionName119:s":	"Music - Fail Ph01 After Death",
+				"Action119ExecuteDelay:f":	0,
+				"Action119ExecuteImmediately:d":	0,
+				"Action119MusicTrigger:g":	"9D153912_DB327001"
+			}]
+	}, {
+		"name":	"Action120",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType120:d":	40,
+				"ActionName120:s":	"Music - Cine06 Start",
+				"Action120ExecuteDelay:f":	0,
+				"Action120ExecuteImmediately:d":	0,
+				"Action120MusicTrigger:g":	"9D153912_DB2F8401"
+			}]
+	}, {
+		"name":	"Action121",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType121:d":	40,
+				"ActionName121:s":	"Music - Cine06 End 2",
+				"Action121ExecuteDelay:f":	6,
+				"Action121ExecuteImmediately:d":	0,
+				"Action121MusicTrigger:g":	"9D153912_DB30C801"
+			}]
+	}, {
+		"name":	"Action122",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType122:d":	40,
+				"ActionName122:s":	"Music - Cine06 End 1",
+				"Action122ExecuteDelay:f":	0,
+				"Action122ExecuteImmediately:d":	0,
+				"Action122MusicTrigger:g":	"9D153912_DB304001"
+			}]
+	}, {
+		"name":	"Action123",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType123:d":	40,
+				"ActionName123:s":	"Music - Cine02 Cup Ends",
+				"Action123ExecuteDelay:f":	0,
+				"Action123ExecuteImmediately:d":	0,
+				"Action123MusicTrigger:g":	"9D153BD2_CBD22001"
+			}]
+	}, {
+		"name":	"Action124",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType124:d":	40,
+				"ActionName124:s":	"Music - Bilbo Flee Smaug",
+				"Action124ExecuteDelay:f":	0,
+				"Action124ExecuteImmediately:d":	0,
+				"Action124MusicTrigger:g":	"9D153612_5A109801"
+			}]
+	}, {
+		"name":	"Action125",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType125:d":	40,
+				"ActionName125:s":	"MUSIC - Switch to Ambient",
+				"Action125ExecuteDelay:f":	0,
+				"Action125ExecuteImmediately:d":	0,
+				"Action125MusicTrigger:g":	"9D153B52_B6BCB801"
+			}]
+	}, {
+		"name":	"Action126",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType126:d":	40,
+				"ActionName126:s":	"MUSIC - Set Int 4",
+				"Action126ExecuteDelay:f":	0,
+				"Action126ExecuteImmediately:d":	0,
+				"Action126MusicTrigger:g":	"9D153B52_B6BE4C01"
+			}]
+	}, {
+		"name":	"Action127",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType127:d":	40,
+				"ActionName127:s":	"MUSIC - Set Int 3",
+				"Action127ExecuteDelay:f":	0,
+				"Action127ExecuteImmediately:d":	0,
+				"Action127MusicTrigger:g":	"9D153B52_B6BD8801"
+			}]
+	}, {
+		"name":	"Action128",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType128:d":	40,
+				"ActionName128:s":	"MUSIC - Set Int 2",
+				"Action128ExecuteDelay:f":	0,
+				"Action128ExecuteImmediately:d":	0,
+				"Action128MusicTrigger:g":	"9D153B52_B6BE0C01"
+			}]
+	}, {
+		"name":	"Action129",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType129:d":	40,
+				"ActionName129:s":	"MUSIC - Grab Cup",
+				"Action129ExecuteDelay:f":	0,
+				"Action129ExecuteImmediately:d":	0,
+				"Action129MusicTrigger:g":	"9D153BD2_CBD0B801"
+			}]
+	}, {
+		"name":	"Action130",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType130:d":	18,
+				"ActionName130:s":	"Base Show Overlay: StingJump3",
+				"Action130ExecuteDelay:f":	0,
+				"Action130ExecuteImmediately:d":	0,
+				"Action130StringID:s":	"INFO_STINGJUMP_3",
+				"Action130Scroll:d":	1,
+				"Action130DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action131",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType131:d":	18,
+				"ActionName131:s":	"Base Show Overlay: StickJump 3",
+				"Action131ExecuteDelay:f":	0,
+				"Action131ExecuteImmediately:d":	0,
+				"Action131StringID:s":	"INFO_STICKJUMP_3",
+				"Action131Scroll:d":	1,
+				"Action131DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action132",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType132:d":	18,
+				"ActionName132:s":	"Base Show Overlay: Skeleton Key",
+				"Action132ExecuteDelay:f":	0,
+				"Action132ExecuteImmediately:d":	0,
+				"Action132StringID:s":	"INFO_SKELETON_KEY",
+				"Action132Scroll:d":	0,
+				"Action132DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action133",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType133:d":	18,
+				"ActionName133:s":	"Base Show Overlay: Bilbo Gets Tray",
+				"Action133ExecuteDelay:f":	0,
+				"Action133ExecuteImmediately:d":	0,
+				"Action133StringID:s":	"INFO_GET_TRAY",
+				"Action133Scroll:d":	0,
+				"Action133DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action134",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType134:d":	18,
+				"ActionName134:s":	"Base Show Overlay: Bilbo Gets Spears",
+				"Action134ExecuteDelay:f":	0,
+				"Action134ExecuteImmediately:d":	0,
+				"Action134StringID:s":	"INFO_GET_SPEARS",
+				"Action134Scroll:d":	0,
+				"Action134DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action135",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType135:d":	18,
+				"ActionName135:s":	"Base Show Overlay: Bilbo Gets Ruby",
+				"Action135ExecuteDelay:f":	0,
+				"Action135ExecuteImmediately:d":	0,
+				"Action135StringID:s":	"INFO_GET_RUBY",
+				"Action135Scroll:d":	0,
+				"Action135DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action136",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType136:d":	18,
+				"ActionName136:s":	"Base Show Overlay: Bilbo Gets Necklace",
+				"Action136ExecuteDelay:f":	0,
+				"Action136ExecuteImmediately:d":	0,
+				"Action136StringID:s":	"INFO_GET_NECKLACE",
+				"Action136Scroll:d":	0,
+				"Action136DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action137",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType137:d":	13,
+				"ActionName137:s":	"Base Set State: EndCine_SetSmaugStateIdle",
+				"Action137ExecuteDelay:f":	0,
+				"Action137ExecuteImmediately:d":	0,
+				"Action137State:s":	"SmaugIdle",
+				"Action137NPC:g":	"C4CD7C8E_7D5E3000"
+			}]
+	}, {
+		"name":	"Action138",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType138:d":	9,
+				"ActionName138:s":	"Base Set Inv: Remove Tray",
+				"Action138ExecuteDelay:f":	0,
+				"Action138ExecuteImmediately:d":	0,
+				"Action138Item:s":	"TRAY",
+				"Action138Add:d":	0,
+				"Action138Amount:d":	1,
+				"Action138SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action139",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType139:d":	9,
+				"ActionName139:s":	"Base Set Inv: Remove Spears",
+				"Action139ExecuteDelay:f":	0,
+				"Action139ExecuteImmediately:d":	0,
+				"Action139Item:s":	"SPEARS",
+				"Action139Add:d":	0,
+				"Action139Amount:d":	1,
+				"Action139SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action140",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType140:d":	9,
+				"ActionName140:s":	"Base Set Inv: Remove Ruby",
+				"Action140ExecuteDelay:f":	0,
+				"Action140ExecuteImmediately:d":	0,
+				"Action140Item:s":	"RUBY",
+				"Action140Add:d":	0,
+				"Action140Amount:d":	1,
+				"Action140SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action141",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType141:d":	9,
+				"ActionName141:s":	"Base Set Inv: Remove Necklace",
+				"Action141ExecuteDelay:f":	0,
+				"Action141ExecuteImmediately:d":	0,
+				"Action141Item:s":	"NECKLACE",
+				"Action141Add:d":	0,
+				"Action141Amount:d":	1,
+				"Action141SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action142",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType142:d":	20,
+				"ActionName142:s":	"Base Play: RuneDoor03 Cam",
+				"Action142ExecuteDelay:f":	0,
+				"Action142ExecuteImmediately:d":	0,
+				"Action142cinemaCount:d":	1,
+				"Action142cinemaSelect:d":	0,
+				"Action142cinema0Guid:g":	"C4CD77D0_C898B400"
+			}]
+	}, {
+		"name":	"Action143",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType143:d":	20,
+				"ActionName143:s":	"Base Play: RuneDoor02 Cam",
+				"Action143ExecuteDelay:f":	0,
+				"Action143ExecuteImmediately:d":	0,
+				"Action143cinemaCount:d":	1,
+				"Action143cinemaSelect:d":	0,
+				"Action143cinema0Guid:g":	"C4CD77D0_C8985C00"
+			}]
+	}, {
+		"name":	"Action144",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType144:d":	20,
+				"ActionName144:s":	"Base Play: RuneDoor01 Cam",
+				"Action144ExecuteDelay:f":	0,
+				"Action144ExecuteImmediately:d":	0,
+				"Action144cinemaCount:d":	1,
+				"Action144cinemaSelect:d":	0,
+				"Action144cinema0Guid:g":	"C4CD77D0_C897F400"
+			}]
+	}, {
+		"name":	"Action145",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType145:d":	16,
+				"ActionName145:s":	"Base Modify Health: Bilbo -500",
+				"Action145ExecuteDelay:f":	0,
+				"Action145ExecuteImmediately:d":	0,
+				"Action145NPCCount:d":	1,
+				"Action145NPCGuid0:g":	"ABCABCAB_CABCABC0",
+				"Action145Health:d":	-500
+			}]
+	}, {
+		"name":	"Action146",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType146:d":	30,
+				"ActionName146:s":	"Base Camera Fade Out",
+				"Action146ExecuteDelay:f":	0,
+				"Action146ExecuteImmediately:d":	0,
+				"Action146Fadeout:d":	1,
+				"Action146Color:dddd":	[0, 0, 0, 255],
+				"Action146Duration:f":	1.5
+			}]
+	}, {
+		"name":	"Action147",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType147:d":	30,
+				"ActionName147:s":	"Base Camera Fade In",
+				"Action147ExecuteDelay:f":	2,
+				"Action147ExecuteImmediately:d":	0,
+				"Action147Fadeout:d":	0,
+				"Action147Color:dddd":	[0, 0, 0, 255],
+				"Action147Duration:f":	1.5
+			}]
+	}, {
+		"name":	"Action148",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType148:d":	14,
+				"ActionName148:s":	"Base Act Trigger: Fog, Mountain 001",
+				"Action148ExecuteDelay:f":	0,
+				"Action148ExecuteImmediately:d":	0,
+				"Action148Trigger:g":	"C4CD764E_30074800"
+			}]
+	}, {
+		"name":	"Action149",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType149:d":	45,
+				"ActionName149:s":	"Ambient - Outdoor",
+				"Action149ExecuteDelay:f":	0,
+				"Action149ExecuteImmediately:d":	0,
+				"Action149AmbientAudioTrigger:g":	"9D1537D2_59E8B000"
+			}]
+	}, {
+		"name":	"Action150",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType150:d":	45,
+				"ActionName150:s":	"Ambient - Indoor",
+				"Action150ExecuteDelay:f":	0,
+				"Action150ExecuteImmediately:d":	0,
+				"Action150AmbientAudioTrigger:g":	"9D1531D2_DBB11801"
+			}]
+	}, {
+		"name":	"Link0",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats0:d":	0,
+				"LinkState0:d":	0,
+				"LogicType0:d":	0,
+				"LinkTriggerCount0:d":	1,
+				"LinkTriggerIndex0-0:d":	0,
+				"LinkActionCount0:d":	1,
+				"LinkActionIndex0-0:d":	37
+			}]
+	}, {
+		"name":	"Link1",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats1:d":	0,
+				"LinkState1:d":	0,
+				"LogicType1:d":	0,
+				"LinkTriggerCount1:d":	1,
+				"LinkTriggerIndex1-0:d":	1,
+				"LinkActionCount1:d":	1,
+				"LinkActionIndex1-0:d":	1
+			}]
+	}, {
+		"name":	"Link2",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats2:d":	0,
+				"LinkState2:d":	0,
+				"LogicType2:d":	0,
+				"LinkTriggerCount2:d":	2,
+				"LinkTriggerIndex2-0:d":	2,
+				"LinkTriggerIndex2-1:d":	5,
+				"LinkActionCount2:d":	4,
+				"LinkActionIndex2-0:d":	140,
+				"LinkActionIndex2-1:d":	19,
+				"LinkActionIndex2-2:d":	8,
+				"LinkActionIndex2-3:d":	24
+			}]
+	}, {
+		"name":	"Link3",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats3:d":	0,
+				"LinkState3:d":	0,
+				"LogicType3:d":	0,
+				"LinkTriggerCount3:d":	2,
+				"LinkTriggerIndex3-0:d":	3,
+				"LinkTriggerIndex3-1:d":	6,
+				"LinkActionCount3:d":	4,
+				"LinkActionIndex3-0:d":	141,
+				"LinkActionIndex3-1:d":	20,
+				"LinkActionIndex3-2:d":	9,
+				"LinkActionIndex3-3:d":	26
+			}]
+	}, {
+		"name":	"Link4",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats4:d":	0,
+				"LinkState4:d":	0,
+				"LogicType4:d":	0,
+				"LinkTriggerCount4:d":	2,
+				"LinkTriggerIndex4-0:d":	4,
+				"LinkTriggerIndex4-1:d":	7,
+				"LinkActionCount4:d":	4,
+				"LinkActionIndex4-0:d":	138,
+				"LinkActionIndex4-1:d":	17,
+				"LinkActionIndex4-2:d":	6,
+				"LinkActionIndex4-3:d":	28
+			}]
+	}, {
+		"name":	"Link5",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats5:d":	0,
+				"LinkState5:d":	0,
+				"LogicType5:d":	0,
+				"LinkTriggerCount5:d":	1,
+				"LinkTriggerIndex5-0:d":	5,
+				"LinkActionCount5:d":	1,
+				"LinkActionIndex5-0:d":	12
+			}]
+	}, {
+		"name":	"Link6",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats6:d":	0,
+				"LinkState6:d":	0,
+				"LogicType6:d":	0,
+				"LinkTriggerCount6:d":	1,
+				"LinkTriggerIndex6-0:d":	6,
+				"LinkActionCount6:d":	1,
+				"LinkActionIndex6-0:d":	13
+			}]
+	}, {
+		"name":	"Link7",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats7:d":	0,
+				"LinkState7:d":	0,
+				"LogicType7:d":	0,
+				"LinkTriggerCount7:d":	1,
+				"LinkTriggerIndex7-0:d":	7,
+				"LinkActionCount7:d":	1,
+				"LinkActionIndex7-0:d":	10
+			}]
+	}, {
+		"name":	"Link8",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats8:d":	0,
+				"LinkState8:d":	0,
+				"LogicType8:d":	0,
+				"LinkTriggerCount8:d":	1,
+				"LinkTriggerIndex8-0:d":	8,
+				"LinkActionCount8:d":	1,
+				"LinkActionIndex8-0:d":	11
+			}]
+	}, {
+		"name":	"Link9",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats9:d":	0,
+				"LinkState9:d":	0,
+				"LogicType9:d":	0,
+				"LinkTriggerCount9:d":	2,
+				"LinkTriggerIndex9-0:d":	9,
+				"LinkTriggerIndex9-1:d":	8,
+				"LinkActionCount9:d":	4,
+				"LinkActionIndex9-0:d":	18,
+				"LinkActionIndex9-1:d":	139,
+				"LinkActionIndex9-2:d":	7,
+				"LinkActionIndex9-3:d":	30
+			}]
+	}, {
+		"name":	"Link10",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats10:d":	1,
+				"LinkState10:d":	0,
+				"LogicType10:d":	0,
+				"LinkTriggerCount10:d":	1,
+				"LinkTriggerIndex10-0:d":	10,
+				"LinkActionCount10:d":	4,
+				"LinkActionIndex10-0:d":	146,
+				"LinkActionIndex10-1:d":	147,
+				"LinkActionIndex10-2:d":	35,
+				"LinkActionIndex10-3:d":	22
+			}]
+	}, {
+		"name":	"Link11",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats11:d":	0,
+				"LinkState11:d":	0,
+				"LogicType11:d":	0,
+				"LinkTriggerCount11:d":	1,
+				"LinkTriggerIndex11-0:d":	11,
+				"LinkActionCount11:d":	1,
+				"LinkActionIndex11-0:d":	38
+			}]
+	}, {
+		"name":	"Link12",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats12:d":	0,
+				"LinkState12:d":	0,
+				"LogicType12:d":	0,
+				"LinkTriggerCount12:d":	1,
+				"LinkTriggerIndex12-0:d":	12,
+				"LinkActionCount12:d":	4,
+				"LinkActionIndex12-0:d":	33,
+				"LinkActionIndex12-1:d":	21,
+				"LinkActionIndex12-2:d":	15,
+				"LinkActionIndex12-3:d":	0
+			}]
+	}, {
+		"name":	"Link13",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats13:d":	0,
+				"LinkState13:d":	0,
+				"LogicType13:d":	0,
+				"LinkTriggerCount13:d":	1,
+				"LinkTriggerIndex13-0:d":	13,
+				"LinkActionCount13:d":	1,
+				"LinkActionIndex13-0:d":	32
+			}]
+	}, {
+		"name":	"Link14",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats14:d":	1,
+				"LinkState14:d":	0,
+				"LogicType14:d":	1,
+				"LinkTriggerCount14:d":	5,
+				"LinkTriggerIndex14-0:d":	19,
+				"LinkTriggerIndex14-1:d":	18,
+				"LinkTriggerIndex14-2:d":	15,
+				"LinkTriggerIndex14-3:d":	17,
+				"LinkTriggerIndex14-4:d":	16,
+				"LinkActionCount14:d":	1,
+				"LinkActionIndex14-0:d":	43
+			}]
+	}, {
+		"name":	"Link15",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats15:d":	0,
+				"LinkState15:d":	1,
+				"LogicType15:d":	0,
+				"LinkTriggerCount15:d":	1,
+				"LinkTriggerIndex15-0:d":	25,
+				"LinkActionCount15:d":	7,
+				"LinkActionIndex15-0:d":	34,
+				"LinkActionIndex15-1:d":	36,
+				"LinkActionIndex15-2:d":	23,
+				"LinkActionIndex15-3:d":	148,
+				"LinkActionIndex15-4:d":	146,
+				"LinkActionIndex15-5:d":	149,
+				"LinkActionIndex15-6:d":	110
+			}]
+	}, {
+		"name":	"Link16",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats16:d":	0,
+				"LinkState16:d":	1,
+				"LogicType16:d":	0,
+				"LinkTriggerCount16:d":	1,
+				"LinkTriggerIndex16-0:d":	26,
+				"LinkActionCount16:d":	1,
+				"LinkActionIndex16-0:d":	42
+			}]
+	}, {
+		"name":	"Link17",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats17:d":	0,
+				"LinkState17:d":	0,
+				"LogicType17:d":	0,
+				"LinkTriggerCount17:d":	1,
+				"LinkTriggerIndex17-0:d":	103,
+				"LinkActionCount17:d":	7,
+				"LinkActionIndex17-0:d":	34,
+				"LinkActionIndex17-1:d":	36,
+				"LinkActionIndex17-2:d":	23,
+				"LinkActionIndex17-3:d":	146,
+				"LinkActionIndex17-4:d":	150,
+				"LinkActionIndex17-5:d":	110,
+				"LinkActionIndex17-6:d":	148
+			}]
+	}, {
+		"name":	"Link18",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats18:d":	0,
+				"LinkState18:d":	0,
+				"LogicType18:d":	0,
+				"LinkTriggerCount18:d":	1,
+				"LinkTriggerIndex18-0:d":	28,
+				"LinkActionCount18:d":	1,
+				"LinkActionIndex18-0:d":	44
+			}]
+	}, {
+		"name":	"Link19",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats19:d":	0,
+				"LinkState19:d":	0,
+				"LogicType19:d":	0,
+				"LinkTriggerCount19:d":	1,
+				"LinkTriggerIndex19-0:d":	29,
+				"LinkActionCount19:d":	1,
+				"LinkActionIndex19-0:d":	45
+			}]
+	}, {
+		"name":	"Link20",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats20:d":	0,
+				"LinkState20:d":	0,
+				"LogicType20:d":	0,
+				"LinkTriggerCount20:d":	1,
+				"LinkTriggerIndex20-0:d":	30,
+				"LinkActionCount20:d":	1,
+				"LinkActionIndex20-0:d":	46
+			}]
+	}, {
+		"name":	"Link21",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats21:d":	0,
+				"LinkState21:d":	0,
+				"LogicType21:d":	0,
+				"LinkTriggerCount21:d":	1,
+				"LinkTriggerIndex21-0:d":	31,
+				"LinkActionCount21:d":	1,
+				"LinkActionIndex21-0:d":	47
+			}]
+	}, {
+		"name":	"Link22",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats22:d":	0,
+				"LinkState22:d":	0,
+				"LogicType22:d":	0,
+				"LinkTriggerCount22:d":	1,
+				"LinkTriggerIndex22-0:d":	32,
+				"LinkActionCount22:d":	1,
+				"LinkActionIndex22-0:d":	48
+			}]
+	}, {
+		"name":	"Link23",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats23:d":	0,
+				"LinkState23:d":	0,
+				"LogicType23:d":	0,
+				"LinkTriggerCount23:d":	1,
+				"LinkTriggerIndex23-0:d":	33,
+				"LinkActionCount23:d":	1,
+				"LinkActionIndex23-0:d":	49
+			}]
+	}, {
+		"name":	"Link24",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats24:d":	1,
+				"LinkState24:d":	0,
+				"LogicType24:d":	1,
+				"LinkTriggerCount24:d":	2,
+				"LinkTriggerIndex24-0:d":	34,
+				"LinkTriggerIndex24-1:d":	62,
+				"LinkActionCount24:d":	1,
+				"LinkActionIndex24-0:d":	115
+			}]
+	}, {
+		"name":	"Link25",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats25:d":	0,
+				"LinkState25:d":	0,
+				"LogicType25:d":	0,
+				"LinkTriggerCount25:d":	1,
+				"LinkTriggerIndex25-0:d":	35,
+				"LinkActionCount25:d":	10,
+				"LinkActionIndex25-0:d":	73,
+				"LinkActionIndex25-1:d":	72,
+				"LinkActionIndex25-2:d":	2,
+				"LinkActionIndex25-3:d":	71,
+				"LinkActionIndex25-4:d":	16,
+				"LinkActionIndex25-5:d":	40,
+				"LinkActionIndex25-6:d":	41,
+				"LinkActionIndex25-7:d":	39,
+				"LinkActionIndex25-8:d":	53,
+				"LinkActionIndex25-9:d":	51
+			}]
+	}, {
+		"name":	"Link26",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats26:d":	0,
+				"LinkState26:d":	0,
+				"LogicType26:d":	0,
+				"LinkTriggerCount26:d":	1,
+				"LinkTriggerIndex26-0:d":	36,
+				"LinkActionCount26:d":	7,
+				"LinkActionIndex26-0:d":	57,
+				"LinkActionIndex26-1:d":	14,
+				"LinkActionIndex26-2:d":	96,
+				"LinkActionIndex26-3:d":	4,
+				"LinkActionIndex26-4:d":	3,
+				"LinkActionIndex26-5:d":	79,
+				"LinkActionIndex26-6:d":	106
+			}]
+	}, {
+		"name":	"Link27",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats27:d":	0,
+				"LinkState27:d":	0,
+				"LogicType27:d":	0,
+				"LinkTriggerCount27:d":	1,
+				"LinkTriggerIndex27-0:d":	37,
+				"LinkActionCount27:d":	4,
+				"LinkActionIndex27-0:d":	68,
+				"LinkActionIndex27-1:d":	76,
+				"LinkActionIndex27-2:d":	75,
+				"LinkActionIndex27-3:d":	114
+			}]
+	}, {
+		"name":	"Link28",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats28:d":	0,
+				"LinkState28:d":	0,
+				"LogicType28:d":	1,
+				"LinkTriggerCount28:d":	6,
+				"LinkTriggerIndex28-0:d":	43,
+				"LinkTriggerIndex28-1:d":	42,
+				"LinkTriggerIndex28-2:d":	41,
+				"LinkTriggerIndex28-3:d":	40,
+				"LinkTriggerIndex28-4:d":	39,
+				"LinkTriggerIndex28-5:d":	38,
+				"LinkActionCount28:d":	3,
+				"LinkActionIndex28-0:d":	59,
+				"LinkActionIndex28-1:d":	115,
+				"LinkActionIndex28-2:d":	118
+			}]
+	}, {
+		"name":	"Link29",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats29:d":	0,
+				"LinkState29:d":	0,
+				"LogicType29:d":	0,
+				"LinkTriggerCount29:d":	1,
+				"LinkTriggerIndex29-0:d":	44,
+				"LinkActionCount29:d":	3,
+				"LinkActionIndex29-0:d":	69,
+				"LinkActionIndex29-1:d":	77,
+				"LinkActionIndex29-2:d":	116
+			}]
+	}, {
+		"name":	"Link30",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats30:d":	0,
+				"LinkState30:d":	0,
+				"LogicType30:d":	0,
+				"LinkTriggerCount30:d":	1,
+				"LinkTriggerIndex30-0:d":	45,
+				"LinkActionCount30:d":	2,
+				"LinkActionIndex30-0:d":	56,
+				"LinkActionIndex30-1:d":	54
+			}]
+	}, {
+		"name":	"Link31",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats31:d":	0,
+				"LinkState31:d":	0,
+				"LogicType31:d":	0,
+				"LinkTriggerCount31:d":	1,
+				"LinkTriggerIndex31-0:d":	47,
+				"LinkActionCount31:d":	2,
+				"LinkActionIndex31-0:d":	60,
+				"LinkActionIndex31-1:d":	126
+			}]
+	}, {
+		"name":	"Link32",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats32:d":	0,
+				"LinkState32:d":	1,
+				"LogicType32:d":	0,
+				"LinkTriggerCount32:d":	1,
+				"LinkTriggerIndex32-0:d":	48,
+				"LinkActionCount32:d":	1,
+				"LinkActionIndex32-0:d":	78
+			}]
+	}, {
+		"name":	"Link33",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats33:d":	0,
+				"LinkState33:d":	0,
+				"LogicType33:d":	0,
+				"LinkTriggerCount33:d":	1,
+				"LinkTriggerIndex33-0:d":	49,
+				"LinkActionCount33:d":	1,
+				"LinkActionIndex33-0:d":	62
+			}]
+	}, {
+		"name":	"Link34",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats34:d":	0,
+				"LinkState34:d":	0,
+				"LogicType34:d":	0,
+				"LinkTriggerCount34:d":	1,
+				"LinkTriggerIndex34-0:d":	50,
+				"LinkActionCount34:d":	1,
+				"LinkActionIndex34-0:d":	63
+			}]
+	}, {
+		"name":	"Link35",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats35:d":	0,
+				"LinkState35:d":	0,
+				"LogicType35:d":	0,
+				"LinkTriggerCount35:d":	1,
+				"LinkTriggerIndex35-0:d":	51,
+				"LinkActionCount35:d":	1,
+				"LinkActionIndex35-0:d":	64
+			}]
+	}, {
+		"name":	"Link36",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats36:d":	0,
+				"LinkState36:d":	0,
+				"LogicType36:d":	0,
+				"LinkTriggerCount36:d":	1,
+				"LinkTriggerIndex36-0:d":	52,
+				"LinkActionCount36:d":	1,
+				"LinkActionIndex36-0:d":	65
+			}]
+	}, {
+		"name":	"Link37",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats37:d":	0,
+				"LinkState37:d":	0,
+				"LogicType37:d":	0,
+				"LinkTriggerCount37:d":	1,
+				"LinkTriggerIndex37-0:d":	53,
+				"LinkActionCount37:d":	1,
+				"LinkActionIndex37-0:d":	66
+			}]
+	}, {
+		"name":	"Link38",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats38:d":	0,
+				"LinkState38:d":	0,
+				"LogicType38:d":	0,
+				"LinkTriggerCount38:d":	1,
+				"LinkTriggerIndex38-0:d":	54,
+				"LinkActionCount38:d":	1,
+				"LinkActionIndex38-0:d":	67
+			}]
+	}, {
+		"name":	"Link39",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats39:d":	0,
+				"LinkState39:d":	0,
+				"LogicType39:d":	0,
+				"LinkTriggerCount39:d":	1,
+				"LinkTriggerIndex39-0:d":	56,
+				"LinkActionCount39:d":	1,
+				"LinkActionIndex39-0:d":	58
+			}]
+	}, {
+		"name":	"Link40",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats40:d":	1,
+				"LinkState40:d":	1,
+				"LogicType40:d":	0,
+				"LinkTriggerCount40:d":	1,
+				"LinkTriggerIndex40-0:d":	57,
+				"LinkActionCount40:d":	1,
+				"LinkActionIndex40-0:d":	101
+			}]
+	}, {
+		"name":	"Link41",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats41:d":	1,
+				"LinkState41:d":	1,
+				"LogicType41:d":	0,
+				"LinkTriggerCount41:d":	1,
+				"LinkTriggerIndex41-0:d":	58,
+				"LinkActionCount41:d":	1,
+				"LinkActionIndex41-0:d":	102
+			}]
+	}, {
+		"name":	"Link42",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats42:d":	1,
+				"LinkState42:d":	1,
+				"LogicType42:d":	1,
+				"LinkTriggerCount42:d":	2,
+				"LinkTriggerIndex42-0:d":	60,
+				"LinkTriggerIndex42-1:d":	59,
+				"LinkActionCount42:d":	1,
+				"LinkActionIndex42-0:d":	103
+			}]
+	}, {
+		"name":	"Link43",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats43:d":	0,
+				"LinkState43:d":	0,
+				"LogicType43:d":	0,
+				"LinkTriggerCount43:d":	1,
+				"LinkTriggerIndex43-0:d":	63,
+				"LinkActionCount43:d":	1,
+				"LinkActionIndex43-0:d":	82
+			}]
+	}, {
+		"name":	"Link44",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats44:d":	0,
+				"LinkState44:d":	0,
+				"LogicType44:d":	0,
+				"LinkTriggerCount44:d":	1,
+				"LinkTriggerIndex44-0:d":	65,
+				"LinkActionCount44:d":	5,
+				"LinkActionIndex44-0:d":	107,
+				"LinkActionIndex44-1:d":	106,
+				"LinkActionIndex44-2:d":	70,
+				"LinkActionIndex44-3:d":	149,
+				"LinkActionIndex44-4:d":	112
+			}]
+	}, {
+		"name":	"Link45",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats45:d":	0,
+				"LinkState45:d":	0,
+				"LogicType45:d":	0,
+				"LinkTriggerCount45:d":	1,
+				"LinkTriggerIndex45-0:d":	66,
+				"LinkActionCount45:d":	2,
+				"LinkActionIndex45-0:d":	97,
+				"LinkActionIndex45-1:d":	123
+			}]
+	}, {
+		"name":	"Link46",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats46:d":	0,
+				"LinkState46:d":	0,
+				"LogicType46:d":	0,
+				"LinkTriggerCount46:d":	1,
+				"LinkTriggerIndex46-0:d":	67,
+				"LinkActionCount46:d":	1,
+				"LinkActionIndex46-0:d":	5
+			}]
+	}, {
+		"name":	"Link47",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats47:d":	0,
+				"LinkState47:d":	0,
+				"LogicType47:d":	0,
+				"LinkTriggerCount47:d":	1,
+				"LinkTriggerIndex47-0:d":	68,
+				"LinkActionCount47:d":	1,
+				"LinkActionIndex47-0:d":	133
+			}]
+	}, {
+		"name":	"Link48",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats48:d":	0,
+				"LinkState48:d":	0,
+				"LogicType48:d":	0,
+				"LinkTriggerCount48:d":	1,
+				"LinkTriggerIndex48-0:d":	69,
+				"LinkActionCount48:d":	1,
+				"LinkActionIndex48-0:d":	134
+			}]
+	}, {
+		"name":	"Link49",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats49:d":	0,
+				"LinkState49:d":	0,
+				"LogicType49:d":	0,
+				"LinkTriggerCount49:d":	1,
+				"LinkTriggerIndex49-0:d":	70,
+				"LinkActionCount49:d":	1,
+				"LinkActionIndex49-0:d":	135
+			}]
+	}, {
+		"name":	"Link50",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats50:d":	0,
+				"LinkState50:d":	0,
+				"LogicType50:d":	0,
+				"LinkTriggerCount50:d":	1,
+				"LinkTriggerIndex50-0:d":	71,
+				"LinkActionCount50:d":	1,
+				"LinkActionIndex50-0:d":	136
+			}]
+	}, {
+		"name":	"Link51",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats51:d":	0,
+				"LinkState51:d":	0,
+				"LogicType51:d":	0,
+				"LinkTriggerCount51:d":	2,
+				"LinkTriggerIndex51-0:d":	72,
+				"LinkTriggerIndex51-1:d":	7,
+				"LinkActionCount51:d":	1,
+				"LinkActionIndex51-0:d":	29
+			}]
+	}, {
+		"name":	"Link52",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats52:d":	0,
+				"LinkState52:d":	0,
+				"LogicType52:d":	0,
+				"LinkTriggerCount52:d":	2,
+				"LinkTriggerIndex52-0:d":	73,
+				"LinkTriggerIndex52-1:d":	8,
+				"LinkActionCount52:d":	1,
+				"LinkActionIndex52-0:d":	31
+			}]
+	}, {
+		"name":	"Link53",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats53:d":	0,
+				"LinkState53:d":	0,
+				"LogicType53:d":	0,
+				"LinkTriggerCount53:d":	2,
+				"LinkTriggerIndex53-0:d":	74,
+				"LinkTriggerIndex53-1:d":	5,
+				"LinkActionCount53:d":	1,
+				"LinkActionIndex53-0:d":	25
+			}]
+	}, {
+		"name":	"Link54",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats54:d":	0,
+				"LinkState54:d":	0,
+				"LogicType54:d":	0,
+				"LinkTriggerCount54:d":	2,
+				"LinkTriggerIndex54-0:d":	75,
+				"LinkTriggerIndex54-1:d":	6,
+				"LinkActionCount54:d":	1,
+				"LinkActionIndex54-0:d":	27
+			}]
+	}, {
+		"name":	"Link55",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats55:d":	0,
+				"LinkState55:d":	0,
+				"LogicType55:d":	0,
+				"LinkTriggerCount55:d":	1,
+				"LinkTriggerIndex55-0:d":	76,
+				"LinkActionCount55:d":	16,
+				"LinkActionIndex55-0:d":	80,
+				"LinkActionIndex55-1:d":	109,
+				"LinkActionIndex55-2:d":	92,
+				"LinkActionIndex55-3:d":	83,
+				"LinkActionIndex55-4:d":	91,
+				"LinkActionIndex55-5:d":	90,
+				"LinkActionIndex55-6:d":	89,
+				"LinkActionIndex55-7:d":	88,
+				"LinkActionIndex55-8:d":	87,
+				"LinkActionIndex55-9:d":	86,
+				"LinkActionIndex55-10:d":	85,
+				"LinkActionIndex55-11:d":	84,
+				"LinkActionIndex55-12:d":	58,
+				"LinkActionIndex55-13:d":	95,
+				"LinkActionIndex55-14:d":	94,
+				"LinkActionIndex55-15:d":	93
+			}]
+	}, {
+		"name":	"Link56",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats56:d":	0,
+				"LinkState56:d":	0,
+				"LogicType56:d":	0,
+				"LinkTriggerCount56:d":	1,
+				"LinkTriggerIndex56-0:d":	77,
+				"LinkActionCount56:d":	2,
+				"LinkActionIndex56-0:d":	100,
+				"LinkActionIndex56-1:d":	116
+			}]
+	}, {
+		"name":	"Link57",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats57:d":	0,
+				"LinkState57:d":	0,
+				"LogicType57:d":	0,
+				"LinkTriggerCount57:d":	1,
+				"LinkTriggerIndex57-0:d":	78,
+				"LinkActionCount57:d":	3,
+				"LinkActionIndex57-0:d":	99,
+				"LinkActionIndex57-1:d":	108,
+				"LinkActionIndex57-2:d":	129
+			}]
+	}, {
+		"name":	"Link58",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats58:d":	0,
+				"LinkState58:d":	0,
+				"LogicType58:d":	0,
+				"LinkTriggerCount58:d":	1,
+				"LinkTriggerIndex58-0:d":	80,
+				"LinkActionCount58:d":	2,
+				"LinkActionIndex58-0:d":	104,
+				"LinkActionIndex58-1:d":	112
+			}]
+	}, {
+		"name":	"Link59",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats59:d":	0,
+				"LinkState59:d":	0,
+				"LogicType59:d":	0,
+				"LinkTriggerCount59:d":	1,
+				"LinkTriggerIndex59-0:d":	81,
+				"LinkActionCount59:d":	1,
+				"LinkActionIndex59-0:d":	119
+			}]
+	}, {
+		"name":	"Link60",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats60:d":	0,
+				"LinkState60:d":	0,
+				"LogicType60:d":	0,
+				"LinkTriggerCount60:d":	1,
+				"LinkTriggerIndex60-0:d":	82,
+				"LinkActionCount60:d":	1,
+				"LinkActionIndex60-0:d":	118
+			}]
+	}, {
+		"name":	"Link61",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats61:d":	0,
+				"LinkState61:d":	0,
+				"LogicType61:d":	0,
+				"LinkTriggerCount61:d":	1,
+				"LinkTriggerIndex61-0:d":	83,
+				"LinkActionCount61:d":	2,
+				"LinkActionIndex61-0:d":	122,
+				"LinkActionIndex61-1:d":	121
+			}]
+	}, {
+		"name":	"Link62",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats62:d":	1,
+				"LinkState62:d":	0,
+				"LogicType62:d":	0,
+				"LinkTriggerCount62:d":	1,
+				"LinkTriggerIndex62-0:d":	84,
+				"LinkActionCount62:d":	1,
+				"LinkActionIndex62-0:d":	142
+			}]
+	}, {
+		"name":	"Link63",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats63:d":	1,
+				"LinkState63:d":	0,
+				"LogicType63:d":	0,
+				"LinkTriggerCount63:d":	1,
+				"LinkTriggerIndex63-0:d":	85,
+				"LinkActionCount63:d":	1,
+				"LinkActionIndex63-0:d":	144
+			}]
+	}, {
+		"name":	"Link64",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats64:d":	1,
+				"LinkState64:d":	0,
+				"LogicType64:d":	0,
+				"LinkTriggerCount64:d":	1,
+				"LinkTriggerIndex64-0:d":	86,
+				"LinkActionCount64:d":	1,
+				"LinkActionIndex64-0:d":	143
+			}]
+	}, {
+		"name":	"Link65",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats65:d":	0,
+				"LinkState65:d":	0,
+				"LogicType65:d":	0,
+				"LinkTriggerCount65:d":	1,
+				"LinkTriggerIndex65-0:d":	87,
+				"LinkActionCount65:d":	1,
+				"LinkActionIndex65-0:d":	137
+			}]
+	}, {
+		"name":	"Link66",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats66:d":	0,
+				"LinkState66:d":	0,
+				"LogicType66:d":	0,
+				"LinkTriggerCount66:d":	1,
+				"LinkTriggerIndex66-0:d":	88,
+				"LinkActionCount66:d":	1,
+				"LinkActionIndex66-0:d":	132
+			}]
+	}, {
+		"name":	"Link67",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats67:d":	0,
+				"LinkState67:d":	0,
+				"LogicType67:d":	0,
+				"LinkTriggerCount67:d":	1,
+				"LinkTriggerIndex67-0:d":	89,
+				"LinkActionCount67:d":	1,
+				"LinkActionIndex67-0:d":	130
+			}]
+	}, {
+		"name":	"Link68",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats68:d":	0,
+				"LinkState68:d":	1,
+				"LogicType68:d":	0,
+				"LinkTriggerCount68:d":	1,
+				"LinkTriggerIndex68-0:d":	90,
+				"LinkActionCount68:d":	1,
+				"LinkActionIndex68-0:d":	131
+			}]
+	}, {
+		"name":	"Link69",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats69:d":	0,
+				"LinkState69:d":	0,
+				"LogicType69:d":	1,
+				"LinkTriggerCount69:d":	11,
+				"LinkTriggerIndex69-0:d":	100,
+				"LinkTriggerIndex69-1:d":	99,
+				"LinkTriggerIndex69-2:d":	98,
+				"LinkTriggerIndex69-3:d":	97,
+				"LinkTriggerIndex69-4:d":	96,
+				"LinkTriggerIndex69-5:d":	95,
+				"LinkTriggerIndex69-6:d":	94,
+				"LinkTriggerIndex69-7:d":	93,
+				"LinkTriggerIndex69-8:d":	92,
+				"LinkTriggerIndex69-9:d":	91,
+				"LinkTriggerIndex69-10:d":	101,
+				"LinkActionCount69:d":	2,
+				"LinkActionIndex69-0:d":	0,
+				"LinkActionIndex69-1:d":	98
+			}]
+	}, {
+		"name":	"Link70",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats70:d":	0,
+				"LinkState70:d":	0,
+				"LogicType70:d":	0,
+				"LinkTriggerCount70:d":	1,
+				"LinkTriggerIndex70-0:d":	102,
+				"LinkActionCount70:d":	2,
+				"LinkActionIndex70-0:d":	149,
+				"LinkActionIndex70-1:d":	117
+			}]
+	}, {
+		"name":	"ConversationMgr",
+		"row_count":	1,
+		"rows":	[{
+				"ConversationCount:d":	2,
+				"ConversationListCount:d":	0,
+				"DialogListCount:d":	0
+			}]
+	}, {
+		"name":	"Conversation0",
+		"row_count":	1,
+		"rows":	[{
+				"Conversation0\\Name:s":	"Thorin Phase01",
+				"Conversation0\\Type:d":	1,
+				"Conversation0\\DialogCount:d":	0,
+				"Conversation0\\CameraInfos:d":	1,
+				"Conversation0\\Camera0\\CameraPath:g":	"C4CD7F4E_6F2C1C00",
+				"Conversation0\\Camera0\\StartTime:f":	5,
+				"Conversation0\\Camera0\\TimeRefID:d":	0,
+				"Conversation0\\Camera0\\Looping:d":	0,
+				"Conversation0\\PopToPositions:d":	0,
+				"Conversation0\\AnimInfos:d":	0
+			}]
+	}, {
+		"name":	"Conversation1",
+		"row_count":	1,
+		"rows":	[{
+				"Conversation1\\Name:s":	"Hello Bilbo",
+				"Conversation1\\Type:d":	1,
+				"Conversation1\\DialogCount:d":	0,
+				"Conversation1\\CameraInfos:d":	0,
+				"Conversation1\\PopToPositions:d":	0,
+				"Conversation1\\AnimInfos:d":	0
+			}]
+	}, {
+		"name":	"CameraMgr",
+		"row_count":	1,
+		"rows":	[{
+				"ChaseOffset:fff":	[0, 0, 0]
+			}]
+	}]

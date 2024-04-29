@@ -1,0 +1,3605 @@
+[{
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD58848F_37A93800",
+				"Name:s":	"PS_block_PZL_bellow01",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"block_pzl_bellow_block_pzl_bellow01.rgeom",
+				"Pos:fff":	[0, 0, 0],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[13777.37109375, -1.0006359815597534, -7075.34228515625, 13979.37109375, 200.9993896484375, -6973.34228515625],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	14761,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[13777.37109375, -1.0006359815597534, -7075.34228515625, 13979.37109375, 200.9993896484375, -6973.34228515625],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"PS_block_PZL_bellow01",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	141,
+		"rows":	[{
+				"Color:dddd":	[158, 149, 123, 255]
+			}, {
+				"Color:dddd":	[110, 104, 88, 255]
+			}, {
+				"Color:dddd":	[172, 159, 119, 255]
+			}, {
+				"Color:dddd":	[195, 181, 137, 255]
+			}, {
+				"Color:dddd":	[112, 106, 91, 255]
+			}, {
+				"Color:dddd":	[95, 92, 81, 255]
+			}, {
+				"Color:dddd":	[186, 174, 135, 255]
+			}, {
+				"Color:dddd":	[167, 157, 124, 255]
+			}, {
+				"Color:dddd":	[221, 205, 154, 255]
+			}, {
+				"Color:dddd":	[126, 117, 97, 255]
+			}, {
+				"Color:dddd":	[105, 99, 86, 255]
+			}, {
+				"Color:dddd":	[133, 125, 99, 255]
+			}, {
+				"Color:dddd":	[107, 102, 90, 255]
+			}, {
+				"Color:dddd":	[72, 69, 62, 255]
+			}, {
+				"Color:dddd":	[208, 192, 142, 255]
+			}, {
+				"Color:dddd":	[68, 65, 56, 255]
+			}, {
+				"Color:dddd":	[111, 105, 82, 255]
+			}, {
+				"Color:dddd":	[44, 43, 40, 255]
+			}, {
+				"Color:dddd":	[120, 113, 90, 255]
+			}, {
+				"Color:dddd":	[141, 131, 100, 255]
+			}, {
+				"Color:dddd":	[154, 144, 115, 255]
+			}, {
+				"Color:dddd":	[167, 156, 120, 255]
+			}, {
+				"Color:dddd":	[186, 174, 135, 255]
+			}, {
+				"Color:dddd":	[94, 89, 74, 255]
+			}, {
+				"Color:dddd":	[96, 90, 72, 255]
+			}, {
+				"Color:dddd":	[179, 167, 126, 255]
+			}, {
+				"Color:dddd":	[83, 79, 71, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[110, 104, 88, 255]
+			}, {
+				"Color:dddd":	[180, 166, 129, 255]
+			}, {
+				"Color:dddd":	[131, 120, 99, 255]
+			}, {
+				"Color:dddd":	[128, 121, 105, 255]
+			}, {
+				"Color:dddd":	[143, 137, 118, 255]
+			}, {
+				"Color:dddd":	[158, 149, 123, 255]
+			}, {
+				"Color:dddd":	[247, 229, 169, 255]
+			}, {
+				"Color:dddd":	[221, 204, 155, 255]
+			}, {
+				"Color:dddd":	[112, 106, 91, 255]
+			}, {
+				"Color:dddd":	[94, 89, 74, 255]
+			}, {
+				"Color:dddd":	[58, 56, 51, 255]
+			}, {
+				"Color:dddd":	[34, 34, 33, 255]
+			}, {
+				"Color:dddd":	[34, 34, 33, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[143, 137, 118, 255]
+			}, {
+				"Color:dddd":	[188, 174, 135, 255]
+			}, {
+				"Color:dddd":	[221, 205, 154, 255]
+			}, {
+				"Color:dddd":	[154, 144, 115, 255]
+			}, {
+				"Color:dddd":	[96, 90, 72, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[36, 36, 34, 255]
+			}, {
+				"Color:dddd":	[83, 79, 71, 255]
+			}, {
+				"Color:dddd":	[48, 47, 44, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[128, 121, 105, 255]
+			}, {
+				"Color:dddd":	[114, 101, 88, 255]
+			}, {
+				"Color:dddd":	[88, 83, 73, 255]
+			}, {
+				"Color:dddd":	[124, 111, 96, 255]
+			}, {
+				"Color:dddd":	[50, 47, 44, 255]
+			}, {
+				"Color:dddd":	[143, 137, 118, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[41, 40, 38, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[44, 43, 41, 255]
+			}, {
+				"Color:dddd":	[94, 85, 75, 255]
+			}, {
+				"Color:dddd":	[113, 99, 87, 255]
+			}, {
+				"Color:dddd":	[126, 112, 97, 255]
+			}, {
+				"Color:dddd":	[86, 77, 69, 255]
+			}, {
+				"Color:dddd":	[94, 87, 77, 255]
+			}, {
+				"Color:dddd":	[114, 101, 88, 255]
+			}, {
+				"Color:dddd":	[179, 167, 126, 255]
+			}, {
+				"Color:dddd":	[146, 127, 110, 255]
+			}, {
+				"Color:dddd":	[131, 120, 99, 255]
+			}, {
+				"Color:dddd":	[180, 166, 129, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[94, 85, 75, 255]
+			}, {
+				"Color:dddd":	[188, 174, 135, 255]
+			}, {
+				"Color:dddd":	[120, 113, 90, 255]
+			}, {
+				"Color:dddd":	[44, 43, 41, 255]
+			}, {
+				"Color:dddd":	[95, 92, 81, 255]
+			}, {
+				"Color:dddd":	[44, 43, 41, 255]
+			}, {
+				"Color:dddd":	[73, 66, 59, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[48, 47, 44, 255]
+			}, {
+				"Color:dddd":	[140, 121, 105, 255]
+			}, {
+				"Color:dddd":	[73, 66, 59, 255]
+			}, {
+				"Color:dddd":	[114, 101, 88, 255]
+			}, {
+				"Color:dddd":	[146, 127, 110, 255]
+			}, {
+				"Color:dddd":	[58, 56, 51, 255]
+			}, {
+				"Color:dddd":	[140, 121, 105, 255]
+			}, {
+				"Color:dddd":	[41, 40, 38, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[34, 34, 33, 255]
+			}, {
+				"Color:dddd":	[44, 43, 40, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[112, 106, 91, 255]
+			}, {
+				"Color:dddd":	[126, 112, 97, 255]
+			}, {
+				"Color:dddd":	[221, 204, 155, 255]
+			}, {
+				"Color:dddd":	[88, 83, 73, 255]
+			}, {
+				"Color:dddd":	[107, 102, 90, 255]
+			}, {
+				"Color:dddd":	[100, 92, 81, 255]
+			}, {
+				"Color:dddd":	[50, 49, 45, 255]
+			}, {
+				"Color:dddd":	[72, 69, 62, 255]
+			}, {
+				"Color:dddd":	[126, 117, 97, 255]
+			}, {
+				"Color:dddd":	[148, 130, 112, 255]
+			}, {
+				"Color:dddd":	[133, 117, 101, 255]
+			}, {
+				"Color:dddd":	[105, 99, 86, 255]
+			}, {
+				"Color:dddd":	[167, 156, 120, 255]
+			}, {
+				"Color:dddd":	[45, 44, 42, 255]
+			}, {
+				"Color:dddd":	[112, 101, 88, 255]
+			}, {
+				"Color:dddd":	[154, 144, 115, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[42, 40, 38, 255]
+			}, {
+				"Color:dddd":	[45, 44, 42, 255]
+			}, {
+				"Color:dddd":	[31, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[141, 122, 105, 255]
+			}, {
+				"Color:dddd":	[148, 130, 112, 255]
+			}, {
+				"Color:dddd":	[101, 89, 78, 255]
+			}, {
+				"Color:dddd":	[133, 117, 101, 255]
+			}, {
+				"Color:dddd":	[41, 40, 38, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[112, 101, 88, 255]
+			}, {
+				"Color:dddd":	[45, 44, 42, 255]
+			}, {
+				"Color:dddd":	[42, 40, 38, 255]
+			}, {
+				"Color:dddd":	[141, 122, 105, 255]
+			}, {
+				"Color:dddd":	[133, 117, 101, 255]
+			}, {
+				"Color:dddd":	[148, 130, 112, 255]
+			}, {
+				"Color:dddd":	[101, 89, 78, 255]
+			}, {
+				"Color:dddd":	[114, 101, 88, 255]
+			}, {
+				"Color:dddd":	[128, 121, 105, 255]
+			}, {
+				"Color:dddd":	[131, 120, 99, 255]
+			}, {
+				"Color:dddd":	[146, 127, 110, 255]
+			}, {
+				"Color:dddd":	[83, 79, 71, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[68, 65, 56, 255]
+			}, {
+				"Color:dddd":	[167, 156, 120, 255]
+			}, {
+				"Color:dddd":	[111, 105, 82, 255]
+			}, {
+				"Color:dddd":	[105, 99, 86, 255]
+			}, {
+				"Color:dddd":	[126, 117, 97, 255]
+			}]
+	}, {
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD58848F_37A63800",
+				"Name:s":	"PS_block_PZL_bellow02",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"block_pzl_bellow_block_pzl_bellow02.rgeom",
+				"Pos:fff":	[0, 0, 0],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[13777.37109375, -1.0006870031356812, -7075.34228515625, 13979.37109375, 200.9993896484375, -6973.34228515625],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	14761,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[13777.37109375, -1.0006870031356812, -7075.34228515625, 13979.37109375, 200.9993896484375, -6973.34228515625],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"PS_block_PZL_bellow02",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	205,
+		"rows":	[{
+				"Color:dddd":	[216, 200, 149, 255]
+			}, {
+				"Color:dddd":	[112, 105, 80, 255]
+			}, {
+				"Color:dddd":	[114, 106, 81, 255]
+			}, {
+				"Color:dddd":	[199, 184, 140, 255]
+			}, {
+				"Color:dddd":	[182, 168, 131, 255]
+			}, {
+				"Color:dddd":	[120, 113, 90, 255]
+			}, {
+				"Color:dddd":	[188, 174, 135, 255]
+			}, {
+				"Color:dddd":	[247, 229, 169, 255]
+			}, {
+				"Color:dddd":	[186, 174, 135, 255]
+			}, {
+				"Color:dddd":	[221, 204, 155, 255]
+			}, {
+				"Color:dddd":	[61, 59, 54, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[77, 74, 65, 255]
+			}, {
+				"Color:dddd":	[39, 38, 35, 255]
+			}, {
+				"Color:dddd":	[34, 34, 33, 255]
+			}, {
+				"Color:dddd":	[44, 43, 40, 255]
+			}, {
+				"Color:dddd":	[141, 131, 100, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[167, 157, 124, 255]
+			}, {
+				"Color:dddd":	[221, 205, 154, 255]
+			}, {
+				"Color:dddd":	[126, 117, 97, 255]
+			}, {
+				"Color:dddd":	[105, 99, 86, 255]
+			}, {
+				"Color:dddd":	[133, 125, 99, 255]
+			}, {
+				"Color:dddd":	[107, 102, 90, 255]
+			}, {
+				"Color:dddd":	[72, 69, 62, 255]
+			}, {
+				"Color:dddd":	[208, 192, 142, 255]
+			}, {
+				"Color:dddd":	[68, 65, 56, 255]
+			}, {
+				"Color:dddd":	[96, 90, 72, 255]
+			}, {
+				"Color:dddd":	[179, 167, 126, 255]
+			}, {
+				"Color:dddd":	[172, 159, 119, 255]
+			}, {
+				"Color:dddd":	[83, 79, 71, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[110, 104, 88, 255]
+			}, {
+				"Color:dddd":	[180, 166, 129, 255]
+			}, {
+				"Color:dddd":	[131, 120, 99, 255]
+			}, {
+				"Color:dddd":	[195, 181, 137, 255]
+			}, {
+				"Color:dddd":	[128, 121, 105, 255]
+			}, {
+				"Color:dddd":	[143, 137, 118, 255]
+			}, {
+				"Color:dddd":	[158, 149, 123, 255]
+			}, {
+				"Color:dddd":	[167, 156, 120, 255]
+			}, {
+				"Color:dddd":	[154, 144, 115, 255]
+			}, {
+				"Color:dddd":	[221, 205, 154, 255]
+			}, {
+				"Color:dddd":	[111, 105, 82, 255]
+			}, {
+				"Color:dddd":	[157, 148, 120, 255]
+			}, {
+				"Color:dddd":	[120, 115, 100, 255]
+			}, {
+				"Color:dddd":	[94, 89, 74, 255]
+			}, {
+				"Color:dddd":	[186, 174, 135, 255]
+			}, {
+				"Color:dddd":	[95, 92, 81, 255]
+			}, {
+				"Color:dddd":	[58, 56, 51, 255]
+			}, {
+				"Color:dddd":	[94, 89, 74, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[110, 104, 88, 255]
+			}, {
+				"Color:dddd":	[143, 137, 118, 255]
+			}, {
+				"Color:dddd":	[158, 149, 123, 255]
+			}, {
+				"Color:dddd":	[112, 106, 91, 255]
+			}, {
+				"Color:dddd":	[77, 74, 65, 255]
+			}, {
+				"Color:dddd":	[112, 106, 91, 255]
+			}, {
+				"Color:dddd":	[34, 34, 33, 255]
+			}, {
+				"Color:dddd":	[121, 114, 100, 255]
+			}, {
+				"Color:dddd":	[157, 148, 120, 255]
+			}, {
+				"Color:dddd":	[120, 115, 100, 255]
+			}, {
+				"Color:dddd":	[154, 144, 115, 255]
+			}, {
+				"Color:dddd":	[95, 92, 81, 255]
+			}, {
+				"Color:dddd":	[94, 87, 77, 255]
+			}, {
+				"Color:dddd":	[44, 43, 41, 255]
+			}, {
+				"Color:dddd":	[83, 79, 71, 255]
+			}, {
+				"Color:dddd":	[48, 47, 44, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[58, 56, 51, 255]
+			}, {
+				"Color:dddd":	[146, 127, 110, 255]
+			}, {
+				"Color:dddd":	[131, 120, 99, 255]
+			}, {
+				"Color:dddd":	[180, 166, 129, 255]
+			}, {
+				"Color:dddd":	[124, 111, 96, 255]
+			}, {
+				"Color:dddd":	[88, 83, 73, 255]
+			}, {
+				"Color:dddd":	[143, 137, 118, 255]
+			}, {
+				"Color:dddd":	[128, 121, 105, 255]
+			}, {
+				"Color:dddd":	[114, 101, 88, 255]
+			}, {
+				"Color:dddd":	[96, 90, 72, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[36, 36, 34, 255]
+			}, {
+				"Color:dddd":	[179, 167, 126, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[41, 40, 38, 255]
+			}, {
+				"Color:dddd":	[114, 101, 88, 255]
+			}, {
+				"Color:dddd":	[126, 112, 97, 255]
+			}, {
+				"Color:dddd":	[113, 99, 87, 255]
+			}, {
+				"Color:dddd":	[86, 77, 69, 255]
+			}, {
+				"Color:dddd":	[50, 47, 44, 255]
+			}, {
+				"Color:dddd":	[94, 85, 75, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[44, 43, 41, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[94, 85, 75, 255]
+			}, {
+				"Color:dddd":	[188, 174, 135, 255]
+			}, {
+				"Color:dddd":	[120, 113, 90, 255]
+			}, {
+				"Color:dddd":	[41, 40, 38, 255]
+			}, {
+				"Color:dddd":	[48, 47, 44, 255]
+			}, {
+				"Color:dddd":	[73, 66, 59, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[34, 34, 33, 255]
+			}, {
+				"Color:dddd":	[44, 43, 40, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[112, 106, 91, 255]
+			}, {
+				"Color:dddd":	[126, 112, 97, 255]
+			}, {
+				"Color:dddd":	[221, 204, 155, 255]
+			}, {
+				"Color:dddd":	[41, 40, 38, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[107, 102, 90, 255]
+			}, {
+				"Color:dddd":	[100, 92, 81, 255]
+			}, {
+				"Color:dddd":	[50, 49, 45, 255]
+			}, {
+				"Color:dddd":	[72, 69, 62, 255]
+			}, {
+				"Color:dddd":	[126, 117, 97, 255]
+			}, {
+				"Color:dddd":	[148, 130, 112, 255]
+			}, {
+				"Color:dddd":	[133, 117, 101, 255]
+			}, {
+				"Color:dddd":	[105, 99, 86, 255]
+			}, {
+				"Color:dddd":	[167, 156, 120, 255]
+			}, {
+				"Color:dddd":	[45, 44, 42, 255]
+			}, {
+				"Color:dddd":	[112, 101, 88, 255]
+			}, {
+				"Color:dddd":	[154, 144, 115, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[42, 40, 38, 255]
+			}, {
+				"Color:dddd":	[45, 44, 42, 255]
+			}, {
+				"Color:dddd":	[31, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[141, 122, 105, 255]
+			}, {
+				"Color:dddd":	[148, 130, 112, 255]
+			}, {
+				"Color:dddd":	[101, 89, 78, 255]
+			}, {
+				"Color:dddd":	[133, 117, 101, 255]
+			}, {
+				"Color:dddd":	[114, 101, 88, 255]
+			}, {
+				"Color:dddd":	[146, 127, 110, 255]
+			}, {
+				"Color:dddd":	[140, 121, 105, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[44, 43, 41, 255]
+			}, {
+				"Color:dddd":	[112, 101, 88, 255]
+			}, {
+				"Color:dddd":	[45, 44, 42, 255]
+			}, {
+				"Color:dddd":	[42, 40, 38, 255]
+			}, {
+				"Color:dddd":	[141, 122, 105, 255]
+			}, {
+				"Color:dddd":	[133, 117, 101, 255]
+			}, {
+				"Color:dddd":	[148, 130, 112, 255]
+			}, {
+				"Color:dddd":	[101, 89, 78, 255]
+			}, {
+				"Color:dddd":	[140, 121, 105, 255]
+			}, {
+				"Color:dddd":	[73, 66, 59, 255]
+			}, {
+				"Color:dddd":	[88, 83, 73, 255]
+			}, {
+				"Color:dddd":	[114, 101, 88, 255]
+			}, {
+				"Color:dddd":	[128, 121, 105, 255]
+			}, {
+				"Color:dddd":	[131, 120, 99, 255]
+			}, {
+				"Color:dddd":	[68, 65, 56, 255]
+			}, {
+				"Color:dddd":	[167, 156, 120, 255]
+			}, {
+				"Color:dddd":	[111, 105, 82, 255]
+			}, {
+				"Color:dddd":	[105, 99, 86, 255]
+			}, {
+				"Color:dddd":	[126, 117, 97, 255]
+			}, {
+				"Color:dddd":	[83, 79, 71, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[39, 38, 35, 255]
+			}, {
+				"Color:dddd":	[120, 115, 100, 255]
+			}, {
+				"Color:dddd":	[86, 81, 72, 255]
+			}, {
+				"Color:dddd":	[41, 41, 39, 255]
+			}, {
+				"Color:dddd":	[61, 59, 54, 255]
+			}, {
+				"Color:dddd":	[182, 168, 131, 255]
+			}, {
+				"Color:dddd":	[112, 98, 85, 255]
+			}, {
+				"Color:dddd":	[113, 101, 88, 255]
+			}, {
+				"Color:dddd":	[121, 114, 100, 255]
+			}, {
+				"Color:dddd":	[114, 106, 81, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[88, 78, 69, 255]
+			}, {
+				"Color:dddd":	[199, 184, 140, 255]
+			}, {
+				"Color:dddd":	[34, 33, 33, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[41, 41, 39, 255]
+			}, {
+				"Color:dddd":	[109, 95, 83, 255]
+			}, {
+				"Color:dddd":	[112, 98, 85, 255]
+			}, {
+				"Color:dddd":	[69, 62, 56, 255]
+			}, {
+				"Color:dddd":	[86, 81, 72, 255]
+			}, {
+				"Color:dddd":	[113, 101, 88, 255]
+			}, {
+				"Color:dddd":	[146, 127, 110, 255]
+			}, {
+				"Color:dddd":	[112, 98, 85, 255]
+			}, {
+				"Color:dddd":	[109, 95, 83, 255]
+			}, {
+				"Color:dddd":	[69, 62, 56, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[61, 59, 54, 255]
+			}, {
+				"Color:dddd":	[182, 168, 131, 255]
+			}, {
+				"Color:dddd":	[121, 114, 100, 255]
+			}, {
+				"Color:dddd":	[113, 101, 88, 255]
+			}, {
+				"Color:dddd":	[158, 149, 123, 255]
+			}, {
+				"Color:dddd":	[110, 104, 88, 255]
+			}, {
+				"Color:dddd":	[172, 159, 119, 255]
+			}, {
+				"Color:dddd":	[195, 181, 137, 255]
+			}, {
+				"Color:dddd":	[112, 105, 80, 255]
+			}, {
+				"Color:dddd":	[216, 200, 149, 255]
+			}, {
+				"Color:dddd":	[157, 148, 120, 255]
+			}, {
+				"Color:dddd":	[186, 174, 135, 255]
+			}, {
+				"Color:dddd":	[94, 89, 74, 255]
+			}, {
+				"Color:dddd":	[141, 131, 100, 255]
+			}, {
+				"Color:dddd":	[247, 229, 169, 255]
+			}, {
+				"Color:dddd":	[167, 157, 124, 255]
+			}, {
+				"Color:dddd":	[133, 125, 99, 255]
+			}, {
+				"Color:dddd":	[208, 192, 142, 255]
+			}, {
+				"Color:dddd":	[221, 205, 154, 255]
+			}, {
+				"Color:dddd":	[77, 74, 65, 255]
+			}]
+	}, {
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD58848F_37AF4400",
+				"Name:s":	"PS_block_PZL_cooler01",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"block_pzl_cooler_block_pzl_cooler01.rgeom",
+				"Pos:fff":	[0, 0, 0],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[14017.3720703125, -1.0005240440368652, -7075.3408203125, 14219.3720703125, 200.99952697753906, -6973.3408203125],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	14761,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[14017.3720703125, -1.0005240440368652, -7075.3408203125, 14219.3720703125, 200.99952697753906, -6973.3408203125],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"PS_block_PZL_cooler01",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	141,
+		"rows":	[{
+				"Color:dddd":	[199, 187, 151, 255]
+			}, {
+				"Color:dddd":	[213, 198, 148, 255]
+			}, {
+				"Color:dddd":	[199, 185, 136, 255]
+			}, {
+				"Color:dddd":	[143, 135, 110, 255]
+			}, {
+				"Color:dddd":	[154, 144, 117, 255]
+			}, {
+				"Color:dddd":	[236, 220, 166, 255]
+			}, {
+				"Color:dddd":	[117, 111, 95, 255]
+			}, {
+				"Color:dddd":	[211, 197, 152, 255]
+			}, {
+				"Color:dddd":	[112, 105, 92, 255]
+			}, {
+				"Color:dddd":	[113, 105, 88, 255]
+			}, {
+				"Color:dddd":	[199, 186, 140, 255]
+			}, {
+				"Color:dddd":	[181, 169, 130, 255]
+			}, {
+				"Color:dddd":	[75, 72, 65, 255]
+			}, {
+				"Color:dddd":	[116, 111, 97, 255]
+			}, {
+				"Color:dddd":	[201, 186, 137, 255]
+			}, {
+				"Color:dddd":	[82, 77, 64, 255]
+			}, {
+				"Color:dddd":	[95, 90, 72, 255]
+			}, {
+				"Color:dddd":	[38, 38, 36, 255]
+			}, {
+				"Color:dddd":	[133, 125, 95, 255]
+			}, {
+				"Color:dddd":	[82, 78, 66, 255]
+			}, {
+				"Color:dddd":	[106, 99, 84, 255]
+			}, {
+				"Color:dddd":	[117, 110, 89, 255]
+			}, {
+				"Color:dddd":	[236, 220, 166, 255]
+			}, {
+				"Color:dddd":	[228, 211, 157, 255]
+			}, {
+				"Color:dddd":	[91, 85, 68, 255]
+			}, {
+				"Color:dddd":	[168, 156, 119, 255]
+			}, {
+				"Color:dddd":	[85, 82, 73, 255]
+			}, {
+				"Color:dddd":	[143, 135, 110, 255]
+			}, {
+				"Color:dddd":	[33, 33, 32, 255]
+			}, {
+				"Color:dddd":	[164, 151, 119, 255]
+			}, {
+				"Color:dddd":	[132, 122, 100, 255]
+			}, {
+				"Color:dddd":	[135, 128, 111, 255]
+			}, {
+				"Color:dddd":	[199, 187, 151, 255]
+			}, {
+				"Color:dddd":	[157, 149, 128, 255]
+			}, {
+				"Color:dddd":	[125, 117, 93, 255]
+			}, {
+				"Color:dddd":	[154, 144, 117, 255]
+			}, {
+				"Color:dddd":	[205, 190, 145, 255]
+			}, {
+				"Color:dddd":	[125, 117, 93, 255]
+			}, {
+				"Color:dddd":	[59, 57, 52, 255]
+			}, {
+				"Color:dddd":	[34, 34, 33, 255]
+			}, {
+				"Color:dddd":	[34, 34, 33, 255]
+			}, {
+				"Color:dddd":	[33, 33, 32, 255]
+			}, {
+				"Color:dddd":	[157, 149, 128, 255]
+			}, {
+				"Color:dddd":	[138, 129, 103, 255]
+			}, {
+				"Color:dddd":	[199, 186, 140, 255]
+			}, {
+				"Color:dddd":	[106, 99, 84, 255]
+			}, {
+				"Color:dddd":	[91, 85, 68, 255]
+			}, {
+				"Color:dddd":	[168, 156, 119, 255]
+			}, {
+				"Color:dddd":	[31, 30, 30, 255]
+			}, {
+				"Color:dddd":	[85, 82, 73, 255]
+			}, {
+				"Color:dddd":	[33, 33, 32, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[135, 128, 111, 255]
+			}, {
+				"Color:dddd":	[157, 149, 128, 255]
+			}, {
+				"Color:dddd":	[91, 92, 83, 255]
+			}, {
+				"Color:dddd":	[104, 91, 80, 255]
+			}, {
+				"Color:dddd":	[143, 128, 112, 255]
+			}, {
+				"Color:dddd":	[51, 47, 44, 255]
+			}, {
+				"Color:dddd":	[121, 115, 102, 255]
+			}, {
+				"Color:dddd":	[47, 46, 43, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[41, 40, 38, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[44, 43, 40, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[94, 85, 75, 255]
+			}, {
+				"Color:dddd":	[125, 111, 96, 255]
+			}, {
+				"Color:dddd":	[114, 100, 87, 255]
+			}, {
+				"Color:dddd":	[84, 75, 67, 255]
+			}, {
+				"Color:dddd":	[114, 101, 88, 255]
+			}, {
+				"Color:dddd":	[94, 87, 77, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[138, 124, 108, 255]
+			}, {
+				"Color:dddd":	[164, 151, 119, 255]
+			}, {
+				"Color:dddd":	[132, 122, 100, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[94, 85, 75, 255]
+			}, {
+				"Color:dddd":	[41, 40, 38, 255]
+			}, {
+				"Color:dddd":	[82, 78, 66, 255]
+			}, {
+				"Color:dddd":	[44, 43, 40, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[117, 111, 95, 255]
+			}, {
+				"Color:dddd":	[59, 57, 52, 255]
+			}, {
+				"Color:dddd":	[44, 43, 40, 255]
+			}, {
+				"Color:dddd":	[78, 75, 69, 255]
+			}, {
+				"Color:dddd":	[47, 46, 43, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[143, 128, 112, 255]
+			}, {
+				"Color:dddd":	[138, 124, 108, 255]
+			}, {
+				"Color:dddd":	[121, 115, 102, 255]
+			}, {
+				"Color:dddd":	[78, 75, 69, 255]
+			}, {
+				"Color:dddd":	[138, 129, 103, 255]
+			}, {
+				"Color:dddd":	[34, 34, 33, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[38, 38, 36, 255]
+			}, {
+				"Color:dddd":	[154, 144, 117, 255]
+			}, {
+				"Color:dddd":	[205, 190, 145, 255]
+			}, {
+				"Color:dddd":	[125, 111, 96, 255]
+			}, {
+				"Color:dddd":	[91, 92, 83, 255]
+			}, {
+				"Color:dddd":	[116, 111, 97, 255]
+			}, {
+				"Color:dddd":	[75, 72, 65, 255]
+			}, {
+				"Color:dddd":	[50, 49, 45, 255]
+			}, {
+				"Color:dddd":	[107, 104, 93, 255]
+			}, {
+				"Color:dddd":	[113, 105, 88, 255]
+			}, {
+				"Color:dddd":	[112, 105, 92, 255]
+			}, {
+				"Color:dddd":	[141, 130, 115, 255]
+			}, {
+				"Color:dddd":	[148, 129, 111, 255]
+			}, {
+				"Color:dddd":	[117, 110, 89, 255]
+			}, {
+				"Color:dddd":	[106, 99, 84, 255]
+			}, {
+				"Color:dddd":	[112, 100, 88, 255]
+			}, {
+				"Color:dddd":	[45, 44, 42, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[45, 44, 42, 255]
+			}, {
+				"Color:dddd":	[43, 40, 38, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[148, 129, 111, 255]
+			}, {
+				"Color:dddd":	[142, 123, 106, 255]
+			}, {
+				"Color:dddd":	[105, 98, 88, 255]
+			}, {
+				"Color:dddd":	[141, 130, 115, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[112, 100, 88, 255]
+			}, {
+				"Color:dddd":	[142, 123, 106, 255]
+			}, {
+				"Color:dddd":	[43, 40, 38, 255]
+			}, {
+				"Color:dddd":	[45, 44, 42, 255]
+			}, {
+				"Color:dddd":	[141, 130, 115, 255]
+			}, {
+				"Color:dddd":	[105, 98, 88, 255]
+			}, {
+				"Color:dddd":	[148, 129, 111, 255]
+			}, {
+				"Color:dddd":	[121, 115, 102, 255]
+			}, {
+				"Color:dddd":	[138, 124, 108, 255]
+			}, {
+				"Color:dddd":	[132, 122, 100, 255]
+			}, {
+				"Color:dddd":	[135, 128, 111, 255]
+			}, {
+				"Color:dddd":	[85, 82, 73, 255]
+			}, {
+				"Color:dddd":	[41, 40, 38, 255]
+			}, {
+				"Color:dddd":	[95, 90, 72, 255]
+			}, {
+				"Color:dddd":	[82, 77, 64, 255]
+			}, {
+				"Color:dddd":	[117, 110, 89, 255]
+			}, {
+				"Color:dddd":	[112, 105, 92, 255]
+			}, {
+				"Color:dddd":	[113, 105, 88, 255]
+			}]
+	}, {
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD58848F_37AF9400",
+				"Name:s":	"PS_block_PZL_cooler02",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"block_pzl_cooler_block_pzl_cooler02.rgeom",
+				"Pos:fff":	[0, 0, 0],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[14017.3720703125, -1.0005389451980591, -7075.34130859375, 14219.3720703125, 200.99952697753906, -6973.3408203125],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	14761,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[14017.3720703125, -1.0005389451980591, -7075.34130859375, 14219.3720703125, 200.99952697753906, -6973.3408203125],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"PS_block_PZL_cooler02",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	205,
+		"rows":	[{
+				"Color:dddd":	[241, 223, 165, 255]
+			}, {
+				"Color:dddd":	[189, 174, 133, 255]
+			}, {
+				"Color:dddd":	[101, 94, 73, 255]
+			}, {
+				"Color:dddd":	[125, 117, 88, 255]
+			}, {
+				"Color:dddd":	[199, 183, 142, 255]
+			}, {
+				"Color:dddd":	[82, 78, 66, 255]
+			}, {
+				"Color:dddd":	[133, 125, 95, 255]
+			}, {
+				"Color:dddd":	[228, 211, 157, 255]
+			}, {
+				"Color:dddd":	[236, 220, 166, 255]
+			}, {
+				"Color:dddd":	[154, 144, 117, 255]
+			}, {
+				"Color:dddd":	[205, 190, 145, 255]
+			}, {
+				"Color:dddd":	[61, 59, 54, 255]
+			}, {
+				"Color:dddd":	[97, 92, 77, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[34, 34, 33, 255]
+			}, {
+				"Color:dddd":	[125, 117, 93, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[97, 92, 77, 255]
+			}, {
+				"Color:dddd":	[211, 197, 152, 255]
+			}, {
+				"Color:dddd":	[112, 105, 92, 255]
+			}, {
+				"Color:dddd":	[113, 105, 88, 255]
+			}, {
+				"Color:dddd":	[199, 186, 140, 255]
+			}, {
+				"Color:dddd":	[181, 169, 130, 255]
+			}, {
+				"Color:dddd":	[75, 72, 65, 255]
+			}, {
+				"Color:dddd":	[116, 111, 97, 255]
+			}, {
+				"Color:dddd":	[201, 186, 137, 255]
+			}, {
+				"Color:dddd":	[82, 77, 64, 255]
+			}, {
+				"Color:dddd":	[95, 90, 72, 255]
+			}, {
+				"Color:dddd":	[91, 85, 68, 255]
+			}, {
+				"Color:dddd":	[199, 185, 136, 255]
+			}, {
+				"Color:dddd":	[168, 156, 119, 255]
+			}, {
+				"Color:dddd":	[85, 82, 73, 255]
+			}, {
+				"Color:dddd":	[143, 135, 110, 255]
+			}, {
+				"Color:dddd":	[33, 33, 32, 255]
+			}, {
+				"Color:dddd":	[164, 151, 119, 255]
+			}, {
+				"Color:dddd":	[213, 198, 148, 255]
+			}, {
+				"Color:dddd":	[132, 122, 100, 255]
+			}, {
+				"Color:dddd":	[135, 128, 111, 255]
+			}, {
+				"Color:dddd":	[199, 187, 151, 255]
+			}, {
+				"Color:dddd":	[157, 149, 128, 255]
+			}, {
+				"Color:dddd":	[117, 110, 89, 255]
+			}, {
+				"Color:dddd":	[199, 186, 140, 255]
+			}, {
+				"Color:dddd":	[200, 188, 148, 255]
+			}, {
+				"Color:dddd":	[140, 132, 113, 255]
+			}, {
+				"Color:dddd":	[129, 123, 107, 255]
+			}, {
+				"Color:dddd":	[200, 188, 148, 255]
+			}, {
+				"Color:dddd":	[125, 117, 93, 255]
+			}, {
+				"Color:dddd":	[59, 57, 52, 255]
+			}, {
+				"Color:dddd":	[117, 111, 95, 255]
+			}, {
+				"Color:dddd":	[236, 220, 166, 255]
+			}, {
+				"Color:dddd":	[38, 38, 36, 255]
+			}, {
+				"Color:dddd":	[33, 33, 32, 255]
+			}, {
+				"Color:dddd":	[143, 135, 110, 255]
+			}, {
+				"Color:dddd":	[157, 149, 128, 255]
+			}, {
+				"Color:dddd":	[199, 187, 151, 255]
+			}, {
+				"Color:dddd":	[154, 144, 117, 255]
+			}, {
+				"Color:dddd":	[138, 129, 103, 255]
+			}, {
+				"Color:dddd":	[34, 34, 33, 255]
+			}, {
+				"Color:dddd":	[129, 123, 107, 255]
+			}, {
+				"Color:dddd":	[106, 99, 84, 255]
+			}, {
+				"Color:dddd":	[106, 99, 84, 255]
+			}, {
+				"Color:dddd":	[117, 111, 95, 255]
+			}, {
+				"Color:dddd":	[59, 57, 52, 255]
+			}, {
+				"Color:dddd":	[44, 43, 40, 255]
+			}, {
+				"Color:dddd":	[85, 82, 73, 255]
+			}, {
+				"Color:dddd":	[33, 33, 32, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[94, 87, 77, 255]
+			}, {
+				"Color:dddd":	[138, 124, 108, 255]
+			}, {
+				"Color:dddd":	[104, 91, 80, 255]
+			}, {
+				"Color:dddd":	[164, 151, 119, 255]
+			}, {
+				"Color:dddd":	[132, 122, 100, 255]
+			}, {
+				"Color:dddd":	[91, 92, 83, 255]
+			}, {
+				"Color:dddd":	[121, 115, 102, 255]
+			}, {
+				"Color:dddd":	[135, 128, 111, 255]
+			}, {
+				"Color:dddd":	[157, 149, 128, 255]
+			}, {
+				"Color:dddd":	[91, 85, 68, 255]
+			}, {
+				"Color:dddd":	[168, 156, 119, 255]
+			}, {
+				"Color:dddd":	[31, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[41, 40, 38, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[114, 101, 88, 255]
+			}, {
+				"Color:dddd":	[84, 75, 67, 255]
+			}, {
+				"Color:dddd":	[114, 100, 87, 255]
+			}, {
+				"Color:dddd":	[125, 111, 96, 255]
+			}, {
+				"Color:dddd":	[143, 128, 112, 255]
+			}, {
+				"Color:dddd":	[51, 47, 44, 255]
+			}, {
+				"Color:dddd":	[94, 85, 75, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[44, 43, 40, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[47, 46, 43, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[94, 85, 75, 255]
+			}, {
+				"Color:dddd":	[41, 40, 38, 255]
+			}, {
+				"Color:dddd":	[82, 78, 66, 255]
+			}, {
+				"Color:dddd":	[138, 129, 103, 255]
+			}, {
+				"Color:dddd":	[85, 82, 73, 255]
+			}, {
+				"Color:dddd":	[47, 46, 43, 255]
+			}, {
+				"Color:dddd":	[78, 75, 69, 255]
+			}, {
+				"Color:dddd":	[34, 34, 33, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[38, 38, 36, 255]
+			}, {
+				"Color:dddd":	[154, 144, 117, 255]
+			}, {
+				"Color:dddd":	[205, 190, 145, 255]
+			}, {
+				"Color:dddd":	[125, 111, 96, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[116, 111, 97, 255]
+			}, {
+				"Color:dddd":	[75, 72, 65, 255]
+			}, {
+				"Color:dddd":	[50, 49, 45, 255]
+			}, {
+				"Color:dddd":	[107, 104, 93, 255]
+			}, {
+				"Color:dddd":	[113, 105, 88, 255]
+			}, {
+				"Color:dddd":	[112, 105, 92, 255]
+			}, {
+				"Color:dddd":	[141, 130, 115, 255]
+			}, {
+				"Color:dddd":	[148, 129, 111, 255]
+			}, {
+				"Color:dddd":	[117, 110, 89, 255]
+			}, {
+				"Color:dddd":	[106, 99, 84, 255]
+			}, {
+				"Color:dddd":	[112, 100, 88, 255]
+			}, {
+				"Color:dddd":	[45, 44, 42, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[45, 44, 42, 255]
+			}, {
+				"Color:dddd":	[43, 40, 38, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[148, 129, 111, 255]
+			}, {
+				"Color:dddd":	[142, 123, 106, 255]
+			}, {
+				"Color:dddd":	[105, 98, 88, 255]
+			}, {
+				"Color:dddd":	[141, 130, 115, 255]
+			}, {
+				"Color:dddd":	[121, 115, 102, 255]
+			}, {
+				"Color:dddd":	[78, 75, 69, 255]
+			}, {
+				"Color:dddd":	[143, 128, 112, 255]
+			}, {
+				"Color:dddd":	[41, 40, 38, 255]
+			}, {
+				"Color:dddd":	[44, 43, 40, 255]
+			}, {
+				"Color:dddd":	[112, 100, 88, 255]
+			}, {
+				"Color:dddd":	[142, 123, 106, 255]
+			}, {
+				"Color:dddd":	[43, 40, 38, 255]
+			}, {
+				"Color:dddd":	[45, 44, 42, 255]
+			}, {
+				"Color:dddd":	[141, 130, 115, 255]
+			}, {
+				"Color:dddd":	[105, 98, 88, 255]
+			}, {
+				"Color:dddd":	[148, 129, 111, 255]
+			}, {
+				"Color:dddd":	[91, 92, 83, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[121, 115, 102, 255]
+			}, {
+				"Color:dddd":	[138, 124, 108, 255]
+			}, {
+				"Color:dddd":	[132, 122, 100, 255]
+			}, {
+				"Color:dddd":	[95, 90, 72, 255]
+			}, {
+				"Color:dddd":	[82, 77, 64, 255]
+			}, {
+				"Color:dddd":	[117, 110, 89, 255]
+			}, {
+				"Color:dddd":	[112, 105, 92, 255]
+			}, {
+				"Color:dddd":	[113, 105, 88, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[129, 123, 107, 255]
+			}, {
+				"Color:dddd":	[61, 59, 54, 255]
+			}, {
+				"Color:dddd":	[40, 39, 37, 255]
+			}, {
+				"Color:dddd":	[78, 75, 67, 255]
+			}, {
+				"Color:dddd":	[199, 183, 142, 255]
+			}, {
+				"Color:dddd":	[140, 132, 113, 255]
+			}, {
+				"Color:dddd":	[89, 82, 72, 255]
+			}, {
+				"Color:dddd":	[110, 96, 84, 255]
+			}, {
+				"Color:dddd":	[101, 94, 73, 255]
+			}, {
+				"Color:dddd":	[189, 174, 133, 255]
+			}, {
+				"Color:dddd":	[81, 73, 65, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[33, 33, 32, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[40, 39, 37, 255]
+			}, {
+				"Color:dddd":	[110, 96, 84, 255]
+			}, {
+				"Color:dddd":	[109, 95, 83, 255]
+			}, {
+				"Color:dddd":	[48, 45, 42, 255]
+			}, {
+				"Color:dddd":	[89, 82, 72, 255]
+			}, {
+				"Color:dddd":	[78, 75, 67, 255]
+			}, {
+				"Color:dddd":	[135, 128, 111, 255]
+			}, {
+				"Color:dddd":	[138, 124, 108, 255]
+			}, {
+				"Color:dddd":	[109, 95, 83, 255]
+			}, {
+				"Color:dddd":	[110, 96, 84, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[48, 45, 42, 255]
+			}, {
+				"Color:dddd":	[61, 59, 54, 255]
+			}, {
+				"Color:dddd":	[199, 183, 142, 255]
+			}, {
+				"Color:dddd":	[89, 82, 72, 255]
+			}, {
+				"Color:dddd":	[140, 132, 113, 255]
+			}, {
+				"Color:dddd":	[199, 187, 151, 255]
+			}, {
+				"Color:dddd":	[213, 198, 148, 255]
+			}, {
+				"Color:dddd":	[199, 185, 136, 255]
+			}, {
+				"Color:dddd":	[143, 135, 110, 255]
+			}, {
+				"Color:dddd":	[125, 117, 88, 255]
+			}, {
+				"Color:dddd":	[97, 92, 77, 255]
+			}, {
+				"Color:dddd":	[200, 188, 148, 255]
+			}, {
+				"Color:dddd":	[236, 220, 166, 255]
+			}, {
+				"Color:dddd":	[228, 211, 157, 255]
+			}, {
+				"Color:dddd":	[133, 125, 95, 255]
+			}, {
+				"Color:dddd":	[125, 117, 93, 255]
+			}, {
+				"Color:dddd":	[211, 197, 152, 255]
+			}, {
+				"Color:dddd":	[199, 186, 140, 255]
+			}, {
+				"Color:dddd":	[201, 186, 137, 255]
+			}, {
+				"Color:dddd":	[181, 169, 130, 255]
+			}, {
+				"Color:dddd":	[241, 223, 165, 255]
+			}]
+	}, {
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD58848F_37AFDC00",
+				"Name:s":	"PS_block_PZL_gearroom01",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"block_pzl_gearroom_block_pzl_gearroom01.rgeom",
+				"Pos:fff":	[0, 0, 0],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[13779, -1.000404953956604, -3019.93701171875, 13981, 200.99960327148437, -2917.9365234375],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	14761,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[13779, -1.000404953956604, -3019.93701171875, 13981, 200.99960327148437, -2917.9365234375],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"PS_block_PZL_gearroom01",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	141,
+		"rows":	[{
+				"Color:dddd":	[142, 134, 107, 255]
+			}, {
+				"Color:dddd":	[159, 148, 111, 255]
+			}, {
+				"Color:dddd":	[113, 106, 81, 255]
+			}, {
+				"Color:dddd":	[86, 83, 68, 255]
+			}, {
+				"Color:dddd":	[156, 146, 118, 255]
+			}, {
+				"Color:dddd":	[152, 142, 109, 255]
+			}, {
+				"Color:dddd":	[121, 117, 97, 255]
+			}, {
+				"Color:dddd":	[152, 142, 109, 255]
+			}, {
+				"Color:dddd":	[140, 131, 109, 255]
+			}, {
+				"Color:dddd":	[131, 121, 96, 255]
+			}, {
+				"Color:dddd":	[161, 151, 113, 255]
+			}, {
+				"Color:dddd":	[107, 101, 80, 255]
+			}, {
+				"Color:dddd":	[76, 74, 65, 255]
+			}, {
+				"Color:dddd":	[132, 127, 106, 255]
+			}, {
+				"Color:dddd":	[116, 109, 83, 255]
+			}, {
+				"Color:dddd":	[55, 54, 46, 255]
+			}, {
+				"Color:dddd":	[48, 46, 41, 255]
+			}, {
+				"Color:dddd":	[35, 35, 33, 255]
+			}, {
+				"Color:dddd":	[83, 78, 62, 255]
+			}, {
+				"Color:dddd":	[75, 73, 60, 255]
+			}, {
+				"Color:dddd":	[130, 122, 96, 255]
+			}, {
+				"Color:dddd":	[98, 94, 75, 255]
+			}, {
+				"Color:dddd":	[152, 142, 109, 255]
+			}, {
+				"Color:dddd":	[157, 147, 110, 255]
+			}, {
+				"Color:dddd":	[52, 50, 44, 255]
+			}, {
+				"Color:dddd":	[110, 105, 82, 255]
+			}, {
+				"Color:dddd":	[91, 88, 76, 255]
+			}, {
+				"Color:dddd":	[86, 83, 68, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[144, 134, 104, 255]
+			}, {
+				"Color:dddd":	[127, 116, 93, 255]
+			}, {
+				"Color:dddd":	[172, 163, 136, 255]
+			}, {
+				"Color:dddd":	[142, 134, 107, 255]
+			}, {
+				"Color:dddd":	[186, 179, 148, 255]
+			}, {
+				"Color:dddd":	[77, 73, 60, 255]
+			}, {
+				"Color:dddd":	[156, 146, 118, 255]
+			}, {
+				"Color:dddd":	[160, 149, 114, 255]
+			}, {
+				"Color:dddd":	[77, 73, 60, 255]
+			}, {
+				"Color:dddd":	[58, 57, 51, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[186, 179, 148, 255]
+			}, {
+				"Color:dddd":	[132, 125, 98, 255]
+			}, {
+				"Color:dddd":	[161, 151, 113, 255]
+			}, {
+				"Color:dddd":	[130, 122, 96, 255]
+			}, {
+				"Color:dddd":	[52, 50, 44, 255]
+			}, {
+				"Color:dddd":	[110, 105, 82, 255]
+			}, {
+				"Color:dddd":	[50, 49, 44, 255]
+			}, {
+				"Color:dddd":	[91, 88, 76, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[172, 163, 136, 255]
+			}, {
+				"Color:dddd":	[186, 179, 148, 255]
+			}, {
+				"Color:dddd":	[180, 173, 144, 255]
+			}, {
+				"Color:dddd":	[78, 75, 64, 255]
+			}, {
+				"Color:dddd":	[69, 64, 57, 255]
+			}, {
+				"Color:dddd":	[41, 40, 37, 255]
+			}, {
+				"Color:dddd":	[135, 126, 107, 255]
+			}, {
+				"Color:dddd":	[102, 99, 85, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[49, 48, 43, 255]
+			}, {
+				"Color:dddd":	[39, 39, 36, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[66, 64, 57, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[76, 74, 62, 255]
+			}, {
+				"Color:dddd":	[86, 81, 69, 255]
+			}, {
+				"Color:dddd":	[67, 63, 56, 255]
+			}, {
+				"Color:dddd":	[83, 80, 70, 255]
+			}, {
+				"Color:dddd":	[100, 94, 81, 255]
+			}, {
+				"Color:dddd":	[116, 110, 94, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[89, 81, 70, 255]
+			}, {
+				"Color:dddd":	[144, 134, 104, 255]
+			}, {
+				"Color:dddd":	[127, 116, 93, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[76, 74, 62, 255]
+			}, {
+				"Color:dddd":	[49, 48, 43, 255]
+			}, {
+				"Color:dddd":	[75, 73, 60, 255]
+			}, {
+				"Color:dddd":	[66, 64, 57, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[121, 117, 97, 255]
+			}, {
+				"Color:dddd":	[58, 57, 51, 255]
+			}, {
+				"Color:dddd":	[66, 64, 57, 255]
+			}, {
+				"Color:dddd":	[116, 111, 95, 255]
+			}, {
+				"Color:dddd":	[102, 99, 85, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[69, 64, 57, 255]
+			}, {
+				"Color:dddd":	[89, 81, 70, 255]
+			}, {
+				"Color:dddd":	[135, 126, 107, 255]
+			}, {
+				"Color:dddd":	[116, 111, 95, 255]
+			}, {
+				"Color:dddd":	[132, 125, 98, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[35, 35, 33, 255]
+			}, {
+				"Color:dddd":	[156, 146, 118, 255]
+			}, {
+				"Color:dddd":	[160, 149, 114, 255]
+			}, {
+				"Color:dddd":	[86, 81, 69, 255]
+			}, {
+				"Color:dddd":	[180, 173, 144, 255]
+			}, {
+				"Color:dddd":	[132, 127, 106, 255]
+			}, {
+				"Color:dddd":	[76, 74, 65, 255]
+			}, {
+				"Color:dddd":	[83, 81, 70, 255]
+			}, {
+				"Color:dddd":	[130, 124, 105, 255]
+			}, {
+				"Color:dddd":	[131, 121, 96, 255]
+			}, {
+				"Color:dddd":	[140, 131, 109, 255]
+			}, {
+				"Color:dddd":	[107, 99, 86, 255]
+			}, {
+				"Color:dddd":	[95, 88, 75, 255]
+			}, {
+				"Color:dddd":	[98, 94, 75, 255]
+			}, {
+				"Color:dddd":	[130, 122, 96, 255]
+			}, {
+				"Color:dddd":	[83, 80, 67, 255]
+			}, {
+				"Color:dddd":	[56, 55, 48, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[56, 55, 48, 255]
+			}, {
+				"Color:dddd":	[43, 43, 39, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[39, 38, 36, 255]
+			}, {
+				"Color:dddd":	[95, 88, 75, 255]
+			}, {
+				"Color:dddd":	[73, 68, 60, 255]
+			}, {
+				"Color:dddd":	[91, 87, 75, 255]
+			}, {
+				"Color:dddd":	[107, 99, 86, 255]
+			}, {
+				"Color:dddd":	[39, 39, 36, 255]
+			}, {
+				"Color:dddd":	[83, 80, 67, 255]
+			}, {
+				"Color:dddd":	[73, 68, 60, 255]
+			}, {
+				"Color:dddd":	[43, 43, 39, 255]
+			}, {
+				"Color:dddd":	[56, 55, 48, 255]
+			}, {
+				"Color:dddd":	[107, 99, 86, 255]
+			}, {
+				"Color:dddd":	[91, 87, 75, 255]
+			}, {
+				"Color:dddd":	[95, 88, 75, 255]
+			}, {
+				"Color:dddd":	[135, 126, 107, 255]
+			}, {
+				"Color:dddd":	[89, 81, 70, 255]
+			}, {
+				"Color:dddd":	[127, 116, 93, 255]
+			}, {
+				"Color:dddd":	[172, 163, 136, 255]
+			}, {
+				"Color:dddd":	[91, 88, 76, 255]
+			}, {
+				"Color:dddd":	[49, 48, 43, 255]
+			}, {
+				"Color:dddd":	[48, 46, 41, 255]
+			}, {
+				"Color:dddd":	[55, 54, 46, 255]
+			}, {
+				"Color:dddd":	[98, 94, 75, 255]
+			}, {
+				"Color:dddd":	[140, 131, 109, 255]
+			}, {
+				"Color:dddd":	[131, 121, 96, 255]
+			}]
+	}, {
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD58848F_37B03400",
+				"Name:s":	"PS_block_PZL_gearroom02",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"block_pzl_gearroom_block_pzl_gearroom02.rgeom",
+				"Pos:fff":	[0, 0, 0],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[13779, -1.0004329681396484, -3021.00146484375, 13981, 200.99960327148437, -2919.00048828125],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	14761,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[13779, -1.0004329681396484, -3021.00146484375, 13981, 200.99960327148437, -2919.00048828125],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"PS_block_PZL_gearroom02",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	205,
+		"rows":	[{
+				"Color:dddd":	[154, 143, 108, 255]
+			}, {
+				"Color:dddd":	[143, 133, 103, 255]
+			}, {
+				"Color:dddd":	[66, 63, 52, 255]
+			}, {
+				"Color:dddd":	[82, 77, 61, 255]
+			}, {
+				"Color:dddd":	[155, 144, 112, 255]
+			}, {
+				"Color:dddd":	[75, 73, 60, 255]
+			}, {
+				"Color:dddd":	[83, 78, 62, 255]
+			}, {
+				"Color:dddd":	[157, 147, 110, 255]
+			}, {
+				"Color:dddd":	[152, 142, 109, 255]
+			}, {
+				"Color:dddd":	[156, 146, 118, 255]
+			}, {
+				"Color:dddd":	[161, 149, 114, 255]
+			}, {
+				"Color:dddd":	[60, 59, 53, 255]
+			}, {
+				"Color:dddd":	[60, 58, 50, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[77, 73, 60, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[60, 58, 50, 255]
+			}, {
+				"Color:dddd":	[152, 142, 109, 255]
+			}, {
+				"Color:dddd":	[140, 131, 109, 255]
+			}, {
+				"Color:dddd":	[132, 121, 96, 255]
+			}, {
+				"Color:dddd":	[162, 151, 113, 255]
+			}, {
+				"Color:dddd":	[107, 101, 80, 255]
+			}, {
+				"Color:dddd":	[76, 74, 65, 255]
+			}, {
+				"Color:dddd":	[132, 127, 106, 255]
+			}, {
+				"Color:dddd":	[117, 109, 83, 255]
+			}, {
+				"Color:dddd":	[55, 54, 46, 255]
+			}, {
+				"Color:dddd":	[48, 46, 41, 255]
+			}, {
+				"Color:dddd":	[52, 50, 44, 255]
+			}, {
+				"Color:dddd":	[113, 106, 81, 255]
+			}, {
+				"Color:dddd":	[111, 105, 82, 255]
+			}, {
+				"Color:dddd":	[91, 88, 76, 255]
+			}, {
+				"Color:dddd":	[86, 82, 68, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[144, 135, 105, 255]
+			}, {
+				"Color:dddd":	[159, 148, 111, 255]
+			}, {
+				"Color:dddd":	[127, 116, 93, 255]
+			}, {
+				"Color:dddd":	[171, 162, 135, 255]
+			}, {
+				"Color:dddd":	[142, 134, 106, 255]
+			}, {
+				"Color:dddd":	[185, 178, 148, 255]
+			}, {
+				"Color:dddd":	[98, 94, 75, 255]
+			}, {
+				"Color:dddd":	[162, 151, 113, 255]
+			}, {
+				"Color:dddd":	[141, 133, 105, 255]
+			}, {
+				"Color:dddd":	[175, 165, 136, 255]
+			}, {
+				"Color:dddd":	[145, 140, 117, 255]
+			}, {
+				"Color:dddd":	[141, 133, 105, 255]
+			}, {
+				"Color:dddd":	[77, 73, 60, 255]
+			}, {
+				"Color:dddd":	[58, 57, 51, 255]
+			}, {
+				"Color:dddd":	[121, 117, 97, 255]
+			}, {
+				"Color:dddd":	[152, 142, 109, 255]
+			}, {
+				"Color:dddd":	[35, 35, 33, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[86, 82, 68, 255]
+			}, {
+				"Color:dddd":	[185, 178, 148, 255]
+			}, {
+				"Color:dddd":	[142, 134, 106, 255]
+			}, {
+				"Color:dddd":	[156, 146, 118, 255]
+			}, {
+				"Color:dddd":	[133, 125, 98, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[145, 140, 117, 255]
+			}, {
+				"Color:dddd":	[130, 122, 96, 255]
+			}, {
+				"Color:dddd":	[130, 122, 96, 255]
+			}, {
+				"Color:dddd":	[121, 117, 97, 255]
+			}, {
+				"Color:dddd":	[58, 57, 51, 255]
+			}, {
+				"Color:dddd":	[66, 64, 57, 255]
+			}, {
+				"Color:dddd":	[91, 88, 76, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[116, 111, 94, 255]
+			}, {
+				"Color:dddd":	[89, 81, 70, 255]
+			}, {
+				"Color:dddd":	[79, 75, 64, 255]
+			}, {
+				"Color:dddd":	[144, 135, 105, 255]
+			}, {
+				"Color:dddd":	[127, 116, 93, 255]
+			}, {
+				"Color:dddd":	[181, 173, 144, 255]
+			}, {
+				"Color:dddd":	[135, 127, 107, 255]
+			}, {
+				"Color:dddd":	[171, 162, 135, 255]
+			}, {
+				"Color:dddd":	[185, 178, 148, 255]
+			}, {
+				"Color:dddd":	[52, 50, 44, 255]
+			}, {
+				"Color:dddd":	[111, 105, 82, 255]
+			}, {
+				"Color:dddd":	[50, 50, 44, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[49, 48, 43, 255]
+			}, {
+				"Color:dddd":	[39, 39, 36, 255]
+			}, {
+				"Color:dddd":	[100, 94, 81, 255]
+			}, {
+				"Color:dddd":	[84, 80, 70, 255]
+			}, {
+				"Color:dddd":	[67, 64, 56, 255]
+			}, {
+				"Color:dddd":	[86, 81, 69, 255]
+			}, {
+				"Color:dddd":	[69, 64, 57, 255]
+			}, {
+				"Color:dddd":	[41, 40, 37, 255]
+			}, {
+				"Color:dddd":	[76, 74, 62, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[66, 64, 57, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[102, 99, 85, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[76, 74, 62, 255]
+			}, {
+				"Color:dddd":	[49, 48, 43, 255]
+			}, {
+				"Color:dddd":	[75, 73, 60, 255]
+			}, {
+				"Color:dddd":	[133, 125, 98, 255]
+			}, {
+				"Color:dddd":	[91, 88, 76, 255]
+			}, {
+				"Color:dddd":	[102, 99, 85, 255]
+			}, {
+				"Color:dddd":	[117, 112, 95, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[35, 35, 33, 255]
+			}, {
+				"Color:dddd":	[156, 146, 118, 255]
+			}, {
+				"Color:dddd":	[161, 149, 114, 255]
+			}, {
+				"Color:dddd":	[86, 81, 69, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[39, 39, 36, 255]
+			}, {
+				"Color:dddd":	[132, 127, 106, 255]
+			}, {
+				"Color:dddd":	[76, 74, 65, 255]
+			}, {
+				"Color:dddd":	[83, 81, 70, 255]
+			}, {
+				"Color:dddd":	[130, 124, 105, 255]
+			}, {
+				"Color:dddd":	[132, 121, 96, 255]
+			}, {
+				"Color:dddd":	[140, 131, 109, 255]
+			}, {
+				"Color:dddd":	[108, 100, 86, 255]
+			}, {
+				"Color:dddd":	[95, 88, 75, 255]
+			}, {
+				"Color:dddd":	[98, 94, 75, 255]
+			}, {
+				"Color:dddd":	[130, 122, 96, 255]
+			}, {
+				"Color:dddd":	[83, 80, 67, 255]
+			}, {
+				"Color:dddd":	[56, 55, 48, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[56, 55, 48, 255]
+			}, {
+				"Color:dddd":	[43, 43, 39, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[39, 38, 36, 255]
+			}, {
+				"Color:dddd":	[95, 88, 75, 255]
+			}, {
+				"Color:dddd":	[73, 68, 60, 255]
+			}, {
+				"Color:dddd":	[91, 87, 76, 255]
+			}, {
+				"Color:dddd":	[108, 100, 86, 255]
+			}, {
+				"Color:dddd":	[135, 127, 107, 255]
+			}, {
+				"Color:dddd":	[117, 112, 95, 255]
+			}, {
+				"Color:dddd":	[69, 64, 57, 255]
+			}, {
+				"Color:dddd":	[49, 48, 43, 255]
+			}, {
+				"Color:dddd":	[66, 64, 57, 255]
+			}, {
+				"Color:dddd":	[83, 80, 67, 255]
+			}, {
+				"Color:dddd":	[73, 68, 60, 255]
+			}, {
+				"Color:dddd":	[43, 43, 39, 255]
+			}, {
+				"Color:dddd":	[56, 55, 48, 255]
+			}, {
+				"Color:dddd":	[108, 100, 86, 255]
+			}, {
+				"Color:dddd":	[91, 87, 76, 255]
+			}, {
+				"Color:dddd":	[95, 88, 75, 255]
+			}, {
+				"Color:dddd":	[181, 173, 144, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[135, 127, 107, 255]
+			}, {
+				"Color:dddd":	[89, 81, 70, 255]
+			}, {
+				"Color:dddd":	[127, 116, 93, 255]
+			}, {
+				"Color:dddd":	[48, 46, 41, 255]
+			}, {
+				"Color:dddd":	[55, 54, 46, 255]
+			}, {
+				"Color:dddd":	[98, 94, 75, 255]
+			}, {
+				"Color:dddd":	[140, 131, 109, 255]
+			}, {
+				"Color:dddd":	[132, 121, 96, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[145, 140, 117, 255]
+			}, {
+				"Color:dddd":	[60, 59, 53, 255]
+			}, {
+				"Color:dddd":	[72, 70, 62, 255]
+			}, {
+				"Color:dddd":	[150, 144, 121, 255]
+			}, {
+				"Color:dddd":	[155, 144, 112, 255]
+			}, {
+				"Color:dddd":	[175, 165, 136, 255]
+			}, {
+				"Color:dddd":	[132, 124, 105, 255]
+			}, {
+				"Color:dddd":	[82, 76, 65, 255]
+			}, {
+				"Color:dddd":	[66, 63, 52, 255]
+			}, {
+				"Color:dddd":	[143, 133, 103, 255]
+			}, {
+				"Color:dddd":	[71, 68, 58, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[72, 70, 62, 255]
+			}, {
+				"Color:dddd":	[82, 76, 65, 255]
+			}, {
+				"Color:dddd":	[63, 59, 53, 255]
+			}, {
+				"Color:dddd":	[102, 98, 84, 255]
+			}, {
+				"Color:dddd":	[132, 124, 105, 255]
+			}, {
+				"Color:dddd":	[150, 144, 121, 255]
+			}, {
+				"Color:dddd":	[171, 162, 135, 255]
+			}, {
+				"Color:dddd":	[89, 81, 70, 255]
+			}, {
+				"Color:dddd":	[63, 59, 53, 255]
+			}, {
+				"Color:dddd":	[82, 76, 65, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[102, 98, 84, 255]
+			}, {
+				"Color:dddd":	[60, 59, 53, 255]
+			}, {
+				"Color:dddd":	[155, 144, 112, 255]
+			}, {
+				"Color:dddd":	[132, 124, 105, 255]
+			}, {
+				"Color:dddd":	[175, 165, 136, 255]
+			}, {
+				"Color:dddd":	[142, 134, 106, 255]
+			}, {
+				"Color:dddd":	[159, 148, 111, 255]
+			}, {
+				"Color:dddd":	[113, 106, 81, 255]
+			}, {
+				"Color:dddd":	[86, 82, 68, 255]
+			}, {
+				"Color:dddd":	[82, 77, 61, 255]
+			}, {
+				"Color:dddd":	[60, 58, 50, 255]
+			}, {
+				"Color:dddd":	[141, 133, 105, 255]
+			}, {
+				"Color:dddd":	[152, 142, 109, 255]
+			}, {
+				"Color:dddd":	[157, 147, 110, 255]
+			}, {
+				"Color:dddd":	[83, 78, 62, 255]
+			}, {
+				"Color:dddd":	[77, 73, 60, 255]
+			}, {
+				"Color:dddd":	[152, 142, 109, 255]
+			}, {
+				"Color:dddd":	[162, 151, 113, 255]
+			}, {
+				"Color:dddd":	[117, 109, 83, 255]
+			}, {
+				"Color:dddd":	[107, 101, 80, 255]
+			}, {
+				"Color:dddd":	[154, 143, 108, 255]
+			}]
+	}, {
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD58848F_37B09800",
+				"Name:s":	"PS_block_PZL_treasury01",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"block_pzl_treasury_block_pzl_treasury01.rgeom",
+				"Pos:fff":	[0, 0, 0],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[14019, -0.99992799758911133, -3021.0009765625, 14221, 201.00007629394531, -2919.00048828125],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	14761,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[14019, -0.99992799758911133, -3021.0009765625, 14221, 201.00007629394531, -2919.00048828125],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"PS_block_PZL_treasury01",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	141,
+		"rows":	[{
+				"Color:dddd":	[126, 121, 94, 255]
+			}, {
+				"Color:dddd":	[81, 78, 63, 255]
+			}, {
+				"Color:dddd":	[111, 104, 80, 255]
+			}, {
+				"Color:dddd":	[160, 148, 113, 255]
+			}, {
+				"Color:dddd":	[139, 131, 103, 255]
+			}, {
+				"Color:dddd":	[105, 102, 82, 255]
+			}, {
+				"Color:dddd":	[142, 133, 101, 255]
+			}, {
+				"Color:dddd":	[141, 133, 102, 255]
+			}, {
+				"Color:dddd":	[169, 157, 119, 255]
+			}, {
+				"Color:dddd":	[137, 126, 101, 255]
+			}, {
+				"Color:dddd":	[129, 127, 105, 255]
+			}, {
+				"Color:dddd":	[100, 95, 75, 255]
+			}, {
+				"Color:dddd":	[115, 116, 94, 255]
+			}, {
+				"Color:dddd":	[71, 70, 59, 255]
+			}, {
+				"Color:dddd":	[117, 110, 84, 255]
+			}, {
+				"Color:dddd":	[45, 44, 39, 255]
+			}, {
+				"Color:dddd":	[59, 57, 49, 255]
+			}, {
+				"Color:dddd":	[34, 34, 33, 255]
+			}, {
+				"Color:dddd":	[82, 78, 66, 255]
+			}, {
+				"Color:dddd":	[83, 78, 62, 255]
+			}, {
+				"Color:dddd":	[144, 135, 109, 255]
+			}, {
+				"Color:dddd":	[107, 102, 82, 255]
+			}, {
+				"Color:dddd":	[142, 133, 101, 255]
+			}, {
+				"Color:dddd":	[74, 70, 58, 255]
+			}, {
+				"Color:dddd":	[53, 51, 45, 255]
+			}, {
+				"Color:dddd":	[116, 109, 86, 255]
+			}, {
+				"Color:dddd":	[85, 84, 69, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[81, 78, 63, 255]
+			}, {
+				"Color:dddd":	[152, 141, 111, 255]
+			}, {
+				"Color:dddd":	[131, 123, 101, 255]
+			}, {
+				"Color:dddd":	[149, 149, 121, 255]
+			}, {
+				"Color:dddd":	[159, 159, 126, 255]
+			}, {
+				"Color:dddd":	[126, 121, 94, 255]
+			}, {
+				"Color:dddd":	[163, 152, 115, 255]
+			}, {
+				"Color:dddd":	[167, 154, 119, 255]
+			}, {
+				"Color:dddd":	[139, 131, 103, 255]
+			}, {
+				"Color:dddd":	[74, 70, 58, 255]
+			}, {
+				"Color:dddd":	[56, 56, 49, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[159, 159, 126, 255]
+			}, {
+				"Color:dddd":	[145, 135, 108, 255]
+			}, {
+				"Color:dddd":	[169, 157, 119, 255]
+			}, {
+				"Color:dddd":	[144, 135, 109, 255]
+			}, {
+				"Color:dddd":	[53, 51, 45, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[52, 51, 47, 255]
+			}, {
+				"Color:dddd":	[85, 84, 69, 255]
+			}, {
+				"Color:dddd":	[95, 95, 78, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[149, 149, 121, 255]
+			}, {
+				"Color:dddd":	[126, 127, 107, 255]
+			}, {
+				"Color:dddd":	[159, 161, 129, 255]
+			}, {
+				"Color:dddd":	[84, 79, 69, 255]
+			}, {
+				"Color:dddd":	[42, 41, 39, 255]
+			}, {
+				"Color:dddd":	[159, 159, 126, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[39, 39, 37, 255]
+			}, {
+				"Color:dddd":	[50, 49, 45, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[63, 62, 53, 255]
+			}, {
+				"Color:dddd":	[83, 79, 69, 255]
+			}, {
+				"Color:dddd":	[71, 66, 59, 255]
+			}, {
+				"Color:dddd":	[92, 86, 75, 255]
+			}, {
+				"Color:dddd":	[76, 74, 62, 255]
+			}, {
+				"Color:dddd":	[103, 100, 82, 255]
+			}, {
+				"Color:dddd":	[91, 86, 72, 255]
+			}, {
+				"Color:dddd":	[116, 109, 86, 255]
+			}, {
+				"Color:dddd":	[96, 92, 82, 255]
+			}, {
+				"Color:dddd":	[131, 123, 101, 255]
+			}, {
+				"Color:dddd":	[152, 141, 111, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[83, 79, 69, 255]
+			}, {
+				"Color:dddd":	[145, 135, 108, 255]
+			}, {
+				"Color:dddd":	[82, 78, 66, 255]
+			}, {
+				"Color:dddd":	[63, 62, 53, 255]
+			}, {
+				"Color:dddd":	[105, 102, 82, 255]
+			}, {
+				"Color:dddd":	[63, 62, 53, 255]
+			}, {
+				"Color:dddd":	[108, 111, 92, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[95, 95, 78, 255]
+			}, {
+				"Color:dddd":	[75, 73, 66, 255]
+			}, {
+				"Color:dddd":	[108, 111, 92, 255]
+			}, {
+				"Color:dddd":	[126, 127, 107, 255]
+			}, {
+				"Color:dddd":	[96, 92, 82, 255]
+			}, {
+				"Color:dddd":	[56, 56, 49, 255]
+			}, {
+				"Color:dddd":	[75, 73, 66, 255]
+			}, {
+				"Color:dddd":	[50, 49, 45, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[34, 34, 33, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[139, 131, 103, 255]
+			}, {
+				"Color:dddd":	[92, 86, 75, 255]
+			}, {
+				"Color:dddd":	[167, 154, 119, 255]
+			}, {
+				"Color:dddd":	[159, 161, 129, 255]
+			}, {
+				"Color:dddd":	[115, 116, 94, 255]
+			}, {
+				"Color:dddd":	[120, 123, 102, 255]
+			}, {
+				"Color:dddd":	[77, 76, 63, 255]
+			}, {
+				"Color:dddd":	[71, 70, 59, 255]
+			}, {
+				"Color:dddd":	[137, 126, 101, 255]
+			}, {
+				"Color:dddd":	[105, 99, 87, 255]
+			}, {
+				"Color:dddd":	[106, 106, 92, 255]
+			}, {
+				"Color:dddd":	[129, 127, 105, 255]
+			}, {
+				"Color:dddd":	[107, 102, 82, 255]
+			}, {
+				"Color:dddd":	[59, 57, 52, 255]
+			}, {
+				"Color:dddd":	[92, 88, 76, 255]
+			}, {
+				"Color:dddd":	[144, 135, 109, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[44, 44, 41, 255]
+			}, {
+				"Color:dddd":	[59, 57, 52, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[40, 39, 37, 255]
+			}, {
+				"Color:dddd":	[77, 71, 63, 255]
+			}, {
+				"Color:dddd":	[105, 99, 87, 255]
+			}, {
+				"Color:dddd":	[88, 90, 78, 255]
+			}, {
+				"Color:dddd":	[106, 106, 92, 255]
+			}, {
+				"Color:dddd":	[50, 49, 45, 255]
+			}, {
+				"Color:dddd":	[39, 39, 37, 255]
+			}, {
+				"Color:dddd":	[92, 88, 76, 255]
+			}, {
+				"Color:dddd":	[59, 57, 52, 255]
+			}, {
+				"Color:dddd":	[44, 44, 41, 255]
+			}, {
+				"Color:dddd":	[77, 71, 63, 255]
+			}, {
+				"Color:dddd":	[106, 106, 92, 255]
+			}, {
+				"Color:dddd":	[105, 99, 87, 255]
+			}, {
+				"Color:dddd":	[88, 90, 78, 255]
+			}, {
+				"Color:dddd":	[126, 127, 107, 255]
+			}, {
+				"Color:dddd":	[149, 149, 121, 255]
+			}, {
+				"Color:dddd":	[131, 123, 101, 255]
+			}, {
+				"Color:dddd":	[96, 92, 82, 255]
+			}, {
+				"Color:dddd":	[85, 84, 69, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[45, 44, 39, 255]
+			}, {
+				"Color:dddd":	[107, 102, 82, 255]
+			}, {
+				"Color:dddd":	[59, 57, 49, 255]
+			}, {
+				"Color:dddd":	[129, 127, 105, 255]
+			}, {
+				"Color:dddd":	[137, 126, 101, 255]
+			}]
+	}, {
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD58848F_37B0F000",
+				"Name:s":	"PS_block_PZL_treasury02",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"block_pzl_treasury_block_pzl_treasury02.rgeom",
+				"Pos:fff":	[0, 0, 0],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[14019, -0.999943971633911, -3021.0009765625, 14221, 201.00007629394531, -2919.00048828125],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	14761,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[14019, -0.999943971633911, -3021.0009765625, 14221, 201.00007629394531, -2919.00048828125],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"PS_block_PZL_treasury02",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	205,
+		"rows":	[{
+				"Color:dddd":	[154, 143, 109, 255]
+			}, {
+				"Color:dddd":	[82, 77, 62, 255]
+			}, {
+				"Color:dddd":	[91, 87, 70, 255]
+			}, {
+				"Color:dddd":	[149, 138, 109, 255]
+			}, {
+				"Color:dddd":	[151, 140, 109, 255]
+			}, {
+				"Color:dddd":	[82, 78, 66, 255]
+			}, {
+				"Color:dddd":	[145, 135, 108, 255]
+			}, {
+				"Color:dddd":	[163, 152, 115, 255]
+			}, {
+				"Color:dddd":	[142, 133, 101, 255]
+			}, {
+				"Color:dddd":	[167, 154, 119, 255]
+			}, {
+				"Color:dddd":	[60, 59, 51, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[58, 56, 48, 255]
+			}, {
+				"Color:dddd":	[31, 31, 31, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[34, 34, 33, 255]
+			}, {
+				"Color:dddd":	[83, 78, 62, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[141, 133, 102, 255]
+			}, {
+				"Color:dddd":	[169, 157, 119, 255]
+			}, {
+				"Color:dddd":	[137, 126, 101, 255]
+			}, {
+				"Color:dddd":	[129, 127, 105, 255]
+			}, {
+				"Color:dddd":	[100, 95, 75, 255]
+			}, {
+				"Color:dddd":	[115, 116, 94, 255]
+			}, {
+				"Color:dddd":	[71, 70, 59, 255]
+			}, {
+				"Color:dddd":	[117, 110, 84, 255]
+			}, {
+				"Color:dddd":	[45, 44, 39, 255]
+			}, {
+				"Color:dddd":	[53, 51, 45, 255]
+			}, {
+				"Color:dddd":	[116, 109, 86, 255]
+			}, {
+				"Color:dddd":	[111, 104, 80, 255]
+			}, {
+				"Color:dddd":	[85, 84, 69, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[81, 78, 63, 255]
+			}, {
+				"Color:dddd":	[152, 141, 111, 255]
+			}, {
+				"Color:dddd":	[131, 123, 101, 255]
+			}, {
+				"Color:dddd":	[160, 148, 113, 255]
+			}, {
+				"Color:dddd":	[149, 149, 121, 255]
+			}, {
+				"Color:dddd":	[159, 159, 126, 255]
+			}, {
+				"Color:dddd":	[126, 121, 94, 255]
+			}, {
+				"Color:dddd":	[107, 102, 82, 255]
+			}, {
+				"Color:dddd":	[144, 135, 109, 255]
+			}, {
+				"Color:dddd":	[169, 157, 119, 255]
+			}, {
+				"Color:dddd":	[59, 57, 49, 255]
+			}, {
+				"Color:dddd":	[127, 120, 93, 255]
+			}, {
+				"Color:dddd":	[127, 125, 99, 255]
+			}, {
+				"Color:dddd":	[74, 70, 58, 255]
+			}, {
+				"Color:dddd":	[142, 133, 101, 255]
+			}, {
+				"Color:dddd":	[105, 102, 82, 255]
+			}, {
+				"Color:dddd":	[56, 56, 49, 255]
+			}, {
+				"Color:dddd":	[74, 70, 58, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[81, 78, 63, 255]
+			}, {
+				"Color:dddd":	[159, 159, 126, 255]
+			}, {
+				"Color:dddd":	[126, 121, 94, 255]
+			}, {
+				"Color:dddd":	[139, 131, 103, 255]
+			}, {
+				"Color:dddd":	[58, 56, 48, 255]
+			}, {
+				"Color:dddd":	[139, 131, 103, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[150, 144, 113, 255]
+			}, {
+				"Color:dddd":	[127, 120, 93, 255]
+			}, {
+				"Color:dddd":	[127, 125, 99, 255]
+			}, {
+				"Color:dddd":	[144, 135, 109, 255]
+			}, {
+				"Color:dddd":	[105, 102, 82, 255]
+			}, {
+				"Color:dddd":	[103, 100, 82, 255]
+			}, {
+				"Color:dddd":	[63, 62, 53, 255]
+			}, {
+				"Color:dddd":	[85, 84, 69, 255]
+			}, {
+				"Color:dddd":	[95, 95, 78, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[56, 56, 49, 255]
+			}, {
+				"Color:dddd":	[96, 92, 82, 255]
+			}, {
+				"Color:dddd":	[131, 123, 101, 255]
+			}, {
+				"Color:dddd":	[152, 141, 111, 255]
+			}, {
+				"Color:dddd":	[84, 79, 69, 255]
+			}, {
+				"Color:dddd":	[159, 161, 129, 255]
+			}, {
+				"Color:dddd":	[159, 159, 126, 255]
+			}, {
+				"Color:dddd":	[149, 149, 121, 255]
+			}, {
+				"Color:dddd":	[126, 127, 107, 255]
+			}, {
+				"Color:dddd":	[53, 51, 45, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[52, 51, 47, 255]
+			}, {
+				"Color:dddd":	[116, 109, 86, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[39, 39, 37, 255]
+			}, {
+				"Color:dddd":	[50, 49, 45, 255]
+			}, {
+				"Color:dddd":	[91, 86, 72, 255]
+			}, {
+				"Color:dddd":	[92, 86, 75, 255]
+			}, {
+				"Color:dddd":	[71, 66, 59, 255]
+			}, {
+				"Color:dddd":	[76, 74, 62, 255]
+			}, {
+				"Color:dddd":	[42, 41, 39, 255]
+			}, {
+				"Color:dddd":	[83, 79, 69, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[63, 62, 53, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[83, 79, 69, 255]
+			}, {
+				"Color:dddd":	[145, 135, 108, 255]
+			}, {
+				"Color:dddd":	[82, 78, 66, 255]
+			}, {
+				"Color:dddd":	[50, 49, 45, 255]
+			}, {
+				"Color:dddd":	[95, 95, 78, 255]
+			}, {
+				"Color:dddd":	[108, 111, 92, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[34, 34, 33, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[139, 131, 103, 255]
+			}, {
+				"Color:dddd":	[92, 86, 75, 255]
+			}, {
+				"Color:dddd":	[167, 154, 119, 255]
+			}, {
+				"Color:dddd":	[50, 49, 45, 255]
+			}, {
+				"Color:dddd":	[39, 39, 37, 255]
+			}, {
+				"Color:dddd":	[115, 116, 94, 255]
+			}, {
+				"Color:dddd":	[120, 123, 102, 255]
+			}, {
+				"Color:dddd":	[77, 76, 63, 255]
+			}, {
+				"Color:dddd":	[71, 70, 59, 255]
+			}, {
+				"Color:dddd":	[137, 126, 101, 255]
+			}, {
+				"Color:dddd":	[105, 99, 87, 255]
+			}, {
+				"Color:dddd":	[106, 106, 92, 255]
+			}, {
+				"Color:dddd":	[129, 127, 105, 255]
+			}, {
+				"Color:dddd":	[107, 102, 82, 255]
+			}, {
+				"Color:dddd":	[59, 57, 52, 255]
+			}, {
+				"Color:dddd":	[92, 88, 76, 255]
+			}, {
+				"Color:dddd":	[144, 135, 109, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[44, 44, 41, 255]
+			}, {
+				"Color:dddd":	[59, 57, 52, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[40, 39, 37, 255]
+			}, {
+				"Color:dddd":	[77, 71, 63, 255]
+			}, {
+				"Color:dddd":	[105, 99, 87, 255]
+			}, {
+				"Color:dddd":	[88, 90, 78, 255]
+			}, {
+				"Color:dddd":	[106, 106, 92, 255]
+			}, {
+				"Color:dddd":	[126, 127, 107, 255]
+			}, {
+				"Color:dddd":	[96, 92, 82, 255]
+			}, {
+				"Color:dddd":	[75, 73, 66, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[63, 62, 53, 255]
+			}, {
+				"Color:dddd":	[92, 88, 76, 255]
+			}, {
+				"Color:dddd":	[59, 57, 52, 255]
+			}, {
+				"Color:dddd":	[44, 44, 41, 255]
+			}, {
+				"Color:dddd":	[77, 71, 63, 255]
+			}, {
+				"Color:dddd":	[106, 106, 92, 255]
+			}, {
+				"Color:dddd":	[105, 99, 87, 255]
+			}, {
+				"Color:dddd":	[88, 90, 78, 255]
+			}, {
+				"Color:dddd":	[75, 73, 66, 255]
+			}, {
+				"Color:dddd":	[108, 111, 92, 255]
+			}, {
+				"Color:dddd":	[159, 161, 129, 255]
+			}, {
+				"Color:dddd":	[126, 127, 107, 255]
+			}, {
+				"Color:dddd":	[149, 149, 121, 255]
+			}, {
+				"Color:dddd":	[131, 123, 101, 255]
+			}, {
+				"Color:dddd":	[45, 44, 39, 255]
+			}, {
+				"Color:dddd":	[107, 102, 82, 255]
+			}, {
+				"Color:dddd":	[59, 57, 49, 255]
+			}, {
+				"Color:dddd":	[129, 127, 105, 255]
+			}, {
+				"Color:dddd":	[137, 126, 101, 255]
+			}, {
+				"Color:dddd":	[85, 84, 69, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[31, 31, 31, 255]
+			}, {
+				"Color:dddd":	[127, 125, 99, 255]
+			}, {
+				"Color:dddd":	[137, 138, 112, 255]
+			}, {
+				"Color:dddd":	[70, 69, 58, 255]
+			}, {
+				"Color:dddd":	[60, 59, 51, 255]
+			}, {
+				"Color:dddd":	[151, 140, 109, 255]
+			}, {
+				"Color:dddd":	[86, 79, 69, 255]
+			}, {
+				"Color:dddd":	[123, 124, 103, 255]
+			}, {
+				"Color:dddd":	[150, 144, 113, 255]
+			}, {
+				"Color:dddd":	[91, 87, 70, 255]
+			}, {
+				"Color:dddd":	[47, 46, 43, 255]
+			}, {
+				"Color:dddd":	[75, 71, 63, 255]
+			}, {
+				"Color:dddd":	[149, 138, 109, 255]
+			}, {
+				"Color:dddd":	[38, 38, 36, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[70, 69, 58, 255]
+			}, {
+				"Color:dddd":	[65, 61, 55, 255]
+			}, {
+				"Color:dddd":	[86, 79, 69, 255]
+			}, {
+				"Color:dddd":	[97, 98, 82, 255]
+			}, {
+				"Color:dddd":	[137, 138, 112, 255]
+			}, {
+				"Color:dddd":	[123, 124, 103, 255]
+			}, {
+				"Color:dddd":	[96, 92, 82, 255]
+			}, {
+				"Color:dddd":	[86, 79, 69, 255]
+			}, {
+				"Color:dddd":	[65, 61, 55, 255]
+			}, {
+				"Color:dddd":	[97, 98, 82, 255]
+			}, {
+				"Color:dddd":	[30, 30, 30, 255]
+			}, {
+				"Color:dddd":	[60, 59, 51, 255]
+			}, {
+				"Color:dddd":	[151, 140, 109, 255]
+			}, {
+				"Color:dddd":	[150, 144, 113, 255]
+			}, {
+				"Color:dddd":	[123, 124, 103, 255]
+			}, {
+				"Color:dddd":	[126, 121, 94, 255]
+			}, {
+				"Color:dddd":	[81, 78, 63, 255]
+			}, {
+				"Color:dddd":	[111, 104, 80, 255]
+			}, {
+				"Color:dddd":	[160, 148, 113, 255]
+			}, {
+				"Color:dddd":	[82, 77, 62, 255]
+			}, {
+				"Color:dddd":	[154, 143, 109, 255]
+			}, {
+				"Color:dddd":	[127, 120, 93, 255]
+			}, {
+				"Color:dddd":	[142, 133, 101, 255]
+			}, {
+				"Color:dddd":	[74, 70, 58, 255]
+			}, {
+				"Color:dddd":	[83, 78, 62, 255]
+			}, {
+				"Color:dddd":	[163, 152, 115, 255]
+			}, {
+				"Color:dddd":	[141, 133, 102, 255]
+			}, {
+				"Color:dddd":	[100, 95, 75, 255]
+			}, {
+				"Color:dddd":	[117, 110, 84, 255]
+			}, {
+				"Color:dddd":	[169, 157, 119, 255]
+			}, {
+				"Color:dddd":	[58, 56, 48, 255]
+			}]
+	}, {
+		"name":	"PushBox",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD58810F_274A7401",
+				"SyncVolume:g":	"00000000_00000000",
+				"Radius:f":	50,
+				"PushBoxType:d":	0,
+				"CanFlip:d":	1,
+				"Name:s":	"East Solution Left",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"mainhall_pushblock_g.rgeom",
+				"Pos:fff":	[13836.025390625, 0, -6470.453125],
+				"Ambient:dddd":	[32, 32, 32, 255],
+				"Orient:fff":	[0, -89.9999771118164, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[13785.025390625, -0.87571901082992554, -6521.45361328125, 13887.025390625, 101.12429809570312, -6419.45361328125],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	0,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	12705,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, -89.9999771118164, 0],
+				"LocalBoundingBox:ffffff":	[-51, -0.87571901082992554, -51.00048828125, 51, 101.12429809570312, 50.99951171875],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"East Solution Left",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"PushBox",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD58810F_274B5801",
+				"SyncVolume:g":	"00000000_00000000",
+				"Radius:f":	50,
+				"PushBoxType:d":	0,
+				"CanFlip:d":	1,
+				"Name:s":	"East Solution Right",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"mainhall_pushblock_b.rgeom",
+				"Pos:fff":	[14147.2041015625, 0, -6458.83984375],
+				"Ambient:dddd":	[32, 32, 32, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[14096.203125, -0.875773012638092, -6509.84033203125, 14198.203125, 101.124267578125, -6407.84033203125],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	0,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	12705,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-51.0009765625, -0.875773012638092, -51.00048828125, 50.9990234375, 101.124267578125, 50.99951171875],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"East Solution Right",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"PushBox",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD58810F_27487001",
+				"SyncVolume:g":	"00000000_00000000",
+				"Radius:f":	50,
+				"PushBoxType:d":	0,
+				"CanFlip:d":	1,
+				"Name:s":	"West Solution Left",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"mainhall_pushblock_k.rgeom",
+				"Pos:fff":	[13859.541015625, -0.00073199998587369919, -3668.610107421875],
+				"Ambient:dddd":	[32, 32, 32, 255],
+				"Orient:fff":	[0, -89.9999771118164, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[13808.541015625, -0.87647402286529541, -3719.609619140625, 13910.541015625, 101.12354278564453, -3617.609619140625],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	0,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	12705,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, -89.9999771118164, 0],
+				"LocalBoundingBox:ffffff":	[-51, -0.875742018222809, -50.99951171875, 51, 101.12427520751953, 51.00048828125],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"West Solution Left",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"PushBox",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD58810F_2748E001",
+				"SyncVolume:g":	"00000000_00000000",
+				"Radius:f":	50,
+				"PushBoxType:d":	0,
+				"CanFlip:d":	1,
+				"Name:s":	"West Solution Right",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"mainhall_pushblock_l.rgeom",
+				"Pos:fff":	[14315.751953125, -0.00073199998587369919, -3667.539794921875],
+				"Ambient:dddd":	[32, 32, 32, 255],
+				"Orient:fff":	[0, 89.9999771118164, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[14264.751953125, -0.87646597623825073, -3718.539306640625, 14366.751953125, 101.12353515625, -3616.539306640625],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	0,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	12705,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 89.9999771118164, 0],
+				"LocalBoundingBox:ffffff":	[-51, -0.875733971595764, -50.99951171875, 51, 101.124267578125, 51.00048828125],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"West Solution Right",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD5888CF_36DD9C00",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	0,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	1,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	0,
+				"MaxItems:d":	0,
+				"nActivators:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"trigger_pushboxwestleft.xsc",
+				"InitialPos:fff":	[14165.09765625, 44.327957153320313, -2884.490234375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-35.499996185302734, -34.5, -50, 35.499996185302734, 34.5, 50],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"AA Hall Door Trigger 001",
+				"Name:s":	"AA Hall Door Trigger 001",
+				"Pos:fff":	[14165.09765625, 44.327957153320313, -2884.490234375],
+				"BBox:ffffff":	[14129.59765625, 9.82795715332031, -2934.490234375, 14200.59765625, 78.8279571533203, -2834.490234375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[35.499996185302734, 34.5, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD5888CF_36E00801",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	0,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	1,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	0,
+				"MaxItems:d":	0,
+				"nActivators:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"trigger_pushboxwestright.xsc",
+				"InitialPos:fff":	[13828.90625, 44.327964782714844, -2884.1240234375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-35.499996185302734, -34.5, -50, 35.499996185302734, 34.5, 50],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"AA Hall Door Trigger 002",
+				"Name:s":	"AA Hall Door Trigger 002",
+				"Pos:fff":	[13828.90625, 44.327964782714844, -2884.1240234375],
+				"BBox:ffffff":	[13793.40625, 9.8279647827148437, -2934.1240234375, 13864.40625, 78.827964782714844, -2834.1240234375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[35.499996185302734, 34.5, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD5888CF_36E26002",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	0,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	1,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	0,
+				"MaxItems:d":	0,
+				"nActivators:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"trigger_pushboxeastright.xsc",
+				"InitialPos:fff":	[14170.8828125, 38.982940673828125, -7116.47314453125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-35.499996185302734, -34.5, -50, 35.499996185302734, 34.5, 50],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"AA Hall Door Trigger 003",
+				"Name:s":	"AA Hall Door Trigger 003",
+				"Pos:fff":	[14170.8828125, 38.982940673828125, -7116.47314453125],
+				"BBox:ffffff":	[14135.3828125, 4.482940673828125, -7166.47314453125, 14206.3828125, 73.482940673828125, -7066.47314453125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[35.499996185302734, 34.5, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD5888CF_36E26004",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	0,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	1,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	0,
+				"MaxItems:d":	0,
+				"nActivators:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"trigger_pushboxeastleft.xsc",
+				"InitialPos:fff":	[13834.69140625, 38.982940673828125, -7116.47314453125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-35.499996185302734, -34.5, -50, 35.499996185302734, 34.5, 50],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"AA Hall Door Trigger 004",
+				"Name:s":	"AA Hall Door Trigger 004",
+				"Pos:fff":	[13834.69140625, 38.982940673828125, -7116.47314453125],
+				"BBox:ffffff":	[13799.19140625, 4.482940673828125, -7166.47314453125, 13870.19140625, 73.482940673828125, -7066.47314453125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[35.499996185302734, 34.5, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}]

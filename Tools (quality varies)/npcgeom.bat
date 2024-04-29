@@ -1,0 +1,1 @@
+for %I in (*.npcgeom) do rgeom2obj %I %~nI.obj 

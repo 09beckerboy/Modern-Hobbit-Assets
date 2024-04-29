@@ -1,0 +1,238 @@
+[{
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"99118A4F_A1094801",
+				"Name:s":	"Inst_Htown_Chimney003",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_htown_chimney.rgeom",
+				"Pos:fff":	[1659.742919921875, -1530.32763671875, -4078.695068359375],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, -179.10000610351562, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[1616.0728759765625, -1533.82763671875, -4122.365234375, 1703.4129638671875, -1426.82763671875, -4035.025146484375],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	10664,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, -179.10000610351562, 0],
+				"LocalBoundingBox:ffffff":	[-43.6700439453125, -3.5, -43.670166015625, 43.6700439453125, 103.5, 43.669921875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Inst_Htown_Chimney003",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Stone"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	28,
+		"rows":	[{
+				"Color:dddd":	[40, 30, 43, 255]
+			}, {
+				"Color:dddd":	[64, 50, 69, 255]
+			}, {
+				"Color:dddd":	[255, 255, 243, 255]
+			}, {
+				"Color:dddd":	[74, 63, 68, 255]
+			}, {
+				"Color:dddd":	[91, 76, 93, 255]
+			}, {
+				"Color:dddd":	[255, 255, 239, 255]
+			}, {
+				"Color:dddd":	[190, 172, 170, 255]
+			}, {
+				"Color:dddd":	[93, 74, 103, 255]
+			}, {
+				"Color:dddd":	[146, 131, 132, 255]
+			}, {
+				"Color:dddd":	[108, 86, 119, 255]
+			}, {
+				"Color:dddd":	[36, 27, 38, 255]
+			}, {
+				"Color:dddd":	[59, 46, 64, 255]
+			}, {
+				"Color:dddd":	[145, 129, 130, 255]
+			}, {
+				"Color:dddd":	[44, 34, 47, 255]
+			}, {
+				"Color:dddd":	[255, 251, 228, 255]
+			}, {
+				"Color:dddd":	[93, 74, 103, 255]
+			}, {
+				"Color:dddd":	[172, 155, 152, 255]
+			}, {
+				"Color:dddd":	[64, 50, 69, 255]
+			}, {
+				"Color:dddd":	[51, 39, 54, 255]
+			}, {
+				"Color:dddd":	[51, 39, 54, 255]
+			}, {
+				"Color:dddd":	[108, 87, 119, 255]
+			}, {
+				"Color:dddd":	[63, 50, 69, 255]
+			}, {
+				"Color:dddd":	[89, 71, 98, 255]
+			}, {
+				"Color:dddd":	[255, 255, 255, 255]
+			}, {
+				"Color:dddd":	[255, 255, 243, 255]
+			}, {
+				"Color:dddd":	[39, 30, 40, 255]
+			}, {
+				"Color:dddd":	[255, 255, 255, 255]
+			}, {
+				"Color:dddd":	[36, 27, 38, 255]
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDD8E_6EB33800",
+				"CreatureType:s":	"Hobbit",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"hobbit_oldmale_bind_geom.npcgeom",
+				"Name:s":	"Hobbit_Gadling",
+				"Team:d":	0,
+				"Position:fff":	[2712.84423828125, -1408.12353515625, -3538.67138671875],
+				"Rotation:fff":	[0, -33.300018310546875, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"NONE",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	30,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00080007_00050038",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	1,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"NONE",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"CA3DD60F_31370000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	50,
+				"EvadePercent:d":	50,
+				"ShovePercent:d":	50,
+				"StrafePercent:d":	50,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"IdleLeashRadius:f":	0,
+				"IdleAnimDelay:f":	3,
+				"WanderDelay:f":	5,
+				"PatrolCount:d":	0,
+				"IdleGoalListName:s":	"",
+				"AlertDuration1:f":	5,
+				"AlertDuration2:f":	5,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	3,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	350,
+				"MinJumpAttackRadius:f":	200,
+				"AttackGoalListName:s":	"",
+				"GoalListCount:d":	0,
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	2000,
+				"HearingRange:f":	3000,
+				"LoudHearingRange:f":	5000,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[2712.84423828125, -1408.12353515625, -3538.67138671875],
+				"Orientation:fff":	[0, -33.300018310546875, 0],
+				"LocalBoundingBox:ffffff":	[-25, 0, -25, 25, 100, 25],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Hobbit_Gadling"
+			}]
+	}, {
+		"name":	"FXObject",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD50F_BB968001",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[1654.0943603515625, -1409.2718505859375, -4079.882568359375],
+				"Orientation:fff":	[0, -83.250015258789063, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Bag_Shot_Smoke003",
+				"Name:s":	"Bag_Shot_Smoke003",
+				"Pos:fff":	[1654.0943603515625, -1409.2718505859375, -4079.882568359375],
+				"Orient:fff":	[0, -83.250015258789063, 0],
+				"Scale:fff":	[0.20000000298023224, 1, 1],
+				"PlaybackRate:f":	0.20000000298023224,
+				"FXResource:s":	"smoke",
+				"StartOnInit:d":	1,
+				"Color:dddd":	[255, 255, 255, 100],
+				"HostObject:g":	"00000000_00000000",
+				"HostPartName:s":	""
+			}]
+	}]

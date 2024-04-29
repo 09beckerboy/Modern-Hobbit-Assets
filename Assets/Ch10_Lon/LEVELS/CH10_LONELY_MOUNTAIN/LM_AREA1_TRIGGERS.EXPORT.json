@@ -1,0 +1,255 @@
+[{
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD58804F_3BB1FC01",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	0,
+				"UsesBButton:d":	1,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	0,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	0,
+				"nActivators:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"overlaytrigger_durin.xsc",
+				"InitialPos:fff":	[15050.3798828125, 48.344512939453125, -2629.731689453125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-64, -50, -64, 64, 50, 64],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Statue Trigger Durin",
+				"Name:s":	"Statue Trigger Durin",
+				"Pos:fff":	[15050.3798828125, 48.344512939453125, -2629.731689453125],
+				"BBox:ffffff":	[14986.3798828125, -1.655487060546875, -2693.731689453125, 15114.3798828125, 98.344512939453125, -2565.731689453125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[64, 50, 64],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD58804F_3BB25401",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	0,
+				"UsesBButton:d":	1,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	0,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	0,
+				"nActivators:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"overlaytrigger_thorin.xsc",
+				"InitialPos:fff":	[12950.7978515625, 48.344512939453125, -2629.2978515625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-66.000007629394531, -50, -66.000007629394531, 66.000007629394531, 50, 66.000007629394531],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Statue Trigger Thorin",
+				"Name:s":	"Statue Trigger Thorin",
+				"Pos:fff":	[12950.7978515625, 48.344512939453125, -2629.2978515625],
+				"BBox:ffffff":	[12884.7978515625, -1.655487060546875, -2695.2978515625, 13016.7978515625, 98.344512939453125, -2563.2978515625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[66.000007629394531, 50, 66.000007629394531],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD58804F_3BB0E801",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	0,
+				"UsesBButton:d":	1,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	0,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	0,
+				"nActivators:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"overlaytrigger_thrain.xsc",
+				"InitialPos:fff":	[15047.4501953125, 48.344390869140625, -7395.54345703125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-71.5, -50, -71.5, 71.5, 50, 71.5],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Statue Trigger Thrain",
+				"Name:s":	"Statue Trigger Thrain",
+				"Pos:fff":	[15047.4501953125, 48.344390869140625, -7395.54345703125],
+				"BBox:ffffff":	[14975.9501953125, -1.655609130859375, -7467.04345703125, 15118.9501953125, 98.344390869140625, -7324.04345703125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[71.5, 50, 71.5],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CD58804F_3BAE4C01",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	0,
+				"UsesBButton:d":	1,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	0,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	0,
+				"nActivators:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"overlaytrigger_thror.xsc",
+				"InitialPos:fff":	[12948.630859375, 48.3447265625, -7392.3193359375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-79.000007629394531, -50, -79.000007629394531, 79.000007629394531, 50, 79.000007629394531],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Statue Trigger Thror",
+				"Name:s":	"Statue Trigger Thror",
+				"Pos:fff":	[12948.630859375, 48.3447265625, -7392.3193359375],
+				"BBox:ffffff":	[12869.630859375, -1.6552734375, -7471.3193359375, 13027.630859375, 98.3447265625, -7313.3193359375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[79.000007629394531, 50, 79.000007629394531],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"AE60008F_32E71400",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	1,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	1,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	1,
+				"nActivators:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"trigger_throne1.xsc",
+				"InitialPos:fff":	[9450.603515625, 368.79611206054687, -5652.24365234375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"ThroneTrigger01",
+				"Name:s":	"ThroneTrigger01",
+				"Pos:fff":	[9450.603515625, 368.79611206054687, -5652.24365234375],
+				"BBox:ffffff":	[9400.603515625, 318.79611206054687, -5702.24365234375, 9500.603515625, 418.79611206054687, -5602.24365234375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"ItemList",
+		"row_count":	1,
+		"rows":	[{
+				"Item:d":	146
+			}]
+	}, {
+		"name":	"ValidItems",
+		"row_count":	1,
+		"rows":	[{
+				"Number:d":	1,
+				"ValidItem0:d":	146
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"AE60008F_32E83C00",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	1,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	1,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	1,
+				"nActivators:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"trigger_throne2.xsc",
+				"InitialPos:fff":	[9451.7890625, 365.877197265625, -4379.28466796875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"ThroneTrigger02",
+				"Name:s":	"ThroneTrigger02",
+				"Pos:fff":	[9451.7890625, 365.877197265625, -4379.28466796875],
+				"BBox:ffffff":	[9401.7890625, 315.877197265625, -4429.28466796875, 9501.7890625, 415.877197265625, -4329.28466796875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"ItemList",
+		"row_count":	1,
+		"rows":	[{
+				"Item:d":	147
+			}]
+	}, {
+		"name":	"ValidItems",
+		"row_count":	1,
+		"rows":	[{
+				"Number:d":	1,
+				"ValidItem0:d":	147
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}]

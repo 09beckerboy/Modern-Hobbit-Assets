@@ -1,0 +1,1147 @@
+[{
+		"name":	"Cinema",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD8D1_8A00D800",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-1, -1, -1, 1, 1, 1],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Cinema_01_Intro_NEW",
+				"Repeatable:d":	0,
+				"PopAtEnd:d":	1,
+				"Cinematic:d":	1,
+				"Time:f":	0,
+				"Duration:f":	18.767000198364258,
+				"nShots:d":	3,
+				"nSyncPoints:d":	4,
+				"nActions:d":	47,
+				"nParticipants:d":	16,
+				"InitialShot:d":	0,
+				"BilboInvisible:d":	0,
+				"HasIntroTrans:d":	0,
+				"HasOutroTrans:d":	0,
+				"Skippable:d":	1,
+				"IsDeathCinema:d":	0,
+				"ForceNoWeapon:d":	0,
+				"ForceUseStick:d":	0,
+				"ForceUseSting:d":	0,
+				"Letterbox:d":	1,
+				"DisableControl:d":	0,
+				"BypassQueue:d":	0,
+				"LowPriority:d":	0,
+				"SubtitleInBox:d":	0
+			}]
+	}, {
+		"name":	"Shot0",
+		"row_count":	1,
+		"rows":	[{
+				"Shot0\\Name:s":	"Shot 0",
+				"Shot0\\NextShot:d":	1,
+				"Shot0\\SkipShot:d":	1,
+				"Shot0\\MaxTime:f":	600,
+				"Shot0\\Time:f":	0
+			}]
+	}, {
+		"name":	"Shot1",
+		"row_count":	1,
+		"rows":	[{
+				"Shot1\\Name:s":	"Shot 1",
+				"Shot1\\NextShot:d":	2,
+				"Shot1\\SkipShot:d":	2,
+				"Shot1\\MaxTime:f":	600,
+				"Shot1\\Time:f":	8.7000007629394531
+			}]
+	}, {
+		"name":	"Shot2",
+		"row_count":	1,
+		"rows":	[{
+				"Shot2\\Name:s":	"Shot 2",
+				"Shot2\\NextShot:d":	3,
+				"Shot2\\SkipShot:d":	3,
+				"Shot2\\MaxTime:f":	600,
+				"Shot2\\Time:f":	11.40000057220459
+			}]
+	}, {
+		"name":	"SyncPoint0",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint0\\Name:s":	"Shot 0, Sync 0",
+				"SyncPoint0\\Type:d":	0,
+				"SyncPoint0\\Action:d":	0,
+				"SyncPoint0\\Offset:f":	0,
+				"SyncPoint0\\Shot:d":	0,
+				"SyncPoint0\\FromEnd:d":	1,
+				"SyncPoint0\\AbsoluteTimeStart:f":	0
+			}]
+	}, {
+		"name":	"SyncPoint1",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint1\\Name:s":	"Shot 1, Sync 1",
+				"SyncPoint1\\Type:d":	1,
+				"SyncPoint1\\Action:d":	0,
+				"SyncPoint1\\Offset:f":	0,
+				"SyncPoint1\\Shot:d":	1,
+				"SyncPoint1\\FromEnd:d":	1,
+				"SyncPoint1\\AbsoluteTimeStart:f":	8.7000007629394531
+			}]
+	}, {
+		"name":	"SyncPoint2",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint2\\Name:s":	"Shot 2, Sync 2",
+				"SyncPoint2\\Type:d":	1,
+				"SyncPoint2\\Action:d":	1,
+				"SyncPoint2\\Offset:f":	0,
+				"SyncPoint2\\Shot:d":	2,
+				"SyncPoint2\\FromEnd:d":	1,
+				"SyncPoint2\\AbsoluteTimeStart:f":	11.40000057220459
+			}]
+	}, {
+		"name":	"SyncPoint3",
+		"row_count":	1,
+		"rows":	[{
+				"SyncPoint3\\Name:s":	"Shot 2, Sync 3",
+				"SyncPoint3\\Type:d":	1,
+				"SyncPoint3\\Action:d":	37,
+				"SyncPoint3\\Offset:f":	6.3670001029968262,
+				"SyncPoint3\\Shot:d":	2,
+				"SyncPoint3\\FromEnd:d":	0,
+				"SyncPoint3\\AbsoluteTimeStart:f":	17.767000198364258
+			}]
+	}, {
+		"name":	"Action0",
+		"row_count":	1,
+		"rows":	[{
+				"Action0\\Name:s":	"Cam01",
+				"Action0\\Type:d":	4,
+				"Action0\\Shot:d":	0,
+				"Action0\\Offset:f":	0,
+				"Action0\\Duration:f":	8.7000007629394531,
+				"Action0\\SyncPoint:d":	0,
+				"Action0\\FinishShot:d":	1,
+				"Action0\\DefaultLength:f":	8.7000007629394531,
+				"Action0\\CameraType:d":	0,
+				"Action0\\Target:g":	"0D8AD8D1_89ECE000",
+				"Action0\\Relative:d":	0,
+				"Action0\\StartOrient:fff":	[0, 0, 0],
+				"Action0\\EndOrient:fff":	[0, 0, 0],
+				"Action0\\StartOffset:fff":	[0, 0, 0],
+				"Action0\\EndOffset:fff":	[0, 0, 0],
+				"Action0\\TargetOffset:fff":	[0, 0, 0],
+				"Action0\\StartFOV:f":	0.872664988040924,
+				"Action0\\EndFOV:f":	0.872664988040924,
+				"Action0\\TransitionPop:d":	0,
+				"Action0\\Loop:d":	0,
+				"Action0\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action1",
+		"row_count":	1,
+		"rows":	[{
+				"Action1\\Name:s":	"Cam02",
+				"Action1\\Type:d":	4,
+				"Action1\\Shot:d":	1,
+				"Action1\\Offset:f":	8.7000007629394531,
+				"Action1\\Duration:f":	2.7000000476837158,
+				"Action1\\SyncPoint:d":	1,
+				"Action1\\FinishShot:d":	1,
+				"Action1\\DefaultLength:f":	2.7000000476837158,
+				"Action1\\CameraType:d":	0,
+				"Action1\\Target:g":	"0D8AD8D1_89EE4400",
+				"Action1\\Relative:d":	0,
+				"Action1\\StartOrient:fff":	[0, 0, 0],
+				"Action1\\EndOrient:fff":	[0, 0, 0],
+				"Action1\\StartOffset:fff":	[0, 0, 0],
+				"Action1\\EndOffset:fff":	[0, 0, 0],
+				"Action1\\TargetOffset:fff":	[0, 0, 0],
+				"Action1\\StartFOV:f":	0.872664988040924,
+				"Action1\\EndFOV:f":	0.872664988040924,
+				"Action1\\TransitionPop:d":	0,
+				"Action1\\Loop:d":	0,
+				"Action1\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action2",
+		"row_count":	1,
+		"rows":	[{
+				"Action2\\Name:s":	"Cam03",
+				"Action2\\Type:d":	4,
+				"Action2\\Shot:d":	2,
+				"Action2\\Offset:f":	11.40000057220459,
+				"Action2\\Duration:f":	7.3666667938232422,
+				"Action2\\SyncPoint:d":	2,
+				"Action2\\FinishShot:d":	1,
+				"Action2\\DefaultLength:f":	7.3666667938232422,
+				"Action2\\CameraType:d":	0,
+				"Action2\\Target:g":	"0D8AD8D1_89EEC000",
+				"Action2\\Relative:d":	0,
+				"Action2\\StartOrient:fff":	[0, 0, 0],
+				"Action2\\EndOrient:fff":	[0, 0, 0],
+				"Action2\\StartOffset:fff":	[0, 0, 0],
+				"Action2\\EndOffset:fff":	[0, 0, 0],
+				"Action2\\TargetOffset:fff":	[0, 0, 0],
+				"Action2\\StartFOV:f":	0.89011800289154053,
+				"Action2\\EndFOV:f":	0.89011800289154053,
+				"Action2\\TransitionPop:d":	0,
+				"Action2\\Loop:d":	0,
+				"Action2\\EndSyncPoint:d":	0
+			}]
+	}, {
+		"name":	"Action3",
+		"row_count":	1,
+		"rows":	[{
+				"Action3\\Name:s":	"Bilbo Anim",
+				"Action3\\Type:d":	2,
+				"Action3\\Shot:d":	0,
+				"Action3\\Offset:f":	0,
+				"Action3\\Duration:f":	8.6666669845581055,
+				"Action3\\SyncPoint:d":	0,
+				"Action3\\FinishShot:d":	0,
+				"Action3\\DefaultLength:f":	8.6666669845581055,
+				"Action3\\Character:g":	"ABCABCAB_CABCABC0",
+				"Action3\\AnimName:s":	"IntroCinShot01",
+				"Action3\\Length:f":	8.6666669845581055,
+				"Action3\\AnimGroup:s":	"bilbo.anim",
+				"Action3\\AnimatedInPlace:d":	1,
+				"Action3\\Loops:d":	0,
+				"Action3\\AnimsToPlay:d":	1
+			}]
+	}, {
+		"name":	"Action4",
+		"row_count":	1,
+		"rows":	[{
+				"Action4\\Name:s":	"Elf1 Anim",
+				"Action4\\Type:d":	2,
+				"Action4\\Shot:d":	0,
+				"Action4\\Offset:f":	0,
+				"Action4\\Duration:f":	6.46666717529297,
+				"Action4\\SyncPoint:d":	0,
+				"Action4\\FinishShot:d":	0,
+				"Action4\\DefaultLength:f":	6.46666717529297,
+				"Action4\\Character:g":	"C0CFA7CE_7F57F401",
+				"Action4\\AnimName:s":	"IntroCinShot01Elf1",
+				"Action4\\Length:f":	6.46666717529297,
+				"Action4\\AnimGroup:s":	"woodelf_male_bind.anim",
+				"Action4\\AnimatedInPlace:d":	1,
+				"Action4\\Loops:d":	0,
+				"Action4\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action5",
+		"row_count":	1,
+		"rows":	[{
+				"Action5\\Name:s":	"Elf2Anim",
+				"Action5\\Type:d":	2,
+				"Action5\\Shot:d":	0,
+				"Action5\\Offset:f":	0,
+				"Action5\\Duration:f":	6.46666717529297,
+				"Action5\\SyncPoint:d":	0,
+				"Action5\\FinishShot:d":	0,
+				"Action5\\DefaultLength:f":	6.46666717529297,
+				"Action5\\Character:g":	"C0CFA7CE_7EA62400",
+				"Action5\\AnimName:s":	"IntroCinShot01Elf2",
+				"Action5\\Length:f":	6.46666717529297,
+				"Action5\\AnimGroup:s":	"woodelf_male_bind.anim",
+				"Action5\\AnimatedInPlace:d":	1,
+				"Action5\\Loops:d":	0,
+				"Action5\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action6",
+		"row_count":	1,
+		"rows":	[{
+				"Action6\\Name:s":	"Elf3Anim",
+				"Action6\\Type:d":	2,
+				"Action6\\Shot:d":	0,
+				"Action6\\Offset:f":	0,
+				"Action6\\Duration:f":	6.46666717529297,
+				"Action6\\SyncPoint:d":	0,
+				"Action6\\FinishShot:d":	0,
+				"Action6\\DefaultLength:f":	6.46666717529297,
+				"Action6\\Character:g":	"C0CFA7CE_7EB38401",
+				"Action6\\AnimName:s":	"IntroCinShot01Elf3",
+				"Action6\\Length:f":	6.46666717529297,
+				"Action6\\AnimGroup:s":	"woodelf_male_bind.anim",
+				"Action6\\AnimatedInPlace:d":	1,
+				"Action6\\Loops:d":	0,
+				"Action6\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action7",
+		"row_count":	1,
+		"rows":	[{
+				"Action7\\Name:s":	"Oin Anim",
+				"Action7\\Type:d":	2,
+				"Action7\\Shot:d":	0,
+				"Action7\\Offset:f":	0,
+				"Action7\\Duration:f":	6.46666717529297,
+				"Action7\\SyncPoint:d":	0,
+				"Action7\\FinishShot:d":	0,
+				"Action7\\DefaultLength:f":	6.46666717529297,
+				"Action7\\Character:g":	"C0CFA40E_B0EF2001",
+				"Action7\\AnimName:s":	"IntroCinShot01_OIN",
+				"Action7\\Length:f":	6.46666717529297,
+				"Action7\\AnimGroup:s":	"char_dwarf_bind.anim",
+				"Action7\\AnimatedInPlace:d":	1,
+				"Action7\\Loops:d":	0,
+				"Action7\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action8",
+		"row_count":	1,
+		"rows":	[{
+				"Action8\\Name:s":	"Gloin Anim",
+				"Action8\\Type:d":	2,
+				"Action8\\Shot:d":	0,
+				"Action8\\Offset:f":	0,
+				"Action8\\Duration:f":	6.46666717529297,
+				"Action8\\SyncPoint:d":	0,
+				"Action8\\FinishShot:d":	0,
+				"Action8\\DefaultLength:f":	6.46666717529297,
+				"Action8\\Character:g":	"C0CFA40E_B0EFFC01",
+				"Action8\\AnimName:s":	"IntroCinShot01_GLOIN",
+				"Action8\\Length:f":	6.46666717529297,
+				"Action8\\AnimGroup:s":	"char_dwarf_bind.anim",
+				"Action8\\AnimatedInPlace:d":	1,
+				"Action8\\Loops:d":	0,
+				"Action8\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action9",
+		"row_count":	1,
+		"rows":	[{
+				"Action9\\Name:s":	"Ori Anim",
+				"Action9\\Type:d":	2,
+				"Action9\\Shot:d":	0,
+				"Action9\\Offset:f":	0,
+				"Action9\\Duration:f":	6.46666717529297,
+				"Action9\\SyncPoint:d":	0,
+				"Action9\\FinishShot:d":	0,
+				"Action9\\DefaultLength:f":	6.46666717529297,
+				"Action9\\Character:g":	"C0CFA40E_B0F26C01",
+				"Action9\\AnimName:s":	"IntroCinShot01_ORI",
+				"Action9\\Length:f":	6.46666717529297,
+				"Action9\\AnimGroup:s":	"char_dwarf_bind.anim",
+				"Action9\\AnimatedInPlace:d":	1,
+				"Action9\\Loops:d":	0,
+				"Action9\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action10",
+		"row_count":	1,
+		"rows":	[{
+				"Action10\\Name:s":	"Nori Anim",
+				"Action10\\Type:d":	2,
+				"Action10\\Shot:d":	0,
+				"Action10\\Offset:f":	0,
+				"Action10\\Duration:f":	6.46666717529297,
+				"Action10\\SyncPoint:d":	0,
+				"Action10\\FinishShot:d":	0,
+				"Action10\\DefaultLength:f":	6.46666717529297,
+				"Action10\\Character:g":	"C0CFA40E_B0F1F001",
+				"Action10\\AnimName:s":	"IntroCinShot01_NORI",
+				"Action10\\Length:f":	6.46666717529297,
+				"Action10\\AnimGroup:s":	"char_dwarf_bind.anim",
+				"Action10\\AnimatedInPlace:d":	1,
+				"Action10\\Loops:d":	0,
+				"Action10\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action11",
+		"row_count":	1,
+		"rows":	[{
+				"Action11\\Name:s":	"Fili Anim",
+				"Action11\\Type:d":	2,
+				"Action11\\Shot:d":	0,
+				"Action11\\Offset:f":	0,
+				"Action11\\Duration:f":	6.46666717529297,
+				"Action11\\SyncPoint:d":	0,
+				"Action11\\FinishShot:d":	0,
+				"Action11\\DefaultLength:f":	6.46666717529297,
+				"Action11\\Character:g":	"C0CFA7CE_7F6EC401",
+				"Action11\\AnimName:s":	"IntroCinShot01_FILI",
+				"Action11\\Length:f":	6.46666717529297,
+				"Action11\\AnimGroup:s":	"char_dwarf_bind.anim",
+				"Action11\\AnimatedInPlace:d":	1,
+				"Action11\\Loops:d":	0,
+				"Action11\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action12",
+		"row_count":	1,
+		"rows":	[{
+				"Action12\\Name:s":	"Kili Anim",
+				"Action12\\Type:d":	2,
+				"Action12\\Shot:d":	0,
+				"Action12\\Offset:f":	0,
+				"Action12\\Duration:f":	6.46666717529297,
+				"Action12\\SyncPoint:d":	0,
+				"Action12\\FinishShot:d":	0,
+				"Action12\\DefaultLength:f":	6.46666717529297,
+				"Action12\\Character:g":	"C0CFA40E_B0EBC401",
+				"Action12\\AnimName:s":	"IntroCinShot01_KILI",
+				"Action12\\Length:f":	6.46666717529297,
+				"Action12\\AnimGroup:s":	"char_dwarf_bind.anim",
+				"Action12\\AnimatedInPlace:d":	1,
+				"Action12\\Loops:d":	0,
+				"Action12\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action13",
+		"row_count":	1,
+		"rows":	[{
+				"Action13\\Name:s":	"Elf1 Anim",
+				"Action13\\Type:d":	2,
+				"Action13\\Shot:d":	1,
+				"Action13\\Offset:f":	8.7000007629394531,
+				"Action13\\Duration:f":	2.6666669845581055,
+				"Action13\\SyncPoint:d":	1,
+				"Action13\\FinishShot:d":	0,
+				"Action13\\DefaultLength:f":	2.6666669845581055,
+				"Action13\\Character:g":	"C0CFA7CE_7F57F401",
+				"Action13\\AnimName:s":	"IntroCinShot02Elf1",
+				"Action13\\Length:f":	2.6666669845581055,
+				"Action13\\AnimGroup:s":	"woodelf_male_bind.anim",
+				"Action13\\AnimatedInPlace:d":	1,
+				"Action13\\Loops:d":	0,
+				"Action13\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action14",
+		"row_count":	1,
+		"rows":	[{
+				"Action14\\Name:s":	"Elf2 Anim",
+				"Action14\\Type:d":	2,
+				"Action14\\Shot:d":	1,
+				"Action14\\Offset:f":	8.7000007629394531,
+				"Action14\\Duration:f":	2.6666669845581055,
+				"Action14\\SyncPoint:d":	1,
+				"Action14\\FinishShot:d":	0,
+				"Action14\\DefaultLength:f":	2.6666669845581055,
+				"Action14\\Character:g":	"C0CFA7CE_7EA62400",
+				"Action14\\AnimName:s":	"IntroCinShot02Elf2",
+				"Action14\\Length:f":	2.6666669845581055,
+				"Action14\\AnimGroup:s":	"woodelf_male_bind.anim",
+				"Action14\\AnimatedInPlace:d":	1,
+				"Action14\\Loops:d":	0,
+				"Action14\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action15",
+		"row_count":	1,
+		"rows":	[{
+				"Action15\\Name:s":	"Elf3 Anim",
+				"Action15\\Type:d":	2,
+				"Action15\\Shot:d":	1,
+				"Action15\\Offset:f":	8.7000007629394531,
+				"Action15\\Duration:f":	2.6666669845581055,
+				"Action15\\SyncPoint:d":	1,
+				"Action15\\FinishShot:d":	0,
+				"Action15\\DefaultLength:f":	2.6666669845581055,
+				"Action15\\Character:g":	"C0CFA7CE_7EB38401",
+				"Action15\\AnimName:s":	"IntroCinShot02Elf3",
+				"Action15\\Length:f":	2.6666669845581055,
+				"Action15\\AnimGroup:s":	"woodelf_male_bind.anim",
+				"Action15\\AnimatedInPlace:d":	1,
+				"Action15\\Loops:d":	0,
+				"Action15\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action16",
+		"row_count":	1,
+		"rows":	[{
+				"Action16\\Name:s":	"Elf5 Anim",
+				"Action16\\Type:d":	2,
+				"Action16\\Shot:d":	1,
+				"Action16\\Offset:f":	8.7000007629394531,
+				"Action16\\Duration:f":	2.6666669845581055,
+				"Action16\\SyncPoint:d":	1,
+				"Action16\\FinishShot:d":	0,
+				"Action16\\DefaultLength:f":	2.6666669845581055,
+				"Action16\\Character:g":	"C0CFA7CE_7F203801",
+				"Action16\\AnimName:s":	"IntroCinShot02Elf_DMAN",
+				"Action16\\Length:f":	2.6666669845581055,
+				"Action16\\AnimGroup:s":	"woodelf_male_bind.anim",
+				"Action16\\AnimatedInPlace:d":	1,
+				"Action16\\Loops:d":	0,
+				"Action16\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action17",
+		"row_count":	1,
+		"rows":	[{
+				"Action17\\Name:s":	"Balin Anim",
+				"Action17\\Type:d":	2,
+				"Action17\\Shot:d":	1,
+				"Action17\\Offset:f":	8.7000007629394531,
+				"Action17\\Duration:f":	2.6666669845581055,
+				"Action17\\SyncPoint:d":	1,
+				"Action17\\FinishShot:d":	0,
+				"Action17\\DefaultLength:f":	2.6666669845581055,
+				"Action17\\Character:g":	"C0CFA7CE_7F5A4800",
+				"Action17\\AnimName:s":	"IntroCinShot02_BALIN",
+				"Action17\\Length:f":	2.6666669845581055,
+				"Action17\\AnimGroup:s":	"char_dwarf_bind.anim",
+				"Action17\\AnimatedInPlace:d":	1,
+				"Action17\\Loops:d":	0,
+				"Action17\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action18",
+		"row_count":	1,
+		"rows":	[{
+				"Action18\\Name:s":	"Dwalin Anim",
+				"Action18\\Type:d":	2,
+				"Action18\\Shot:d":	1,
+				"Action18\\Offset:f":	8.7000007629394531,
+				"Action18\\Duration:f":	2.6666669845581055,
+				"Action18\\SyncPoint:d":	1,
+				"Action18\\FinishShot:d":	0,
+				"Action18\\DefaultLength:f":	2.6666669845581055,
+				"Action18\\Character:g":	"C0CFA7CE_7F6E4C01",
+				"Action18\\AnimName:s":	"IntroCinShot02_DWALIN",
+				"Action18\\Length:f":	2.6666669845581055,
+				"Action18\\AnimGroup:s":	"char_dwarf_bind.anim",
+				"Action18\\AnimatedInPlace:d":	1,
+				"Action18\\Loops:d":	0,
+				"Action18\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action19",
+		"row_count":	1,
+		"rows":	[{
+				"Action19\\Name:s":	"Dori Anim",
+				"Action19\\Type:d":	2,
+				"Action19\\Shot:d":	1,
+				"Action19\\Offset:f":	8.7000007629394531,
+				"Action19\\Duration:f":	2.6666669845581055,
+				"Action19\\SyncPoint:d":	1,
+				"Action19\\FinishShot:d":	0,
+				"Action19\\DefaultLength:f":	2.6666669845581055,
+				"Action19\\Character:g":	"C0CFA40E_B0F0F401",
+				"Action19\\AnimName:s":	"IntroCinShot02_DORI",
+				"Action19\\Length:f":	2.6666669845581055,
+				"Action19\\AnimGroup:s":	"char_dwarf_bind.anim",
+				"Action19\\AnimatedInPlace:d":	1,
+				"Action19\\Loops:d":	0,
+				"Action19\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action20",
+		"row_count":	1,
+		"rows":	[{
+				"Action20\\Name:s":	"Kili Anim",
+				"Action20\\Type:d":	2,
+				"Action20\\Shot:d":	1,
+				"Action20\\Offset:f":	8.7000007629394531,
+				"Action20\\Duration:f":	2.6666669845581055,
+				"Action20\\SyncPoint:d":	1,
+				"Action20\\FinishShot:d":	0,
+				"Action20\\DefaultLength:f":	2.6666669845581055,
+				"Action20\\Character:g":	"C0CFA40E_B0EBC401",
+				"Action20\\AnimName:s":	"IntroCinShot02_KILI",
+				"Action20\\Length:f":	2.6666669845581055,
+				"Action20\\AnimGroup:s":	"char_dwarf_bind.anim",
+				"Action20\\AnimatedInPlace:d":	1,
+				"Action20\\Loops:d":	0,
+				"Action20\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action21",
+		"row_count":	1,
+		"rows":	[{
+				"Action21\\Name:s":	"Bombur Anim",
+				"Action21\\Type:d":	2,
+				"Action21\\Shot:d":	1,
+				"Action21\\Offset:f":	8.7000007629394531,
+				"Action21\\Duration:f":	2.6666669845581055,
+				"Action21\\SyncPoint:d":	1,
+				"Action21\\FinishShot:d":	0,
+				"Action21\\DefaultLength:f":	2.6666669845581055,
+				"Action21\\Character:g":	"C0CFA40E_B0F4C001",
+				"Action21\\AnimName:s":	"IntroCinShot02_BOMBUR",
+				"Action21\\Length:f":	2.6666669845581055,
+				"Action21\\AnimGroup:s":	"char_dwarf_bind.anim",
+				"Action21\\AnimatedInPlace:d":	1,
+				"Action21\\Loops:d":	0,
+				"Action21\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action22",
+		"row_count":	1,
+		"rows":	[{
+				"Action22\\Name:s":	"Bilbo Anim",
+				"Action22\\Type:d":	2,
+				"Action22\\Shot:d":	2,
+				"Action22\\Offset:f":	11.40000057220459,
+				"Action22\\Duration:f":	7.3333330154418945,
+				"Action22\\SyncPoint:d":	2,
+				"Action22\\FinishShot:d":	0,
+				"Action22\\DefaultLength:f":	7.3333330154418945,
+				"Action22\\Character:g":	"ABCABCAB_CABCABC0",
+				"Action22\\AnimName:s":	"IntroCinShot03",
+				"Action22\\Length:f":	7.3333330154418945,
+				"Action22\\AnimGroup:s":	"bilbo.anim",
+				"Action22\\AnimatedInPlace:d":	1,
+				"Action22\\Loops:d":	0,
+				"Action22\\AnimsToPlay:d":	1
+			}]
+	}, {
+		"name":	"Action23",
+		"row_count":	1,
+		"rows":	[{
+				"Action23\\Name:s":	"Elf1 Anim",
+				"Action23\\Type:d":	2,
+				"Action23\\Shot:d":	2,
+				"Action23\\Offset:f":	11.40000057220459,
+				"Action23\\Duration:f":	7.3333330154418945,
+				"Action23\\SyncPoint:d":	2,
+				"Action23\\FinishShot:d":	0,
+				"Action23\\DefaultLength:f":	7.3333330154418945,
+				"Action23\\Character:g":	"C0CFA7CE_7F57F401",
+				"Action23\\AnimName:s":	"IntroCinShot03Elf1",
+				"Action23\\Length:f":	7.3333330154418945,
+				"Action23\\AnimGroup:s":	"woodelf_male_bind.anim",
+				"Action23\\AnimatedInPlace:d":	1,
+				"Action23\\Loops:d":	0,
+				"Action23\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action24",
+		"row_count":	1,
+		"rows":	[{
+				"Action24\\Name:s":	"Elf2 Anim",
+				"Action24\\Type:d":	2,
+				"Action24\\Shot:d":	2,
+				"Action24\\Offset:f":	11.40000057220459,
+				"Action24\\Duration:f":	7.3333330154418945,
+				"Action24\\SyncPoint:d":	2,
+				"Action24\\FinishShot:d":	0,
+				"Action24\\DefaultLength:f":	7.3333330154418945,
+				"Action24\\Character:g":	"C0CFA7CE_7EA62400",
+				"Action24\\AnimName:s":	"IntroCinShot03Elf2",
+				"Action24\\Length:f":	7.3333330154418945,
+				"Action24\\AnimGroup:s":	"woodelf_male_bind.anim",
+				"Action24\\AnimatedInPlace:d":	1,
+				"Action24\\Loops:d":	0,
+				"Action24\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action25",
+		"row_count":	1,
+		"rows":	[{
+				"Action25\\Name:s":	"Elf3 Anim",
+				"Action25\\Type:d":	2,
+				"Action25\\Shot:d":	2,
+				"Action25\\Offset:f":	11.40000057220459,
+				"Action25\\Duration:f":	7.3333330154418945,
+				"Action25\\SyncPoint:d":	2,
+				"Action25\\FinishShot:d":	0,
+				"Action25\\DefaultLength:f":	7.3333330154418945,
+				"Action25\\Character:g":	"C0CFA7CE_7EB38401",
+				"Action25\\AnimName:s":	"IntroCinShot03Elf3",
+				"Action25\\Length:f":	7.3333330154418945,
+				"Action25\\AnimGroup:s":	"woodelf_male_bind.anim",
+				"Action25\\AnimatedInPlace:d":	1,
+				"Action25\\Loops:d":	0,
+				"Action25\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action26",
+		"row_count":	1,
+		"rows":	[{
+				"Action26\\Name:s":	"Elf4 Anim",
+				"Action26\\Type:d":	2,
+				"Action26\\Shot:d":	2,
+				"Action26\\Offset:f":	11.40000057220459,
+				"Action26\\Duration:f":	7.3333330154418945,
+				"Action26\\SyncPoint:d":	2,
+				"Action26\\FinishShot:d":	0,
+				"Action26\\DefaultLength:f":	7.3333330154418945,
+				"Action26\\Character:g":	"C0CFA7CE_7EE4F401",
+				"Action26\\AnimName:s":	"IntroCinShot03Elf4",
+				"Action26\\Length:f":	7.3333330154418945,
+				"Action26\\AnimGroup:s":	"woodelf_male_bind.anim",
+				"Action26\\AnimatedInPlace:d":	1,
+				"Action26\\Loops:d":	0,
+				"Action26\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action27",
+		"row_count":	1,
+		"rows":	[{
+				"Action27\\Name:s":	"Elf5 Anim",
+				"Action27\\Type:d":	2,
+				"Action27\\Shot:d":	2,
+				"Action27\\Offset:f":	11.40000057220459,
+				"Action27\\Duration:f":	7.3333330154418945,
+				"Action27\\SyncPoint:d":	2,
+				"Action27\\FinishShot:d":	0,
+				"Action27\\DefaultLength:f":	7.3333330154418945,
+				"Action27\\Character:g":	"C0CFA7CE_7F203801",
+				"Action27\\AnimName:s":	"IntroCinShot03Elf_DMAN",
+				"Action27\\Length:f":	7.3333330154418945,
+				"Action27\\AnimGroup:s":	"woodelf_male_bind.anim",
+				"Action27\\AnimatedInPlace:d":	1,
+				"Action27\\Loops:d":	0,
+				"Action27\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action28",
+		"row_count":	1,
+		"rows":	[{
+				"Action28\\Name:s":	"Balin Anim",
+				"Action28\\Type:d":	2,
+				"Action28\\Shot:d":	2,
+				"Action28\\Offset:f":	11.40000057220459,
+				"Action28\\Duration:f":	7.3333330154418945,
+				"Action28\\SyncPoint:d":	2,
+				"Action28\\FinishShot:d":	0,
+				"Action28\\DefaultLength:f":	7.3333330154418945,
+				"Action28\\Character:g":	"C0CFA7CE_7F5A4800",
+				"Action28\\AnimName:s":	"IntroCinShot03_BALIN",
+				"Action28\\Length:f":	7.3333330154418945,
+				"Action28\\AnimGroup:s":	"char_dwarf_bind.anim",
+				"Action28\\AnimatedInPlace:d":	1,
+				"Action28\\Loops:d":	0,
+				"Action28\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action29",
+		"row_count":	1,
+		"rows":	[{
+				"Action29\\Name:s":	"Dwalin Anim",
+				"Action29\\Type:d":	2,
+				"Action29\\Shot:d":	2,
+				"Action29\\Offset:f":	11.40000057220459,
+				"Action29\\Duration:f":	7.3333330154418945,
+				"Action29\\SyncPoint:d":	2,
+				"Action29\\FinishShot:d":	0,
+				"Action29\\DefaultLength:f":	7.3333330154418945,
+				"Action29\\Character:g":	"C0CFA7CE_7F6E4C01",
+				"Action29\\AnimName:s":	"IntroCinShot03_DWALIN",
+				"Action29\\Length:f":	7.3333330154418945,
+				"Action29\\AnimGroup:s":	"char_dwarf_bind.anim",
+				"Action29\\AnimatedInPlace:d":	1,
+				"Action29\\Loops:d":	0,
+				"Action29\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action30",
+		"row_count":	1,
+		"rows":	[{
+				"Action30\\Name:s":	"Oin Anim",
+				"Action30\\Type:d":	2,
+				"Action30\\Shot:d":	2,
+				"Action30\\Offset:f":	11.40000057220459,
+				"Action30\\Duration:f":	7.3333330154418945,
+				"Action30\\SyncPoint:d":	2,
+				"Action30\\FinishShot:d":	0,
+				"Action30\\DefaultLength:f":	7.3333330154418945,
+				"Action30\\Character:g":	"C0CFA40E_B0EF2001",
+				"Action30\\AnimName:s":	"IntroCinShot03_OIN",
+				"Action30\\Length:f":	7.3333330154418945,
+				"Action30\\AnimGroup:s":	"char_dwarf_bind.anim",
+				"Action30\\AnimatedInPlace:d":	1,
+				"Action30\\Loops:d":	0,
+				"Action30\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action31",
+		"row_count":	1,
+		"rows":	[{
+				"Action31\\Name:s":	"Gloin Anim",
+				"Action31\\Type:d":	2,
+				"Action31\\Shot:d":	2,
+				"Action31\\Offset:f":	11.40000057220459,
+				"Action31\\Duration:f":	7.3333330154418945,
+				"Action31\\SyncPoint:d":	2,
+				"Action31\\FinishShot:d":	0,
+				"Action31\\DefaultLength:f":	7.3333330154418945,
+				"Action31\\Character:g":	"C0CFA40E_B0EFFC01",
+				"Action31\\AnimName:s":	"IntroCinShot03_GLOIN",
+				"Action31\\Length:f":	7.3333330154418945,
+				"Action31\\AnimGroup:s":	"char_dwarf_bind.anim",
+				"Action31\\AnimatedInPlace:d":	1,
+				"Action31\\Loops:d":	0,
+				"Action31\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action32",
+		"row_count":	1,
+		"rows":	[{
+				"Action32\\Name:s":	"Ori Anim",
+				"Action32\\Type:d":	2,
+				"Action32\\Shot:d":	2,
+				"Action32\\Offset:f":	11.40000057220459,
+				"Action32\\Duration:f":	7.3333330154418945,
+				"Action32\\SyncPoint:d":	2,
+				"Action32\\FinishShot:d":	0,
+				"Action32\\DefaultLength:f":	7.3333330154418945,
+				"Action32\\Character:g":	"C0CFA40E_B0F26C01",
+				"Action32\\AnimName:s":	"IntroCinShot03_ORI",
+				"Action32\\Length:f":	7.3333330154418945,
+				"Action32\\AnimGroup:s":	"char_dwarf_bind.anim",
+				"Action32\\AnimatedInPlace:d":	1,
+				"Action32\\Loops:d":	0,
+				"Action32\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action33",
+		"row_count":	1,
+		"rows":	[{
+				"Action33\\Name:s":	"Dori Anim",
+				"Action33\\Type:d":	2,
+				"Action33\\Shot:d":	2,
+				"Action33\\Offset:f":	11.40000057220459,
+				"Action33\\Duration:f":	7.3333330154418945,
+				"Action33\\SyncPoint:d":	2,
+				"Action33\\FinishShot:d":	0,
+				"Action33\\DefaultLength:f":	7.3333330154418945,
+				"Action33\\Character:g":	"C0CFA40E_B0F0F401",
+				"Action33\\AnimName:s":	"IntroCinShot03_DORI",
+				"Action33\\Length:f":	7.3333330154418945,
+				"Action33\\AnimGroup:s":	"char_dwarf_bind.anim",
+				"Action33\\AnimatedInPlace:d":	1,
+				"Action33\\Loops:d":	0,
+				"Action33\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action34",
+		"row_count":	1,
+		"rows":	[{
+				"Action34\\Name:s":	"Nori Anim",
+				"Action34\\Type:d":	2,
+				"Action34\\Shot:d":	2,
+				"Action34\\Offset:f":	11.40000057220459,
+				"Action34\\Duration:f":	7.3333330154418945,
+				"Action34\\SyncPoint:d":	2,
+				"Action34\\FinishShot:d":	0,
+				"Action34\\DefaultLength:f":	7.3333330154418945,
+				"Action34\\Character:g":	"C0CFA40E_B0F1F001",
+				"Action34\\AnimName:s":	"IntroCinShot03_NORI",
+				"Action34\\Length:f":	7.3333330154418945,
+				"Action34\\AnimGroup:s":	"char_dwarf_bind.anim",
+				"Action34\\AnimatedInPlace:d":	1,
+				"Action34\\Loops:d":	0,
+				"Action34\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action35",
+		"row_count":	1,
+		"rows":	[{
+				"Action35\\Name:s":	"Fili Anim",
+				"Action35\\Type:d":	2,
+				"Action35\\Shot:d":	2,
+				"Action35\\Offset:f":	11.40000057220459,
+				"Action35\\Duration:f":	7.3333330154418945,
+				"Action35\\SyncPoint:d":	2,
+				"Action35\\FinishShot:d":	0,
+				"Action35\\DefaultLength:f":	7.3333330154418945,
+				"Action35\\Character:g":	"C0CFA7CE_7F6EC401",
+				"Action35\\AnimName:s":	"IntroCinShot03_FILI",
+				"Action35\\Length:f":	7.3333330154418945,
+				"Action35\\AnimGroup:s":	"char_dwarf_bind.anim",
+				"Action35\\AnimatedInPlace:d":	1,
+				"Action35\\Loops:d":	0,
+				"Action35\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action36",
+		"row_count":	1,
+		"rows":	[{
+				"Action36\\Name:s":	"Kili Anim",
+				"Action36\\Type:d":	2,
+				"Action36\\Shot:d":	2,
+				"Action36\\Offset:f":	11.40000057220459,
+				"Action36\\Duration:f":	7.3333330154418945,
+				"Action36\\SyncPoint:d":	2,
+				"Action36\\FinishShot:d":	0,
+				"Action36\\DefaultLength:f":	7.3333330154418945,
+				"Action36\\Character:g":	"C0CFA40E_B0EBC401",
+				"Action36\\AnimName:s":	"IntroCinShot03_KILI",
+				"Action36\\Length:f":	7.3333330154418945,
+				"Action36\\AnimGroup:s":	"char_dwarf_bind.anim",
+				"Action36\\AnimatedInPlace:d":	1,
+				"Action36\\Loops:d":	0,
+				"Action36\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action37",
+		"row_count":	1,
+		"rows":	[{
+				"Action37\\Name:s":	"Bombur Anim",
+				"Action37\\Type:d":	2,
+				"Action37\\Shot:d":	2,
+				"Action37\\Offset:f":	11.40000057220459,
+				"Action37\\Duration:f":	7.3333330154418945,
+				"Action37\\SyncPoint:d":	2,
+				"Action37\\FinishShot:d":	0,
+				"Action37\\DefaultLength:f":	7.3333330154418945,
+				"Action37\\Character:g":	"C0CFA40E_B0F4C001",
+				"Action37\\AnimName:s":	"IntroCinShot03_BOMBUR",
+				"Action37\\Length:f":	7.3333330154418945,
+				"Action37\\AnimGroup:s":	"char_dwarf_bind.anim",
+				"Action37\\AnimatedInPlace:d":	1,
+				"Action37\\Loops:d":	0,
+				"Action37\\AnimsToPlay:d":	0
+			}]
+	}, {
+		"name":	"Action38",
+		"row_count":	1,
+		"rows":	[{
+				"Action38\\Name:s":	"Fade In",
+				"Action38\\Type:d":	8,
+				"Action38\\Shot:d":	0,
+				"Action38\\Offset:f":	0,
+				"Action38\\Duration:f":	1,
+				"Action38\\SyncPoint:d":	0,
+				"Action38\\FinishShot:d":	0,
+				"Action38\\DefaultLength:f":	1,
+				"Action38\\FXType:d":	1,
+				"Action38\\Magnitude:f":	0.15000000596046448,
+				"Action38\\Frequency:f":	20,
+				"Action38\\Rolling:d":	0,
+				"Action38\\Fadeout:d":	0,
+				"Action38\\Color:dddd":	[0, 0, 0, 255],
+				"Action38\\Target:f":	0
+			}]
+	}, {
+		"name":	"Action39",
+		"row_count":	1,
+		"rows":	[{
+				"Action39\\Name:s":	"Fade Out",
+				"Action39\\Type:d":	8,
+				"Action39\\Shot:d":	2,
+				"Action39\\Offset:f":	17.767000198364258,
+				"Action39\\Duration:f":	1,
+				"Action39\\SyncPoint:d":	3,
+				"Action39\\FinishShot:d":	0,
+				"Action39\\DefaultLength:f":	1,
+				"Action39\\FXType:d":	1,
+				"Action39\\Magnitude:f":	0.15000000596046448,
+				"Action39\\Frequency:f":	20,
+				"Action39\\Rolling:d":	0,
+				"Action39\\Fadeout:d":	1,
+				"Action39\\Color:dddd":	[0, 0, 0, 255],
+				"Action39\\Target:f":	0
+			}]
+	}, {
+		"name":	"Action40",
+		"row_count":	1,
+		"rows":	[{
+				"Action40\\Name:s":	"Bombur Anim",
+				"Action40\\Type:d":	2,
+				"Action40\\Shot:d":	0,
+				"Action40\\Offset:f":	0,
+				"Action40\\Duration:f":	8.6666669845581055,
+				"Action40\\SyncPoint:d":	0,
+				"Action40\\FinishShot:d":	0,
+				"Action40\\DefaultLength:f":	8.6666669845581055,
+				"Action40\\Character:g":	"C0CFA40E_B0F4C001",
+				"Action40\\AnimName:s":	"IntroCinShot01_Bombur",
+				"Action40\\Length:f":	8.6666669845581055,
+				"Action40\\AnimGroup:s":	"char_dwarf_bind.anim",
+				"Action40\\AnimatedInPlace:d":	1,
+				"Action40\\Loops:d":	0,
+				"Action40\\AnimsToPlay:d":	1
+			}]
+	}, {
+		"name":	"Action41",
+		"row_count":	1,
+		"rows":	[{
+				"Action41\\Name:s":	"Oin Anim",
+				"Action41\\Type:d":	2,
+				"Action41\\Shot:d":	1,
+				"Action41\\Offset:f":	8.7000007629394531,
+				"Action41\\Duration:f":	2.6666669845581055,
+				"Action41\\SyncPoint:d":	1,
+				"Action41\\FinishShot:d":	0,
+				"Action41\\DefaultLength:f":	2.6666669845581055,
+				"Action41\\Character:g":	"C0CFA40E_B0EF2001",
+				"Action41\\AnimName:s":	"IntroCinShot02_Oin",
+				"Action41\\Length:f":	2.6666669845581055,
+				"Action41\\AnimGroup:s":	"char_dwarf_bind.anim",
+				"Action41\\AnimatedInPlace:d":	1,
+				"Action41\\Loops:d":	0,
+				"Action41\\AnimsToPlay:d":	1
+			}]
+	}, {
+		"name":	"Action42",
+		"row_count":	1,
+		"rows":	[{
+				"Action42\\Name:s":	"Gloin Anim",
+				"Action42\\Type:d":	2,
+				"Action42\\Shot:d":	1,
+				"Action42\\Offset:f":	8.7000007629394531,
+				"Action42\\Duration:f":	2.6666669845581055,
+				"Action42\\SyncPoint:d":	1,
+				"Action42\\FinishShot:d":	0,
+				"Action42\\DefaultLength:f":	2.6666669845581055,
+				"Action42\\Character:g":	"C0CFA40E_B0EFFC01",
+				"Action42\\AnimName:s":	"IntroCinShot02_Gloin",
+				"Action42\\Length:f":	2.6666669845581055,
+				"Action42\\AnimGroup:s":	"char_dwarf_bind.anim",
+				"Action42\\AnimatedInPlace:d":	1,
+				"Action42\\Loops:d":	0,
+				"Action42\\AnimsToPlay:d":	1
+			}]
+	}, {
+		"name":	"Action43",
+		"row_count":	1,
+		"rows":	[{
+				"Action43\\Name:s":	"Ori Anim",
+				"Action43\\Type:d":	2,
+				"Action43\\Shot:d":	1,
+				"Action43\\Offset:f":	8.7000007629394531,
+				"Action43\\Duration:f":	2.6666669845581055,
+				"Action43\\SyncPoint:d":	1,
+				"Action43\\FinishShot:d":	0,
+				"Action43\\DefaultLength:f":	2.6666669845581055,
+				"Action43\\Character:g":	"C0CFA40E_B0F26C01",
+				"Action43\\AnimName:s":	"IntroCinShot02_Ori",
+				"Action43\\Length:f":	2.6666669845581055,
+				"Action43\\AnimGroup:s":	"char_dwarf_bind.anim",
+				"Action43\\AnimatedInPlace:d":	1,
+				"Action43\\Loops:d":	0,
+				"Action43\\AnimsToPlay:d":	1
+			}]
+	}, {
+		"name":	"Action44",
+		"row_count":	1,
+		"rows":	[{
+				"Action44\\Name:s":	"Nori Anim",
+				"Action44\\Type:d":	2,
+				"Action44\\Shot:d":	1,
+				"Action44\\Offset:f":	8.7000007629394531,
+				"Action44\\Duration:f":	2.6666669845581055,
+				"Action44\\SyncPoint:d":	1,
+				"Action44\\FinishShot:d":	0,
+				"Action44\\DefaultLength:f":	2.6666669845581055,
+				"Action44\\Character:g":	"C0CFA40E_B0F1F001",
+				"Action44\\AnimName:s":	"IntroCinShot02_Nori",
+				"Action44\\Length:f":	2.6666669845581055,
+				"Action44\\AnimGroup:s":	"char_dwarf_bind.anim",
+				"Action44\\AnimatedInPlace:d":	1,
+				"Action44\\Loops:d":	0,
+				"Action44\\AnimsToPlay:d":	1
+			}]
+	}, {
+		"name":	"Action45",
+		"row_count":	1,
+		"rows":	[{
+				"Action45\\Name:s":	"Fili Anim",
+				"Action45\\Type:d":	2,
+				"Action45\\Shot:d":	1,
+				"Action45\\Offset:f":	8.7000007629394531,
+				"Action45\\Duration:f":	2.6666669845581055,
+				"Action45\\SyncPoint:d":	1,
+				"Action45\\FinishShot:d":	0,
+				"Action45\\DefaultLength:f":	2.6666669845581055,
+				"Action45\\Character:g":	"C0CFA7CE_7F6EC401",
+				"Action45\\AnimName:s":	"IntroCinShot02_Fili",
+				"Action45\\Length:f":	2.6666669845581055,
+				"Action45\\AnimGroup:s":	"char_dwarf_bind.anim",
+				"Action45\\AnimatedInPlace:d":	1,
+				"Action45\\Loops:d":	0,
+				"Action45\\AnimsToPlay:d":	1
+			}]
+	}, {
+		"name":	"Action46",
+		"row_count":	1,
+		"rows":	[{
+				"Action46\\Name:s":	"Open Main Doors",
+				"Action46\\Type:d":	9,
+				"Action46\\Shot:d":	2,
+				"Action46\\Offset:f":	11.40000057220459,
+				"Action46\\Duration:f":	0,
+				"Action46\\SyncPoint:d":	2,
+				"Action46\\FinishShot:d":	0,
+				"Action46\\DefaultLength:f":	0,
+				"Action46\\Object:g":	"0D8AD2D1_8B20DC04",
+				"Action46\\AnimName:s":	"",
+				"Action46\\StartAnimating:d":	1,
+				"Action46\\Looping:d":	0,
+				"Action46\\HideWhenDone:d":	0,
+				"Action46\\SetToEndOnSkip:d":	1
+			}]
+	}, {
+		"name":	"Participants",
+		"row_count":	16,
+		"rows":	[{
+				"PGuid:g":	"ABCABCAB_CABCABC0"
+			}, {
+				"PGuid:g":	"C0CFA7CE_7F57F401"
+			}, {
+				"PGuid:g":	"C0CFA7CE_7EA62400"
+			}, {
+				"PGuid:g":	"C0CFA7CE_7EB38401"
+			}, {
+				"PGuid:g":	"C0CFA40E_B0EF2001"
+			}, {
+				"PGuid:g":	"C0CFA40E_B0EFFC01"
+			}, {
+				"PGuid:g":	"C0CFA40E_B0F26C01"
+			}, {
+				"PGuid:g":	"C0CFA40E_B0F1F001"
+			}, {
+				"PGuid:g":	"C0CFA7CE_7F6EC401"
+			}, {
+				"PGuid:g":	"C0CFA40E_B0EBC401"
+			}, {
+				"PGuid:g":	"C0CFA7CE_7F203801"
+			}, {
+				"PGuid:g":	"C0CFA7CE_7F5A4800"
+			}, {
+				"PGuid:g":	"C0CFA7CE_7F6E4C01"
+			}, {
+				"PGuid:g":	"C0CFA40E_B0F0F401"
+			}, {
+				"PGuid:g":	"C0CFA40E_B0F4C001"
+			}, {
+				"PGuid:g":	"C0CFA7CE_7EE4F401"
+			}]
+	}, {
+		"name":	"Action-1",
+		"row_count":	1,
+		"rows":	[{
+				"Action-1\\Shot:d":	0,
+				"Action-1\\Offset:f":	0,
+				"Action-1\\Duration:f":	1,
+				"Action-1\\SyncPoint:d":	0,
+				"Action-1\\FinishShot:d":	0,
+				"Action-1\\DefaultLength:f":	1,
+				"Action-1\\FXType:d":	3,
+				"Action-1\\Magnitude:f":	0.15000000596046448,
+				"Action-1\\Frequency:f":	20,
+				"Action-1\\Rolling:d":	0,
+				"Action-1\\Fadeout:d":	0,
+				"Action-1\\Color:dddd":	[0, 0, 0, 255],
+				"Action-1\\Target:f":	0
+			}]
+	}, {
+		"name":	"Action-2",
+		"row_count":	1,
+		"rows":	[{
+				"Action-2\\Shot:d":	0,
+				"Action-2\\Offset:f":	0,
+				"Action-2\\Duration:f":	1,
+				"Action-2\\SyncPoint:d":	0,
+				"Action-2\\FinishShot:d":	0,
+				"Action-2\\DefaultLength:f":	1,
+				"Action-2\\FXType:d":	3,
+				"Action-2\\Magnitude:f":	0.15000000596046448,
+				"Action-2\\Frequency:f":	20,
+				"Action-2\\Rolling:d":	0,
+				"Action-2\\Fadeout:d":	0,
+				"Action-2\\Color:dddd":	[0, 0, 0, 255],
+				"Action-2\\Target:f":	0
+			}]
+	}]

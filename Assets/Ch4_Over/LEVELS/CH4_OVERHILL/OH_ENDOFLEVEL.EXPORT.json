@@ -1,0 +1,39 @@
+[{
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"15A4620D_3CB13000",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	0,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	1,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	0,
+				"MaxItems:d":	0,
+				"nActivators:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"trigger_endlevel.xsc",
+				"InitialPos:fff":	[-1424.8699951171875, -2078.556640625, 18799.2578125],
+				"Orientation:fff":	[-16.870912551879883, 16.478094100952148, -4.9065237045288086],
+				"LocalBoundingBox:ffffff":	[-164.50048828125, -176.86302185058594, -133.7537841796875, 164.50048828125, 176.86302185058594, 133.7537841796875],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"EndOfLevel",
+				"Name:s":	"EndOfLevel",
+				"Pos:fff":	[-1424.8699951171875, -2078.556640625, 18799.2578125],
+				"BBox:ffffff":	[-1589.3704833984375, -2255.419677734375, 18665.50390625, -1260.3695068359375, -1901.693603515625, 18933.01171875],
+				"Orient:fff":	[-16.870912551879883, 16.478094100952148, -4.9065237045288086],
+				"HalfDimensions:fff":	[156.8160400390625, 156.8160400390625, 50],
+				"Pain:s":	""
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}]

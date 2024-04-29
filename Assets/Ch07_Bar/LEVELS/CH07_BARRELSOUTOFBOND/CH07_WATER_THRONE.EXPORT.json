@@ -1,0 +1,211 @@
+[{
+		"name":	"Water",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"B5D7A18D_E10D6801",
+				"bRender:d":	1,
+				"bSplash:d":	1,
+				"bDrown:d":	1,
+				"QuadSize:f":	190,
+				"MinAlpha:d":	40,
+				"MaxAlpha:d":	160,
+				"Tint:dddd":	[20, 20, 20, 255],
+				"CommonTexture:d":	1,
+				"BaseTexture:s":	"water.xbmp",
+				"CommonRef:d":	0,
+				"RefTexture:s":	"ekh_water_rm[rgb].xbmp",
+				"CommonGloss:d":	1,
+				"GlossTexture:s":	"watergloss.xbmp",
+				"PainType:d":	1,
+				"PainFreq:f":	2,
+				"PoisonDur:f":	4,
+				"PainAmt:f":	40,
+				"Wave0Amp:f":	5,
+				"Wave0Ang:f":	0,
+				"Wave0Len:f":	400,
+				"Wave0Time:f":	2,
+				"Wave1Amp:f":	4,
+				"Wave1Ang:f":	30,
+				"Wave1Len:f":	250,
+				"Wave1Time:f":	1.2999999523162842,
+				"Wave2Amp:f":	0,
+				"Wave2Ang:f":	52,
+				"Wave2Len:f":	600,
+				"Wave2Time:f":	1,
+				"Wave3Amp:f":	0,
+				"Wave3Ang:f":	161,
+				"Wave3Len:f":	300,
+				"Wave3Time:f":	1,
+				"Interactive:d":	1,
+				"InteractiveAmp:f":	10,
+				"NormalEx:f":	2.5,
+				"FreezeDist:f":	2000,
+				"UVDensity:f":	200,
+				"Height:ffffffffff":	[457.80001831054687, 100, 100, 100, 100, 100, 100, 100, 100, 100],
+				"ForceDir:fff":	[0, 0, 0],
+				"GCNDListSize:d":	2496,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-1866.3857421875, 525, 10846.892578125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-1439.091796875, -228.90000915527344, -1186.947998046875, 1439.091796875, 228.90000915527344, 1186.947998046875],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Throne_Lake",
+				"Name:s":	"Throne_Lake",
+				"Pos:fff":	[-1866.3857421875, 525, 10846.892578125],
+				"BBox:ffffff":	[-3305.4775390625, 296.0999755859375, 9659.9443359375, -427.2939453125, 753.9000244140625, 12033.8408203125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[1439.091796875, 228.90000915527344, 1186.947998046875],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"WaterCommandBuffer",
+		"row_count":	23,
+		"rows":	[{
+				"Command:dd":	[0, 17]
+			}, {
+				"Command:dd":	[1, 14]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 14]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 14]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 14]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 14]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 14]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 14]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 14]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 14]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 14]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 14]
+			}, {
+				"Command:dd":	[0, 17]
+			}]
+	}, {
+		"name":	"Water",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"B5D7A18D_E107CC01",
+				"bRender:d":	1,
+				"bSplash:d":	1,
+				"bDrown:d":	1,
+				"QuadSize:f":	120,
+				"MinAlpha:d":	50,
+				"MaxAlpha:d":	160,
+				"Tint:dddd":	[20, 20, 20, 255],
+				"CommonTexture:d":	1,
+				"BaseTexture:s":	"water.xbmp",
+				"CommonRef:d":	0,
+				"RefTexture:s":	"ekh_water_rm[rgb].xbmp",
+				"CommonGloss:d":	1,
+				"GlossTexture:s":	"watergloss.xbmp",
+				"PainType:d":	0,
+				"PainFreq:f":	2,
+				"PoisonDur:f":	4,
+				"PainAmt:f":	1,
+				"Wave0Amp:f":	2,
+				"Wave0Ang:f":	0,
+				"Wave0Len:f":	200,
+				"Wave0Time:f":	5,
+				"Wave1Amp:f":	3,
+				"Wave1Ang:f":	30,
+				"Wave1Len:f":	100,
+				"Wave1Time:f":	5,
+				"Wave2Amp:f":	0,
+				"Wave2Ang:f":	52,
+				"Wave2Len:f":	600,
+				"Wave2Time:f":	1,
+				"Wave3Amp:f":	0,
+				"Wave3Ang:f":	161,
+				"Wave3Len:f":	300,
+				"Wave3Time:f":	1,
+				"Interactive:d":	1,
+				"InteractiveAmp:f":	1.5,
+				"NormalEx:f":	2,
+				"FreezeDist:f":	2000,
+				"UVDensity:f":	400,
+				"Height:ffffffffff":	[100, 100, 100, 100, 100, 100, 100, 100, 100, 100],
+				"ForceDir:fff":	[0, 0, 0],
+				"GCNDListSize:d":	3136,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2544.237548828125, 192.61643981933594, 8401.4287109375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-1809.2137451171875, -50, -481.71603393554687, 1809.2137451171875, 50, 481.71603393554687],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Throne_River",
+				"Name:s":	"Throne_River",
+				"Pos:fff":	[-2544.237548828125, 192.61643981933594, 8401.4287109375],
+				"BBox:ffffff":	[-4353.451171875, 142.61643981933594, 7919.712890625, -735.0238037109375, 242.61643981933594, 8883.14453125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[1809.2137451171875, 50, 481.71603393554687],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"WaterCommandBuffer",
+		"row_count":	15,
+		"rows":	[{
+				"Command:dd":	[0, 32]
+			}, {
+				"Command:dd":	[1, 29]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 29]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 29]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 29]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 29]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 29]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 29]
+			}, {
+				"Command:dd":	[0, 32]
+			}]
+	}]

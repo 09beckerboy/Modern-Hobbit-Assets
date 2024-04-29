@@ -1,0 +1,1528 @@
+[{
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD68C_C8A67C13",
+				"CreatureType:s":	"Dwarf",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"char_fili_bind.npcgeom",
+				"Name:s":	"Dwarf, Fili 002",
+				"Team:d":	1,
+				"Position:fff":	[-2255.071044921875, -2091.54345703125, 19309.361328125],
+				"Rotation:fff":	[0, 72.449989318847656, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"Weapon_Balin_ Axe",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	40,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	0,
+				"Invulnerable:d":	1,
+				"RootToPosition:d":	1,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"StandIdle3",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"15A46ECE_4A3B7C05",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"IdleLeashRadius:f":	0,
+				"IdleAnimDelay:f":	3,
+				"WanderDelay:f":	0,
+				"PatrolCount:d":	0,
+				"IdleGoalListName:s":	"",
+				"AlertDuration1:f":	10,
+				"AlertDuration2:f":	10,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	4,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	350,
+				"MinJumpAttackRadius:f":	200,
+				"AttackGoalListName:s":	"",
+				"RetreatGoalListName:s":	"",
+				"FleeNavPoint:g":	"00000000_00000000",
+				"FleeGoalListName:s":	"",
+				"GoalListCount:d":	0,
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	100,
+				"HearingRange:f":	100,
+				"LoudHearingRange:f":	100,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2255.071044921875, -2091.54345703125, 19309.361328125],
+				"Orientation:fff":	[0, 72.449989318847656, 0],
+				"LocalBoundingBox:ffffff":	[-40, 0, -40, 40, 150, 40],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Dwarf, Fili 002"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD68C_C8A67C11",
+				"CreatureType:s":	"Dwarf",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"char_kili_bind.npcgeom",
+				"Name:s":	"Dwarf, Kili 002",
+				"Team:d":	1,
+				"Position:fff":	[-2157.744384765625, -2096.032958984375, 19223.6328125],
+				"Rotation:fff":	[0, 35.550079345703125, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"Weapon_Balin_ Axe",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	40,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	0,
+				"Invulnerable:d":	1,
+				"RootToPosition:d":	1,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"StandIdle3",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"15A46ECE_4A3B8000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"IdleLeashRadius:f":	0,
+				"IdleAnimDelay:f":	3,
+				"WanderDelay:f":	0,
+				"PatrolCount:d":	0,
+				"IdleGoalListName:s":	"",
+				"AlertDuration1:f":	10,
+				"AlertDuration2:f":	10,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	4,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	350,
+				"MinJumpAttackRadius:f":	200,
+				"AttackGoalListName:s":	"",
+				"RetreatGoalListName:s":	"",
+				"FleeNavPoint:g":	"00000000_00000000",
+				"FleeGoalListName:s":	"",
+				"GoalListCount:d":	0,
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	100,
+				"HearingRange:f":	100,
+				"LoudHearingRange:f":	100,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2157.744384765625, -2096.032958984375, 19223.6328125],
+				"Orientation:fff":	[0, 35.550079345703125, 0],
+				"LocalBoundingBox:ffffff":	[-40, 0, -40, 40, 150, 40],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Dwarf, Kili 002"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD94D_36900C01",
+				"CreatureType:s":	"Gandalf",
+				"IsSmooth:d":	1,
+				"GeometryResource:s":	"char_gandalf_bind.npcgeom",
+				"Name:s":	"Gandalf 003",
+				"Team:d":	1,
+				"Position:fff":	[-1650.216552734375, -3545.57958984375, 19574.1171875],
+				"Rotation:fff":	[0, -57.599956512451172, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"Gand_Sword",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"gand_staff",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	50,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	0,
+				"Invulnerable:d":	1,
+				"RootToPosition:d":	0,
+				"DoRender:d":	0,
+				"DoShadow:d":	1,
+				"DoCollision:d":	0,
+				"DoStateControl:d":	0,
+				"DoPhysControl:d":	0,
+				"DoSenses:d":	0
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"IdleLeashRadius:f":	0,
+				"IdleAnimDelay:f":	3,
+				"WanderDelay:f":	0,
+				"PatrolCount:d":	0,
+				"IdleGoalListName:s":	"",
+				"AlertDuration1:f":	10,
+				"AlertDuration2:f":	10,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"RangedAttackNavPoint:g":	"00000000_00000000",
+				"MeleeRadius:f":	500,
+				"RangedAttackDelay:f":	4,
+				"RangedAttackRange:f":	2000,
+				"RangedAttackTimeoutDuration:f":	5,
+				"RangedAttackGoalListName:s":	"",
+				"GoalListCount:d":	1
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Enter Goblin Ambush",
+				"GoalListLooping0:d":	0,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	0,
+				"GoalListMustComplete0:d":	1,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	3
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	1,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0Target:g":	"0D8AD28C_D88F1000",
+				"List0Goal0AnimType:d":	6,
+				"List0Goal0AnimName:s":	"",
+				"List0Goal0Lock:d":	0,
+				"List0Goal0LookAhead:d":	0,
+				"List0Goal0ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal1:d":	1,
+				"List0Goal1MustSuceed:d":	0,
+				"List0Goal1Target:g":	"0D8AD28C_D88F7801",
+				"List0Goal1AnimType:d":	6,
+				"List0Goal1AnimName:s":	"",
+				"List0Goal1Lock:d":	0,
+				"List0Goal1LookAhead:d":	0,
+				"List0Goal1ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal2:d":	1,
+				"List0Goal2MustSuceed:d":	0,
+				"List0Goal2Target:g":	"0D8AD28C_D88FCC01",
+				"List0Goal2AnimType:d":	6,
+				"List0Goal2AnimName:s":	"",
+				"List0Goal2Lock:d":	1,
+				"List0Goal2LookAhead:d":	0,
+				"List0Goal2ActionName:s":	"",
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	3000,
+				"HearingRange:f":	3000,
+				"LoudHearingRange:f":	0,
+				"SmellRange:f":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-1650.216552734375, -3545.57958984375, 19574.1171875],
+				"Orientation:fff":	[0, -57.599956512451172, 0],
+				"LocalBoundingBox:ffffff":	[-65, 0, -65, 65, 200, 65],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Gandalf 003"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD76CC_C7F71801",
+				"CreatureType:s":	"Goblin Guard",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"char_slave_model.npcgeom",
+				"Name:s":	"Goblin, Slave Area09 001",
+				"Team:d":	2,
+				"Position:fff":	[1809.5478515625, -2569.027587890625, 17896.740234375],
+				"Rotation:fff":	[0, -30.15001106262207, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"gobpickax",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	50,
+				"MaxHitPoints:f":	70,
+				"CouragePts:d":	25,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"",
+				"AlertDuration1:f":	5,
+				"AlertDuration2:f":	5,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	3,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	528.11578369140625,
+				"MinJumpAttackRadius:f":	422.49264526367188,
+				"AttackGoalListName:s":	"",
+				"RetreatGoalListName:s":	"",
+				"FleeNavPoint:g":	"00000000_00000000",
+				"FleeGoalListName:s":	"",
+				"GoalListCount:d":	1
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Run!",
+				"GoalListLooping0:d":	0,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	2
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	1,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0Target:g":	"0D8ADECC_DDBCB001",
+				"List0Goal0AnimType:d":	8,
+				"List0Goal0AnimName:s":	"",
+				"List0Goal0Lock:d":	0,
+				"List0Goal0LookAhead:d":	1,
+				"List0Goal0ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal1:d":	1,
+				"List0Goal1MustSuceed:d":	0,
+				"List0Goal1Target:g":	"0D8ADECC_DDBD0001",
+				"List0Goal1AnimType:d":	8,
+				"List0Goal1AnimName:s":	"",
+				"List0Goal1Lock:d":	0,
+				"List0Goal1LookAhead:d":	1,
+				"List0Goal1ActionName:s":	"",
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	800,
+				"HearingRange:f":	2000,
+				"LoudHearingRange:f":	0,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[1809.5478515625, -2569.027587890625, 17896.740234375],
+				"Orientation:fff":	[0, -30.15001106262207, 0],
+				"LocalBoundingBox:ffffff":	[-60, 0, -60, 60, 175, 60],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Goblin, Slave Area09 001"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD76CC_C8053C01",
+				"CreatureType:s":	"Goblin Guard",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"char_slave_model.npcgeom",
+				"Name:s":	"Goblin, Slave Area09 002",
+				"Team:d":	2,
+				"Position:fff":	[1809.5478515625, -2569.027587890625, 17896.740234375],
+				"Rotation:fff":	[0, -73.8000030517578, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"gobpickax",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	50,
+				"MaxHitPoints:f":	70,
+				"CouragePts:d":	25,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"",
+				"AlertDuration1:f":	5,
+				"AlertDuration2:f":	5,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	3,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	528.11578369140625,
+				"MinJumpAttackRadius:f":	422.49264526367188,
+				"AttackGoalListName:s":	"",
+				"RetreatGoalListName:s":	"",
+				"FleeNavPoint:g":	"00000000_00000000",
+				"FleeGoalListName:s":	"",
+				"GoalListCount:d":	1
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"Run!",
+				"GoalListLooping0:d":	0,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	2
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	1,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0Target:g":	"0D8ADECC_DDBCB001",
+				"List0Goal0AnimType:d":	8,
+				"List0Goal0AnimName:s":	"",
+				"List0Goal0Lock:d":	0,
+				"List0Goal0LookAhead:d":	1,
+				"List0Goal0ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal1:d":	1,
+				"List0Goal1MustSuceed:d":	0,
+				"List0Goal1Target:g":	"0D8ADECC_DDBD0001",
+				"List0Goal1AnimType:d":	8,
+				"List0Goal1AnimName:s":	"",
+				"List0Goal1Lock:d":	0,
+				"List0Goal1LookAhead:d":	1,
+				"List0Goal1ActionName:s":	"",
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	800,
+				"HearingRange:f":	2000,
+				"LoudHearingRange:f":	0,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[1809.5478515625, -2569.027587890625, 17896.740234375],
+				"Orientation:fff":	[0, -73.8000030517578, 0],
+				"LocalBoundingBox:ffffff":	[-60, 0, -60, 60, 175, 60],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Goblin, Slave Area09 002"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD76CC_C8055801",
+				"CreatureType:s":	"Goblin Guard",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"char_slave_model.npcgeom",
+				"Name:s":	"Goblin, Slave Area09 003",
+				"Team:d":	2,
+				"Position:fff":	[1809.5478515625, -2569.027587890625, 17896.740234375],
+				"Rotation:fff":	[0, -61.200023651123047, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"gobpickax",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	50,
+				"MaxHitPoints:f":	70,
+				"CouragePts:d":	25,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"",
+				"AlertDuration1:f":	10,
+				"AlertDuration2:f":	10,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	0,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	528.11578369140625,
+				"MinJumpAttackRadius:f":	422.49264526367188,
+				"AttackGoalListName:s":	"",
+				"RetreatGoalListName:s":	"",
+				"FleeNavPoint:g":	"00000000_00000000",
+				"FleeGoalListName:s":	"",
+				"GoalListCount:d":	1
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"RUN!",
+				"GoalListLooping0:d":	0,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	2
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	1,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0Target:g":	"0D8ADECC_DDBCB001",
+				"List0Goal0AnimType:d":	8,
+				"List0Goal0AnimName:s":	"",
+				"List0Goal0Lock:d":	0,
+				"List0Goal0LookAhead:d":	1,
+				"List0Goal0ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal1:d":	1,
+				"List0Goal1MustSuceed:d":	0,
+				"List0Goal1Target:g":	"0D8ADECC_DDBD0001",
+				"List0Goal1AnimType:d":	8,
+				"List0Goal1AnimName:s":	"",
+				"List0Goal1Lock:d":	0,
+				"List0Goal1LookAhead:d":	1,
+				"List0Goal1ActionName:s":	"",
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	800,
+				"HearingRange:f":	2000,
+				"LoudHearingRange:f":	0,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[1809.5478515625, -2569.027587890625, 17896.740234375],
+				"Orientation:fff":	[0, -61.200023651123047, 0],
+				"LocalBoundingBox:ffffff":	[-60, 0, -60, 60, 175, 60],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Goblin, Slave Area09 003"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD76CC_C8058401",
+				"CreatureType:s":	"Goblin Guard",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"char_slave_model.npcgeom",
+				"Name:s":	"Goblin, Slave Area09 004",
+				"Team:d":	2,
+				"Position:fff":	[1809.5478515625, -2569.027587890625, 17896.740234375],
+				"Rotation:fff":	[0, -18.900043487548828, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"gobpickax",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	50,
+				"MaxHitPoints:f":	70,
+				"CouragePts:d":	25,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"",
+				"AlertDuration1:f":	10,
+				"AlertDuration2:f":	10,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	0,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	528.11578369140625,
+				"MinJumpAttackRadius:f":	422.49264526367188,
+				"AttackGoalListName:s":	"",
+				"RetreatGoalListName:s":	"",
+				"FleeNavPoint:g":	"00000000_00000000",
+				"FleeGoalListName:s":	"",
+				"GoalListCount:d":	1
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"run!",
+				"GoalListLooping0:d":	0,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	2
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	1,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0Target:g":	"0D8ADECC_DDBCB001",
+				"List0Goal0AnimType:d":	8,
+				"List0Goal0AnimName:s":	"",
+				"List0Goal0Lock:d":	0,
+				"List0Goal0LookAhead:d":	1,
+				"List0Goal0ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal1:d":	1,
+				"List0Goal1MustSuceed:d":	0,
+				"List0Goal1Target:g":	"0D8ADECC_DDBD0001",
+				"List0Goal1AnimType:d":	8,
+				"List0Goal1AnimName:s":	"",
+				"List0Goal1Lock:d":	0,
+				"List0Goal1LookAhead:d":	1,
+				"List0Goal1ActionName:s":	"",
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	800,
+				"HearingRange:f":	2000,
+				"LoudHearingRange:f":	0,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[1809.5478515625, -2569.027587890625, 17896.740234375],
+				"Orientation:fff":	[0, -18.900043487548828, 0],
+				"LocalBoundingBox:ffffff":	[-60, 0, -60, 60, 175, 60],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Goblin, Slave Area09 004"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADECC_DDBF2801",
+				"CreatureType:s":	"Goblin Guard",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"char_slave_model.npcgeom",
+				"Name:s":	"Goblin, Slave Area09 005",
+				"Team:d":	2,
+				"Position:fff":	[2957.677734375, -2514.0751953125, 17283.39453125],
+				"Rotation:fff":	[0, -30.15001106262207, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"gobpickax",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	50,
+				"MaxHitPoints:f":	70,
+				"CouragePts:d":	25,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	0,
+				"DoRender:d":	0,
+				"DoShadow:d":	1,
+				"DoCollision:d":	0,
+				"DoStateControl:d":	0,
+				"DoPhysControl:d":	0,
+				"DoSenses:d":	0
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"",
+				"AlertDuration1:f":	10,
+				"AlertDuration2:f":	10,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	0,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	528.11578369140625,
+				"MinJumpAttackRadius:f":	422.49264526367188,
+				"AttackGoalListName:s":	"",
+				"RetreatGoalListName:s":	"",
+				"FleeNavPoint:g":	"00000000_00000000",
+				"FleeGoalListName:s":	"",
+				"GoalListCount:d":	1
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"run!",
+				"GoalListLooping0:d":	0,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	2
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	1,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0Target:g":	"0D8ADECC_DDBCB001",
+				"List0Goal0AnimType:d":	8,
+				"List0Goal0AnimName:s":	"",
+				"List0Goal0Lock:d":	0,
+				"List0Goal0LookAhead:d":	1,
+				"List0Goal0ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal1:d":	1,
+				"List0Goal1MustSuceed:d":	0,
+				"List0Goal1Target:g":	"0D8ADECC_DDBD0001",
+				"List0Goal1AnimType:d":	8,
+				"List0Goal1AnimName:s":	"",
+				"List0Goal1Lock:d":	0,
+				"List0Goal1LookAhead:d":	1,
+				"List0Goal1ActionName:s":	"",
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	2000,
+				"HearingRange:f":	2000,
+				"LoudHearingRange:f":	0,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[2957.677734375, -2514.0751953125, 17283.39453125],
+				"Orientation:fff":	[0, -30.15001106262207, 0],
+				"LocalBoundingBox:ffffff":	[-60, 0, -60, 60, 175, 60],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Goblin, Slave Area09 005"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADECC_DDBF4801",
+				"CreatureType:s":	"Goblin Guard",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"char_slave_model.npcgeom",
+				"Name:s":	"Goblin, Slave Area09 006",
+				"Team:d":	2,
+				"Position:fff":	[2738.85498046875, -2514.0751953125, 17233.17578125],
+				"Rotation:fff":	[0, -30.15001106262207, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"gobpickax",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	50,
+				"MaxHitPoints:f":	70,
+				"CouragePts:d":	25,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	0,
+				"DoRender:d":	0,
+				"DoShadow:d":	1,
+				"DoCollision:d":	0,
+				"DoStateControl:d":	0,
+				"DoPhysControl:d":	0,
+				"DoSenses:d":	0
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"",
+				"AlertDuration1:f":	10,
+				"AlertDuration2:f":	10,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	0,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	528.11578369140625,
+				"MinJumpAttackRadius:f":	422.49264526367188,
+				"AttackGoalListName:s":	"",
+				"RetreatGoalListName:s":	"",
+				"FleeNavPoint:g":	"00000000_00000000",
+				"FleeGoalListName:s":	"",
+				"GoalListCount:d":	1
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"RUN!",
+				"GoalListLooping0:d":	0,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	2
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	1,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0Target:g":	"0D8ADECC_DDBCB001",
+				"List0Goal0AnimType:d":	8,
+				"List0Goal0AnimName:s":	"",
+				"List0Goal0Lock:d":	0,
+				"List0Goal0LookAhead:d":	1,
+				"List0Goal0ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal1:d":	1,
+				"List0Goal1MustSuceed:d":	0,
+				"List0Goal1Target:g":	"0D8ADECC_DDBD0001",
+				"List0Goal1AnimType:d":	8,
+				"List0Goal1AnimName:s":	"",
+				"List0Goal1Lock:d":	0,
+				"List0Goal1LookAhead:d":	1,
+				"List0Goal1ActionName:s":	"",
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	2000,
+				"HearingRange:f":	2000,
+				"LoudHearingRange:f":	0,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[2738.85498046875, -2514.0751953125, 17233.17578125],
+				"Orientation:fff":	[0, -30.15001106262207, 0],
+				"LocalBoundingBox:ffffff":	[-60, 0, -60, 60, 175, 60],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Goblin, Slave Area09 006"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADECC_DDBF5C01",
+				"CreatureType:s":	"Goblin Guard",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"char_slave_model.npcgeom",
+				"Name:s":	"Goblin, Slave Area09 007",
+				"Team:d":	2,
+				"Position:fff":	[2696.0771484375, -2514.0751953125, 17415.33984375],
+				"Rotation:fff":	[0, -30.15001106262207, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"gobpickax",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	50,
+				"MaxHitPoints:f":	70,
+				"CouragePts:d":	25,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	0,
+				"DoRender:d":	0,
+				"DoShadow:d":	1,
+				"DoCollision:d":	0,
+				"DoStateControl:d":	0,
+				"DoPhysControl:d":	0,
+				"DoSenses:d":	0
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"",
+				"AlertDuration1:f":	5,
+				"AlertDuration2:f":	5,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	3,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	528.11578369140625,
+				"MinJumpAttackRadius:f":	422.49264526367188,
+				"AttackGoalListName:s":	"",
+				"RetreatGoalListName:s":	"",
+				"FleeNavPoint:g":	"00000000_00000000",
+				"FleeGoalListName:s":	"",
+				"GoalListCount:d":	1
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"run",
+				"GoalListLooping0:d":	0,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	2
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	1,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0Target:g":	"0D8ADECC_DDBCB001",
+				"List0Goal0AnimType:d":	8,
+				"List0Goal0AnimName:s":	"",
+				"List0Goal0Lock:d":	0,
+				"List0Goal0LookAhead:d":	1,
+				"List0Goal0ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal1:d":	1,
+				"List0Goal1MustSuceed:d":	0,
+				"List0Goal1Target:g":	"0D8ADECC_DDBD0001",
+				"List0Goal1AnimType:d":	8,
+				"List0Goal1AnimName:s":	"",
+				"List0Goal1Lock:d":	0,
+				"List0Goal1LookAhead:d":	1,
+				"List0Goal1ActionName:s":	"",
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	2000,
+				"HearingRange:f":	2000,
+				"LoudHearingRange:f":	0,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[2696.0771484375, -2514.0751953125, 17415.33984375],
+				"Orientation:fff":	[0, -30.15001106262207, 0],
+				"LocalBoundingBox:ffffff":	[-60, 0, -60, 60, 175, 60],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Goblin, Slave Area09 007"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADECC_DDBF7401",
+				"CreatureType:s":	"Goblin Guard",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"char_slave_model.npcgeom",
+				"Name:s":	"Goblin, Slave Area09 008",
+				"Team:d":	2,
+				"Position:fff":	[2838.427001953125, -2514.0751953125, 17419.880859375],
+				"Rotation:fff":	[0, -30.15001106262207, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"gobpickax",
+				"RangedProp:s":	"NONE",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	50,
+				"MaxHitPoints:f":	70,
+				"CouragePts:d":	25,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	0,
+				"RootToPosition:d":	0,
+				"DoRender:d":	0,
+				"DoShadow:d":	1,
+				"DoCollision:d":	0,
+				"DoStateControl:d":	0,
+				"DoPhysControl:d":	0,
+				"DoSenses:d":	0
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"idle",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"PatrolCount:d":	0,
+				"PatrolIdleStateGoalListName:s":	"",
+				"AlertDuration1:f":	10,
+				"AlertDuration2:f":	10,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"AttackDelay:f":	0,
+				"AttackRadius:f":	200,
+				"AttackIdleRadius:f":	500,
+				"AttackHeight:f":	300,
+				"DoJumpAttack:d":	30,
+				"JumpAttackRadius:f":	528.11578369140625,
+				"MinJumpAttackRadius:f":	422.49264526367188,
+				"AttackGoalListName:s":	"",
+				"RetreatGoalListName:s":	"",
+				"FleeNavPoint:g":	"00000000_00000000",
+				"FleeGoalListName:s":	"",
+				"GoalListCount:d":	1
+			}]
+	}, {
+		"name":	"GoalList0",
+		"row_count":	1,
+		"rows":	[{
+				"GoalListName0:s":	"run!",
+				"GoalListLooping0:d":	0,
+				"GoalListLoopStart0:d":	0,
+				"GoalListCollision0:d":	1,
+				"GoalListMustComplete0:d":	0,
+				"GoalListRestartFromBeginning0:d":	1,
+				"GoalListGoalCount0:d":	2
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal0:d":	1,
+				"List0Goal0MustSuceed:d":	0,
+				"List0Goal0Target:g":	"0D8ADECC_DDBCB001",
+				"List0Goal0AnimType:d":	8,
+				"List0Goal0AnimName:s":	"",
+				"List0Goal0Lock:d":	0,
+				"List0Goal0LookAhead:d":	1,
+				"List0Goal0ActionName:s":	""
+			}]
+	}, {
+		"name":	"GoalList0GoalHeader1818116",
+		"row_count":	1,
+		"rows":	[{
+				"GoalList0Goal1:d":	1,
+				"List0Goal1MustSuceed:d":	0,
+				"List0Goal1Target:g":	"0D8ADECC_DDBD0001",
+				"List0Goal1AnimType:d":	8,
+				"List0Goal1AnimName:s":	"",
+				"List0Goal1Lock:d":	0,
+				"List0Goal1LookAhead:d":	1,
+				"List0Goal1ActionName:s":	"",
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	2000,
+				"HearingRange:f":	2000,
+				"LoudHearingRange:f":	0,
+				"SmellRange:f":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[2838.427001953125, -2514.0751953125, 17419.880859375],
+				"Orientation:fff":	[0, -30.15001106262207, 0],
+				"LocalBoundingBox:ffffff":	[-60, 0, -60, 60, 175, 60],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Goblin, Slave Area09 008"
+			}]
+	}, {
+		"name":	"NPC",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"C4CD7E90_9DCEDC01",
+				"CreatureType:s":	"Pony",
+				"IsSmooth:d":	0,
+				"GeometryResource:s":	"char_pony_bind.npcgeom",
+				"Name:s":	"Pony Area08 001",
+				"Team:d":	1,
+				"Position:fff":	[-2344.362548828125, -2073.737548828125, 19201.107421875],
+				"Rotation:fff":	[0, 107.09995269775391, 0],
+				"LogStates:d":	0,
+				"LogAnimation:d":	0,
+				"WeaponProp:s":	"NONE",
+				"RangedProp:s":	"gobbag",
+				"ShieldProp:s":	"NONE",
+				"HeldAmmo:s":	"NONE",
+				"PersonalSpaceRadius:f":	60,
+				"MaxHitPoints:f":	1000,
+				"CouragePts:d":	0,
+				"DeathCinema:g":	"00000000_00000000",
+				"ActivitySphereRadius:f":	0,
+				"DieImmediately:d":	0,
+				"Sleeps:d":	1,
+				"Pushable:d":	1,
+				"Invulnerable:d":	1,
+				"RootToPosition:d":	0,
+				"DoRender:d":	1,
+				"DoShadow:d":	1,
+				"DoCollision:d":	1,
+				"DoStateControl:d":	1,
+				"DoPhysControl:d":	1,
+				"DoSenses:d":	1
+			}]
+	}, {
+		"name":	"PhysControl",
+		"row_count":	1,
+		"rows":	[{
+				"MinGroundDist:f":	10,
+				"MaxGroundDist:f":	10,
+				"IdleAnim:s":	"Graze",
+				"BodyMaskAnim:s":	"NONE"
+			}]
+	}, {
+		"name":	"StateControl",
+		"row_count":	1,
+		"rows":	[{
+				"TriggeredConversationName:s":	"NONE",
+				"TriggeredCinema:g":	"00000000_00000000",
+				"EelColony:g":	"00000000_00000000",
+				"BlockPercent:d":	25,
+				"EvadePercent:d":	25,
+				"ShovePercent:d":	25,
+				"StrafePercent:d":	66,
+				"bCanBlockStones:d":	0,
+				"BlockDamageModifier:f":	0.25,
+				"ShieldBlockDamageModifier:f":	0.0010000000474974513,
+				"IdleLeashRadius:f":	1000,
+				"IdleAnimDelay:f":	3,
+				"WanderDelay:f":	5,
+				"PatrolCount:d":	0,
+				"IdleGoalListName:s":	"",
+				"AlertDuration1:f":	10,
+				"AlertDuration2:f":	10,
+				"GotoSound:d":	1,
+				"AlertGoalListName:s":	"",
+				"GoalListCount:d":	0,
+				"GoalListSetCount:d":	0
+			}]
+	}, {
+		"name":	"SenseControl",
+		"row_count":	1,
+		"rows":	[{
+				"DoLOS:d":	1,
+				"SightRange:f":	2000,
+				"HearingRange:f":	3000,
+				"LoudHearingRange:f":	5000,
+				"SmellRange:f":	100,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	0,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	384,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-2344.362548828125, -2073.737548828125, 19201.107421875],
+				"Orientation:fff":	[0, 107.09995269775391, 0],
+				"LocalBoundingBox:ffffff":	[-175, 0, -175, 175, 200, 175],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Pony Area08 001"
+			}]
+	}]

@@ -1,0 +1,960 @@
+[{
+		"name":	"Volume",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD611_562E5C00",
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[4038.81103515625, -870.27459716796875, -26253.5625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-98.999992370605469, -105.49999237060547, -128.15998840332031, 98.999992370605469, 105.49999237060547, 128.15998840332031],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"EOL_Cheat_Vol",
+				"Name:s":	"EOL_Cheat_Vol",
+				"Pos:fff":	[4038.81103515625, -870.27459716796875, -26253.5625],
+				"BBox:ffffff":	[3939.81103515625, -975.77459716796875, -26381.72265625, 4137.81103515625, -764.77459716796875, -26125.40234375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[98.999992370605469, 105.49999237060547, 128.15998840332031],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD0D2_81BAC000",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[9790.2001953125, 6350.0859375, -20903.09375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Float_Platforms",
+				"Name:s":	"Float_Platforms",
+				"Pos:fff":	[9790.2001953125, 6350.0859375, -20903.09375],
+				"BBox:ffffff":	[9740.2001953125, 6300.0859375, -20953.09375, 9840.2001953125, 6400.0859375, -20853.09375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"Area4_Platforms_Float"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadLayer:s":	"Area4_Platforms"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD5D0_19CF0800",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-14043.04296875, 8800.166015625, -23112.103515625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Load EOL Switch",
+				"Name:s":	"Load EOL Switch",
+				"Pos:fff":	[-14043.04296875, 8800.166015625, -23112.103515625],
+				"BBox:ffffff":	[-14093.04296875, 8750.166015625, -23162.103515625, -13993.04296875, 8850.166015625, -23062.103515625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"CH02_EOL_Switch"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADBD2_5915A001",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, -6.0999998822808266e-005, 301.67864990234375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Load TreeLeaves 01",
+				"Name:s":	"Load TreeLeaves 01",
+				"Pos:fff":	[0, -6.0999998822808266e-005, 301.67864990234375],
+				"BBox:ffffff":	[-50, -50.00006103515625, 251.67864990234375, 50, 49.99993896484375, 351.67864990234375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"CH02_TreeLeaves01"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADBD2_5915AC01",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, -6.0999998822808266e-005, 418.080810546875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Load TreeLeaves 02",
+				"Name:s":	"Load TreeLeaves 02",
+				"Pos:fff":	[0, -6.0999998822808266e-005, 418.080810546875],
+				"BBox:ffffff":	[-50, -50.00006103515625, 368.080810546875, 50, 49.99993896484375, 468.080810546875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"CH02_TreeLeaves_02"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"18B5CB51_221C0800",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[727.7279052734375, -354.14263916015625, -21232.59765625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LoadArea3Waterfall",
+				"Name:s":	"LoadArea3Waterfall",
+				"Pos:fff":	[727.7279052734375, -354.14263916015625, -21232.59765625],
+				"BBox:ffffff":	[677.7279052734375, -404.14263916015625, -21282.59765625, 777.7279052734375, -304.14263916015625, -21182.59765625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"Area3_waterfall"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"18B5CB51_221D2001",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[624.7786865234375, -354.14263916015625, -21128.251953125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LoadArea4Waterfall",
+				"Name:s":	"LoadArea4Waterfall",
+				"Pos:fff":	[624.7786865234375, -354.14263916015625, -21128.251953125],
+				"BBox:ffffff":	[574.7786865234375, -404.14263916015625, -21178.251953125, 674.7786865234375, -304.14263916015625, -21078.251953125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"Area4_waterfall"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADB0C_499A0C00",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[3880.310546875, -1377.817138671875, -17149.8359375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"LoadTrigger 004",
+				"Name:s":	"LoadTrigger 004",
+				"Pos:fff":	[3880.310546875, -1377.817138671875, -17149.8359375],
+				"BBox:ffffff":	[3830.310546875, -1427.817138671875, -17199.8359375, 3930.310546875, -1327.817138671875, -17099.8359375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"CH02_FallenRocks_InvisoWall"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD690_CD06FC00",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[3480.135986328125, -453.6737060546875, -22391.744140625],
+				"Orientation:fff":	[0, 34.6500244140625, 0],
+				"LocalBoundingBox:ffffff":	[-591.91229248046875, -643.49993896484375, -430.58026123046875, 591.91229248046875, 643.49993896484375, 430.58026123046875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Load_2-3",
+				"Name:s":	"Load_2-3",
+				"Pos:fff":	[3480.135986328125, -453.6737060546875, -22391.744140625],
+				"BBox:ffffff":	[2888.2236328125, -1097.173583984375, -22822.32421875, 4072.04833984375, 189.82623291015625, -21961.1640625],
+				"Orient:fff":	[0, 34.6500244140625, 0],
+				"HalfDimensions:fff":	[684.9703369140625, 643.49993896484375, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	5,
+		"rows":	[{
+				"Layer:s":	"Area5_Instances"
+			}, {
+				"Layer:s":	"Area5_NPC"
+			}, {
+				"Layer:s":	"Area5_Plants"
+			}, {
+				"Layer:s":	"Area5_Instances"
+			}, {
+				"Layer:s":	"Occluders_Area4"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	5,
+		"rows":	[{
+				"UnloadLayer:s":	"Area1_Dwarf"
+			}, {
+				"UnloadLayer:s":	"Area1_Instances"
+			}, {
+				"UnloadLayer:s":	"Area1_NPC"
+			}, {
+				"UnloadLayer:s":	"Occluders_Area1"
+			}, {
+				"UnloadLayer:s":	"Area1_Plants"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD690_CD08F001",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[3404.779296875, -453.67160034179687, -22501.861328125],
+				"Orientation:fff":	[0, 33.750019073486328, 0],
+				"LocalBoundingBox:ffffff":	[-597.31036376953125, -656.28759765625, -422.122802734375, 597.31036376953125, 656.28759765625, 422.122802734375],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Load_3-2",
+				"Name:s":	"Load_3-2",
+				"Pos:fff":	[3404.779296875, -453.67160034179687, -22501.861328125],
+				"BBox:ffffff":	[2807.468994140625, -1109.959228515625, -22923.984375, 4002.089599609375, 202.61599731445312, -22079.73828125],
+				"Orient:fff":	[0, 33.750019073486328, 0],
+				"HalfDimensions:fff":	[684.9703369140625, 656.28759765625, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	5,
+		"rows":	[{
+				"Layer:s":	"Area1_Dwarf"
+			}, {
+				"Layer:s":	"Area1_Instances"
+			}, {
+				"Layer:s":	"Area1_NPC"
+			}, {
+				"Layer:s":	"Occluders_Area1"
+			}, {
+				"Layer:s":	"Area1_Plants"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	5,
+		"rows":	[{
+				"UnloadLayer:s":	"Area5_Instances"
+			}, {
+				"UnloadLayer:s":	"Area5_NPC"
+			}, {
+				"UnloadLayer:s":	"Area5_Plants"
+			}, {
+				"UnloadLayer:s":	"Area5_Instances"
+			}, {
+				"UnloadLayer:s":	"Occluders_Area4"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDED0_E821A000",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[2998.76904296875, -787.6109619140625, -20456.3046875],
+				"Orientation:fff":	[0, 8.10001850128174, 0],
+				"LocalBoundingBox:ffffff":	[-158.88191223144531, -505.07785034179687, -775.5924072265625, 158.88191223144531, 505.07785034179687, 775.5924072265625],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Load_4-5",
+				"Name:s":	"Load_4-5",
+				"Pos:fff":	[2998.76904296875, -787.6109619140625, -20456.3046875],
+				"BBox:ffffff":	[2839.88720703125, -1292.6888427734375, -21231.896484375, 3157.65087890625, -282.53311157226563, -19680.712890625],
+				"Orient:fff":	[0, 8.10001850128174, 0],
+				"HalfDimensions:fff":	[50, 505.07785034179687, 776.2918701171875],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	14,
+		"rows":	[{
+				"Layer:s":	"CH02_Dried_Leaves"
+			}, {
+				"Layer:s":	"CH02_Chests_Troll"
+			}, {
+				"Layer:s":	"CH02_Inst_Troll"
+			}, {
+				"Layer:s":	"CH02_NPC_Trolls"
+			}, {
+				"Layer:s":	"CH02_Pickups_Trolls"
+			}, {
+				"Layer:s":	"CH02_Plants_Expendable_Trolls"
+			}, {
+				"Layer:s":	"CH02_Plants_Trolls"
+			}, {
+				"Layer:s":	"CH02_Rocks_Trolls"
+			}, {
+				"Layer:s":	"CH02_EOL_Switch"
+			}, {
+				"Layer:s":	"CH02_TreeLeaves01"
+			}, {
+				"Layer:s":	"CH02_TreeLeaves_02"
+			}, {
+				"Layer:s":	"CH02_PlaySurface_CliffFront"
+			}, {
+				"Layer:s":	"CH02_Thickbush"
+			}, {
+				"Layer:s":	"Ch02_RockPlatforms"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	10,
+		"rows":	[{
+				"UnloadLayer:s":	"Area2_Instances"
+			}, {
+				"UnloadLayer:s":	"Area2_NPC"
+			}, {
+				"UnloadLayer:s":	"Area2_Plants"
+			}, {
+				"UnloadLayer:s":	"Area3_Instances"
+			}, {
+				"UnloadLayer:s":	"Area3_NPC"
+			}, {
+				"UnloadLayer:s":	"Area3_Plants"
+			}, {
+				"UnloadLayer:s":	"CH02_Ponies"
+			}, {
+				"UnloadLayer:s":	"Ch02_Campfire_FX"
+			}, {
+				"UnloadLayer:s":	"Occluders_Area4"
+			}, {
+				"UnloadLayer:s":	"Area2_Playsurface"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDED0_E827D001",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[3100.548828125, -773.673583984375, -20604.6328125],
+				"Orientation:fff":	[0, 8.10001850128174, 0],
+				"LocalBoundingBox:ffffff":	[-172.341064453125, -456.67568969726562, -870.1610107421875, 172.341064453125, 456.67568969726562, 870.1610107421875],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Load_5-4",
+				"Name:s":	"Load_5-4",
+				"Pos:fff":	[3100.548828125, -773.673583984375, -20604.6328125],
+				"BBox:ffffff":	[2928.207763671875, -1230.3492431640625, -21474.79296875, 3272.889892578125, -316.99789428710937, -19734.47265625],
+				"Orient:fff":	[0, 8.10001850128174, 0],
+				"HalfDimensions:fff":	[50, 456.67568969726562, 871.8134765625],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	10,
+		"rows":	[{
+				"Layer:s":	"Area2_Instances"
+			}, {
+				"Layer:s":	"Area2_NPC"
+			}, {
+				"Layer:s":	"Area2_Plants"
+			}, {
+				"Layer:s":	"Area3_Instances"
+			}, {
+				"Layer:s":	"Area3_NPC"
+			}, {
+				"Layer:s":	"Area3_Plants"
+			}, {
+				"Layer:s":	"CH02_Ponies"
+			}, {
+				"Layer:s":	"Ch02_Campfire_FX"
+			}, {
+				"Layer:s":	"Area2_Playsurface"
+			}, {
+				"Layer:s":	"Occluders_Area4"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	12,
+		"rows":	[{
+				"UnloadLayer:s":	"CH02_Chests_Troll"
+			}, {
+				"UnloadLayer:s":	"CH02_Dried_Leaves"
+			}, {
+				"UnloadLayer:s":	"CH02_NPC_Trolls"
+			}, {
+				"UnloadLayer:s":	"CH02_Inst_Troll"
+			}, {
+				"UnloadLayer:s":	"CH02_Pickups_Trolls"
+			}, {
+				"UnloadLayer:s":	"CH02_Plants_Expendable_Trolls"
+			}, {
+				"UnloadLayer:s":	"CH02_Plants_Trolls"
+			}, {
+				"UnloadLayer:s":	"CH02_Rocks_Trolls"
+			}, {
+				"UnloadLayer:s":	"CH02_EOL_Switch"
+			}, {
+				"UnloadLayer:s":	"CH02_TreeLeaves01"
+			}, {
+				"UnloadLayer:s":	"CH02_TreeLeaves_02"
+			}, {
+				"UnloadLayer:s":	"CH02_PlaySurface_CliffFront"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD490_CC034400",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[1512.08056640625, 37.650955200195313, -21845.388671875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Small_Sluice_NPC",
+				"Name:s":	"Small_Sluice_NPC",
+				"Pos:fff":	[1512.08056640625, 37.650955200195313, -21845.388671875],
+				"BBox:ffffff":	[1462.08056640625, -12.349044799804688, -21895.388671875, 1562.08056640625, 87.6509552001953, -21795.388671875],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	1,
+		"rows":	[{
+				"Layer:s":	"Area2_LeaperLOAD"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD051_2CF69001",
+				"Teleport:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-175.54396057128906, -844.841064453125, -20047.75],
+				"Orientation:fff":	[0, 34.6500244140625, 0],
+				"LocalBoundingBox:ffffff":	[-67.8720016479492, -90.750030517578125, -68.3933868408203, 67.8720016479492, 90.750030517578125, 68.3933868408203],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Teleporter-Trolls",
+				"Name:s":	"Teleporter-Trolls",
+				"Pos:fff":	[-175.54396057128906, -844.841064453125, -20047.75],
+				"BBox:ffffff":	[-243.41595458984375, -935.591064453125, -20116.142578125, -107.67195892333984, -754.091064453125, -19979.357421875],
+				"Orient:fff":	[0, 34.6500244140625, 0],
+				"HalfDimensions:fff":	[47.947917938232422, 90.750030517578125, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	11,
+		"rows":	[{
+				"Layer:s":	"CH02_Dried_Leaves"
+			}, {
+				"Layer:s":	"CH02_Chests_Troll"
+			}, {
+				"Layer:s":	"CH02_Inst_Troll"
+			}, {
+				"Layer:s":	"CH02_NPC_Trolls"
+			}, {
+				"Layer:s":	"CH02_Plants_Expendable_Trolls"
+			}, {
+				"Layer:s":	"CH02_Pickups_Trolls"
+			}, {
+				"Layer:s":	"CH02_Plants_Trolls"
+			}, {
+				"Layer:s":	"CH02_Rocks_Trolls"
+			}, {
+				"Layer:s":	"CH02_EOL_Switch"
+			}, {
+				"Layer:s":	"CH02_TreeLeaves01"
+			}, {
+				"Layer:s":	"CH02_TreeLeaves_02"
+			}]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	7,
+		"rows":	[{
+				"UnloadLayer:s":	"Area1_Dwarf"
+			}, {
+				"UnloadLayer:s":	"Area1_Instances"
+			}, {
+				"UnloadLayer:s":	"Area1_NPC"
+			}, {
+				"UnloadLayer:s":	"Ch02_Campfire_FX"
+			}, {
+				"UnloadLayer:s":	"Area1_Plants"
+			}, {
+				"UnloadLayer:s":	"Occluders_Area2"
+			}, {
+				"UnloadLayer:s":	"Occluders_Area1"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD60F_60C51C01",
+				"Teleport:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[4039.676513671875, -864.9473876953125, -26239.3828125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-52.013580322265625, -58.227619171142578, -48.573360443115234, 52.013580322265625, 58.227619171142578, 48.573360443115234],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Teleporter_EOL",
+				"Name:s":	"Teleporter_EOL",
+				"Pos:fff":	[4039.676513671875, -864.9473876953125, -26239.3828125],
+				"BBox:ffffff":	[3987.662841796875, -923.17498779296875, -26287.95703125, 4091.690185546875, -806.71978759765625, -26190.80859375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[52.013580322265625, 58.227619171142578, 48.573360443115234],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD5D0_19CF6C00",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-14043.04296875, 8800.166015625, -23112.103515625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Unload EOL Switch",
+				"Name:s":	"Unload EOL Switch",
+				"Pos:fff":	[-14043.04296875, 8800.166015625, -23112.103515625],
+				"BBox:ffffff":	[-14093.04296875, 8750.166015625, -23162.103515625, -13993.04296875, 8850.166015625, -23062.103515625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadLayer:s":	"CH02_EOL_Switch"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADBD2_59152000",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 50],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Unload TreeLeaves 01",
+				"Name:s":	"Unload TreeLeaves 01",
+				"Pos:fff":	[0, 0, 50],
+				"BBox:ffffff":	[-50, -50, 0, 50, 50, 100],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadLayer:s":	"CH02_TreeLeaves01"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADBD2_59159401",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 183.20660400390625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Unload TreeLeaves 02",
+				"Name:s":	"Unload TreeLeaves 02",
+				"Pos:fff":	[0, 0, 183.20660400390625],
+				"BBox:ffffff":	[-50, -50, 133.20660400390625, 50, 50, 233.20660400390625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadLayer:s":	"CH02_TreeLeaves_02"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"18B5CB51_221C8C00",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[826.04833984375, -352.19775390625, -21140.62890625],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"UnloadArea3Waterfall",
+				"Name:s":	"UnloadArea3Waterfall",
+				"Pos:fff":	[826.04833984375, -352.19775390625, -21140.62890625],
+				"BBox:ffffff":	[776.04833984375, -402.19775390625, -21190.62890625, 876.04833984375, -302.19775390625, -21090.62890625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadLayer:s":	"Area3_waterfall"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"LoadTrigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"18B5CB51_221CEC01",
+				"Teleport:d":	0,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[729.2047119140625, -352.19805908203125, -21026.36328125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-50, -50, -50, 50, 50, 50],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"UnloadArea4Waterfall",
+				"Name:s":	"UnloadArea4Waterfall",
+				"Pos:fff":	[729.2047119140625, -352.19805908203125, -21026.36328125],
+				"BBox:ffffff":	[679.2047119140625, -402.19805908203125, -21076.36328125, 779.2047119140625, -302.19805908203125, -20976.36328125],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[50, 50, 50],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"LoadLayers",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadLayer",
+		"row_count":	1,
+		"rows":	[{
+				"UnloadLayer:s":	"Area4_waterfall"
+			}]
+	}, {
+		"name":	"LoadResources",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"UnloadResources",
+		"row_count":	0,
+		"rows":	[]
+	}]

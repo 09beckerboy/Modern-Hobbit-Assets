@@ -1,0 +1,134 @@
+[{
+		"name":	"Water",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADC0E_9F257401",
+				"bRender:d":	0,
+				"bSplash:d":	1,
+				"bDrown:d":	1,
+				"QuadSize:f":	300,
+				"MinAlpha:d":	50,
+				"MaxAlpha:d":	160,
+				"Tint:dddd":	[20, 20, 20, 255],
+				"CommonTexture:d":	1,
+				"BaseTexture:s":	"water.xbmp",
+				"CommonRef:d":	0,
+				"RefTexture:s":	"ekh_water_rm[rgb].xbmp",
+				"CommonGloss:d":	1,
+				"GlossTexture:s":	"watergloss.xbmp",
+				"PainType:d":	0,
+				"PainFreq:f":	2,
+				"PoisonDur:f":	4,
+				"PainAmt:f":	1,
+				"Wave0Amp:f":	5,
+				"Wave0Ang:f":	0,
+				"Wave0Len:f":	400,
+				"Wave0Time:f":	1.5,
+				"Wave1Amp:f":	6,
+				"Wave1Ang:f":	30,
+				"Wave1Len:f":	250,
+				"Wave1Time:f":	1.6000000238418579,
+				"Wave2Amp:f":	0,
+				"Wave2Ang:f":	52,
+				"Wave2Len:f":	600,
+				"Wave2Time:f":	1,
+				"Wave3Amp:f":	0,
+				"Wave3Ang:f":	161,
+				"Wave3Len:f":	300,
+				"Wave3Time:f":	1,
+				"Interactive:d":	0,
+				"InteractiveAmp:f":	10,
+				"NormalEx:f":	1,
+				"FreezeDist:f":	1000,
+				"UVDensity:f":	200,
+				"Height:ffffffffff":	[848.46014404296875, 100, 100, 100, 100, 100, 100, 100, 100, 100],
+				"ForceDir:fff":	[0, 0, 0],
+				"GCNDListSize:d":	2112,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	432,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[-10094.0029296875, -1466.2239990234375, 3117.62060546875],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-1295.9212646484375, -424.23007202148437, -2555.879150390625, 1295.9212646484375, 424.23007202148437, 2555.879150390625],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"BarrelRoom_River",
+				"Name:s":	"BarrelRoom_River",
+				"Pos:fff":	[-10094.0029296875, -1466.2239990234375, 3117.62060546875],
+				"BBox:ffffff":	[-11389.923828125, -1890.4541015625, 561.741455078125, -8798.08203125, -1041.993896484375, 5673.5],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[1295.9212646484375, 424.23007202148437, 2555.879150390625],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"WaterCommandBuffer",
+		"row_count":	33,
+		"rows":	[{
+				"Command:dd":	[0, 11]
+			}, {
+				"Command:dd":	[1, 8]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 8]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 8]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 8]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 8]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 8]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 8]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 8]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 8]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 8]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 8]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 8]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 8]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 8]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 8]
+			}, {
+				"Command:dd":	[0, 2]
+			}, {
+				"Command:dd":	[1, 8]
+			}, {
+				"Command:dd":	[0, 11]
+			}]
+	}]

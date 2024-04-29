@@ -1,0 +1,2620 @@
+[{
+		"name":	"Globals",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8ADBCB_02459000",
+				"BilboStartYaw:f":	0,
+				"BilboStartPos:fff":	[-6018.81982421875, -1362.9378662109375, -18309.1484375],
+				"FogColor:dddd":	[255, 192, 0, 255],
+				"FogStart:f":	2000,
+				"FogEnd:f":	32000,
+				"FogEnabled:d":	1,
+				"LevelName:s":	"Ch02a_TrollHole",
+				"Number of Quests:d":	4,
+				"OpeningCinema:g":	"CD588711_3BC98000",
+				"Ambient0:dddd":	[0, 0, 0, 255],
+				"Ambient1:dddd":	[51, 46, 64, 255],
+				"Ambient2:dddd":	[0, 0, 0, 255],
+				"Ambient3:dddd":	[0, 0, 0, 255],
+				"Ambient4:dddd":	[0, 0, 0, 255],
+				"Ambient5:dddd":	[0, 0, 0, 255],
+				"Ambient6:dddd":	[0, 0, 0, 255],
+				"Ambient7:dddd":	[0, 0, 0, 255]
+			}]
+	}, {
+		"name":	"AIManager",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerCount:d":	64,
+				"ActionCount:d":	86,
+				"LinkCount:d":	60
+			}]
+	}, {
+		"name":	"Trigger0",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType0:d":	18,
+				"TriggerName0:s":	"World Trigger - Troll Lock Used",
+				"Trigger0:g":	"0D8AD60E_C886B000",
+				"TriggerToggle0:d":	1,
+				"StaysTrue0:d":	0,
+				"TriggeredOnTrue0:d":	1
+			}]
+	}, {
+		"name":	"Trigger1",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType1:d":	18,
+				"TriggerName1:s":	"World Trigger - Troll Door Unlocked",
+				"Trigger1:g":	"0D8AD60E_C886B000",
+				"TriggerToggle1:d":	1,
+				"StaysTrue1:d":	0,
+				"TriggeredOnTrue1:d":	1
+			}]
+	}, {
+		"name":	"Trigger2",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType2:d":	5,
+				"TriggerName2:s":	"Random - 10 secs - 100%",
+				"CheckTime2:f":	10,
+				"RandomPercent2:d":	100,
+				"StaysTrue2:d":	0,
+				"TriggeredOnTrue2:d":	1
+			}]
+	}, {
+		"name":	"Trigger3",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType3:d":	11,
+				"TriggerName3:s":	"NPC Dies - Cave Guardian",
+				"NPCCount3:d":	1,
+				"Trigger3NPC0:g":	"0D8AD98D_A6188400",
+				"StaysTrue3:d":	0,
+				"TriggeredOnTrue3:d":	1
+			}]
+	}, {
+		"name":	"Trigger4",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType4:d":	31,
+				"TriggerName4:s":	"Has Item Pickup - Training Scroll 001 - Stick Swing 2",
+				"Item4:g":	"CD5888D1_0C40EC00",
+				"StaysTrue4:d":	0,
+				"TriggeredOnTrue4:d":	1
+			}]
+	}, {
+		"name":	"Trigger5",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType5:d":	31,
+				"TriggerName5:s":	"Has Item Pickup - QI Crystal 001",
+				"Item5:g":	"CD588611_99E83400",
+				"StaysTrue5:d":	0,
+				"TriggeredOnTrue5:d":	1
+			}]
+	}, {
+		"name":	"Trigger6",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType6:d":	9,
+				"TriggerName6:s":	"Has Item - Witch King Crystal",
+				"Item6:s":	"Witch King Crystal",
+				"Amount6:d":	1,
+				"StaysTrue6:d":	0,
+				"TriggeredOnTrue6:d":	1
+			}]
+	}, {
+		"name":	"Trigger7",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType7:d":	9,
+				"TriggerName7:s":	"Has Item - Troll Key",
+				"Item7:s":	"TrollKey2",
+				"Amount7:d":	1,
+				"StaysTrue7:d":	0,
+				"TriggeredOnTrue7:d":	1
+			}]
+	}, {
+		"name":	"Trigger8",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType8:d":	9,
+				"TriggerName8:s":	"Has Item - Training Scroll Stone Throw 2 Trig",
+				"Item8:s":	"Bilbo_Stone_Throw2",
+				"Amount8:d":	1,
+				"StaysTrue8:d":	0,
+				"TriggeredOnTrue8:d":	1
+			}]
+	}, {
+		"name":	"Trigger9",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType9:d":	9,
+				"TriggerName9:s":	"Has Item - Training Scroll Stick Swing 2 Trig",
+				"Item9:s":	"Bilbo_Staff_Swing2",
+				"Amount9:d":	1,
+				"StaysTrue9:d":	0,
+				"TriggeredOnTrue9:d":	1
+			}]
+	}, {
+		"name":	"Trigger10",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType10:d":	9,
+				"TriggerName10:s":	"Has Item - Music Get WOV",
+				"Item10:s":	"Water of Vigor",
+				"Amount10:d":	1,
+				"StaysTrue10:d":	0,
+				"TriggeredOnTrue10:d":	1
+			}]
+	}, {
+		"name":	"Trigger11",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType11:d":	9,
+				"TriggerName11:s":	"Has Item - Music Get Key",
+				"Item11:s":	"Troll Key",
+				"Amount11:d":	1,
+				"StaysTrue11:d":	0,
+				"TriggeredOnTrue11:d":	1
+			}]
+	}, {
+		"name":	"Trigger12",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType12:d":	9,
+				"TriggerName12:s":	"Has Item - Healing Draught",
+				"Item12:s":	"Healing Draught",
+				"Amount12:d":	1,
+				"StaysTrue12:d":	0,
+				"TriggeredOnTrue12:d":	1
+			}]
+	}, {
+		"name":	"Trigger13",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType13:d":	3,
+				"TriggerName13:s":	"Enters Volume - Spike Trap 013 Trig",
+				"Volume13:g":	"CD588B10_39FD4001",
+				"Character13:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce13:d":	1,
+				"AllNPCs13:d":	0,
+				"StaysTrue13:d":	0,
+				"TriggeredOnTrue13:d":	1
+			}]
+	}, {
+		"name":	"Trigger14",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType14:d":	3,
+				"TriggerName14:s":	"Enters Volume - Spike Trap 012 Trig",
+				"Volume14:g":	"CD588B10_39FC0C01",
+				"Character14:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce14:d":	1,
+				"AllNPCs14:d":	0,
+				"StaysTrue14:d":	0,
+				"TriggeredOnTrue14:d":	1
+			}]
+	}, {
+		"name":	"Trigger15",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType15:d":	3,
+				"TriggerName15:s":	"Enters Volume - Spike Trap 011 Trig",
+				"Volume15:g":	"CD588B10_39DDBC01",
+				"Character15:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce15:d":	1,
+				"AllNPCs15:d":	0,
+				"StaysTrue15:d":	0,
+				"TriggeredOnTrue15:d":	1
+			}]
+	}, {
+		"name":	"Trigger16",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType16:d":	3,
+				"TriggerName16:s":	"Enters Volume - Spike Trap 009 Trig",
+				"Volume16:g":	"CD588B10_39DC4801",
+				"Character16:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce16:d":	1,
+				"AllNPCs16:d":	0,
+				"StaysTrue16:d":	0,
+				"TriggeredOnTrue16:d":	1
+			}]
+	}, {
+		"name":	"Trigger17",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType17:d":	3,
+				"TriggerName17:s":	"Enters Volume - Spike Trap 008 Trig",
+				"Volume17:g":	"CD588B10_39DA6C01",
+				"Character17:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce17:d":	1,
+				"AllNPCs17:d":	0,
+				"StaysTrue17:d":	0,
+				"TriggeredOnTrue17:d":	1
+			}]
+	}, {
+		"name":	"Trigger18",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType18:d":	3,
+				"TriggerName18:s":	"Enters Volume - Spike Trap 007 Trig",
+				"Volume18:g":	"CD588B10_39D6C001",
+				"Character18:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce18:d":	1,
+				"AllNPCs18:d":	1,
+				"StaysTrue18:d":	0,
+				"TriggeredOnTrue18:d":	1
+			}]
+	}, {
+		"name":	"Trigger19",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType19:d":	3,
+				"TriggerName19:s":	"Enters Volume - Spike Trap 006 Trig",
+				"Volume19:g":	"CD588B10_39D5F801",
+				"Character19:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce19:d":	1,
+				"AllNPCs19:d":	1,
+				"StaysTrue19:d":	0,
+				"TriggeredOnTrue19:d":	1
+			}]
+	}, {
+		"name":	"Trigger20",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType20:d":	3,
+				"TriggerName20:s":	"Enters Volume - Spike Trap 005 Trig",
+				"Volume20:g":	"CD588B10_39D53801",
+				"Character20:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce20:d":	1,
+				"AllNPCs20:d":	0,
+				"StaysTrue20:d":	0,
+				"TriggeredOnTrue20:d":	1
+			}]
+	}, {
+		"name":	"Trigger21",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType21:d":	3,
+				"TriggerName21:s":	"Enters Volume - Spike Trap 004 Trig",
+				"Volume21:g":	"CD588B10_39D3BC01",
+				"Character21:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce21:d":	1,
+				"AllNPCs21:d":	0,
+				"StaysTrue21:d":	0,
+				"TriggeredOnTrue21:d":	1
+			}]
+	}, {
+		"name":	"Trigger22",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType22:d":	3,
+				"TriggerName22:s":	"Enters Volume - Spike Trap 003 Trig",
+				"Volume22:g":	"CD588B10_39D0C401",
+				"Character22:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce22:d":	1,
+				"AllNPCs22:d":	0,
+				"StaysTrue22:d":	0,
+				"TriggeredOnTrue22:d":	1
+			}]
+	}, {
+		"name":	"Trigger23",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType23:d":	3,
+				"TriggerName23:s":	"Enters Volume - Spike Trap 002 Trig",
+				"Volume23:g":	"CD588B10_39CF1801",
+				"Character23:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce23:d":	1,
+				"AllNPCs23:d":	0,
+				"StaysTrue23:d":	0,
+				"TriggeredOnTrue23:d":	1
+			}]
+	}, {
+		"name":	"Trigger24",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType24:d":	3,
+				"TriggerName24:s":	"Enters Volume - Spike Trap 001 Trig",
+				"Volume24:g":	"CD588B10_39CD8C00",
+				"Character24:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce24:d":	1,
+				"AllNPCs24:d":	0,
+				"StaysTrue24:d":	0,
+				"TriggeredOnTrue24:d":	1
+			}]
+	}, {
+		"name":	"Trigger25",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType25:d":	3,
+				"TriggerName25:s":	"Enters Volume - Spider SpawnTrigVol",
+				"Volume25:g":	"0D8AD10D_E60EEC00",
+				"Character25:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce25:d":	0,
+				"AllNPCs25:d":	0,
+				"StaysTrue25:d":	0,
+				"TriggeredOnTrue25:d":	1
+			}]
+	}, {
+		"name":	"Trigger26",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType26:d":	3,
+				"TriggerName26:s":	"Enters Volume - Spawn Fire Bat 10 Trig",
+				"Volume26:g":	"0D8AD48C_98273801",
+				"Character26:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce26:d":	0,
+				"AllNPCs26:d":	0,
+				"StaysTrue26:d":	0,
+				"TriggeredOnTrue26:d":	1
+			}]
+	}, {
+		"name":	"Trigger27",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType27:d":	3,
+				"TriggerName27:s":	"Enters Volume - RB Alert Vol",
+				"Volume27:g":	"0D8ADA4B_46DCA000",
+				"Character27:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce27:d":	0,
+				"AllNPCs27:d":	0,
+				"StaysTrue27:d":	0,
+				"TriggeredOnTrue27:d":	1
+			}]
+	}, {
+		"name":	"Trigger28",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType28:d":	3,
+				"TriggerName28:s":	"Enters Volume - RB 13 Alert Vol",
+				"Volume28:g":	"0D8AD34B_47D0FC00",
+				"Character28:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce28:d":	0,
+				"AllNPCs28:d":	0,
+				"StaysTrue28:d":	0,
+				"TriggeredOnTrue28:d":	1
+			}]
+	}, {
+		"name":	"Trigger29",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType29:d":	3,
+				"TriggerName29:s":	"Enters Volume - Pit Trap Alert Vol",
+				"Volume29:g":	"0D8ADF0B_70D13401",
+				"Character29:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce29:d":	0,
+				"AllNPCs29:d":	0,
+				"StaysTrue29:d":	0,
+				"TriggeredOnTrue29:d":	1
+			}]
+	}, {
+		"name":	"Trigger30",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType30:d":	3,
+				"TriggerName30:s":	"Enters Volume - Lower Rope Short Cut 001 Trig",
+				"Volume30:g":	"CD588910_EC283000",
+				"Character30:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce30:d":	1,
+				"AllNPCs30:d":	0,
+				"StaysTrue30:d":	0,
+				"TriggeredOnTrue30:d":	1
+			}]
+	}, {
+		"name":	"Trigger31",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType31:d":	3,
+				"TriggerName31:s":	"Enters Volume - Lianna Convo TrigVol",
+				"Volume31:g":	"0D8AD08C_93446000",
+				"Character31:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce31:d":	0,
+				"AllNPCs31:d":	0,
+				"StaysTrue31:d":	0,
+				"TriggeredOnTrue31:d":	1
+			}]
+	}, {
+		"name":	"Trigger32",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType32:d":	3,
+				"TriggerName32:s":	"Enters Volume - Gandalf Main Quest TrigVol",
+				"Volume32:g":	"0D8AD1CC_938C7000",
+				"Character32:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce32:d":	0,
+				"AllNPCs32:d":	0,
+				"StaysTrue32:d":	0,
+				"TriggeredOnTrue32:d":	1
+			}]
+	}, {
+		"name":	"Trigger33",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType33:d":	3,
+				"TriggerName33:s":	"Enters Volume - First Leaper Rock Ledge CamInf",
+				"Volume33:g":	"0D8AD40D_BFBF1000",
+				"Character33:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce33:d":	0,
+				"AllNPCs33:d":	0,
+				"StaysTrue33:d":	0,
+				"TriggeredOnTrue33:d":	1
+			}]
+	}, {
+		"name":	"Trigger34",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType34:d":	3,
+				"TriggerName34:s":	"Enters Volume - Debug EOL Vol",
+				"Volume34:g":	"0D8AD2CF_60853800",
+				"Character34:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce34:d":	0,
+				"AllNPCs34:d":	0,
+				"StaysTrue34:d":	0,
+				"TriggeredOnTrue34:d":	1
+			}]
+	}, {
+		"name":	"Trigger35",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType35:d":	3,
+				"TriggerName35:s":	"Enters Volume - Bilbo VO Vol - Sunlight Again",
+				"Volume35:g":	"0D8AD40B_488A4C01",
+				"Character35:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce35:d":	0,
+				"AllNPCs35:d":	0,
+				"StaysTrue35:d":	0,
+				"TriggeredOnTrue35:d":	1
+			}]
+	}, {
+		"name":	"Trigger36",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType36:d":	3,
+				"TriggerName36:s":	"Enters Volume - Bilbo VO Vol - Not another",
+				"Volume36:g":	"0D8AD40B_488D1001",
+				"Character36:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce36:d":	0,
+				"AllNPCs36:d":	0,
+				"StaysTrue36:d":	0,
+				"TriggeredOnTrue36:d":	1
+			}]
+	}, {
+		"name":	"Trigger37",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType37:d":	3,
+				"TriggerName37:s":	"Enters Volume - Bilbo VO Vol - Looks like quite",
+				"Volume37:g":	"0D8AD40B_48878401",
+				"Character37:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce37:d":	0,
+				"AllNPCs37:d":	0,
+				"StaysTrue37:d":	0,
+				"TriggeredOnTrue37:d":	1
+			}]
+	}, {
+		"name":	"Trigger38",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType38:d":	3,
+				"TriggerName38:s":	"Enters Volume - Bilbo VO Vol - Just like climb",
+				"Volume38:g":	"0D8AD40B_48800000",
+				"Character38:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce38:d":	0,
+				"AllNPCs38:d":	0,
+				"StaysTrue38:d":	0,
+				"TriggeredOnTrue38:d":	1
+			}]
+	}, {
+		"name":	"Trigger39",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType39:d":	3,
+				"TriggerName39:s":	"Enters Volume - Bilbo VO Vol - I don't like the",
+				"Volume39:g":	"0D8AD40B_488F8801",
+				"Character39:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce39:d":	0,
+				"AllNPCs39:d":	0,
+				"StaysTrue39:d":	0,
+				"TriggeredOnTrue39:d":	1
+			}]
+	}, {
+		"name":	"Trigger40",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType40:d":	3,
+				"TriggerName40:s":	"Enters Volume - BatHole Alert Vol",
+				"Volume40:g":	"0D8ADD0B_7100D401",
+				"Character40:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce40:d":	0,
+				"AllNPCs40:d":	0,
+				"StaysTrue40:d":	0,
+				"TriggeredOnTrue40:d":	1
+			}]
+	}, {
+		"name":	"Trigger41",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType41:d":	3,
+				"TriggerName41:s":	"Enters Volume - Bat11 Spawn Trig",
+				"Volume41:g":	"0D8ADCCC_6E3C2001",
+				"Character41:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce41:d":	0,
+				"AllNPCs41:d":	0,
+				"StaysTrue41:d":	0,
+				"TriggeredOnTrue41:d":	1
+			}]
+	}, {
+		"name":	"Trigger42",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType42:d":	3,
+				"TriggerName42:s":	"Enters Volume - Bat 11 Alert Vol",
+				"Volume42:g":	"0D8AD14B_48D48C01",
+				"Character42:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce42:d":	0,
+				"AllNPCs42:d":	0,
+				"StaysTrue42:d":	0,
+				"TriggeredOnTrue42:d":	1
+			}]
+	}, {
+		"name":	"Trigger43",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType43:d":	3,
+				"TriggerName43:s":	"Enters Volume - Bat 10 Alert Vol",
+				"Volume43:g":	"0D8ADD0B_46F4E400",
+				"Character43:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce43:d":	0,
+				"AllNPCs43:d":	0,
+				"StaysTrue43:d":	0,
+				"TriggeredOnTrue43:d":	1
+			}]
+	}, {
+		"name":	"Trigger44",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType44:d":	3,
+				"TriggerName44:s":	"Cinema Test 002 Trig",
+				"Volume44:g":	"CD588D11_20B0C801",
+				"Character44:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce44:d":	0,
+				"AllNPCs44:d":	0,
+				"StaysTrue44:d":	1,
+				"TriggeredOnTrue44:d":	1
+			}]
+	}, {
+		"name":	"Trigger45",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType45:d":	3,
+				"TriggerName45:s":	"Cinema Test 001 Trig",
+				"Volume45:g":	"CD588D11_20AF1C00",
+				"Character45:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce45:d":	0,
+				"AllNPCs45:d":	0,
+				"StaysTrue45:d":	1,
+				"TriggeredOnTrue45:d":	1
+			}]
+	}, {
+		"name":	"Trigger46",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType46:d":	21,
+				"TriggerName46:s":	"Cinema Starts - Lianna Quest Remind",
+				"Cinema46:g":	"15A46C0E_4A323C04",
+				"StaysTrue46:d":	0,
+				"TriggeredOnTrue46:d":	1
+			}]
+	}, {
+		"name":	"Trigger47",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType47:d":	21,
+				"TriggerName47:s":	"Cinema Starts - Lianna Quest Complete Revisit",
+				"Cinema47:g":	"15A46C0E_4A324000",
+				"StaysTrue47:d":	0,
+				"TriggeredOnTrue47:d":	1
+			}]
+	}, {
+		"name":	"Trigger48",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType48:d":	21,
+				"TriggerName48:s":	"Cinema Starts - Cine05 Naming Sting",
+				"Cinema48:g":	"CD588391_3AFDAC00",
+				"StaysTrue48:d":	0,
+				"TriggeredOnTrue48:d":	1
+			}]
+	}, {
+		"name":	"Trigger49",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType49:d":	21,
+				"TriggerName49:s":	"Cinema Starts - Cine04 Lianna Outro",
+				"Cinema49:g":	"CD588411_12192C00",
+				"StaysTrue49:d":	0,
+				"TriggeredOnTrue49:d":	1
+			}]
+	}, {
+		"name":	"Trigger50",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType50:d":	21,
+				"TriggerName50:s":	"Cinema Starts - Cine03 Lianna Intro",
+				"Cinema50:g":	"CD588411_1212EC00",
+				"StaysTrue50:d":	0,
+				"TriggeredOnTrue50:d":	1
+			}]
+	}, {
+		"name":	"Trigger51",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType51:d":	21,
+				"TriggerName51:s":	"Cinema Starts - Cine01 Gandalf Intro",
+				"Cinema51:g":	"CD588711_3BC98000",
+				"StaysTrue51:d":	0,
+				"TriggeredOnTrue51:d":	1
+			}]
+	}, {
+		"name":	"Trigger52",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType52:d":	19,
+				"TriggerName52:s":	"Cinema Ends - Lianna Quest Revisit",
+				"Cinema52:g":	"15A46C0E_4A324000",
+				"TriggerOnce52:d":	0,
+				"StaysTrue52:d":	0,
+				"TriggeredOnTrue52:d":	1
+			}]
+	}, {
+		"name":	"Trigger53",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType53:d":	19,
+				"TriggerName53:s":	"Cinema Ends - Lianna Quest Remind",
+				"Cinema53:g":	"15A46C0E_4A323C04",
+				"TriggerOnce53:d":	0,
+				"StaysTrue53:d":	0,
+				"TriggeredOnTrue53:d":	1
+			}]
+	}, {
+		"name":	"Trigger54",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType54:d":	19,
+				"TriggerName54:s":	"Cinema Ends - Gloin Key Trig",
+				"Cinema54:g":	"15A46C0E_4A324401",
+				"TriggerOnce54:d":	0,
+				"StaysTrue54:d":	0,
+				"TriggeredOnTrue54:d":	1
+			}]
+	}, {
+		"name":	"Trigger55",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType55:d":	19,
+				"TriggerName55:s":	"Cinema Ends - Cine05 Naming Sting",
+				"Cinema55:g":	"CD588391_3AFDAC00",
+				"TriggerOnce55:d":	0,
+				"StaysTrue55:d":	0,
+				"TriggeredOnTrue55:d":	1
+			}]
+	}, {
+		"name":	"Trigger56",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType56:d":	19,
+				"TriggerName56:s":	"Cinema Ends - Cine04 Lianna Outro",
+				"Cinema56:g":	"CD588411_12192C00",
+				"TriggerOnce56:d":	0,
+				"StaysTrue56:d":	0,
+				"TriggeredOnTrue56:d":	1
+			}]
+	}, {
+		"name":	"Trigger57",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType57:d":	19,
+				"TriggerName57:s":	"Cinema Ends - Cine03 Lianna Intro",
+				"Cinema57:g":	"CD588411_1212EC00",
+				"TriggerOnce57:d":	0,
+				"StaysTrue57:d":	0,
+				"TriggeredOnTrue57:d":	1
+			}]
+	}, {
+		"name":	"Trigger58",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType58:d":	19,
+				"TriggerName58:s":	"Cinema Ends - Cine01 Gandalf Intro",
+				"Cinema58:g":	"CD588711_3BC98000",
+				"TriggerOnce58:d":	0,
+				"StaysTrue58:d":	0,
+				"TriggeredOnTrue58:d":	1
+			}]
+	}, {
+		"name":	"Trigger59",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType59:d":	8,
+				"TriggerName59:s":	"CaveGuardian does big ol back flinch",
+				"NPC59:g":	"0D8AD98D_A6188400",
+				"ActionName59:s":	"standing_NormalFlinch",
+				"StaysTrue59:d":	0,
+				"TriggeredOnTrue59:d":	1
+			}]
+	}, {
+		"name":	"Trigger60",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType60:d":	5,
+				"TriggerName60:s":	"AUDIO_Start",
+				"CheckTime60:f":	0,
+				"RandomPercent60:d":	100,
+				"StaysTrue60:d":	0,
+				"TriggeredOnTrue60:d":	1
+			}]
+	}, {
+		"name":	"Trigger61",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType61:d":	3,
+				"TriggerName61:s":	"Enters Volume - Rope Jump Tutorial Vol",
+				"Volume61:g":	"CD5884D2_5965F800",
+				"Character61:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce61:d":	0,
+				"AllNPCs61:d":	0,
+				"StaysTrue61:d":	0,
+				"TriggeredOnTrue61:d":	1
+			}]
+	}, {
+		"name":	"Trigger62",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType62:d":	3,
+				"TriggerName62:s":	"Enters Volume - View Troll Hole Key Vol",
+				"Volume62:g":	"CD588CD2_5EE9F400",
+				"Character62:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce62:d":	0,
+				"AllNPCs62:d":	0,
+				"StaysTrue62:d":	0,
+				"TriggeredOnTrue62:d":	1
+			}]
+	}, {
+		"name":	"Trigger63",
+		"row_count":	1,
+		"rows":	[{
+				"TriggerType63:d":	3,
+				"TriggerName63:s":	"Enters Volume - Overlay Cave Guardian Hint",
+				"Volume63:g":	"CD588412_C20C3C00",
+				"Character63:g":	"ABCABCAB_CABCABC0",
+				"TriggersOnce63:d":	0,
+				"AllNPCs63:d":	0,
+				"StaysTrue63:d":	0,
+				"TriggeredOnTrue63:d":	1
+			}]
+	}, {
+		"name":	"Action0",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType0:d":	33,
+				"ActionName0:s":	"Spike Trap 013 Act",
+				"Action0ExecuteDelay:f":	0,
+				"Action0ExecuteImmediately:d":	0,
+				"Action0InstanceCount:d":	2,
+				"Action0RigidInstance0:g":	"CD5881D0_39A2A001",
+				"Action0RigidInstance1:g":	"CD588B10_39FF9801",
+				"Action0AnimIndex:d":	0,
+				"Action0Loops:d":	0
+			}]
+	}, {
+		"name":	"Action1",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType1:d":	33,
+				"ActionName1:s":	"Spike Trap 012 Act",
+				"Action1ExecuteDelay:f":	0,
+				"Action1ExecuteImmediately:d":	0,
+				"Action1InstanceCount:d":	2,
+				"Action1RigidInstance0:g":	"CD5881D0_39A1AC01",
+				"Action1RigidInstance1:g":	"CD588B10_39FE7401",
+				"Action1AnimIndex:d":	0,
+				"Action1Loops:d":	0
+			}]
+	}, {
+		"name":	"Action2",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType2:d":	33,
+				"ActionName2:s":	"Spike Trap 011 Act",
+				"Action2ExecuteDelay:f":	0,
+				"Action2ExecuteImmediately:d":	0,
+				"Action2InstanceCount:d":	2,
+				"Action2RigidInstance0:g":	"CD5881D0_397B6001",
+				"Action2RigidInstance1:g":	"CD588B10_39E2D801",
+				"Action2AnimIndex:d":	0,
+				"Action2Loops:d":	0
+			}]
+	}, {
+		"name":	"Action3",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType3:d":	33,
+				"ActionName3:s":	"Spike Trap 009 Act",
+				"Action3ExecuteDelay:f":	0,
+				"Action3ExecuteImmediately:d":	0,
+				"Action3InstanceCount:d":	2,
+				"Action3RigidInstance0:g":	"CD5881D0_39787401",
+				"Action3RigidInstance1:g":	"CD588B10_39E32401",
+				"Action3AnimIndex:d":	0,
+				"Action3Loops:d":	0
+			}]
+	}, {
+		"name":	"Action4",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType4:d":	33,
+				"ActionName4:s":	"Spike Trap 008 Act",
+				"Action4ExecuteDelay:f":	0,
+				"Action4ExecuteImmediately:d":	0,
+				"Action4InstanceCount:d":	2,
+				"Action4RigidInstance0:g":	"CD5881D0_397AEC01",
+				"Action4RigidInstance1:g":	"CD588B10_39E2AC01",
+				"Action4AnimIndex:d":	0,
+				"Action4Loops:d":	0
+			}]
+	}, {
+		"name":	"Action5",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType5:d":	33,
+				"ActionName5:s":	"Spike Trap 007 Act",
+				"Action5ExecuteDelay:f":	0,
+				"Action5ExecuteImmediately:d":	0,
+				"Action5InstanceCount:d":	7,
+				"Action5RigidInstance0:g":	"CD5881D0_396A6005",
+				"Action5RigidInstance1:g":	"CD5881D0_396A6007",
+				"Action5RigidInstance2:g":	"CD5881D0_396A6009",
+				"Action5RigidInstance3:g":	"CD5881D0_396A600B",
+				"Action5RigidInstance4:g":	"CD5881D0_396BB401",
+				"Action5RigidInstance5:g":	"CD5881D0_396A600D",
+				"Action5RigidInstance6:g":	"CD588B10_39E6C801",
+				"Action5AnimIndex:d":	0,
+				"Action5Loops:d":	0
+			}]
+	}, {
+		"name":	"Action6",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType6:d":	33,
+				"ActionName6:s":	"Spike Trap 006 Act",
+				"Action6ExecuteDelay:f":	0,
+				"Action6ExecuteImmediately:d":	0,
+				"Action6InstanceCount:d":	7,
+				"Action6RigidInstance0:g":	"CD588F50_38EEEC05",
+				"Action6RigidInstance1:g":	"CD588F50_38EEEC07",
+				"Action6RigidInstance2:g":	"CD588F50_38EEEC09",
+				"Action6RigidInstance3:g":	"CD588F50_38EEEC0B",
+				"Action6RigidInstance4:g":	"CD588F50_38EEEC0D",
+				"Action6RigidInstance5:g":	"CD588F50_38F22801",
+				"Action6RigidInstance6:g":	"CD588B10_39E7FC01",
+				"Action6AnimIndex:d":	0,
+				"Action6Loops:d":	0
+			}]
+	}, {
+		"name":	"Action7",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType7:d":	33,
+				"ActionName7:s":	"Spike Trap 005 Act",
+				"Action7ExecuteDelay:f":	0,
+				"Action7ExecuteImmediately:d":	0,
+				"Action7InstanceCount:d":	10,
+				"Action7RigidInstance0:g":	"CD588F50_38A6E001",
+				"Action7RigidInstance1:g":	"CD588F50_38A9A001",
+				"Action7RigidInstance2:g":	"CD588F50_38A9B401",
+				"Action7RigidInstance3:g":	"CD588F50_38AA1401",
+				"Action7RigidInstance4:g":	"CD588F50_38AA7801",
+				"Action7RigidInstance5:g":	"CD588F50_38AAA401",
+				"Action7RigidInstance6:g":	"CD588F50_38AB1001",
+				"Action7RigidInstance7:g":	"CD588F50_38AB3801",
+				"Action7RigidInstance8:g":	"CD588F50_38ABC801",
+				"Action7RigidInstance9:g":	"CD588F50_38AC0001",
+				"Action7AnimIndex:d":	0,
+				"Action7Loops:d":	0
+			}]
+	}, {
+		"name":	"Action8",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType8:d":	33,
+				"ActionName8:s":	"Spike Trap 004 Act",
+				"Action8ExecuteDelay:f":	0,
+				"Action8ExecuteImmediately:d":	0,
+				"Action8InstanceCount:d":	8,
+				"Action8RigidInstance0:g":	"CD588F50_38AE3007",
+				"Action8RigidInstance1:g":	"CD588F50_38AE3009",
+				"Action8RigidInstance2:g":	"CD588F50_38AE300B",
+				"Action8RigidInstance3:g":	"CD588F50_38AE300D",
+				"Action8RigidInstance4:g":	"CD588F50_38AE300F",
+				"Action8RigidInstance5:g":	"CD588F50_38AE3011",
+				"Action8RigidInstance6:g":	"CD588F50_38AE3013",
+				"Action8RigidInstance7:g":	"CD588F50_38AF1401",
+				"Action8AnimIndex:d":	0,
+				"Action8Loops:d":	0
+			}]
+	}, {
+		"name":	"Action9",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType9:d":	33,
+				"ActionName9:s":	"Spike Trap 003 Act",
+				"Action9ExecuteDelay:f":	0,
+				"Action9ExecuteImmediately:d":	0,
+				"Action9InstanceCount:d":	2,
+				"Action9RigidInstance0:g":	"CD588F50_38A2E801",
+				"Action9RigidInstance1:g":	"CD588B10_39E8C401",
+				"Action9AnimIndex:d":	0,
+				"Action9Loops:d":	0
+			}]
+	}, {
+		"name":	"Action10",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType10:d":	33,
+				"ActionName10:s":	"Spike Trap 002 Act",
+				"Action10ExecuteDelay:f":	0,
+				"Action10ExecuteImmediately:d":	0,
+				"Action10InstanceCount:d":	2,
+				"Action10RigidInstance0:g":	"CD588F50_3860D001",
+				"Action10RigidInstance1:g":	"CD588B10_39E92801",
+				"Action10AnimIndex:d":	0,
+				"Action10Loops:d":	0
+			}]
+	}, {
+		"name":	"Action11",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType11:d":	33,
+				"ActionName11:s":	"Spike Trap 001 Act",
+				"Action11ExecuteDelay:f":	0,
+				"Action11ExecuteImmediately:d":	0,
+				"Action11InstanceCount:d":	2,
+				"Action11RigidInstance0:g":	"CD588F50_38567800",
+				"Action11RigidInstance1:g":	"CD588B10_39E97401",
+				"Action11AnimIndex:d":	0,
+				"Action11Loops:d":	0
+			}]
+	}, {
+		"name":	"Action12",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType12:d":	11,
+				"ActionName12:s":	"Spawn Spider Act",
+				"Action12ExecuteDelay:f":	0,
+				"Action12ExecuteImmediately:d":	0,
+				"Action12SpawnCount:d":	1,
+				"Action12NPCGuid0:g":	"0D8AD04C_BDB3B000",
+				"Action12LocationGuid0:g":	"0D8AD10D_E60D8400",
+				"Action12FacingGuid0:g":	"0D8AD10D_E60E1C01",
+				"Action12Animation0:s":	"Select Animation"
+			}]
+	}, {
+		"name":	"Action13",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType13:d":	11,
+				"ActionName13:s":	"Spawn Fire Bat 15 Act",
+				"Action13ExecuteDelay:f":	0,
+				"Action13ExecuteImmediately:d":	0,
+				"Action13SpawnCount:d":	1,
+				"Action13NPCGuid0:g":	"0D8AD48C_982B0800",
+				"Action13LocationGuid0:g":	"0D8AD48C_982A8801",
+				"Action13FacingGuid0:g":	"0D8AD48C_9826E001",
+				"Action13Animation0:s":	"Select Animation"
+			}]
+	}, {
+		"name":	"Action14",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType14:d":	11,
+				"ActionName14:s":	"Spawn Fire Bat 10 Act",
+				"Action14ExecuteDelay:f":	0,
+				"Action14ExecuteImmediately:d":	0,
+				"Action14SpawnCount:d":	1,
+				"Action14NPCGuid0:g":	"0D8ADD0B_46F12401",
+				"Action14LocationGuid0:g":	"0D8AD48C_98267400",
+				"Action14FacingGuid0:g":	"0D8AD48C_9826E001",
+				"Action14Animation0:s":	"NO ANIM"
+			}]
+	}, {
+		"name":	"Action15",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType15:d":	11,
+				"ActionName15:s":	"Spawn Bat 11 Act",
+				"Action15ExecuteDelay:f":	0,
+				"Action15ExecuteImmediately:d":	0,
+				"Action15SpawnCount:d":	1,
+				"Action15NPCGuid0:g":	"0D8AD34B_47D6FC01",
+				"Action15LocationGuid0:g":	"0D8ADCCC_6E39EC00",
+				"Action15FacingGuid0:g":	"0D8ADCCC_6E3AC801",
+				"Action15Animation0:s":	"NO ANIM"
+			}]
+	}, {
+		"name":	"Action16",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType16:d":	9,
+				"ActionName16:s":	"Set Inventory - Give Witch King Crystal Act",
+				"Action16ExecuteDelay:f":	0,
+				"Action16ExecuteImmediately:d":	0,
+				"Action16Item:s":	"WITCH KING CRYSTAL",
+				"Action16Add:d":	1,
+				"Action16Amount:d":	1,
+				"Action16SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action17",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType17:d":	9,
+				"ActionName17:s":	"Set Inventory - CP 100 - Lianna Gives Bilbo CP",
+				"Action17ExecuteDelay:f":	0,
+				"Action17ExecuteImmediately:d":	0,
+				"Action17Item:s":	"COURAGE",
+				"Action17Add:d":	1,
+				"Action17Amount:d":	100,
+				"Action17SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action18",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType18:d":	9,
+				"ActionName18:s":	"Set Inventory - Bilbo Loses Healing Draught Act",
+				"Action18ExecuteDelay:f":	0,
+				"Action18ExecuteImmediately:d":	0,
+				"Action18Item:s":	"HEALING DRAUGHT",
+				"Action18Add:d":	0,
+				"Action18Amount:d":	1,
+				"Action18SourceGuid:g":	"ABCABCAB_CABCABC0"
+			}]
+	}, {
+		"name":	"Action19",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType19:d":	35,
+				"ActionName19:s":	"Rope Length - Lower Rope Short Cut 002 Act",
+				"Action19ExecuteDelay:f":	0,
+				"Action19ExecuteImmediately:d":	0,
+				"Action19RopeCount:d":	1,
+				"Action19RopeGuid0:g":	"0D8AD40D_BFB9D401",
+				"Action19RopeLength0:f":	850
+			}]
+	}, {
+		"name":	"Action20",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType20:d":	35,
+				"ActionName20:s":	"Rope Length - Lower Rope Short Cut 001 Act",
+				"Action20ExecuteDelay:f":	0,
+				"Action20ExecuteImmediately:d":	0,
+				"Action20RopeCount:d":	1,
+				"Action20RopeGuid0:g":	"CD588910_EC295000",
+				"Action20RopeLength0:f":	900
+			}]
+	}, {
+		"name":	"Action21",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType21:d":	22,
+				"ActionName21:s":	"Quest Give - Troll Hole Find Hole Act",
+				"Action21ExecuteDelay:f":	0,
+				"Action21ExecuteImmediately:d":	0,
+				"Action21QuestID:s":	"A_FIND_HOLE",
+				"Action21Required:d":	1
+			}]
+	}, {
+		"name":	"Action22",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType22:d":	22,
+				"ActionName22:s":	"Quest Give - Healing Draught Return Act",
+				"Action22ExecuteDelay:f":	0,
+				"Action22ExecuteImmediately:d":	0,
+				"Action22QuestID:s":	"D_RETURN_WATERS",
+				"Action22Required:d":	1
+			}]
+	}, {
+		"name":	"Action23",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType23:d":	22,
+				"ActionName23:s":	"Quest Give - Healing Draught Act",
+				"Action23ExecuteDelay:f":	0,
+				"Action23ExecuteImmediately:d":	0,
+				"Action23QuestID:s":	"C_FIND_WATERS",
+				"Action23Required:d":	1
+			}]
+	}, {
+		"name":	"Action24",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType24:d":	22,
+				"ActionName24:s":	"Quest Give - Find Key Act",
+				"Action24ExecuteDelay:f":	0,
+				"Action24ExecuteImmediately:d":	0,
+				"Action24QuestID:s":	"B_FIND_KEY",
+				"Action24Required:d":	1
+			}]
+	}, {
+		"name":	"Action25",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType25:d":	34,
+				"ActionName25:s":	"Quest Done - Troll Hole Find Hole Act",
+				"Action25ExecuteDelay:f":	0,
+				"Action25ExecuteImmediately:d":	0,
+				"Action25QuestID:s":	"A_FIND_HOLE"
+			}]
+	}, {
+		"name":	"Action26",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType26:d":	29,
+				"ActionName26:s":	"Quest Done - Healing Draught Return Act",
+				"Action26ExecuteDelay:f":	0,
+				"Action26ExecuteImmediately:d":	0,
+				"Action26QuestID:s":	"D_RETURN_WATERS"
+			}]
+	}, {
+		"name":	"Action27",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType27:d":	29,
+				"ActionName27:s":	"Quest Done - Healing Draught Act",
+				"Action27ExecuteDelay:f":	0,
+				"Action27ExecuteImmediately:d":	0,
+				"Action27QuestID:s":	"C_FIND_WATERS"
+			}]
+	}, {
+		"name":	"Action28",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType28:d":	29,
+				"ActionName28:s":	"Quest Done - Find Key Act",
+				"Action28ExecuteDelay:f":	0,
+				"Action28ExecuteImmediately:d":	0,
+				"Action28QuestID:s":	"B_FIND_KEY"
+			}]
+	}, {
+		"name":	"Action29",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType29:d":	15,
+				"ActionName29:s":	"Pop To Thorin",
+				"Action29ExecuteDelay:f":	0,
+				"Action29ExecuteImmediately:d":	0,
+				"Action29Object:g":	"0D8ADDCB_663F8800",
+				"Action29Volume:g":	"0D8ADE8D_21914000",
+				"Action29Facing:g":	"0D8ADF8B_7267F800"
+			}]
+	}, {
+		"name":	"Action30",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType30:d":	15,
+				"ActionName30:s":	"Pop To Pony 002",
+				"Action30ExecuteDelay:f":	0,
+				"Action30ExecuteImmediately:d":	0,
+				"Action30Object:g":	"0D8ADB0D_27EEAC01",
+				"Action30Volume:g":	"0D8AD40D_281D7804",
+				"Action30Facing:g":	"0D8AD40D_281D7802"
+			}]
+	}, {
+		"name":	"Action31",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType31:d":	15,
+				"ActionName31:s":	"Pop To Pony 001",
+				"Action31ExecuteDelay:f":	0,
+				"Action31ExecuteImmediately:d":	0,
+				"Action31Object:g":	"0D8ADB0D_27ED8000",
+				"Action31Volume:g":	"0D8AD40D_281CB800",
+				"Action31Facing:g":	"0D8AD40D_281D2001"
+			}]
+	}, {
+		"name":	"Action32",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType32:d":	15,
+				"ActionName32:s":	"Pop To Lianna",
+				"Action32ExecuteDelay:f":	0,
+				"Action32ExecuteImmediately:d":	0,
+				"Action32Object:g":	"0D8AD04B_48984000",
+				"Action32Volume:g":	"0D8ADF8B_726E5001",
+				"Action32Facing:g":	"0D8ADACD_CA91B001"
+			}]
+	}, {
+		"name":	"Action33",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType33:d":	15,
+				"ActionName33:s":	"Pop To Dwalin",
+				"Action33ExecuteDelay:f":	0,
+				"Action33ExecuteImmediately:d":	0,
+				"Action33Object:g":	"18B5C50B_4792F400",
+				"Action33Volume:g":	"0D8AD40D_281E8001",
+				"Action33Facing:g":	"0D8AD40D_281EA801"
+			}]
+	}, {
+		"name":	"Action34",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType34:d":	15,
+				"ActionName34:s":	"Pop To Bombur",
+				"Action34ExecuteDelay:f":	0,
+				"Action34ExecuteImmediately:d":	0,
+				"Action34Object:g":	"18B5C50B_478EA400",
+				"Action34Volume:g":	"0D8AD40D_281E4000",
+				"Action34Facing:g":	"0D8AD40D_281EA801"
+			}]
+	}, {
+		"name":	"Action35",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType35:d":	15,
+				"ActionName35:s":	"Pop To Balin",
+				"Action35ExecuteDelay:f":	0,
+				"Action35ExecuteImmediately:d":	0,
+				"Action35Object:g":	"18B5CB4B_4305F400",
+				"Action35Volume:g":	"0D8AD40D_281E6001",
+				"Action35Facing:g":	"0D8AD40D_281EA801"
+			}]
+	}, {
+		"name":	"Action36",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType36:d":	7,
+				"ActionName36:s":	"Play Dialogue - One Off Bilbo Sunlight Act",
+				"Action36ExecuteDelay:f":	0,
+				"Action36ExecuteImmediately:d":	0,
+				"Action36DialogName:s":	"VOICE_BILBO_02A_12",
+				"Action36Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action36AtLocation:d":	0,
+				"Action36BilboDialog:d":	1
+			}]
+	}, {
+		"name":	"Action37",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType37:d":	7,
+				"ActionName37:s":	"Play Dialogue - One Off Bilbo Look of this Act",
+				"Action37ExecuteDelay:f":	0,
+				"Action37ExecuteImmediately:d":	0,
+				"Action37DialogName:s":	"VOICE_BILBO_02A_07",
+				"Action37Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action37AtLocation:d":	0,
+				"Action37BilboDialog:d":	1
+			}]
+	}, {
+		"name":	"Action38",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType38:d":	7,
+				"ActionName38:s":	"Play Dialogue - One Off Bilbo Key Act",
+				"Action38ExecuteDelay:f":	0,
+				"Action38ExecuteImmediately:d":	0,
+				"Action38DialogName:s":	"VOICE_BILBO_02A_06",
+				"Action38Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action38AtLocation:d":	0,
+				"Action38BilboDialog:d":	1
+			}]
+	}, {
+		"name":	"Action39",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType39:d":	7,
+				"ActionName39:s":	"Play Dialogue - One Off Bilbo Jump Act",
+				"Action39ExecuteDelay:f":	0,
+				"Action39ExecuteImmediately:d":	0,
+				"Action39DialogName:s":	"VOICE_BILBO_02A_08",
+				"Action39Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action39AtLocation:d":	0,
+				"Action39BilboDialog:d":	1
+			}]
+	}, {
+		"name":	"Action40",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType40:d":	7,
+				"ActionName40:s":	"Play Dialogue - One Off Bilbo Healing Draught Act",
+				"Action40ExecuteDelay:f":	0,
+				"Action40ExecuteImmediately:d":	0,
+				"Action40DialogName:s":	"VOICE_BILBO_02A_13",
+				"Action40Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action40AtLocation:d":	0,
+				"Action40BilboDialog:d":	1
+			}]
+	}, {
+		"name":	"Action41",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType41:d":	7,
+				"ActionName41:s":	"Play Dialogue - One Off Bilbo Dark Cave Act",
+				"Action41ExecuteDelay:f":	0,
+				"Action41ExecuteImmediately:d":	0,
+				"Action41DialogName:s":	"VOICE_BILBO_02A_10",
+				"Action41Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action41AtLocation:d":	0,
+				"Action41BilboDialog:d":	1
+			}]
+	}, {
+		"name":	"Action42",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType42:d":	7,
+				"ActionName42:s":	"Play Dialogue - One Off Bilbo Climbing Cliffs Act",
+				"Action42ExecuteDelay:f":	0,
+				"Action42ExecuteImmediately:d":	0,
+				"Action42DialogName:s":	"VOICE_BILBO_02A_09",
+				"Action42Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action42AtLocation:d":	0,
+				"Action42BilboDialog:d":	1
+			}]
+	}, {
+		"name":	"Action43",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType43:d":	7,
+				"ActionName43:s":	"Play Dialogue - One Off Bilbo Bullroarer Took Act",
+				"Action43ExecuteDelay:f":	0,
+				"Action43ExecuteImmediately:d":	0,
+				"Action43DialogName:s":	"VOICE_BILBO_02A_11",
+				"Action43Speaker:g":	"ABCABCAB_CABCABC0",
+				"Action43AtLocation:d":	0,
+				"Action43BilboDialog:d":	1
+			}]
+	}, {
+		"name":	"Action44",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType44:d":	18,
+				"ActionName44:s":	"Overlay - Witch King Crystal Acquired",
+				"Action44ExecuteDelay:f":	0,
+				"Action44ExecuteImmediately:d":	0,
+				"Action44StringID:s":	"WITCHKINGCRYSTAL_ACQUIRED",
+				"Action44Scroll:d":	0,
+				"Action44DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action45",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType45:d":	18,
+				"ActionName45:s":	"Overlay - Troll Key Info",
+				"Action45ExecuteDelay:f":	0,
+				"Action45ExecuteImmediately:d":	0,
+				"Action45StringID:s":	"INFO_KEY_ACQUIRED",
+				"Action45Scroll:d":	0,
+				"Action45DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action46",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType46:d":	18,
+				"ActionName46:s":	"Overlay - Training Scroll Stick Swing 2 Act",
+				"Action46ExecuteDelay:f":	0,
+				"Action46ExecuteImmediately:d":	0,
+				"Action46StringID:s":	"INFO_STICKATTACK_2",
+				"Action46Scroll:d":	1,
+				"Action46DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action47",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType47:d":	18,
+				"ActionName47:s":	"Overlay - Training Scroll Rock Throw 2 Act",
+				"Action47ExecuteDelay:f":	0,
+				"Action47ExecuteImmediately:d":	0,
+				"Action47StringID:s":	"INFO_ROCKTHROW_2",
+				"Action47Scroll:d":	1,
+				"Action47DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action48",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType48:d":	18,
+				"ActionName48:s":	"Overlay - Healing Draught Acquired Act",
+				"Action48ExecuteDelay:f":	0,
+				"Action48ExecuteImmediately:d":	0,
+				"Action48StringID:s":	"INFO_WOV_ACQUIRED",
+				"Action48Scroll:d":	0,
+				"Action48DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action49",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType49:d":	40,
+				"ActionName49:s":	"Music - OpeningCinema",
+				"Action49ExecuteDelay:f":	0,
+				"Action49ExecuteImmediately:d":	0,
+				"Action49MusicTrigger:g":	"9D1531D2_23BDC001"
+			}]
+	}, {
+		"name":	"Action50",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType50:d":	40,
+				"ActionName50:s":	"Music - Get Key Act",
+				"Action50ExecuteDelay:f":	0,
+				"Action50ExecuteImmediately:d":	0,
+				"Action50MusicTrigger:g":	"9D153751_21A34C01"
+			}]
+	}, {
+		"name":	"Action51",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType51:d":	40,
+				"ActionName51:s":	"Music - Get Healing Draught Act",
+				"Action51ExecuteDelay:f":	0,
+				"Action51ExecuteImmediately:d":	0,
+				"Action51MusicTrigger:g":	"9D153751_21A50001"
+			}]
+	}, {
+		"name":	"Action52",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType52:d":	40,
+				"ActionName52:s":	"Music - FindSting",
+				"Action52ExecuteDelay:f":	6.5,
+				"Action52ExecuteImmediately:d":	0,
+				"Action52MusicTrigger:g":	"9D1530D2_23F8E401"
+			}]
+	}, {
+		"name":	"Action53",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType53:d":	2,
+				"ActionName53:s":	"Make Cave Guardian Mean",
+				"Action53ExecuteDelay:f":	0,
+				"Action53ExecuteImmediately:d":	0,
+				"Action53CharacterGuid:g":	"0D8AD98D_A6188400",
+				"Action53Team:d":	2
+			}]
+	}, {
+		"name":	"Action54",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType54:d":	2,
+				"ActionName54:s":	"Make Cave Guardian Friendly",
+				"Action54ExecuteDelay:f":	0,
+				"Action54ExecuteImmediately:d":	0,
+				"Action54CharacterGuid:g":	"0D8AD98D_A6188400",
+				"Action54Team:d":	0
+			}]
+	}, {
+		"name":	"Action55",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType55:d":	10,
+				"ActionName55:s":	"Load Layer - LT Unload Area8 Creatures",
+				"Action55ExecuteDelay:f":	0,
+				"Action55ExecuteImmediately:d":	0,
+				"Action55LoadLayerGuid:g":	"CD5886D2_3E513800"
+			}]
+	}, {
+		"name":	"Action56",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType56:d":	4,
+				"ActionName56:s":	"Goal List - Rock Badger 13 Atk Bilbo Act",
+				"Action56ExecuteDelay:f":	0,
+				"Action56ExecuteImmediately:d":	0,
+				"Action56CharacterGuid:g":	"0D8AD34B_47C45401",
+				"Action56AIStateName:s":	"Idle",
+				"Action56GoalListName:s":	"Atk Bilbo",
+				"Action56OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action57",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType57:d":	4,
+				"ActionName57:s":	"Goal List - Pit Ambush (13) Act",
+				"Action57ExecuteDelay:f":	0,
+				"Action57ExecuteImmediately:d":	0,
+				"Action57CharacterGuid:g":	"0D8ADF0B_70C74001",
+				"Action57AIStateName:s":	"Idle",
+				"Action57GoalListName:s":	"Pit Ambush",
+				"Action57OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action58",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType58:d":	4,
+				"ActionName58:s":	"Goal List - Pit Ambush (12) Act",
+				"Action58ExecuteDelay:f":	0,
+				"Action58ExecuteImmediately:d":	0,
+				"Action58CharacterGuid:g":	"0D8ADF0B_70C6C001",
+				"Action58AIStateName:s":	"Idle",
+				"Action58GoalListName:s":	"Pit Ambush",
+				"Action58OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action59",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType59:d":	4,
+				"ActionName59:s":	"Goal List - Lianna Healthy Act",
+				"Action59ExecuteDelay:f":	0,
+				"Action59ExecuteImmediately:d":	0,
+				"Action59CharacterGuid:g":	"0D8AD04B_48984000",
+				"Action59AIStateName:s":	"Idle",
+				"Action59GoalListName:s":	"Healthy Idle",
+				"Action59OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action60",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType60:d":	4,
+				"ActionName60:s":	"Gaol List - Pit Ambush (14) Act",
+				"Action60ExecuteDelay:f":	0,
+				"Action60ExecuteImmediately:d":	0,
+				"Action60CharacterGuid:g":	"0D8ADF0B_70C74C01",
+				"Action60AIStateName:s":	"Idle",
+				"Action60GoalListName:s":	"Pit Ambush",
+				"Action60OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action61",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType61:d":	19,
+				"ActionName61:s":	"END LEVEL",
+				"Action61ExecuteDelay:f":	0,
+				"Action61ExecuteImmediately:d":	0
+			}]
+	}, {
+		"name":	"Action62",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType62:d":	0,
+				"ActionName62:s":	"Disable Link - Lianna Auto-Quest Act"
+			}]
+	}, {
+		"name":	"Action63",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType63:d":	0,
+				"ActionName63:s":	"Disable Link - Gandalf Auto-Quest Act"
+			}]
+	}, {
+		"name":	"Action64",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType64:d":	21,
+				"ActionName64:s":	"Dialogue Change Lianna Quest Remind Act",
+				"Action64ExecuteDelay:f":	0,
+				"Action64ExecuteImmediately:d":	0,
+				"Action64NPCGuid:g":	"0D8AD04B_48984000",
+				"Action64CinemaCount:d":	1,
+				"Action64SelectionMethod:d":	0,
+				"Action64Cinema0:g":	"15A46C0E_4A323C04"
+			}]
+	}, {
+		"name":	"Action65",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType65:d":	21,
+				"ActionName65:s":	"Dialogue Change Lianna Quest Complete Remind Act",
+				"Action65ExecuteDelay:f":	0,
+				"Action65ExecuteImmediately:d":	0,
+				"Action65NPCGuid:g":	"0D8AD04B_48984000",
+				"Action65CinemaCount:d":	1,
+				"Action65SelectionMethod:d":	0,
+				"Action65Cinema0:g":	"15A46C0E_4A324000"
+			}]
+	}, {
+		"name":	"Action66",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType66:d":	21,
+				"ActionName66:s":	"Dialogue Change Gandalf Act",
+				"Action66ExecuteDelay:f":	0,
+				"Action66ExecuteImmediately:d":	0,
+				"Action66NPCGuid:g":	"0D8AD84B_46A71C00",
+				"Action66CinemaCount:d":	1,
+				"Action66SelectionMethod:d":	0,
+				"Action66Cinema0:g":	"15A46C0E_4A323C02"
+			}]
+	}, {
+		"name":	"Action67",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType67:d":	21,
+				"ActionName67:s":	"Dialgoue Change Lianna Quest Complete Act",
+				"Action67ExecuteDelay:f":	0,
+				"Action67ExecuteImmediately:d":	0,
+				"Action67NPCGuid:g":	"0D8AD04B_48984000",
+				"Action67CinemaCount:d":	1,
+				"Action67SelectionMethod:d":	0,
+				"Action67Cinema0:g":	"CD588411_12192C00"
+			}]
+	}, {
+		"name":	"Action68",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType68:d":	16,
+				"ActionName68:s":	"Damage CaveGuardian 1/3rd",
+				"Action68ExecuteDelay:f":	0,
+				"Action68ExecuteImmediately:d":	0,
+				"Action68NPCCount:d":	1,
+				"Action68NPCGuid0:g":	"0D8AD98D_A6188400",
+				"Action68Health:d":	-1000
+			}]
+	}, {
+		"name":	"Action69",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType69:d":	20,
+				"ActionName69:s":	"Cinema Test 002 Act",
+				"Action69ExecuteDelay:f":	0,
+				"Action69ExecuteImmediately:d":	0,
+				"Action69cinemaCount:d":	1,
+				"Action69cinemaSelect:d":	0,
+				"Action69cinema0Guid:g":	"CD588411_12192C00"
+			}]
+	}, {
+		"name":	"Action70",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType70:d":	20,
+				"ActionName70:s":	"Cinema Test 001 Act",
+				"Action70ExecuteDelay:f":	0,
+				"Action70ExecuteImmediately:d":	0,
+				"Action70cinemaCount:d":	1,
+				"Action70cinemaSelect:d":	0,
+				"Action70cinema0Guid:g":	"CD588411_1212EC00"
+			}]
+	}, {
+		"name":	"Action71",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType71:d":	20,
+				"ActionName71:s":	"Cinema Start - Cine05 Naming Sting",
+				"Action71ExecuteDelay:f":	0,
+				"Action71ExecuteImmediately:d":	0,
+				"Action71cinemaCount:d":	1,
+				"Action71cinemaSelect:d":	0,
+				"Action71cinema0Guid:g":	"CD588391_3AFDAC00"
+			}]
+	}, {
+		"name":	"Action72",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType72:d":	20,
+				"ActionName72:s":	"Cinema Start - Cine03 Lianna Intro",
+				"Action72ExecuteDelay:f":	0,
+				"Action72ExecuteImmediately:d":	0,
+				"Action72cinemaCount:d":	1,
+				"Action72cinemaSelect:d":	0,
+				"Action72cinema0Guid:g":	"CD588411_1212EC00"
+			}]
+	}, {
+		"name":	"Action73",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType73:d":	20,
+				"ActionName73:s":	"Cinema Start - Cine01 Gandalf Intro",
+				"Action73ExecuteDelay:f":	0,
+				"Action73ExecuteImmediately:d":	0,
+				"Action73cinemaCount:d":	1,
+				"Action73cinemaSelect:d":	0,
+				"Action73cinema0Guid:g":	"CD588711_3BC98000"
+			}]
+	}, {
+		"name":	"Action74",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType74:d":	20,
+				"ActionName74:s":	"Cinema Start - Balin Scroll Info",
+				"Action74ExecuteDelay:f":	0,
+				"Action74ExecuteImmediately:d":	0,
+				"Action74cinemaCount:d":	1,
+				"Action74cinemaSelect:d":	0,
+				"Action74cinema0Guid:g":	"CD588C91_D41B4800"
+			}]
+	}, {
+		"name":	"Action75",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType75:d":	0,
+				"ActionName75:s":	""
+			}]
+	}, {
+		"name":	"Action76",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType76:d":	0,
+				"ActionName76:s":	""
+			}]
+	}, {
+		"name":	"Action77",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType77:d":	4,
+				"ActionName77:s":	"Bat 11 Atk Bilbo Act",
+				"Action77ExecuteDelay:f":	0,
+				"Action77ExecuteImmediately:d":	0,
+				"Action77CharacterGuid:g":	"0D8AD34B_47D6FC01",
+				"Action77AIStateName:s":	"Idle",
+				"Action77GoalListName:s":	"Atk Bilbo",
+				"Action77OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action78",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType78:d":	4,
+				"ActionName78:s":	"Bat 10 Atk Bilbo Act",
+				"Action78ExecuteDelay:f":	0,
+				"Action78ExecuteImmediately:d":	0,
+				"Action78CharacterGuid:g":	"0D8ADD0B_46F12401",
+				"Action78AIStateName:s":	"Idle",
+				"Action78GoalListName:s":	"Atk Bilbo",
+				"Action78OverrideCinematicAnimation:d":	0
+			}]
+	}, {
+		"name":	"Action79",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType79:d":	8,
+				"ActionName79:s":	"Audio SFX Troll Door",
+				"Action79ExecuteDelay:f":	0,
+				"Action79ExecuteImmediately:d":	0,
+				"Action79DialogSelectionMethod:d":	1,
+				"Action79DialogCount:d":	1,
+				"Action79DialogName0:s":	"TrollDoorUnlock",
+				"Action79Speaker:g":	"00000000_00000000",
+				"Action79AtLocation:d":	0,
+				"Action79BilboDialog:d":	0
+			}]
+	}, {
+		"name":	"Action80",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType80:d":	45,
+				"ActionName80:s":	"Ambient - OutdoorStart",
+				"Action80ExecuteDelay:f":	0,
+				"Action80ExecuteImmediately:d":	0,
+				"Action80AmbientAudioTrigger:g":	"9D1531D2_239A2C00"
+			}]
+	}, {
+		"name":	"Action81",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType81:d":	18,
+				"ActionName81:s":	"Overlay - Rope Tutorial",
+				"Action81ExecuteDelay:f":	0,
+				"Action81ExecuteImmediately:d":	0,
+				"Action81StringID:s":	"INFO_ROPE_TUTORIAL",
+				"Action81Scroll:d":	1,
+				"Action81DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action82",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType82:d":	20,
+				"ActionName82:s":	"Cinema Starts - Troll Hole Key Cin",
+				"Action82ExecuteDelay:f":	0,
+				"Action82ExecuteImmediately:d":	0,
+				"Action82cinemaCount:d":	1,
+				"Action82cinemaSelect:d":	0,
+				"Action82cinema0Guid:g":	"CD588CD2_5EECC800"
+			}]
+	}, {
+		"name":	"Action83",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType83:d":	18,
+				"ActionName83:s":	"Overlay - Guardian Hint",
+				"Action83ExecuteDelay:f":	0,
+				"Action83ExecuteImmediately:d":	0,
+				"Action83StringID:s":	"INFO_GUARDIAN_HINT",
+				"Action83Scroll:d":	1,
+				"Action83DelayTime:f":	5
+			}]
+	}, {
+		"name":	"Action84",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType84:d":	50,
+				"ActionName84:s":	"Run AI - False - Lianna",
+				"Action84ExecuteDelay:f":	0,
+				"Action84ExecuteImmediately:d":	0,
+				"Action84DoRunAI:d":	0,
+				"Action84NPC:g":	"0D8AD04B_48984000"
+			}]
+	}, {
+		"name":	"Action85",
+		"row_count":	1,
+		"rows":	[{
+				"ActionType85:d":	40,
+				"ActionName85:s":	"Music - Sting Cinema End",
+				"Action85ExecuteDelay:f":	12.5,
+				"Action85ExecuteImmediately:d":	0,
+				"Action85MusicTrigger:g":	"9D153853_0BF34401"
+			}]
+	}, {
+		"name":	"Link0",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats0:d":	0,
+				"LinkState0:d":	0,
+				"LogicType0:d":	0,
+				"LinkTriggerCount0:d":	1,
+				"LinkTriggerIndex0-0:d":	1,
+				"LinkActionCount0:d":	2,
+				"LinkActionIndex0-0:d":	71,
+				"LinkActionIndex0-1:d":	79
+			}]
+	}, {
+		"name":	"Link1",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats1:d":	0,
+				"LinkState1:d":	0,
+				"LogicType1:d":	0,
+				"LinkTriggerCount1:d":	1,
+				"LinkTriggerIndex1-0:d":	3,
+				"LinkActionCount1:d":	1,
+				"LinkActionIndex1-0:d":	43
+			}]
+	}, {
+		"name":	"Link2",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats2:d":	0,
+				"LinkState2:d":	0,
+				"LogicType2:d":	0,
+				"LinkTriggerCount2:d":	1,
+				"LinkTriggerIndex2-0:d":	4,
+				"LinkActionCount2:d":	1,
+				"LinkActionIndex2-0:d":	74
+			}]
+	}, {
+		"name":	"Link3",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats3:d":	0,
+				"LinkState3:d":	0,
+				"LogicType3:d":	0,
+				"LinkTriggerCount3:d":	1,
+				"LinkTriggerIndex3-0:d":	5,
+				"LinkActionCount3:d":	1,
+				"LinkActionIndex3-0:d":	44
+			}]
+	}, {
+		"name":	"Link4",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats4:d":	0,
+				"LinkState4:d":	0,
+				"LogicType4:d":	0,
+				"LinkTriggerCount4:d":	1,
+				"LinkTriggerIndex4-0:d":	6,
+				"LinkActionCount4:d":	1,
+				"LinkActionIndex4-0:d":	44
+			}]
+	}, {
+		"name":	"Link5",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats5:d":	0,
+				"LinkState5:d":	0,
+				"LogicType5:d":	0,
+				"LinkTriggerCount5:d":	1,
+				"LinkTriggerIndex5-0:d":	7,
+				"LinkActionCount5:d":	4,
+				"LinkActionIndex5-0:d":	38,
+				"LinkActionIndex5-1:d":	45,
+				"LinkActionIndex5-2:d":	19,
+				"LinkActionIndex5-3:d":	28
+			}]
+	}, {
+		"name":	"Link6",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats6:d":	0,
+				"LinkState6:d":	0,
+				"LogicType6:d":	0,
+				"LinkTriggerCount6:d":	1,
+				"LinkTriggerIndex6-0:d":	8,
+				"LinkActionCount6:d":	1,
+				"LinkActionIndex6-0:d":	47
+			}]
+	}, {
+		"name":	"Link7",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats7:d":	0,
+				"LinkState7:d":	0,
+				"LogicType7:d":	0,
+				"LinkTriggerCount7:d":	1,
+				"LinkTriggerIndex7-0:d":	9,
+				"LinkActionCount7:d":	1,
+				"LinkActionIndex7-0:d":	46
+			}]
+	}, {
+		"name":	"Link8",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats8:d":	0,
+				"LinkState8:d":	0,
+				"LogicType8:d":	0,
+				"LinkTriggerCount8:d":	1,
+				"LinkTriggerIndex8-0:d":	10,
+				"LinkActionCount8:d":	1,
+				"LinkActionIndex8-0:d":	51
+			}]
+	}, {
+		"name":	"Link9",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats9:d":	0,
+				"LinkState9:d":	0,
+				"LogicType9:d":	0,
+				"LinkTriggerCount9:d":	1,
+				"LinkTriggerIndex9-0:d":	11,
+				"LinkActionCount9:d":	1,
+				"LinkActionIndex9-0:d":	50
+			}]
+	}, {
+		"name":	"Link10",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats10:d":	0,
+				"LinkState10:d":	0,
+				"LogicType10:d":	0,
+				"LinkTriggerCount10:d":	1,
+				"LinkTriggerIndex10-0:d":	12,
+				"LinkActionCount10:d":	5,
+				"LinkActionIndex10-0:d":	67,
+				"LinkActionIndex10-1:d":	27,
+				"LinkActionIndex10-2:d":	22,
+				"LinkActionIndex10-3:d":	48,
+				"LinkActionIndex10-4:d":	40
+			}]
+	}, {
+		"name":	"Link11",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats11:d":	1,
+				"LinkState11:d":	0,
+				"LogicType11:d":	0,
+				"LinkTriggerCount11:d":	1,
+				"LinkTriggerIndex11-0:d":	13,
+				"LinkActionCount11:d":	1,
+				"LinkActionIndex11-0:d":	0
+			}]
+	}, {
+		"name":	"Link12",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats12:d":	1,
+				"LinkState12:d":	0,
+				"LogicType12:d":	0,
+				"LinkTriggerCount12:d":	1,
+				"LinkTriggerIndex12-0:d":	14,
+				"LinkActionCount12:d":	1,
+				"LinkActionIndex12-0:d":	1
+			}]
+	}, {
+		"name":	"Link13",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats13:d":	1,
+				"LinkState13:d":	0,
+				"LogicType13:d":	0,
+				"LinkTriggerCount13:d":	1,
+				"LinkTriggerIndex13-0:d":	15,
+				"LinkActionCount13:d":	1,
+				"LinkActionIndex13-0:d":	2
+			}]
+	}, {
+		"name":	"Link14",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats14:d":	1,
+				"LinkState14:d":	0,
+				"LogicType14:d":	0,
+				"LinkTriggerCount14:d":	1,
+				"LinkTriggerIndex14-0:d":	16,
+				"LinkActionCount14:d":	1,
+				"LinkActionIndex14-0:d":	3
+			}]
+	}, {
+		"name":	"Link15",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats15:d":	1,
+				"LinkState15:d":	0,
+				"LogicType15:d":	0,
+				"LinkTriggerCount15:d":	1,
+				"LinkTriggerIndex15-0:d":	17,
+				"LinkActionCount15:d":	1,
+				"LinkActionIndex15-0:d":	4
+			}]
+	}, {
+		"name":	"Link16",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats16:d":	1,
+				"LinkState16:d":	0,
+				"LogicType16:d":	0,
+				"LinkTriggerCount16:d":	1,
+				"LinkTriggerIndex16-0:d":	18,
+				"LinkActionCount16:d":	1,
+				"LinkActionIndex16-0:d":	5
+			}]
+	}, {
+		"name":	"Link17",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats17:d":	1,
+				"LinkState17:d":	0,
+				"LogicType17:d":	0,
+				"LinkTriggerCount17:d":	1,
+				"LinkTriggerIndex17-0:d":	19,
+				"LinkActionCount17:d":	1,
+				"LinkActionIndex17-0:d":	6
+			}]
+	}, {
+		"name":	"Link18",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats18:d":	1,
+				"LinkState18:d":	0,
+				"LogicType18:d":	0,
+				"LinkTriggerCount18:d":	1,
+				"LinkTriggerIndex18-0:d":	20,
+				"LinkActionCount18:d":	1,
+				"LinkActionIndex18-0:d":	7
+			}]
+	}, {
+		"name":	"Link19",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats19:d":	1,
+				"LinkState19:d":	0,
+				"LogicType19:d":	0,
+				"LinkTriggerCount19:d":	1,
+				"LinkTriggerIndex19-0:d":	21,
+				"LinkActionCount19:d":	1,
+				"LinkActionIndex19-0:d":	8
+			}]
+	}, {
+		"name":	"Link20",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats20:d":	1,
+				"LinkState20:d":	0,
+				"LogicType20:d":	0,
+				"LinkTriggerCount20:d":	1,
+				"LinkTriggerIndex20-0:d":	22,
+				"LinkActionCount20:d":	1,
+				"LinkActionIndex20-0:d":	9
+			}]
+	}, {
+		"name":	"Link21",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats21:d":	1,
+				"LinkState21:d":	0,
+				"LogicType21:d":	0,
+				"LinkTriggerCount21:d":	1,
+				"LinkTriggerIndex21-0:d":	23,
+				"LinkActionCount21:d":	1,
+				"LinkActionIndex21-0:d":	10
+			}]
+	}, {
+		"name":	"Link22",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats22:d":	1,
+				"LinkState22:d":	0,
+				"LogicType22:d":	0,
+				"LinkTriggerCount22:d":	1,
+				"LinkTriggerIndex22-0:d":	24,
+				"LinkActionCount22:d":	1,
+				"LinkActionIndex22-0:d":	11
+			}]
+	}, {
+		"name":	"Link23",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats23:d":	0,
+				"LinkState23:d":	0,
+				"LogicType23:d":	0,
+				"LinkTriggerCount23:d":	1,
+				"LinkTriggerIndex23-0:d":	25,
+				"LinkActionCount23:d":	1,
+				"LinkActionIndex23-0:d":	12
+			}]
+	}, {
+		"name":	"Link24",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats24:d":	0,
+				"LinkState24:d":	0,
+				"LogicType24:d":	0,
+				"LinkTriggerCount24:d":	1,
+				"LinkTriggerIndex24-0:d":	26,
+				"LinkActionCount24:d":	2,
+				"LinkActionIndex24-0:d":	14,
+				"LinkActionIndex24-1:d":	13
+			}]
+	}, {
+		"name":	"Link25",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats25:d":	0,
+				"LinkState25:d":	0,
+				"LogicType25:d":	0,
+				"LinkTriggerCount25:d":	1,
+				"LinkTriggerIndex25-0:d":	28,
+				"LinkActionCount25:d":	1,
+				"LinkActionIndex25-0:d":	56
+			}]
+	}, {
+		"name":	"Link26",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats26:d":	0,
+				"LinkState26:d":	0,
+				"LogicType26:d":	0,
+				"LinkTriggerCount26:d":	1,
+				"LinkTriggerIndex26-0:d":	29,
+				"LinkActionCount26:d":	3,
+				"LinkActionIndex26-0:d":	60,
+				"LinkActionIndex26-1:d":	57,
+				"LinkActionIndex26-2:d":	58
+			}]
+	}, {
+		"name":	"Link27",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats27:d":	0,
+				"LinkState27:d":	0,
+				"LogicType27:d":	0,
+				"LinkTriggerCount27:d":	1,
+				"LinkTriggerIndex27-0:d":	30,
+				"LinkActionCount27:d":	1,
+				"LinkActionIndex27-0:d":	20
+			}]
+	}, {
+		"name":	"Link28",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats28:d":	0,
+				"LinkState28:d":	0,
+				"LogicType28:d":	0,
+				"LinkTriggerCount28:d":	1,
+				"LinkTriggerIndex28-0:d":	31,
+				"LinkActionCount28:d":	1,
+				"LinkActionIndex28-0:d":	72
+			}]
+	}, {
+		"name":	"Link29",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats29:d":	0,
+				"LinkState29:d":	0,
+				"LogicType29:d":	0,
+				"LinkTriggerCount29:d":	1,
+				"LinkTriggerIndex29-0:d":	34,
+				"LinkActionCount29:d":	1,
+				"LinkActionIndex29-0:d":	61
+			}]
+	}, {
+		"name":	"Link30",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats30:d":	0,
+				"LinkState30:d":	0,
+				"LogicType30:d":	0,
+				"LinkTriggerCount30:d":	1,
+				"LinkTriggerIndex30-0:d":	35,
+				"LinkActionCount30:d":	1,
+				"LinkActionIndex30-0:d":	36
+			}]
+	}, {
+		"name":	"Link31",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats31:d":	0,
+				"LinkState31:d":	0,
+				"LogicType31:d":	0,
+				"LinkTriggerCount31:d":	1,
+				"LinkTriggerIndex31-0:d":	36,
+				"LinkActionCount31:d":	1,
+				"LinkActionIndex31-0:d":	41
+			}]
+	}, {
+		"name":	"Link32",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats32:d":	0,
+				"LinkState32:d":	0,
+				"LogicType32:d":	0,
+				"LinkTriggerCount32:d":	1,
+				"LinkTriggerIndex32-0:d":	37,
+				"LinkActionCount32:d":	1,
+				"LinkActionIndex32-0:d":	39
+			}]
+	}, {
+		"name":	"Link33",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats33:d":	0,
+				"LinkState33:d":	3,
+				"LogicType33:d":	0,
+				"LinkTriggerCount33:d":	1,
+				"LinkTriggerIndex33-0:d":	38,
+				"LinkActionCount33:d":	1,
+				"LinkActionIndex33-0:d":	42
+			}]
+	}, {
+		"name":	"Link34",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats34:d":	0,
+				"LinkState34:d":	0,
+				"LogicType34:d":	0,
+				"LinkTriggerCount34:d":	1,
+				"LinkTriggerIndex34-0:d":	39,
+				"LinkActionCount34:d":	1,
+				"LinkActionIndex34-0:d":	37
+			}]
+	}, {
+		"name":	"Link35",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats35:d":	0,
+				"LinkState35:d":	0,
+				"LogicType35:d":	0,
+				"LinkTriggerCount35:d":	1,
+				"LinkTriggerIndex35-0:d":	40,
+				"LinkActionCount35:d":	2,
+				"LinkActionIndex35-0:d":	75,
+				"LinkActionIndex35-1:d":	76
+			}]
+	}, {
+		"name":	"Link36",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats36:d":	0,
+				"LinkState36:d":	0,
+				"LogicType36:d":	0,
+				"LinkTriggerCount36:d":	1,
+				"LinkTriggerIndex36-0:d":	41,
+				"LinkActionCount36:d":	1,
+				"LinkActionIndex36-0:d":	15
+			}]
+	}, {
+		"name":	"Link37",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats37:d":	0,
+				"LinkState37:d":	0,
+				"LogicType37:d":	0,
+				"LinkTriggerCount37:d":	1,
+				"LinkTriggerIndex37-0:d":	42,
+				"LinkActionCount37:d":	1,
+				"LinkActionIndex37-0:d":	77
+			}]
+	}, {
+		"name":	"Link38",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats38:d":	0,
+				"LinkState38:d":	3,
+				"LogicType38:d":	0,
+				"LinkTriggerCount38:d":	1,
+				"LinkTriggerIndex38-0:d":	43,
+				"LinkActionCount38:d":	1,
+				"LinkActionIndex38-0:d":	78
+			}]
+	}, {
+		"name":	"Link39",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats39:d":	0,
+				"LinkState39:d":	0,
+				"LogicType39:d":	0,
+				"LinkTriggerCount39:d":	1,
+				"LinkTriggerIndex39-0:d":	44,
+				"LinkActionCount39:d":	1,
+				"LinkActionIndex39-0:d":	69
+			}]
+	}, {
+		"name":	"Link40",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats40:d":	0,
+				"LinkState40:d":	0,
+				"LogicType40:d":	0,
+				"LinkTriggerCount40:d":	1,
+				"LinkTriggerIndex40-0:d":	45,
+				"LinkActionCount40:d":	1,
+				"LinkActionIndex40-0:d":	70
+			}]
+	}, {
+		"name":	"Link41",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats41:d":	1,
+				"LinkState41:d":	0,
+				"LogicType41:d":	0,
+				"LinkTriggerCount41:d":	1,
+				"LinkTriggerIndex41-0:d":	46,
+				"LinkActionCount41:d":	1,
+				"LinkActionIndex41-0:d":	54
+			}]
+	}, {
+		"name":	"Link42",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats42:d":	1,
+				"LinkState42:d":	0,
+				"LogicType42:d":	0,
+				"LinkTriggerCount42:d":	1,
+				"LinkTriggerIndex42-0:d":	47,
+				"LinkActionCount42:d":	1,
+				"LinkActionIndex42-0:d":	54
+			}]
+	}, {
+		"name":	"Link43",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats43:d":	0,
+				"LinkState43:d":	0,
+				"LogicType43:d":	0,
+				"LinkTriggerCount43:d":	1,
+				"LinkTriggerIndex43-0:d":	48,
+				"LinkActionCount43:d":	4,
+				"LinkActionIndex43-0:d":	25,
+				"LinkActionIndex43-1:d":	55,
+				"LinkActionIndex43-2:d":	85,
+				"LinkActionIndex43-3:d":	52
+			}]
+	}, {
+		"name":	"Link44",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats44:d":	1,
+				"LinkState44:d":	0,
+				"LogicType44:d":	0,
+				"LinkTriggerCount44:d":	1,
+				"LinkTriggerIndex44-0:d":	49,
+				"LinkActionCount44:d":	1,
+				"LinkActionIndex44-0:d":	54
+			}]
+	}, {
+		"name":	"Link45",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats45:d":	0,
+				"LinkState45:d":	0,
+				"LogicType45:d":	0,
+				"LinkTriggerCount45:d":	1,
+				"LinkTriggerIndex45-0:d":	50,
+				"LinkActionCount45:d":	2,
+				"LinkActionIndex45-0:d":	62,
+				"LinkActionIndex45-1:d":	54
+			}]
+	}, {
+		"name":	"Link46",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats46:d":	0,
+				"LinkState46:d":	0,
+				"LogicType46:d":	0,
+				"LinkTriggerCount46:d":	1,
+				"LinkTriggerIndex46-0:d":	51,
+				"LinkActionCount46:d":	1,
+				"LinkActionIndex46-0:d":	49
+			}]
+	}, {
+		"name":	"Link47",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats47:d":	1,
+				"LinkState47:d":	0,
+				"LogicType47:d":	0,
+				"LinkTriggerCount47:d":	1,
+				"LinkTriggerIndex47-0:d":	52,
+				"LinkActionCount47:d":	1,
+				"LinkActionIndex47-0:d":	53
+			}]
+	}, {
+		"name":	"Link48",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats48:d":	1,
+				"LinkState48:d":	0,
+				"LogicType48:d":	0,
+				"LinkTriggerCount48:d":	1,
+				"LinkTriggerIndex48-0:d":	53,
+				"LinkActionCount48:d":	1,
+				"LinkActionIndex48-0:d":	53
+			}]
+	}, {
+		"name":	"Link49",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats49:d":	0,
+				"LinkState49:d":	0,
+				"LogicType49:d":	1,
+				"LinkTriggerCount49:d":	2,
+				"LinkTriggerIndex49-0:d":	54,
+				"LinkTriggerIndex49-1:d":	7,
+				"LinkActionCount49:d":	1,
+				"LinkActionIndex49-0:d":	24
+			}]
+	}, {
+		"name":	"Link50",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats50:d":	0,
+				"LinkState50:d":	0,
+				"LogicType50:d":	0,
+				"LinkTriggerCount50:d":	1,
+				"LinkTriggerIndex50-0:d":	55,
+				"LinkActionCount50:d":	1,
+				"LinkActionIndex50-0:d":	61
+			}]
+	}, {
+		"name":	"Link51",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats51:d":	0,
+				"LinkState51:d":	0,
+				"LogicType51:d":	0,
+				"LinkTriggerCount51:d":	1,
+				"LinkTriggerIndex51-0:d":	56,
+				"LinkActionCount51:d":	6,
+				"LinkActionIndex51-0:d":	65,
+				"LinkActionIndex51-1:d":	17,
+				"LinkActionIndex51-2:d":	16,
+				"LinkActionIndex51-3:d":	18,
+				"LinkActionIndex51-4:d":	26,
+				"LinkActionIndex51-5:d":	53
+			}]
+	}, {
+		"name":	"Link52",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats52:d":	0,
+				"LinkState52:d":	0,
+				"LogicType52:d":	0,
+				"LinkTriggerCount52:d":	1,
+				"LinkTriggerIndex52-0:d":	57,
+				"LinkActionCount52:d":	3,
+				"LinkActionIndex52-0:d":	64,
+				"LinkActionIndex52-1:d":	53,
+				"LinkActionIndex52-2:d":	23
+			}]
+	}, {
+		"name":	"Link53",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats53:d":	0,
+				"LinkState53:d":	0,
+				"LogicType53:d":	0,
+				"LinkTriggerCount53:d":	1,
+				"LinkTriggerIndex53-0:d":	58,
+				"LinkActionCount53:d":	2,
+				"LinkActionIndex53-0:d":	66,
+				"LinkActionIndex53-1:d":	21
+			}]
+	}, {
+		"name":	"Link54",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats54:d":	1,
+				"LinkState54:d":	0,
+				"LogicType54:d":	0,
+				"LinkTriggerCount54:d":	1,
+				"LinkTriggerIndex54-0:d":	59,
+				"LinkActionCount54:d":	1,
+				"LinkActionIndex54-0:d":	68
+			}]
+	}, {
+		"name":	"Link55",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats55:d":	0,
+				"LinkState55:d":	0,
+				"LogicType55:d":	0,
+				"LinkTriggerCount55:d":	1,
+				"LinkTriggerIndex55-0:d":	60,
+				"LinkActionCount55:d":	1,
+				"LinkActionIndex55-0:d":	80
+			}]
+	}, {
+		"name":	"Link56",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats56:d":	0,
+				"LinkState56:d":	0,
+				"LogicType56:d":	0,
+				"LinkTriggerCount56:d":	1,
+				"LinkTriggerIndex56-0:d":	61,
+				"LinkActionCount56:d":	1,
+				"LinkActionIndex56-0:d":	81
+			}]
+	}, {
+		"name":	"Link57",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats57:d":	0,
+				"LinkState57:d":	0,
+				"LogicType57:d":	0,
+				"LinkTriggerCount57:d":	1,
+				"LinkTriggerIndex57-0:d":	62,
+				"LinkActionCount57:d":	1,
+				"LinkActionIndex57-0:d":	82
+			}]
+	}, {
+		"name":	"Link58",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats58:d":	0,
+				"LinkState58:d":	0,
+				"LogicType58:d":	0,
+				"LinkTriggerCount58:d":	1,
+				"LinkTriggerIndex58-0:d":	63,
+				"LinkActionCount58:d":	1,
+				"LinkActionIndex58-0:d":	83
+			}]
+	}, {
+		"name":	"Link59",
+		"row_count":	1,
+		"rows":	[{
+				"LinkRepeats59:d":	0,
+				"LinkState59:d":	0,
+				"LogicType59:d":	0,
+				"LinkTriggerCount59:d":	1,
+				"LinkTriggerIndex59-0:d":	35,
+				"LinkActionCount59:d":	1,
+				"LinkActionIndex59-0:d":	84
+			}]
+	}, {
+		"name":	"ConversationMgr",
+		"row_count":	1,
+		"rows":	[{
+				"ConversationCount:d":	0,
+				"ConversationListCount:d":	0,
+				"DialogListCount:d":	0
+			}]
+	}, {
+		"name":	"CameraMgr",
+		"row_count":	1,
+		"rows":	[{
+				"ChaseOffset:fff":	[0, 0, 0]
+			}]
+	}]

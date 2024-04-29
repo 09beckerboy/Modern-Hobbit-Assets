@@ -1,0 +1,230 @@
+[{
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DD811_A5561400",
+				"Name:s":	"Cart_Crash_of_Mining",
+				"AnimationResource:s":	"cart_crash_animinst.anim",
+				"GeometryResource:s":	"cart_crash_animinst.rgeom",
+				"Pos:fff":	[0, 0, 0],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[0, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[2338.04638671875, -2587.82177734375, -5751.87109375, 7474.71240234375, 357.23159790039062, -1354.1419677734375],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	1,
+				"Interpolate:d":	1,
+				"Destructible:d":	0,
+				"DestructibleByNPC:d":	0,
+				"DestructibleByBilbo:d":	0,
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	0,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	8608,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[2338.04638671875, -2587.82177734375, -5751.87109375, 7474.71240234375, 357.23159790039062, -1354.1419677734375],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Cart_Crash_of_Mining",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	1,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Dirt"
+			}]
+	}, {
+		"name":	"RigidInstance",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"CA3DDBD0_33CD5001",
+				"Name:s":	"Cavern CrateDirty LT 061",
+				"AnimationResource:s":	"",
+				"GeometryResource:s":	"inst_swordlight_crate-destr.rgeom",
+				"Pos:fff":	[5374.55615234375, -1588.628662109375, -4435.9326171875],
+				"Ambient:dddd":	[0, 0, 0, 255],
+				"Orient:fff":	[1.34977388381958, 0, 0],
+				"Scale:fff":	[1, 1, 1],
+				"BBox:ffffff":	[5338.55615234375, -1590.4764404296875, -4471.9462890625, 5410.55615234375, -1516.80029296875, -4398.27001953125],
+				"HasLOD:d":	0,
+				"IsLadder:d":	0,
+				"IsVine:d":	0,
+				"IsHoistable:d":	0,
+				"IsLeafPile:d":	0,
+				"IsAnimating:d":	1,
+				"IsMovingPlatform:d":	0,
+				"IsAutoEdgeGrabbable:d":	0,
+				"DoesNotCollide:d":	0,
+				"DoesFloat:d":	0,
+				"FloatYTweak:f":	0,
+				"LightingType:d":	0,
+				"AnimSpeed_:f":	1,
+				"AnimOffset_:f":	0,
+				"LoopDelay:f":	0,
+				"Looping:d":	0,
+				"Interpolate:d":	1,
+				"Destructible:d":	1,
+				"DestructibleByNPC:d":	1,
+				"DestructibleByBilbo:d":	1,
+				"ContentType:s":	"CoinBag10",
+				"DestructGeom:s":	"inst_swordlight_crate-destr_ani.rgeom",
+				"DestructAnim:s":	"inst_swordlight_crate-destr_ani.anim",
+				"IsPlant:d":	0,
+				"PainOnDestroy:d":	0,
+				"HasPrivData:d":	1,
+				"HasSurfaceFlags:d":	0,
+				"DoesCameraColl:d":	0,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	10664,
+				"ScriptResource:s":	"",
+				"InitialPos:fff":	[0, 0, 0],
+				"Orientation:fff":	[1.34977388381958, 0, 0],
+				"LocalBoundingBox:ffffff":	[-36, -1.8477783203125, -36.013671875, 36, 71.828369140625, 37.66259765625],
+				"ObjSaveFlag:d":	0,
+				"ObjName:s":	"Cavern CrateDirty LT 061",
+				"IsGoldPile:d":	0,
+				"IsHidden:d":	0,
+				"Decals:d":	0,
+				"IsSqueakyChickenBoard:d":	0,
+				"Surface Type:s":	"Wood"
+			}]
+	}, {
+		"name":	"VertColors",
+		"row_count":	58,
+		"rows":	[{
+				"Color:dddd":	[23, 22, 34, 255]
+			}, {
+				"Color:dddd":	[26, 24, 40, 255]
+			}, {
+				"Color:dddd":	[16, 16, 27, 255]
+			}, {
+				"Color:dddd":	[14, 15, 22, 255]
+			}, {
+				"Color:dddd":	[18, 16, 36, 255]
+			}, {
+				"Color:dddd":	[21, 22, 33, 255]
+			}, {
+				"Color:dddd":	[20, 20, 33, 255]
+			}, {
+				"Color:dddd":	[25, 23, 38, 255]
+			}, {
+				"Color:dddd":	[51, 40, 74, 255]
+			}, {
+				"Color:dddd":	[13, 13, 21, 255]
+			}, {
+				"Color:dddd":	[41, 30, 66, 255]
+			}, {
+				"Color:dddd":	[18, 19, 28, 255]
+			}, {
+				"Color:dddd":	[18, 14, 26, 255]
+			}, {
+				"Color:dddd":	[28, 23, 41, 255]
+			}, {
+				"Color:dddd":	[15, 16, 23, 255]
+			}, {
+				"Color:dddd":	[7, 7, 11, 255]
+			}, {
+				"Color:dddd":	[21, 22, 33, 255]
+			}, {
+				"Color:dddd":	[2, 0, 2, 255]
+			}, {
+				"Color:dddd":	[24, 21, 35, 255]
+			}, {
+				"Color:dddd":	[25, 20, 36, 255]
+			}, {
+				"Color:dddd":	[31, 16, 41, 255]
+			}, {
+				"Color:dddd":	[11, 11, 17, 255]
+			}, {
+				"Color:dddd":	[51, 40, 74, 255]
+			}, {
+				"Color:dddd":	[7, 8, 11, 255]
+			}, {
+				"Color:dddd":	[10, 6, 17, 255]
+			}, {
+				"Color:dddd":	[9, 3, 12, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[1, 1, 3, 255]
+			}, {
+				"Color:dddd":	[2, 0, 2, 255]
+			}, {
+				"Color:dddd":	[17, 15, 35, 255]
+			}, {
+				"Color:dddd":	[5, 2, 7, 255]
+			}, {
+				"Color:dddd":	[11, 5, 16, 255]
+			}, {
+				"Color:dddd":	[34, 21, 56, 255]
+			}, {
+				"Color:dddd":	[0, 0, 0, 255]
+			}, {
+				"Color:dddd":	[31, 16, 41, 255]
+			}, {
+				"Color:dddd":	[4, 4, 9, 255]
+			}, {
+				"Color:dddd":	[25, 21, 49, 255]
+			}, {
+				"Color:dddd":	[29, 23, 55, 255]
+			}, {
+				"Color:dddd":	[25, 21, 49, 255]
+			}, {
+				"Color:dddd":	[24, 21, 48, 255]
+			}, {
+				"Color:dddd":	[17, 15, 35, 255]
+			}, {
+				"Color:dddd":	[18, 16, 36, 255]
+			}, {
+				"Color:dddd":	[25, 22, 50, 255]
+			}, {
+				"Color:dddd":	[28, 23, 54, 255]
+			}, {
+				"Color:dddd":	[41, 30, 66, 255]
+			}, {
+				"Color:dddd":	[24, 21, 48, 255]
+			}, {
+				"Color:dddd":	[34, 21, 56, 255]
+			}, {
+				"Color:dddd":	[25, 21, 49, 255]
+			}, {
+				"Color:dddd":	[57, 35, 79, 255]
+			}, {
+				"Color:dddd":	[55, 32, 75, 255]
+			}, {
+				"Color:dddd":	[53, 30, 75, 255]
+			}, {
+				"Color:dddd":	[58, 36, 85, 255]
+			}, {
+				"Color:dddd":	[34, 21, 56, 255]
+			}, {
+				"Color:dddd":	[41, 30, 66, 255]
+			}, {
+				"Color:dddd":	[51, 28, 69, 255]
+			}, {
+				"Color:dddd":	[57, 35, 79, 255]
+			}, {
+				"Color:dddd":	[56, 33, 80, 255]
+			}, {
+				"Color:dddd":	[60, 38, 86, 255]
+			}]
+	}]

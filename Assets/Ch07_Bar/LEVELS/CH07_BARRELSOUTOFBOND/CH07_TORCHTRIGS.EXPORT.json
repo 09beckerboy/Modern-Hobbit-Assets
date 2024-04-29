@@ -1,0 +1,501 @@
+[{
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD6CE_890D3800",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	1,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	1,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	1,
+				"nActivators:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"trigger_torch.xsc",
+				"InitialPos:fff":	[-1720.611572265625, 38.653800964355469, 2447.251953125],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-37.513916015625, -71.769081115722656, -32.6220703125, 37.513916015625, 71.769081115722656, 32.6220703125],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Trigger_Torch_001",
+				"Name:s":	"Trigger_Torch_001",
+				"Pos:fff":	[-1720.611572265625, 38.653800964355469, 2447.251953125],
+				"BBox:ffffff":	[-1758.12548828125, -33.115280151367188, 2414.6298828125, -1683.09765625, 110.42288208007812, 2479.8740234375],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[37.513916015625, 71.769081115722656, 32.6220703125],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"ItemList",
+		"row_count":	1,
+		"rows":	[{
+				"Item:d":	65
+			}]
+	}, {
+		"name":	"ValidItems",
+		"row_count":	1,
+		"rows":	[{
+				"Number:d":	0
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD6CE_8915C801",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	1,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	1,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	1,
+				"nActivators:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"trigger_torch.xsc",
+				"InitialPos:fff":	[-1460.982421875, 558.61407470703125, 5146.55224609375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-37.513916015625, -71.7690887451172, -32.6220703125, 37.513916015625, 71.7690887451172, 32.6220703125],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Trigger_Torch_002",
+				"Name:s":	"Trigger_Torch_002",
+				"Pos:fff":	[-1460.982421875, 558.61407470703125, 5146.55224609375],
+				"BBox:ffffff":	[-1498.496337890625, 486.844970703125, 5113.93017578125, -1423.468505859375, 630.3831787109375, 5179.17431640625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[37.513916015625, 71.7690887451172, 32.6220703125],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"ItemList",
+		"row_count":	1,
+		"rows":	[{
+				"Item:d":	65
+			}]
+	}, {
+		"name":	"ValidItems",
+		"row_count":	1,
+		"rows":	[{
+				"Number:d":	0
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD6CE_8915EC01",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	1,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	1,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	1,
+				"nActivators:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"trigger_torch.xsc",
+				"InitialPos:fff":	[-1957.336181640625, 557.02960205078125, 5146.55224609375],
+				"Orientation:fff":	[0, -121.49999237060547, 0],
+				"LocalBoundingBox:ffffff":	[-47.415851593017578, -71.7690887451172, -49.030857086181641, 47.415851593017578, 71.7690887451172, 49.030857086181641],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Trigger_Torch_003",
+				"Name:s":	"Trigger_Torch_003",
+				"Pos:fff":	[-1957.336181640625, 557.02960205078125, 5146.55224609375],
+				"BBox:ffffff":	[-2004.7520751953125, 485.260498046875, 5097.521484375, -1909.9202880859375, 628.7987060546875, 5195.5830078125],
+				"Orient:fff":	[0, -121.49999237060547, 0],
+				"HalfDimensions:fff":	[37.513916015625, 71.7690887451172, 32.6220703125],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"ItemList",
+		"row_count":	1,
+		"rows":	[{
+				"Item:d":	65
+			}]
+	}, {
+		"name":	"ValidItems",
+		"row_count":	1,
+		"rows":	[{
+				"Number:d":	0
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD6CE_89161801",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	1,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	1,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	1,
+				"nActivators:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"trigger_torch.xsc",
+				"InitialPos:fff":	[-2452.087890625, 489.76202392578125, 3917.65283203125],
+				"Orientation:fff":	[0, 71.999992370605469, 0],
+				"LocalBoundingBox:ffffff":	[-42.6179084777832, -71.769073486328125, -45.758747100830078, 42.6179084777832, 71.769073486328125, 45.758747100830078],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Trigger_Torch_004",
+				"Name:s":	"Trigger_Torch_004",
+				"Pos:fff":	[-2452.087890625, 489.76202392578125, 3917.65283203125],
+				"BBox:ffffff":	[-2494.705810546875, 417.99295043945313, 3871.89404296875, -2409.469970703125, 561.5311279296875, 3963.41162109375],
+				"Orient:fff":	[0, 71.999992370605469, 0],
+				"HalfDimensions:fff":	[37.5140380859375, 71.769073486328125, 32.6220703125],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"ItemList",
+		"row_count":	1,
+		"rows":	[{
+				"Item:d":	65
+			}]
+	}, {
+		"name":	"ValidItems",
+		"row_count":	1,
+		"rows":	[{
+				"Number:d":	0
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD90E_AF453001",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	1,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	1,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	1,
+				"nActivators:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"trigger_torch.xsc",
+				"InitialPos:fff":	[218.32098388671875, 870.46209716796875, 4004.805419921875],
+				"Orientation:fff":	[0, 71.999992370605469, 0],
+				"LocalBoundingBox:ffffff":	[-42.617874145507813, -71.769073486328125, -45.7586441040039, 42.617874145507813, 71.769073486328125, 45.7586441040039],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Trigger_Torch_005",
+				"Name:s":	"Trigger_Torch_005",
+				"Pos:fff":	[218.32098388671875, 870.46209716796875, 4004.805419921875],
+				"BBox:ffffff":	[175.70310974121094, 798.6929931640625, 3959.046875, 260.9388427734375, 942.231201171875, 4050.56396484375],
+				"Orient:fff":	[0, 71.999992370605469, 0],
+				"HalfDimensions:fff":	[37.513931274414062, 71.769073486328125, 32.6220703125],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"ItemList",
+		"row_count":	1,
+		"rows":	[{
+				"Item:d":	65
+			}]
+	}, {
+		"name":	"ValidItems",
+		"row_count":	1,
+		"rows":	[{
+				"Number:d":	0
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD90E_AF454801",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	1,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	1,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	1,
+				"nActivators:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"trigger_torch.xsc",
+				"InitialPos:fff":	[-1445.34033203125, 541.8612060546875, 2911.25146484375],
+				"Orientation:fff":	[0, 0, 0],
+				"LocalBoundingBox:ffffff":	[-37.513916015625, -71.7690887451172, -32.6220703125, 37.513916015625, 71.7690887451172, 32.6220703125],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Trigger_Torch_006",
+				"Name:s":	"Trigger_Torch_006",
+				"Pos:fff":	[-1445.34033203125, 541.8612060546875, 2911.25146484375],
+				"BBox:ffffff":	[-1482.854248046875, 470.09210205078125, 2878.62939453125, -1407.826416015625, 613.63031005859375, 2943.87353515625],
+				"Orient:fff":	[0, 0, 0],
+				"HalfDimensions:fff":	[37.513916015625, 71.7690887451172, 32.6220703125],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"ItemList",
+		"row_count":	1,
+		"rows":	[{
+				"Item:d":	65
+			}]
+	}, {
+		"name":	"ValidItems",
+		"row_count":	1,
+		"rows":	[{
+				"Number:d":	0
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD90E_AF456001",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	1,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	1,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	1,
+				"nActivators:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"trigger_torch.xsc",
+				"InitialPos:fff":	[-3581.195556640625, 1133.8636474609375, 5271.15673828125],
+				"Orientation:fff":	[0, -121.49999237060547, 0],
+				"LocalBoundingBox:ffffff":	[-32.723091125488281, -31.699264526367188, -33.837684631347656, 32.723091125488281, 31.699264526367188, 33.837684631347656],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Trigger_Torch_007",
+				"Name:s":	"Trigger_Torch_007",
+				"Pos:fff":	[-3581.195556640625, 1133.8636474609375, 5271.15673828125],
+				"BBox:ffffff":	[-3613.918701171875, 1102.1644287109375, 5237.31884765625, -3548.472412109375, 1165.5628662109375, 5304.99462890625],
+				"Orient:fff":	[0, -121.49999237060547, 0],
+				"HalfDimensions:fff":	[25.8895263671875, 31.699264526367188, 22.513427734375],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"ItemList",
+		"row_count":	1,
+		"rows":	[{
+				"Item:d":	65
+			}]
+	}, {
+		"name":	"ValidItems",
+		"row_count":	1,
+		"rows":	[{
+				"Number:d":	0
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD90E_AF457C01",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	1,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	1,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	1,
+				"nActivators:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"trigger_torch.xsc",
+				"InitialPos:fff":	[-5686.02783203125, 1366.715087890625, 6021.88671875],
+				"Orientation:fff":	[0, -121.49999237060547, 0],
+				"LocalBoundingBox:ffffff":	[-32.7231559753418, -31.203954696655273, -33.837787628173828, 32.7231559753418, 31.203954696655273, 33.837787628173828],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Trigger_Torch_008",
+				"Name:s":	"Trigger_Torch_008",
+				"Pos:fff":	[-5686.02783203125, 1366.715087890625, 6021.88671875],
+				"BBox:ffffff":	[-5718.7509765625, 1335.5111083984375, 5988.048828125, -5653.3046875, 1397.9190673828125, 6055.724609375],
+				"Orient:fff":	[0, -121.49999237060547, 0],
+				"HalfDimensions:fff":	[25.8896484375, 31.203954696655273, 22.513427734375],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"ItemList",
+		"row_count":	1,
+		"rows":	[{
+				"Item:d":	65
+			}]
+	}, {
+		"name":	"ValidItems",
+		"row_count":	1,
+		"rows":	[{
+				"Number:d":	0
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD90E_AF459801",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	1,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	1,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	1,
+				"nActivators:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"trigger_torch.xsc",
+				"InitialPos:fff":	[2759.8310546875, 744.23333740234375, 6499.8720703125],
+				"Orientation:fff":	[0, -121.49999237060547, 0],
+				"LocalBoundingBox:ffffff":	[-32.723091125488281, -49.530059814453125, -33.837684631347656, 32.723091125488281, 49.530059814453125, 33.837684631347656],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Trigger_Torch_009",
+				"Name:s":	"Trigger_Torch_009",
+				"Pos:fff":	[2759.8310546875, 744.23333740234375, 6499.8720703125],
+				"BBox:ffffff":	[2727.10791015625, 694.7032470703125, 6466.0341796875, 2792.55419921875, 793.763427734375, 6533.7099609375],
+				"Orient:fff":	[0, -121.49999237060547, 0],
+				"HalfDimensions:fff":	[25.8895263671875, 49.530059814453125, 22.513427734375],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"ItemList",
+		"row_count":	1,
+		"rows":	[{
+				"Item:d":	65
+			}]
+	}, {
+		"name":	"ValidItems",
+		"row_count":	1,
+		"rows":	[{
+				"Number:d":	0
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}, {
+		"name":	"Trigger",
+		"row_count":	1,
+		"rows":	[{
+				"GUID:s":	"0D8AD90E_AF496C01",
+				"bHasTargetGuids:d":	0,
+				"UsesInven:d":	1,
+				"UsesBButton:d":	0,
+				"OneDirectional:d":	0,
+				"OneTimeShot:d":	1,
+				"CallUpdateInside:d":	0,
+				"OrderIrrelevant:d":	0,
+				"MultItemsCanActivate:d":	0,
+				"DisableOnFull:d":	1,
+				"PlayerOnly:d":	1,
+				"MaxItems:d":	1,
+				"nActivators:d":	1,
+				"DoesCameraColl:d":	1,
+				"DoesCameraFade:d":	1,
+				"LightChannels:d":	1,
+				"ObjectFlags:d":	433,
+				"ScriptResource:s":	"trigger_torch.xsc",
+				"InitialPos:fff":	[3055.765869140625, 744.23333740234375, 6603.5283203125],
+				"Orientation:fff":	[0, -121.49999237060547, 0],
+				"LocalBoundingBox:ffffff":	[-32.723091125488281, -49.530059814453125, -33.837684631347656, 32.723091125488281, 49.530059814453125, 33.837684631347656],
+				"ObjSaveFlag:d":	1,
+				"ObjName:s":	"Trigger_Torch_010",
+				"Name:s":	"Trigger_Torch_010",
+				"Pos:fff":	[3055.765869140625, 744.23333740234375, 6603.5283203125],
+				"BBox:ffffff":	[3023.042724609375, 694.7032470703125, 6569.6904296875, 3088.489013671875, 793.763427734375, 6637.3662109375],
+				"Orient:fff":	[0, -121.49999237060547, 0],
+				"HalfDimensions:fff":	[25.8895263671875, 49.530059814453125, 22.513427734375],
+				"Pain:s":	"none"
+			}]
+	}, {
+		"name":	"ItemList",
+		"row_count":	1,
+		"rows":	[{
+				"Item:d":	65
+			}]
+	}, {
+		"name":	"ValidItems",
+		"row_count":	1,
+		"rows":	[{
+				"Number:d":	0
+			}]
+	}, {
+		"name":	"TargetSetGuids",
+		"row_count":	0,
+		"rows":	[]
+	}]
