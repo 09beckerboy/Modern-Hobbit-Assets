@@ -3,7 +3,7 @@ Hobbit assets converted to modern formats
  
 Made to be used in fan projects
 
-File Type:  
+File Types:  
  Models - FBX  
  Textures - PNG  
  Level Files - JSON, TXT, BIN  
