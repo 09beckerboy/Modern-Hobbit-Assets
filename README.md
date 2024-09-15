@@ -8,4 +8,4 @@ File Types:
  Textures - PNG  
  Level Files - JSON, TXT, BIN  
  Videos - MP4  
- Music/SFX - MP3  
+ Music/SFX - WAV
